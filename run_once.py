@@ -23,7 +23,7 @@ def main():
         except Exception:return 2
     health.write_text(json.dumps({'failed':False}))
     report=json.loads(Path(__file__).with_name('latest-scan.json').read_text())
-    print(json.dumps({k:report.get(k) for k in ('checked_at','scope','successful_endpoints','requested_endpoints','unique_products','delivered_messages','errors')}))
+    print(json.dumps({k:report.get(k) for k in ('checked_at','scope','successful_endpoints','requested_endpoints','unique_products','delivered_messages','delivered_offers','delivery_batches','errors')}))
     return 0
 
 if __name__=='__main__':raise SystemExit(main())

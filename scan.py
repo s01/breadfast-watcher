@@ -103,9 +103,11 @@ def main():
         from zoneinfo import ZoneInfo
         checked=datetime.datetime.fromisoformat(report['checked_at']).astimezone(ZoneInfo('Africa/Cairo')).strftime('%d %b %Y %H:%M Cairo')
         batches=prepare_batches(report['new_matches'],checked)
+        report['delivery_batches']=[]
         try:
             for batch in batches:
-                send(batch.text,html_format=True)
+                receipt=send(batch.text,html_format=True)
+                report['delivery_batches'].append({'product_ids':batch.product_ids,'offer_count':len(batch.product_ids),'returned_text_characters':len(receipt['text']),'content_verified':True})
                 # Acknowledge explicit IDs; formatting no longer determines delivery state.
                 for product_id in batch.product_ids:
                     offer=next(p for p in report['new_matches'] if p['id']==product_id)
@@ -115,6 +117,7 @@ def main():
                 time.sleep(1)
             save_json(state_path,current)
             report['delivered_messages']=len(batches)
+            report['delivered_offers']=sum(len(batch.product_ids) for batch in batches)
         except Exception:
             report['errors'].append({'stage':'telegram','error':'Notification failed; unconfirmed offers remain pending'})
     save_json(ROOT/'latest-scan.json',report)

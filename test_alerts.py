@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 import scan
-from telegram_client import format_batches,prepare_batches,request_config,product_card
+from telegram_client import format_batches,prepare_batches,request_config,product_card,send,TelegramError,visible_text
 
 def product(sale=50,stock=1,price=100):
     return {'id':1,'name':{'en':'Example'},'price':price,'salePrice':sale,'stock':stock}
@@ -55,6 +55,15 @@ class AlertRules(unittest.TestCase):
         self.assertTrue(all(len(m.product_ids)<=4 for m in batches))
 
 class MessageTransport(unittest.TestCase):
+    def test_truncated_delivery_is_not_accepted(self):
+        with patch.dict('os.environ',{'TELEGRAM_CHAT_ID':'test'}), patch('telegram_client.api',return_value={'text':'Only first product'}):
+            with self.assertRaises(TelegramError):send('<b>First product</b>\nSecond product',html_format=True)
+    def test_complete_delivery_accepts_html_and_arabic(self):
+        markup='<b>Two offers</b>\nBread &amp; Butter\nخبز وزبدة'
+        text='Two offers\nBread & Butter\nخبز وزبدة'
+        with patch.dict('os.environ',{'TELEGRAM_CHAT_ID':'test'}), patch('telegram_client.api',return_value={'text':text}):
+            self.assertEqual(send(markup,html_format=True)['text'],text)
+
     def test_curl_config_preserves_unicode_and_json(self):
         import http.server,threading,subprocess,json
         received=[]

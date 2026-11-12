@@ -3,6 +3,7 @@ import html, json, os, subprocess
 from decimal import Decimal
 from dataclasses import dataclass
 from urllib.parse import urlparse
+from html.parser import HTMLParser
 
 class TelegramError(RuntimeError): pass
 
@@ -28,7 +29,18 @@ def send(text, html_format=False):
     if not chat: raise TelegramError('Telegram chat ID is missing')
     payload={'chat_id':chat,'text':text,'link_preview_options':{'is_disabled':True}}
     if html_format: payload['parse_mode']='HTML'
-    return api('sendMessage',payload)
+    result=api('sendMessage',payload)
+    expected=visible_text(text) if html_format else text
+    if result.get('text','').strip()!=expected.strip():
+        raise TelegramError('Telegram returned different message text; delivery completeness is unconfirmed')
+    return result
+
+def visible_text(markup):
+    class Parser(HTMLParser):
+        def __init__(self):super().__init__(convert_charrefs=True);self.parts=[]
+        def handle_data(self,data):self.parts.append(data)
+    parser=Parser();parser.feed(markup);parser.close()
+    return ''.join(parser.parts)
 
 @dataclass
 class MessageBatch:
@@ -67,7 +79,7 @@ def product_card(p):
     return card
 
 def prepare_batches(products,checked_at):
-    header='<b>Breadfast offers</b>\nOctober FP #6 | 50% off and above\n'+html.escape(checked_at)+'\n\n'
+    header='<b>Breadfast offers</b>\n'+str(len(products))+' new or improved offers | 50% off and above\nOctober FP #6 | '+html.escape(checked_at)+'\n\n'
     messages=[]; cards=[]; ids=[]
     ordered=sorted(products,key=lambda x:(-x['discount_percent'],str(x['id'])))
     for p in ordered:
