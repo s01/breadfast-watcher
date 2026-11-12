@@ -1,0 +1,2210 @@
+{
+  "18500311": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 18500311,
+      "name": {
+        "ar": "طبالى فول بلدنا (500 جم)",
+        "en": "Tabali Foul Baladna (500g)"
+      },
+      "price": 81.0,
+      "reason": "new_discount",
+      "sale_price": 40.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 18500311,
+      "name": {
+        "ar": "طبالى فول بلدنا (500 جم)",
+        "en": "Tabali Foul Baladna (500g)"
+      },
+      "price": 81.0,
+      "sale_price": 40.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "21728608": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21728608,
+      "name": {
+        "ar": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick",
+        "en": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick"
+      },
+      "price": 700.0,
+      "reason": "new_discount",
+      "sale_price": 350.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21728608,
+      "name": {
+        "ar": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick",
+        "en": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick"
+      },
+      "price": 700.0,
+      "sale_price": 350.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "25332010": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 25332010,
+      "name": {
+        "ar": "طبالي بصارة (300جم)",
+        "en": "Tabali Besara (300g)"
+      },
+      "price": 78.0,
+      "reason": "new_discount",
+      "sale_price": 39.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 25332010,
+      "name": {
+        "ar": "طبالي بصارة (300جم)",
+        "en": "Tabali Besara (300g)"
+      },
+      "price": 78.0,
+      "sale_price": 39.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "26795304": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 26795304,
+      "name": {
+        "ar": "طبالى فول زيت زيتون (300 جرام)",
+        "en": "Tabali Foul with Olive Oil (300g)"
+      },
+      "price": 60.5,
+      "reason": "new_discount",
+      "sale_price": 30.25,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 26795304,
+      "name": {
+        "ar": "طبالى فول زيت زيتون (300 جرام)",
+        "en": "Tabali Foul with Olive Oil (300g)"
+      },
+      "price": 60.5,
+      "sale_price": 30.25,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "26795307": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 26795307,
+      "name": {
+        "ar": "طبالى فول ليمون معصفر (300 جرام)",
+        "en": "Tabali Foul With Saffron Lemon (300g)"
+      },
+      "price": 57.0,
+      "reason": "new_discount",
+      "sale_price": 28.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 26795307,
+      "name": {
+        "ar": "طبالى فول ليمون معصفر (300 جرام)",
+        "en": "Tabali Foul With Saffron Lemon (300g)"
+      },
+      "price": 57.0,
+      "sale_price": 28.5,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "26795311": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 26795311,
+      "name": {
+        "ar": "طبالى سلطة بابا غنوج (250 جرام)",
+        "en": "Tabali Baba Ghanoug Salad (250g)"
+      },
+      "price": 70.0,
+      "reason": "new_discount",
+      "sale_price": 35.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 26795311,
+      "name": {
+        "ar": "طبالى سلطة بابا غنوج (250 جرام)",
+        "en": "Tabali Baba Ghanoug Salad (250g)"
+      },
+      "price": 70.0,
+      "sale_price": 35.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "29815423": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 29815423,
+      "name": {
+        "ar": "(ديرماسي سيروم شد و ترطيب الوجه (30 مل",
+        "en": "Dermacy Face Serum Firming & Hydrating (30ml)"
+      },
+      "price": 490.0,
+      "reason": "new_discount",
+      "sale_price": 245.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 29815423,
+      "name": {
+        "ar": "(ديرماسي سيروم شد و ترطيب الوجه (30 مل",
+        "en": "Dermacy Face Serum Firming & Hydrating (30ml)"
+      },
+      "price": 490.0,
+      "sale_price": 245.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "29818597": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 29818597,
+      "name": {
+        "ar": "ديرماسي لوشن الحماية من الشمس (50 مل)",
+        "en": "Dermacy Firming Sunscreen Lotion SPF 50 (50ml)"
+      },
+      "price": 410.0,
+      "reason": "new_discount",
+      "sale_price": 205.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 29818597,
+      "name": {
+        "ar": "ديرماسي لوشن الحماية من الشمس (50 مل)",
+        "en": "Dermacy Firming Sunscreen Lotion SPF 50 (50ml)"
+      },
+      "price": 410.0,
+      "sale_price": 205.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "3297105": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 3297105,
+      "name": {
+        "ar": "طبالى فول بزيت الزيتون (500 جم)",
+        "en": "Tabali Foul With Olive Oil (500g)"
+      },
+      "price": 87.0,
+      "reason": "new_discount",
+      "sale_price": 43.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 3297105,
+      "name": {
+        "ar": "طبالى فول بزيت الزيتون (500 جم)",
+        "en": "Tabali Foul With Olive Oil (500g)"
+      },
+      "price": 87.0,
+      "sale_price": 43.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "3297235": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 3297235,
+      "name": {
+        "ar": "طبالى فول زيت حار (500 جم)",
+        "en": "Tabali Foul With Flaxseed Oil (500g)"
+      },
+      "price": 81.0,
+      "reason": "new_discount",
+      "sale_price": 40.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 3297235,
+      "name": {
+        "ar": "طبالى فول زيت حار (500 جم)",
+        "en": "Tabali Foul With Flaxseed Oil (500g)"
+      },
+      "price": 81.0,
+      "sale_price": 40.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "3297330": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 3297330,
+      "name": {
+        "ar": "طبالى فول اسكندرانى (500 جم)",
+        "en": "Tabali Alexandrian Foul (500g)"
+      },
+      "price": 81.0,
+      "reason": "new_discount",
+      "sale_price": 40.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 3297330,
+      "name": {
+        "ar": "طبالى فول اسكندرانى (500 جم)",
+        "en": "Tabali Alexandrian Foul (500g)"
+      },
+      "price": 81.0,
+      "sale_price": 40.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "3297552": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 3297552,
+      "name": {
+        "ar": "طبالى فول بالليمون المعصفر (500 جم)",
+        "en": "Tabali Foul With Saffron Lemon (500g)"
+      },
+      "price": 81.0,
+      "reason": "new_discount",
+      "sale_price": 40.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 3297552,
+      "name": {
+        "ar": "طبالى فول بالليمون المعصفر (500 جم)",
+        "en": "Tabali Foul With Saffron Lemon (500g)"
+      },
+      "price": 81.0,
+      "sale_price": 40.5,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "36641234": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641234,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 00 جلاموروس",
+        "en": "Queen Lifter Lip Gloss 00 Glamorous"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641234,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 00 جلاموروس",
+        "en": "Queen Lifter Lip Gloss 00 Glamorous"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641236": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641236,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 01 غلوسّي دريم",
+        "en": "Queen Lifter Lip Gloss 01 Glossy Dream"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641236,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 01 غلوسّي دريم",
+        "en": "Queen Lifter Lip Gloss 01 Glossy Dream"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641237": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641237,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 02 لوشيس",
+        "en": "Queen Lifter Lip Gloss 02 Luscious"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641237,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 02 لوشيس",
+        "en": "Queen Lifter Lip Gloss 02 Luscious"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641238": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641238,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 03 جلو أب",
+        "en": "Queen Lifter Lip Gloss 03 Glow Up"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641238,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 03 جلو أب",
+        "en": "Queen Lifter Lip Gloss 03 Glow Up"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641239": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641239,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 04 شيك ليب",
+        "en": "Queen Lifter Lip Gloss 04 Chic Lip"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641240": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641240,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 05 كوريوس",
+        "en": "Queen Lifter Lip Gloss 05 Curious"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641241": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641241,
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 06  ليب دريب",
+        "en": "Queen Lifter Lip Gloss 06 Lip Drip"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641242": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641242,
+      "name": {
+        "ar": "كوين ماسك الشفاه الليلي بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Lip Sleeping Mask Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "sale_price": 39.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641243": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641243,
+      "name": {
+        "ar": "كوين مقشر الشفاه المقشر بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Exfoliating Lip Scrub Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "sale_price": 39.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "38934106": {
+    "notified": {
+      "discount_percent": 55.556,
+      "id": 38934106,
+      "name": {
+        "ar": "بيزلين سيروم للتحكم في الدهون وموازنة البشرة (30 مل)",
+        "en": "Beesline Sebum Control Balancing Serum (30ml)"
+      },
+      "price": 999.0,
+      "reason": "new_discount",
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.556,
+      "id": 38934106,
+      "name": {
+        "ar": "بيزلين سيروم للتحكم في الدهون وموازنة البشرة (30 مل)",
+        "en": "Beesline Sebum Control Balancing Serum (30ml)"
+      },
+      "price": 999.0,
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38934108": {
+    "notified": {
+      "discount_percent": 55.556,
+      "id": 38934108,
+      "name": {
+        "ar": "بيزلين سيروم المرطب للغاية (30 مل)",
+        "en": "Beesline Super Hydrating Serum (30ml)"
+      },
+      "price": 999.0,
+      "reason": "new_discount",
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.556,
+      "id": 38934108,
+      "name": {
+        "ar": "بيزلين سيروم المرطب للغاية (30 مل)",
+        "en": "Beesline Super Hydrating Serum (30ml)"
+      },
+      "price": 999.0,
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38934109": {
+    "notified": {
+      "discount_percent": 55.556,
+      "id": 38934109,
+      "name": {
+        "ar": "بيزلين سيروم الموحد والمفتح للبشرة (30 مل)",
+        "en": "Beesline Unifying Brightening Serum (30ml)"
+      },
+      "price": 999.0,
+      "reason": "new_discount",
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.556,
+      "id": 38934109,
+      "name": {
+        "ar": "بيزلين سيروم الموحد والمفتح للبشرة (30 مل)",
+        "en": "Beesline Unifying Brightening Serum (30ml)"
+      },
+      "price": 999.0,
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105504": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105504,
+      "name": {
+        "ar": "دراكون كريم جل واقي من الشمس (150 مل + 60 مل)",
+        "en": "Drakon Sunscreen Gel Cream (150ml + 60ml)"
+      },
+      "price": 998.0,
+      "reason": "new_discount",
+      "sale_price": 499.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105504,
+      "name": {
+        "ar": "دراكون كريم جل واقي من الشمس (150 مل + 60 مل)",
+        "en": "Drakon Sunscreen Gel Cream (150ml + 60ml)"
+      },
+      "price": 998.0,
+      "sale_price": 499.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105511": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105511,
+      "name": {
+        "ar": "دراكون مزيل عرق رول لتبييض البشرة بنكهة اللولي بوب (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Lollipop candy (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105511,
+      "name": {
+        "ar": "دراكون مزيل عرق رول لتبييض البشرة بنكهة اللولي بوب (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Lollipop candy (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105513": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105513,
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة باشن بيك (50 مل+ 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Passion Peak (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105513,
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة باشن بيك (50 مل+ 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Passion Peak (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105515": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105515,
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة برائحة العود الشرقي (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Oriental Oud (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105515,
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة برائحة العود الشرقي (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Oriental Oud (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "41021944": {
+    "notified": {
+      "discount_percent": 58.431,
+      "id": 41021944,
+      "name": {
+        "ar": "ذات سوفت سكين بودي باتر لجميع أنواع البشرة الخطوة 3 بعد الحلاقة (150 مل)",
+        "en": "ZAT Soft Skin Body Butter All Skin Types Step 3 After Shaving (150ml)"
+      },
+      "price": 599.0,
+      "reason": "new_discount",
+      "sale_price": 249.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 58.431,
+      "id": 41021944,
+      "name": {
+        "ar": "ذات سوفت سكين بودي باتر لجميع أنواع البشرة الخطوة 3 بعد الحلاقة (150 مل)",
+        "en": "ZAT Soft Skin Body Butter All Skin Types Step 3 After Shaving (150ml)"
+      },
+      "price": 599.0,
+      "sale_price": 249.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "42882498": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "reason": "new_discount",
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "43658238": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 43658238,
+      "name": {
+        "ar": "ملاي عدسة ازالة الشعر لحب الشباب جهاز T3",
+        "en": "Mlay Ac Lamp For T3"
+      },
+      "price": 1000.0,
+      "reason": "new_discount",
+      "sale_price": 500.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 43658238,
+      "name": {
+        "ar": "ملاي عدسة ازالة الشعر لحب الشباب جهاز T3",
+        "en": "Mlay Ac Lamp For T3"
+      },
+      "price": 1000.0,
+      "sale_price": 500.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295613": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295613,
+      "name": {
+        "ar": "كابكسي شامبو ٢٥٠ مل",
+        "en": "Capixy Shampoo 250ml"
+      },
+      "price": 320.0,
+      "reason": "new_discount",
+      "sale_price": 160.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295613,
+      "name": {
+        "ar": "كابكسي شامبو ٢٥٠ مل",
+        "en": "Capixy Shampoo 250ml"
+      },
+      "price": 320.0,
+      "sale_price": 160.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295614": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295614,
+      "name": {
+        "ar": "كابكسي كريم ١٢٠ مل",
+        "en": "Capixy Cream 120ml"
+      },
+      "price": 320.0,
+      "reason": "new_discount",
+      "sale_price": 160.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295614,
+      "name": {
+        "ar": "كابكسي كريم ١٢٠ مل",
+        "en": "Capixy Cream 120ml"
+      },
+      "price": 320.0,
+      "sale_price": 160.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295617": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295617,
+      "name": {
+        "ar": "كابكسي سيروم علاج الرموش ١٠ مل",
+        "en": "Capixy Lashes Treatment Serum 10ml"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295617,
+      "name": {
+        "ar": "كابكسي سيروم علاج الرموش ١٠ مل",
+        "en": "Capixy Lashes Treatment Serum 10ml"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295618": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295618,
+      "name": {
+        "ar": "كابكسي بلسم ترطيب الشعر (250 مل)",
+        "en": "Capixy Hair Hydrating Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295618,
+      "name": {
+        "ar": "كابكسي بلسم ترطيب الشعر (250 مل)",
+        "en": "Capixy Hair Hydrating Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295619": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295619,
+      "name": {
+        "ar": "كابكسي ماسك الشعر (250 مل)",
+        "en": "Capixy Hair Mask (250ml)"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295619,
+      "name": {
+        "ar": "كابكسي ماسك الشعر (250 مل)",
+        "en": "Capixy Hair Mask (250ml)"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295621": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295621,
+      "name": {
+        "ar": "كابكسي بخاخ تونك",
+        "en": "Capixy Tonic Spray 250ml"
+      },
+      "price": 420.0,
+      "reason": "new_discount",
+      "sale_price": 210.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295621,
+      "name": {
+        "ar": "كابكسي بخاخ تونك",
+        "en": "Capixy Tonic Spray 250ml"
+      },
+      "price": 420.0,
+      "sale_price": 210.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295622": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295622,
+      "name": {
+        "ar": "فاكيشن صن سكرين كريم جل ٦٠ مل",
+        "en": "Vacation Sunscreen Cream Gel 60 ml"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295622,
+      "name": {
+        "ar": "فاكيشن صن سكرين كريم جل ٦٠ مل",
+        "en": "Vacation Sunscreen Cream Gel 60 ml"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295625": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295625,
+      "name": {
+        "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
+        "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295625,
+      "name": {
+        "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
+        "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295627": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295627,
+      "name": {
+        "ar": "فاكيشن صن سكرين لوشن ١٢٠ مل",
+        "en": "Vacation Sunscreen Lotion 120ml"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295627,
+      "name": {
+        "ar": "فاكيشن صن سكرين لوشن ١٢٠ مل",
+        "en": "Vacation Sunscreen Lotion 120ml"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295628": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295628,
+      "name": {
+        "ar": "فاكيشن صن سكرين تنتدد ٥٠ مل",
+        "en": "Vacation Tinted Sunscreen 50 ML"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295628,
+      "name": {
+        "ar": "فاكيشن صن سكرين تنتدد ٥٠ مل",
+        "en": "Vacation Tinted Sunscreen 50 ML"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295629": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295629,
+      "name": {
+        "ar": "فاكيشن صن سكرين اسبراي ٢٠٠ مل",
+        "en": "Vacation Sunscreen Spray 200ml"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295629,
+      "name": {
+        "ar": "فاكيشن صن سكرين اسبراي ٢٠٠ مل",
+        "en": "Vacation Sunscreen Spray 200ml"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "44295630": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295630,
+      "name": {
+        "ar": "فاكيشن سيبيو كنترول لعلاج حب الشباب (60 مل)",
+        "en": "Vacation Sebio Control Acne Cream (60ml)"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295630,
+      "name": {
+        "ar": "فاكيشن سيبيو كنترول لعلاج حب الشباب (60 مل)",
+        "en": "Vacation Sebio Control Acne Cream (60ml)"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295632": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295632,
+      "name": {
+        "ar": "فاكيشن كريم الليل لتفتيح البشرة ٦٠ مل",
+        "en": "Vacation Uni-White Night Cream 60ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295632,
+      "name": {
+        "ar": "فاكيشن كريم الليل لتفتيح البشرة ٦٠ مل",
+        "en": "Vacation Uni-White Night Cream 60ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "44295634": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295634,
+      "name": {
+        "ar": "فاكيشن غسول الفوم لتفتيح الوجه ٢٠٠ مل",
+        "en": "Vacation Whitening Facial Cleansing Foam 200ml"
+      },
+      "price": 345.0,
+      "reason": "new_discount",
+      "sale_price": 172.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295634,
+      "name": {
+        "ar": "فاكيشن غسول الفوم لتفتيح الوجه ٢٠٠ مل",
+        "en": "Vacation Whitening Facial Cleansing Foam 200ml"
+      },
+      "price": 345.0,
+      "sale_price": 172.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295635": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295635,
+      "name": {
+        "ar": "فاكيشن سيروم نياسيناميد (10٪ + زنك PCA) ٣٠ مل",
+        "en": "Vacation Niacinamide Serum 30 ml"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295635,
+      "name": {
+        "ar": "فاكيشن سيروم نياسيناميد (10٪ + زنك PCA) ٣٠ مل",
+        "en": "Vacation Niacinamide Serum 30 ml"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "44295636": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295636,
+      "name": {
+        "ar": "فاكيشن سيروم الريتينول 1٪ ٣٠ مل",
+        "en": "Vacation Retinol Serum 1% 30 ml"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295636,
+      "name": {
+        "ar": "فاكيشن سيروم الريتينول 1٪ ٣٠ مل",
+        "en": "Vacation Retinol Serum 1% 30 ml"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295637": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295637,
+      "name": {
+        "ar": "فاكيشن سيروم فيتامين سي 10٪ ٣٠ مل",
+        "en": "Vacation Vitamin C 10% 30 ml"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295637,
+      "name": {
+        "ar": "فاكيشن سيروم فيتامين سي 10٪ ٣٠ مل",
+        "en": "Vacation Vitamin C 10% 30 ml"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295638": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295638,
+      "name": {
+        "ar": "فاكيشن سيروم الهيالورونيك 3٪ ٣٠ مل",
+        "en": "Vacation Hyaluronic Acid Serum 3% 30 ml"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295638,
+      "name": {
+        "ar": "فاكيشن سيروم الهيالورونيك 3٪ ٣٠ مل",
+        "en": "Vacation Hyaluronic Acid Serum 3% 30 ml"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "44295639": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295639,
+      "name": {
+        "ar": "فاكيشن رول أون الأصلي بدون رائحة ٥٠ مل",
+        "en": "Vacation Original Unscented Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295639,
+      "name": {
+        "ar": "فاكيشن رول أون الأصلي بدون رائحة ٥٠ مل",
+        "en": "Vacation Original Unscented Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295642": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295642,
+      "name": {
+        "ar": "فاكيشن رول أون للتبييض ثلاثي الانتشار ٥٠ مل",
+        "en": "Vacation Triple Diffusion Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295642,
+      "name": {
+        "ar": "فاكيشن رول أون للتبييض ثلاثي الانتشار ٥٠ مل",
+        "en": "Vacation Triple Diffusion Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295643": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295643,
+      "name": {
+        "ar": "فاكيشن رول أون بالعسل والحليب ٥٠ مل",
+        "en": "Vacation Honey & Milk Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295643,
+      "name": {
+        "ar": "فاكيشن رول أون بالعسل والحليب ٥٠ مل",
+        "en": "Vacation Honey & Milk Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295645": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295645,
+      "name": {
+        "ar": "فاكيشن رول أون برائحة الورد ٥٠ مل",
+        "en": "Vacation Pearl Rose Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295645,
+      "name": {
+        "ar": "فاكيشن رول أون برائحة الورد ٥٠ مل",
+        "en": "Vacation Pearl Rose Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295646": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295646,
+      "name": {
+        "ar": "(فاكيشن رول أون برائحة العود العربي( ٥٠ مل",
+        "en": "Vacation Arabian Oud Whitening Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295646,
+      "name": {
+        "ar": "(فاكيشن رول أون برائحة العود العربي( ٥٠ مل",
+        "en": "Vacation Arabian Oud Whitening Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295648": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295648,
+      "name": {
+        "ar": "سورالون سيكا كريم جل (60 مل)",
+        "en": "Soralone Cica Cream Gel (60ml)"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295648,
+      "name": {
+        "ar": "سورالون سيكا كريم جل (60 مل)",
+        "en": "Soralone Cica Cream Gel (60ml)"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "50967924": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 50967924,
+      "name": {
+        "ar": "(درماسي كريم العين بالريتينول (١٥ مل",
+        "en": "Dermacy Retinol Eye Cream (15ml)"
+      },
+      "price": 460.0,
+      "reason": "new_discount",
+      "sale_price": 230.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 50967924,
+      "name": {
+        "ar": "(درماسي كريم العين بالريتينول (١٥ مل",
+        "en": "Dermacy Retinol Eye Cream (15ml)"
+      },
+      "price": 460.0,
+      "sale_price": 230.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "50984283": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 50984283,
+      "name": {
+        "ar": "جان بول غوتييه سكاندال اليكسير او دو بارفان للنساء (50 مل)",
+        "en": "Jean Paul Gaultier Scandal Elixir EDP For Her (50ml)"
+      },
+      "price": 7470.0,
+      "reason": "new_discount",
+      "sale_price": 3735.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 50984283,
+      "name": {
+        "ar": "جان بول غوتييه سكاندال اليكسير او دو بارفان للنساء (50 مل)",
+        "en": "Jean Paul Gaultier Scandal Elixir EDP For Her (50ml)"
+      },
+      "price": 7470.0,
+      "sale_price": 3735.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "51881739": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881739,
+      "name": {
+        "ar": "كابيكسي زيت الشعر (30 مل)",
+        "en": "Capixy Hair Oil Elixir (30ml)"
+      },
+      "price": 750.0,
+      "reason": "new_discount",
+      "sale_price": 375.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881739,
+      "name": {
+        "ar": "كابيكسي زيت الشعر (30 مل)",
+        "en": "Capixy Hair Oil Elixir (30ml)"
+      },
+      "price": 750.0,
+      "sale_price": 375.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "51881740": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881740,
+      "name": {
+        "ar": "سورالون بخاخ سيكا (100 مل)",
+        "en": "Soralone Cica Spray (100ml)"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881740,
+      "name": {
+        "ar": "سورالون بخاخ سيكا (100 مل)",
+        "en": "Soralone Cica Spray (100ml)"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "51881797": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881797,
+      "name": {
+        "ar": "فاكيشن سيروم أرجيريلين 10% (30 مل)",
+        "en": "Vacation Argireline Serum 10% (30ml)"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881797,
+      "name": {
+        "ar": "فاكيشن سيروم أرجيريلين 10% (30 مل)",
+        "en": "Vacation Argireline Serum 10% (30ml)"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "51881798": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881798,
+      "name": {
+        "ar": "فاكيشن سيروم الكافيين 5% (30 مل)",
+        "en": "Vacation Caffeine Serum 5% (30ml)"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881798,
+      "name": {
+        "ar": "فاكيشن سيروم الكافيين 5% (30 مل)",
+        "en": "Vacation Caffeine Serum 5% (30ml)"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "54136901": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.032,
+      "id": 54136901,
+      "name": {
+        "ar": "لطافة أسد الكسير او دي بارفان للرجال (100 مل)",
+        "en": "Lattafa Asad Elixir EDP For Him (100ml)"
+      },
+      "price": 1575.0,
+      "sale_price": 787.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "54691424": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691424,
+      "name": {
+        "ar": "نوكس جل التنظيف المهدئ فيري روز (150 مل)",
+        "en": "Nuxe Very Rose Sooth Cleans Gel (150ml)"
+      },
+      "price": 979.0,
+      "reason": "new_discount",
+      "sale_price": 489.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691424,
+      "name": {
+        "ar": "نوكس جل التنظيف المهدئ فيري روز (150 مل)",
+        "en": "Nuxe Very Rose Sooth Cleans Gel (150ml)"
+      },
+      "price": 979.0,
+      "sale_price": 489.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691436": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691436,
+      "name": {
+        "ar": "نوكس ريف دي ميل جل تنظيف الوجه (200 مل)",
+        "en": "Nuxe Reve De Miel Facial Cleansing Gel (200ml)"
+      },
+      "price": 990.0,
+      "reason": "new_discount",
+      "sale_price": 495.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691436,
+      "name": {
+        "ar": "نوكس ريف دي ميل جل تنظيف الوجه (200 مل)",
+        "en": "Nuxe Reve De Miel Facial Cleansing Gel (200ml)"
+      },
+      "price": 990.0,
+      "sale_price": 495.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691437": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691437,
+      "name": {
+        "ar": "نوكس مرطب الشفاه ريف دي ميل (15 مل)",
+        "en": "Nuxe Reve De Miel Lip Balm (15ml)"
+      },
+      "price": 959.0,
+      "reason": "new_discount",
+      "sale_price": 479.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691437,
+      "name": {
+        "ar": "نوكس مرطب الشفاه ريف دي ميل (15 مل)",
+        "en": "Nuxe Reve De Miel Lip Balm (15ml)"
+      },
+      "price": 959.0,
+      "sale_price": 479.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691438": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691438,
+      "name": {
+        "ar": "نوكس ستيك ترطيب الشفاه ريف دي ميل (4 جم)",
+        "en": "Nuxe Reve De Miel Lip Moist Stick (4g)"
+      },
+      "price": 589.0,
+      "sale_price": 294.5,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "54691440": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691440,
+      "name": {
+        "ar": "نوكس ماسك ما قبل الشامبو هير بروديجيوكس (125 مل)",
+        "en": "Nuxe Hair Prodigieux Pre-Shampoo Mask (125ml)"
+      },
+      "price": 2199.0,
+      "reason": "new_discount",
+      "sale_price": 1099.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691440,
+      "name": {
+        "ar": "نوكس ماسك ما قبل الشامبو هير بروديجيوكس (125 مل)",
+        "en": "Nuxe Hair Prodigieux Pre-Shampoo Mask (125ml)"
+      },
+      "price": 2199.0,
+      "sale_price": 1099.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691475": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691475,
+      "name": {
+        "ar": "نوكس سيروم تكبير الشفاه برائحة الورد (8 مل)",
+        "en": "Nuxe Very Rose Plumping Lip Serum (8ml)"
+      },
+      "price": 1325.0,
+      "sale_price": 662.5,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "54691479": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691479,
+      "name": {
+        "ar": "نوكس رول أون ويل بروديجيوس (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Roll-On (60ml)"
+      },
+      "price": 1900.0,
+      "reason": "new_discount",
+      "sale_price": 950.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691479,
+      "name": {
+        "ar": "نوكس رول أون ويل بروديجيوس (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Roll-On (60ml)"
+      },
+      "price": 1900.0,
+      "sale_price": 950.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691480": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691480,
+      "name": {
+        "ar": "نوكس هولي بروديجيوس أو رول أون (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Or Roll-On (60ml)"
+      },
+      "price": 2550.0,
+      "reason": "new_discount",
+      "sale_price": 1275.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691480,
+      "name": {
+        "ar": "نوكس هولي بروديجيوس أو رول أون (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Or Roll-On (60ml)"
+      },
+      "price": 2550.0,
+      "sale_price": 1275.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "57050906": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 57050906,
+      "name": {
+        "ar": "فاكيشن ماء ميسيلار لإصلاح البشرة (200 مل)",
+        "en": "Vacation Aqua Repair Micellar Water (200ml)"
+      },
+      "price": 230.0,
+      "reason": "new_discount",
+      "sale_price": 115.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 57050906,
+      "name": {
+        "ar": "فاكيشن ماء ميسيلار لإصلاح البشرة (200 مل)",
+        "en": "Vacation Aqua Repair Micellar Water (200ml)"
+      },
+      "price": 230.0,
+      "sale_price": 115.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "57050907": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 57050907,
+      "name": {
+        "ar": "فاكيشن تونر سيبيو-كونترول للبشرة (200 مل)",
+        "en": "Vacation Sebio Control Skin Essence Toner (200ml)"
+      },
+      "price": 340.0,
+      "reason": "new_discount",
+      "sale_price": 170.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 57050907,
+      "name": {
+        "ar": "فاكيشن تونر سيبيو-كونترول للبشرة (200 مل)",
+        "en": "Vacation Sebio Control Skin Essence Toner (200ml)"
+      },
+      "price": 340.0,
+      "sale_price": 170.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "60676796": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "reason": "new_discount",
+      "sale_price": 649.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "sale_price": 649.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60980870": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980870,
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بالفراولة حماية 30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Strawberry SPF 30 (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "60980872": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980872,
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم دراجون فروت حماية 30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Dragon Fruit SPF 30 (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "60980874": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980874,
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بالعسل وزبدة الكاكاو حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Honey & Cocoa Butter SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980874,
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بالعسل وزبدة الكاكاو حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Honey & Cocoa Butter SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "60980875": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980875,
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بينا كولادا حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Pina Colada SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "60980877": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980877,
+      "name": {
+        "ar": "فاكاشن جلايكوليك أسيد سيروم +NAD (30 مل)",
+        "en": "Vacation Glycolic Acid Serum NAD+ (30ml)"
+      },
+      "price": 375.0,
+      "reason": "new_discount",
+      "sale_price": 187.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980877,
+      "name": {
+        "ar": "فاكاشن جلايكوليك أسيد سيروم +NAD (30 مل)",
+        "en": "Vacation Glycolic Acid Serum NAD+ (30ml)"
+      },
+      "price": 375.0,
+      "sale_price": 187.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "61262694": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61262694,
+      "name": {
+        "ar": "د. أرجان أدفانسد هير شامبو (400 مل)",
+        "en": "Dr. Argan Advanced Hair Shampoo (400ml)"
+      },
+      "price": 780.0,
+      "reason": "new_discount",
+      "sale_price": 390.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61262694,
+      "name": {
+        "ar": "د. أرجان أدفانسد هير شامبو (400 مل)",
+        "en": "Dr. Argan Advanced Hair Shampoo (400ml)"
+      },
+      "price": 780.0,
+      "sale_price": 390.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "61262801": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61262801,
+      "name": {
+        "ar": "د. أرجان أدفانسد هير بلسم (400 مل)",
+        "en": "Dr. Argan Advanced Hair Conditioner (400ml)"
+      },
+      "price": 780.0,
+      "reason": "new_discount",
+      "sale_price": 390.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61262801,
+      "name": {
+        "ar": "د. أرجان أدفانسد هير بلسم (400 مل)",
+        "en": "Dr. Argan Advanced Hair Conditioner (400ml)"
+      },
+      "price": 780.0,
+      "sale_price": 390.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "61263330": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61263330,
+      "name": {
+        "ar": "د. أرجان أدفانسد ليف إن هير بلسم (250 مل)",
+        "en": "Dr. Argan Advanced Leave-In Hair Conditioner (250ml)"
+      },
+      "price": 850.0,
+      "reason": "new_discount",
+      "sale_price": 425.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61263330,
+      "name": {
+        "ar": "د. أرجان أدفانسد ليف إن هير بلسم (250 مل)",
+        "en": "Dr. Argan Advanced Leave-In Hair Conditioner (250ml)"
+      },
+      "price": 850.0,
+      "sale_price": 425.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "61263455": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61263455,
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس شامبو (400 مل)",
+        "en": "Dr. Argan Advanced Cannabis Shampoo (400ml)"
+      },
+      "price": 980.0,
+      "reason": "new_discount",
+      "sale_price": 490.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61263455,
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس شامبو (400 مل)",
+        "en": "Dr. Argan Advanced Cannabis Shampoo (400ml)"
+      },
+      "price": 980.0,
+      "sale_price": 490.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "61263561": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61263561,
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير بلسم (400 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Conditioner (400ml)"
+      },
+      "price": 980.0,
+      "reason": "new_discount",
+      "sale_price": 490.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61263561,
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير بلسم (400 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Conditioner (400ml)"
+      },
+      "price": 980.0,
+      "sale_price": 490.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "61263889": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61263889,
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير ماسك (250 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Mask (250ml)"
+      },
+      "price": 1000.0,
+      "reason": "new_discount",
+      "sale_price": 500.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61263889,
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير ماسك (250 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Mask (250ml)"
+      },
+      "price": 1000.0,
+      "sale_price": 500.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "6201984": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 6201984,
+      "name": {
+        "ar": "بريدفاست كينوا 3-الوان (400 جرام)",
+        "en": "Breadfast Tri-Colour Quinoa (400g)"
+      },
+      "price": 189.0,
+      "reason": "new_discount",
+      "sale_price": 94.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 6201984,
+      "name": {
+        "ar": "بريدفاست كينوا 3-الوان (400 جرام)",
+        "en": "Breadfast Tri-Colour Quinoa (400g)"
+      },
+      "price": 189.0,
+      "sale_price": 94.5,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "62434450": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 62434450,
+      "name": {
+        "ar": "إيتين بلس ليب جلوس بوب (6 مل)",
+        "en": "Eighteen Plus Lip Gloss Pop (6ml)"
+      },
+      "price": 299.0,
+      "sale_price": 149.5,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "64566215": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 64566215,
+      "name": {
+        "ar": "فاكيشن رول أون باور فريز مزيل العرق (50 مل)",
+        "en": "Vacation Power Freeze Roll-On Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 64566215,
+      "name": {
+        "ar": "فاكيشن رول أون باور فريز مزيل العرق (50 مل)",
+        "en": "Vacation Power Freeze Roll-On Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "65671003": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 65671003,
+      "name": {
+        "ar": "فاكيشن كريم جيلي مضاد للتجاعيد وعلامات التقدم في السن (60 جم)",
+        "en": "Vacation Wrinkleless Anti-Aging Jelly Cream (60g)"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 65671003,
+      "name": {
+        "ar": "فاكيشن كريم جيلي مضاد للتجاعيد وعلامات التقدم في السن (60 جم)",
+        "en": "Vacation Wrinkleless Anti-Aging Jelly Cream (60g)"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "67016177": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 67016177,
+      "name": {
+        "ar": "سورالون شامبو مضاد للقشرة (250 مل)",
+        "en": "Soralone Anti-Dandruff Shampoo (250ml)"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 67016177,
+      "name": {
+        "ar": "سورالون شامبو مضاد للقشرة (250 مل)",
+        "en": "Soralone Anti-Dandruff Shampoo (250ml)"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "72332167": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 72332167,
+      "name": {
+        "ar": "ايتود هاوس  سيروم للرموش عرض قطعتين (9 جرام)",
+        "en": "Etude House My Lash Serum Two Pack Promo (9g)"
+      },
+      "price": 600.0,
+      "reason": "new_discount",
+      "sale_price": 300.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 72332167,
+      "name": {
+        "ar": "ايتود هاوس  سيروم للرموش عرض قطعتين (9 جرام)",
+        "en": "Etude House My Lash Serum Two Pack Promo (9g)"
+      },
+      "price": 600.0,
+      "sale_price": 300.0,
+      "stock": 1
+    },
+    "pending": false
+  }
+}
