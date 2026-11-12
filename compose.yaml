@@ -1,0 +1,17 @@
+services:
+  watcher:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      SCAN_INTERVAL_SECONDS: '600'
+      BREADFAST_STATE_DIR: /data
+    volumes:
+      - breadfast-state:/data
+    logging:
+      driver: json-file
+      options:
+        max-size: 5m
+        max-file: '2'
+volumes:
+  breadfast-state:
