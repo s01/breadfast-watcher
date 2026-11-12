@@ -8,7 +8,8 @@ def main():
     root.mkdir(parents=True,exist_ok=True)
     health=root/'health-state.json'
     previous=json.loads(health.read_text()) if health.exists() else {}
-    r=subprocess.run([sys.executable,str(Path(__file__).with_name('scan.py')),'--auto','--telegram'],capture_output=True,text=True)
+    scan_mode='--full' if os.environ.get('BREADFAST_FORCE_FULL','').lower()=='true' else '--auto'
+    r=subprocess.run([sys.executable,str(Path(__file__).with_name('scan.py')),scan_mode,'--telegram'],capture_output=True,text=True)
     if r.returncode:
         print('Breadfast check failed. Inspect the report and workflow logs; this is not evidence of no offers.')
         if not previous.get('failed'):
