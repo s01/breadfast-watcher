@@ -79,4 +79,3 @@ class MessageTransport(unittest.TestCase):
         self.assertNotIn('u2192',card)
 
 if __name__=='__main__':unittest.main()
-
