@@ -4,7 +4,7 @@ A credential-free catalogue watcher that sends Telegram alerts for **in-stock di
 
 ## Hosting
 
-The GitHub Actions workflow checks every five minutes and performs a complete advertised-subcategory scan hourly. GitHub may delay or drop scheduled runs; five minutes is a target cadence, not a delivery guarantee. Standard public-repository runners are free under GitHub's current policy. No AI API, paid server, public HTTP endpoint or additional package dependencies are required.
+A free cron-job.org job triggers the GitHub Actions workflow every five minutes through its workflow-dispatch endpoint. The scanner performs a complete advertised-subcategory scan hourly. The external scheduler replaces GitHub's native cron trigger, which did not produce automatic events during verification. The five-minute cadence is a target; external service outages and GitHub runner queues can delay execution. Standard public-repository runners are free under GitHub's current policy. No AI API, paid server, public HTTP endpoint or additional package dependencies are required.
 
 Repository secrets:
 
@@ -32,10 +32,17 @@ python3 -m unittest discover -p 'test_*.py'
 
 Set `BREADFAST_STATE_DIR` to persistent storage when running outside GitHub. Docker/Compose files provide an alternative server deployment; that server is not supplied by this repository. Copy `.env.example` to `.env`, fill the two Telegram credentials, restrict permissions, and run `docker compose up -d --build`. Never commit `.env`.
 
-To stop GitHub monitoring, disable the Breadfast Telegram watcher workflow in Actions. Rotate the Telegram token through BotFather if it is exposed.
+To stop monitoring, disable the cron-job.org job. Disabling the GitHub Actions workflow also prevents dispatches from running. Rotate the Telegram token through BotFather if it is exposed.
 
 ## Messages and saved history
 
 Alerts use Telegram HTML formatting with four products per message, exact catalogue names in English and Arabic, discount rounded to one decimal, original price, sale price and savings. The Open Breadfast link opens the app landing page; search for the displayed product name. Product-photo links point to the actual catalogue image. A verified product-specific deep link has not been found, so these links are deliberately not labelled as direct product links.
 
 History is stored on the [`monitor-state`](https://github.com/s01/breadfast-watcher/tree/monitor-state) branch. `telegram-state.json` contains observed qualifying offers and the last delivered offer for each tracked product. Git commits preserve revisions of that state. `full-scan.json` contains the latest successful full-scan timestamp, and `health-state.json` tracks failure/recovery notices. GitHub Actions logs contain scan summaries. This is alert-state history, not a complete historical database of every product's price on every scan.
+
+
+## External scheduler configuration
+
+Use a cron-job.org job with a five-minute schedule, POST request method, and URL `https://api.github.com/repos/s01/breadfast-watcher/actions/workflows/watch.yml/dispatches`. Set `Content-Type: application/json` and `Accept: application/vnd.github+json`, and use the body `{"ref":"main","inputs":{"full_scan":false}}`. Authentication uses a fine-grained GitHub token restricted to this repository with **Actions: Read and write** and required **Metadata: Read-only**. Store that token privately in the scheduler's Authorization header; never commit it.
+
+The scheduler's execution history verifies actual timed requests. GitHub's `workflow_dispatch` events then verify scanner execution. No Telegram message is expected when there are no new qualifying offers. Each sent batch is checked against Telegram's returned text before its offers are acknowledged. Workflow summaries include delivered message and offer counts, product IDs per batch, and content-verification results.

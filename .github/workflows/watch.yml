@@ -1,7 +1,5 @@
 name: Breadfast Telegram watcher
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
     inputs:
       full_scan:
