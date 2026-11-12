@@ -33,3 +33,9 @@ python3 -m unittest discover -p 'test_*.py'
 Set `BREADFAST_STATE_DIR` to persistent storage when running outside GitHub. Docker/Compose files provide an alternative server deployment; that server is not supplied by this repository. Copy `.env.example` to `.env`, fill the two Telegram credentials, restrict permissions, and run `docker compose up -d --build`. Never commit `.env`.
 
 To stop GitHub monitoring, disable the Breadfast Telegram watcher workflow in Actions. Rotate the Telegram token through BotFather if it is exposed.
+
+## Messages and saved history
+
+Alerts use Telegram HTML formatting with four products per message, exact catalogue names in English and Arabic, discount rounded to one decimal, original price, sale price and savings. The Open Breadfast link opens the app landing page; search for the displayed product name. Product-photo links point to the actual catalogue image. A verified product-specific deep link has not been found, so these links are deliberately not labelled as direct product links.
+
+History is stored on the [`monitor-state`](../../tree/monitor-state) branch. `telegram-state.json` contains observed qualifying offers and the last delivered offer for each tracked product. Git commits preserve revisions of that state. `full-scan.json` contains the latest successful full-scan timestamp, and `health-state.json` tracks failure/recovery notices. GitHub Actions logs contain scan summaries. This is alert-state history, not a complete historical database of every product's price on every scan.

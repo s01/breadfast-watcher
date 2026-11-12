@@ -32,7 +32,7 @@ def match(product, threshold=50, require_stock=True):
         if price<=0 or sale<=0 or sale>=price: return None
         discount=(price-sale)/price*100
         if discount<threshold or (require_stock and float(product.get('stock',0))<=0): return None
-        return {'id':product['id'],'name':product.get('name'),'price':float(price),'sale_price':float(sale),'discount_percent':round(float(discount),3),'stock':product.get('stock')}
+        return {'id':product['id'],'name':product.get('name'),'price':float(price),'sale_price':float(sale),'discount_percent':round(float(discount),3),'stock':product.get('stock'),'image':product.get('image')}
     except (KeyError,TypeError,ValueError,decimal.InvalidOperation): return None
 
 def new_offers(products, old, threshold=50):
@@ -99,20 +99,18 @@ def main():
     report['new_matches'],current=new_offers(products,old,args.threshold)
     # Never acknowledge offers before delivery or after a partial scan.
     if args.telegram and not errors:
-        from telegram_client import send,format_batches
+        from telegram_client import send,prepare_batches
         from zoneinfo import ZoneInfo
         checked=datetime.datetime.fromisoformat(report['checked_at']).astimezone(ZoneInfo('Africa/Cairo')).strftime('%d %b %Y %H:%M Cairo')
-        batches=format_batches(report['new_matches'],checked)
-        offset=0
+        batches=prepare_batches(report['new_matches'],checked)
         try:
-            for message in batches:
-                send(message)
-                # Only acknowledge offers in this successfully delivered batch.
-                count=message.count('\nProduct ID: ')
-                for offer in report['new_matches'][offset:offset+count]:
-                    current[str(offer['id'])]['notified']=offer
-                    current[str(offer['id'])]['pending']=False
-                offset+=count
+            for batch in batches:
+                send(batch.text,html_format=True)
+                # Acknowledge explicit IDs; formatting no longer determines delivery state.
+                for product_id in batch.product_ids:
+                    offer=next(p for p in report['new_matches'] if p['id']==product_id)
+                    current[str(product_id)]['notified']=offer
+                    current[str(product_id)]['pending']=False
                 save_json(state_path,current)
                 time.sleep(1)
             save_json(state_path,current)

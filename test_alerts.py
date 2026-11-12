@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 import scan
-from telegram_client import format_batches
+from telegram_client import format_batches,prepare_batches,request_config,product_card
 
 def product(sale=50,stock=1,price=100):
     return {'id':1,'name':{'en':'Example'},'price':price,'salePrice':sale,'stock':stock}
@@ -49,7 +49,34 @@ class AlertRules(unittest.TestCase):
             matches.append(m)
         messages=format_batches(matches,'12 Nov 2026 21:00 Cairo')
         self.assertTrue(all(len(m)<=3000 for m in messages))
-        self.assertIn('90% off',messages[0])
-        self.assertEqual(sum(m.count('\nProduct ID: ') for m in messages),100)
+        self.assertIn('90% OFF',messages[0])
+        batches=prepare_batches(matches,'12 Nov 2026 21:00 Cairo')
+        self.assertEqual(sum(len(m.product_ids) for m in batches),100)
+        self.assertTrue(all(len(m.product_ids)<=4 for m in batches))
+
+class MessageTransport(unittest.TestCase):
+    def test_curl_config_preserves_unicode_and_json(self):
+        import http.server,threading,subprocess,json
+        received=[]
+        class Handler(http.server.BaseHTTPRequestHandler):
+            def do_POST(self):
+                received.append(json.loads(self.rfile.read(int(self.headers['Content-Length']))))
+                self.send_response(200);self.end_headers();self.wfile.write(b'{}')
+            def log_message(self,*args):pass
+        server=http.server.HTTPServer(('127.0.0.1',0),Handler)
+        thread=threading.Thread(target=server.handle_request);thread.start()
+        payload={'text':'Breadfast · خصم 50% → EGP 90\nArabic: كوين ملمع شفاه & "quotes"'}
+        try:
+            r=subprocess.run(['curl','--silent','--max-time','5','--config','-'],input=request_config('http://127.0.0.1:'+str(server.server_port),payload),capture_output=True,text=True)
+            self.assertEqual(r.returncode,0)
+            thread.join(6);self.assertEqual(received,[payload])
+        finally:server.server_close()
+    def test_names_are_preserved_and_html_is_escaped(self):
+        card=product_card({'id':1,'name':{'en':'Bread & Butter <Large>','ar':'خبز وزبدة'},'price':100,'sale_price':44.5,'discount_percent':55.5})
+        self.assertIn('Bread &amp; Butter &lt;Large&gt;',card)
+        self.assertIn('خبز وزبدة',card)
+        self.assertIn('55.5% OFF',card)
+        self.assertNotIn('u2192',card)
 
 if __name__=='__main__':unittest.main()
+
