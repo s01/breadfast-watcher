@@ -53,34 +53,6 @@
     },
     "pending": false
   },
-  "22598244": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22598244,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
-      "name": {
-        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
-        "en": "Shahd Original Pane Beyti (800g)"
-      },
-      "price": 317.5,
-      "reason": "new_discount",
-      "sale_price": 158.75,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22598244,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
-      "name": {
-        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
-        "en": "Shahd Original Pane Beyti (800g)"
-      },
-      "price": 317.5,
-      "sale_price": 158.75,
-      "stock": 11
-    },
-    "pending": false
-  },
   "25332010": {
     "notified": {
       "discount_percent": 50.0,
