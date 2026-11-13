@@ -55,6 +55,22 @@
     },
     "pending": false
   },
+  "20283910": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 53.333,
+      "id": 20283910,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/banana-pudding-1-1.png",
+      "name": {
+        "ar": "بودينج الموز",
+        "en": "Banana Pudding"
+      },
+      "price": 105.0,
+      "sale_price": 49.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "21096505": {
     "notified": {
       "discount_percent": 50.0,
@@ -190,7 +206,7 @@
       },
       "price": 178.5,
       "sale_price": 89.25,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -358,7 +374,7 @@
       },
       "price": 145.0,
       "sale_price": 72.5,
-      "stock": 9
+      "stock": 1
     },
     "pending": false
   },
@@ -386,34 +402,6 @@
       "price": 78.0,
       "sale_price": 39.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "25382893": {
-    "notified": {
-      "discount_percent": 55.0,
-      "id": 25382893,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
-      "name": {
-        "ar": "شهد داينو ناجتس (400 جرام)",
-        "en": "Shahd Dino Nuggets (400g)"
-      },
-      "price": 200.0,
-      "reason": "new_discount",
-      "sale_price": 90.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 25382893,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
-      "name": {
-        "ar": "شهد داينو ناجتس (400 جرام)",
-        "en": "Shahd Dino Nuggets (400g)"
-      },
-      "price": 200.0,
-      "sale_price": 90.0,
-      "stock": 8
     },
     "pending": false
   },
@@ -552,7 +540,7 @@
       },
       "price": 194.75,
       "sale_price": 97.35,
-      "stock": 15
+      "stock": 1
     },
     "pending": false
   },
@@ -2777,6 +2765,22 @@
       "price": 340.0,
       "sale_price": 170.0,
       "stock": 2
+    },
+    "pending": false
+  },
+  "57549982": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 57549982,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/353ca41056edc1b3e3169baa9bb3782356b70abf3e3cc71278833b40c0b00298",
+      "name": {
+        "ar": "راب فراخ بيري بيري حار",
+        "en": "Spicy Peri Peri Chicken Wrap"
+      },
+      "price": 175.0,
+      "sale_price": 78.75,
+      "stock": 0
     },
     "pending": false
   },
