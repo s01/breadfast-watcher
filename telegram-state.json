@@ -26,6 +26,34 @@
     },
     "pending": false
   },
+  "21096505": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21096505,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Fetta-Felfel.jpg",
+      "name": {
+        "ar": "جبنة فيتا بالفلفل (300 جرام)",
+        "en": "Feta Cheese With Pepper (300g)"
+      },
+      "price": 65.0,
+      "reason": "new_discount",
+      "sale_price": 32.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21096505,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Fetta-Felfel.jpg",
+      "name": {
+        "ar": "جبنة فيتا بالفلفل (300 جرام)",
+        "en": "Feta Cheese With Pepper (300g)"
+      },
+      "price": 65.0,
+      "sale_price": 32.5,
+      "stock": 4
+    },
+    "pending": false
+  },
   "21728608": {
     "notified": {
       "discount_percent": 50.0,
@@ -50,6 +78,62 @@
       "price": 700.0,
       "sale_price": 350.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "22518408": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22518408,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Seeds.jpg",
+      "name": {
+        "ar": "جبنة فيتا بحبة البركة (300 جرام)",
+        "en": "Feta Cheese With Black Seeds (300g)"
+      },
+      "price": 65.0,
+      "reason": "new_discount",
+      "sale_price": 32.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22518408,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Seeds.jpg",
+      "name": {
+        "ar": "جبنة فيتا بحبة البركة (300 جرام)",
+        "en": "Feta Cheese With Black Seeds (300g)"
+      },
+      "price": 65.0,
+      "sale_price": 32.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "22518413": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22518413,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
+      "name": {
+        "ar": "جبنة فيتا بالزعتر (300 جرام)",
+        "en": "Feta Cheese With Zaatar (300g)"
+      },
+      "price": 65.0,
+      "reason": "new_discount",
+      "sale_price": 32.5,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22518413,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
+      "name": {
+        "ar": "جبنة فيتا بالزعتر (300 جرام)",
+        "en": "Feta Cheese With Zaatar (300g)"
+      },
+      "price": 65.0,
+      "sale_price": 32.5,
+      "stock": 5
     },
     "pending": false
   },
@@ -2050,6 +2134,34 @@
       "price": 2550.0,
       "sale_price": 1275.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "56956466": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 56956466,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
+      "name": {
+        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
+        "en": "Imported Cow Butter Piece (200g)"
+      },
+      "price": 129.5,
+      "reason": "new_discount",
+      "sale_price": 64.75,
+      "stock": 7
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 56956466,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
+      "name": {
+        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
+        "en": "Imported Cow Butter Piece (200g)"
+      },
+      "price": 129.5,
+      "sale_price": 64.75,
+      "stock": 7
     },
     "pending": false
   },
