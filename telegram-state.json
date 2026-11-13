@@ -23,7 +23,7 @@
       },
       "price": 47.25,
       "sale_price": 23.25,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -577,34 +577,6 @@
       "price": 81.0,
       "sale_price": 40.5,
       "stock": 2
-    },
-    "pending": false
-  },
-  "363332": {
-    "notified": {
-      "discount_percent": 50.233,
-      "id": 363332,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a1e61f14d9ab36fd37028dc12fb9eae01d3f17ead7b67890dafe63761b92f61f",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال (150مل)",
-        "en": "Axe Deodorant Spray Black Night For Men (150ml)"
-      },
-      "price": 215.0,
-      "reason": "new_discount",
-      "sale_price": 107.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.233,
-      "id": 363332,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a1e61f14d9ab36fd37028dc12fb9eae01d3f17ead7b67890dafe63761b92f61f",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال (150مل)",
-        "en": "Axe Deodorant Spray Black Night For Men (150ml)"
-      },
-      "price": 215.0,
-      "sale_price": 107.0,
-      "stock": 1
     },
     "pending": false
   },
