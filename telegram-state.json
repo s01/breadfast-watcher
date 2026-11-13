@@ -3307,34 +3307,6 @@
     },
     "pending": false
   },
-  "70982616": {
-    "notified": {
-      "discount_percent": 50.05,
-      "id": 70982616,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/05ff4db749f5b26581d2dde7af8a89b046dced069cf61e76a2d0e5e5f402d8da",
-      "name": {
-        "ar": "ميديكوب Vita A معزز حجم الشعر بالريتينال (15 مل)",
-        "en": "Medicube Vita A Retinal Volume Booster (15 ml)"
-      },
-      "price": 995.0,
-      "reason": "new_discount",
-      "sale_price": 497.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.05,
-      "id": 70982616,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/05ff4db749f5b26581d2dde7af8a89b046dced069cf61e76a2d0e5e5f402d8da",
-      "name": {
-        "ar": "ميديكوب Vita A معزز حجم الشعر بالريتينال (15 مل)",
-        "en": "Medicube Vita A Retinal Volume Booster (15 ml)"
-      },
-      "price": 995.0,
-      "sale_price": 497.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "72332167": {
     "notified": {
       "discount_percent": 50.0,
