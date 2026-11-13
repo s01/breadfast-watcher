@@ -1,4 +1,88 @@
 {
+  "13182714": {
+    "notified": {
+      "discount_percent": 50.794,
+      "id": 13182714,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/Capture-129.png",
+      "name": {
+        "ar": "فودى ذرة حلوة (400 جم)",
+        "en": "Foody Sweet Corn (400g)"
+      },
+      "price": 47.25,
+      "reason": "new_discount",
+      "sale_price": 23.25,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.794,
+      "id": 13182714,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/Capture-129.png",
+      "name": {
+        "ar": "فودى ذرة حلوة (400 جم)",
+        "en": "Foody Sweet Corn (400g)"
+      },
+      "price": 47.25,
+      "sale_price": 23.25,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "14144214": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 14144214,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337871330262/dd1d74a88be46e0d.jpg",
+      "name": {
+        "ar": "فيشي شامبو ديركوس المضاد للقشرة للشعر الجاف (200 مل)",
+        "en": "Vichy Dercos Shampoo Anti Dandruff Dry Hair (200ml)"
+      },
+      "price": 880.0,
+      "reason": "new_discount",
+      "sale_price": 440.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 14144214,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337871330262/dd1d74a88be46e0d.jpg",
+      "name": {
+        "ar": "فيشي شامبو ديركوس المضاد للقشرة للشعر الجاف (200 مل)",
+        "en": "Vichy Dercos Shampoo Anti Dandruff Dry Hair (200ml)"
+      },
+      "price": 880.0,
+      "sale_price": 440.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "17648215": {
+    "notified": {
+      "discount_percent": 53.333,
+      "id": 17648215,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/BALANCE-3-1.png",
+      "name": {
+        "ar": "بالانس بروتين مقرمش بالكريمة الحامضة (78-70 جم)",
+        "en": "Balance Protein Crackers Sour Cream And Onion (70-78g)"
+      },
+      "price": 15.0,
+      "reason": "new_discount",
+      "sale_price": 7.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 53.333,
+      "id": 17648215,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/BALANCE-3-1.png",
+      "name": {
+        "ar": "بالانس بروتين مقرمش بالكريمة الحامضة (78-70 جم)",
+        "en": "Balance Protein Crackers Sour Cream And Onion (70-78g)"
+      },
+      "price": 15.0,
+      "sale_price": 7.0,
+      "stock": 2
+    },
+    "pending": false
+  },
   "18500311": {
     "notified": {
       "discount_percent": 50.617,
@@ -193,6 +277,34 @@
     },
     "pending": false
   },
+  "25382893": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 25382893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
+      "name": {
+        "ar": "شهد داينو ناجتس (400 جرام)",
+        "en": "Shahd Dino Nuggets (400g)"
+      },
+      "price": 200.0,
+      "reason": "new_discount",
+      "sale_price": 100.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 25382893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
+      "name": {
+        "ar": "شهد داينو ناجتس (400 جرام)",
+        "en": "Shahd Dino Nuggets (400g)"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 11
+    },
+    "pending": false
+  },
   "26795300": {
     "notified": {
       "discount_percent": 51.02,
@@ -326,6 +438,34 @@
       },
       "price": 410.0,
       "sale_price": 205.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "30522222": {
+    "notified": {
+      "discount_percent": 59.627,
+      "id": 30522222,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d0ea2fd88c3b3018a9a8ecbb096454654aa6192cd097ce9c08f2dfac42226b59",
+      "name": {
+        "ar": "هاينزتونا قطع في زيت دوار الشمس (185 جم)",
+        "en": "Heinz Tuna Chunks In Sunflower Oil (185gm)"
+      },
+      "price": 80.5,
+      "reason": "new_discount",
+      "sale_price": 32.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 59.627,
+      "id": 30522222,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d0ea2fd88c3b3018a9a8ecbb096454654aa6192cd097ce9c08f2dfac42226b59",
+      "name": {
+        "ar": "هاينزتونا قطع في زيت دوار الشمس (185 جم)",
+        "en": "Heinz Tuna Chunks In Sunflower Oil (185gm)"
+      },
+      "price": 80.5,
+      "sale_price": 32.5,
       "stock": 1
     },
     "pending": false
@@ -465,6 +605,34 @@
       "price": 81.0,
       "sale_price": 40.5,
       "stock": 2
+    },
+    "pending": false
+  },
+  "363332": {
+    "notified": {
+      "discount_percent": 50.233,
+      "id": 363332,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a1e61f14d9ab36fd37028dc12fb9eae01d3f17ead7b67890dafe63761b92f61f",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال (150مل)",
+        "en": "Axe Deodorant Spray Black Night For Men (150ml)"
+      },
+      "price": 215.0,
+      "reason": "new_discount",
+      "sale_price": 107.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.233,
+      "id": 363332,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a1e61f14d9ab36fd37028dc12fb9eae01d3f17ead7b67890dafe63761b92f61f",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال (150مل)",
+        "en": "Axe Deodorant Spray Black Night For Men (150ml)"
+      },
+      "price": 215.0,
+      "sale_price": 107.0,
+      "stock": 1
     },
     "pending": false
   },
@@ -3275,6 +3443,34 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "70982616": {
+    "notified": {
+      "discount_percent": 50.05,
+      "id": 70982616,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/05ff4db749f5b26581d2dde7af8a89b046dced069cf61e76a2d0e5e5f402d8da",
+      "name": {
+        "ar": "ميديكوب Vita A معزز حجم الشعر بالريتينال (15 مل)",
+        "en": "Medicube Vita A Retinal Volume Booster (15 ml)"
+      },
+      "price": 995.0,
+      "reason": "new_discount",
+      "sale_price": 497.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.05,
+      "id": 70982616,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/05ff4db749f5b26581d2dde7af8a89b046dced069cf61e76a2d0e5e5f402d8da",
+      "name": {
+        "ar": "ميديكوب Vita A معزز حجم الشعر بالريتينال (15 مل)",
+        "en": "Medicube Vita A Retinal Volume Booster (15 ml)"
+      },
+      "price": 995.0,
+      "sale_price": 497.0,
       "stock": 1
     },
     "pending": false
