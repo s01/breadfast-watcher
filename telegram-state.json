@@ -110,6 +110,146 @@
     },
     "pending": false
   },
+  "21770695": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21770695,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e08c933a96353c13d0f6bfb06d5dcf74ebe2d2e08ad44c50389292671dc6114e",
+      "name": {
+        "ar": "كان كيك كعكة عيد ميلاد (160 جم)",
+        "en": "Can Cake Birthday Cake (160g)"
+      },
+      "price": 147.0,
+      "reason": "new_discount",
+      "sale_price": 73.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21770695,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e08c933a96353c13d0f6bfb06d5dcf74ebe2d2e08ad44c50389292671dc6114e",
+      "name": {
+        "ar": "كان كيك كعكة عيد ميلاد (160 جم)",
+        "en": "Can Cake Birthday Cake (160g)"
+      },
+      "price": 147.0,
+      "sale_price": 73.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "21771123": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21771123,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a850ce3a7d46119839dce100ad661c542fe3282eadf6af73eb5ca7305b04425c",
+      "name": {
+        "ar": "كان كيك شوكو فادج (160 جم)",
+        "en": "Can Cake Choco Fudge (160g)"
+      },
+      "price": 178.5,
+      "reason": "new_discount",
+      "sale_price": 89.25,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21771123,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a850ce3a7d46119839dce100ad661c542fe3282eadf6af73eb5ca7305b04425c",
+      "name": {
+        "ar": "كان كيك شوكو فادج (160 جم)",
+        "en": "Can Cake Choco Fudge (160g)"
+      },
+      "price": 178.5,
+      "sale_price": 89.25,
+      "stock": 5
+    },
+    "pending": false
+  },
+  "21781255": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21781255,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/476b5f66fd1ed78d2d610c169032de54a47691cc669272d876ac85c81664e03b",
+      "name": {
+        "ar": "كان كيك فادج كراميل مملح (160جم)",
+        "en": "Can Cake Salty Caramel Fudge (160g)"
+      },
+      "price": 178.5,
+      "reason": "new_discount",
+      "sale_price": 89.25,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21781255,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/476b5f66fd1ed78d2d610c169032de54a47691cc669272d876ac85c81664e03b",
+      "name": {
+        "ar": "كان كيك فادج كراميل مملح (160جم)",
+        "en": "Can Cake Salty Caramel Fudge (160g)"
+      },
+      "price": 178.5,
+      "sale_price": 89.25,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "21781866": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21781866,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/359d24dff614aa89d90e2dea809677143dbf087c4fb78ab7ceaaaa5ad2c178b0",
+      "name": {
+        "ar": "(160جم) كان كيك شوكولاته اسبريسو",
+        "en": "Can Cake Esspresso Chocolate Cake (160g)"
+      },
+      "price": 178.5,
+      "reason": "new_discount",
+      "sale_price": 89.25,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21781866,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/359d24dff614aa89d90e2dea809677143dbf087c4fb78ab7ceaaaa5ad2c178b0",
+      "name": {
+        "ar": "(160جم) كان كيك شوكولاته اسبريسو",
+        "en": "Can Cake Esspresso Chocolate Cake (160g)"
+      },
+      "price": 178.5,
+      "sale_price": 89.25,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "21781870": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21781870,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cb2928cc8e2fe936ac2afb46719cc5d9ef461940e19044c2f3cb47889d045c7d",
+      "name": {
+        "ar": "كان كيك شوكولاته بالبسكوت المكرمل (160جم)",
+        "en": "Can Cake Caramelized Biscuit Milk Chocolate Cake (160g)"
+      },
+      "price": 189.0,
+      "reason": "new_discount",
+      "sale_price": 94.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21781870,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cb2928cc8e2fe936ac2afb46719cc5d9ef461940e19044c2f3cb47889d045c7d",
+      "name": {
+        "ar": "كان كيك شوكولاته بالبسكوت المكرمل (160جم)",
+        "en": "Can Cake Caramelized Biscuit Milk Chocolate Cake (160g)"
+      },
+      "price": 189.0,
+      "sale_price": 94.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "22518408": {
     "notified": {
       "discount_percent": 50.0,
@@ -952,6 +1092,34 @@
       },
       "price": 599.0,
       "sale_price": 249.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "41791839": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 41791839,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a7124e9091aeec209417d2bfee56cac1f1f0d7bc313579eb3334122c48ab51fd",
+      "name": {
+        "ar": "ديبسي بيتسي توت العليق المجمد المغطى بالشوكولاتة البيضاء والداكنة (85 جم)",
+        "en": "Dipsy Bitsy Frozen Raspberries Dipped in White and Dark Chocolate (85g)"
+      },
+      "price": 195.0,
+      "reason": "new_discount",
+      "sale_price": 97.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 41791839,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a7124e9091aeec209417d2bfee56cac1f1f0d7bc313579eb3334122c48ab51fd",
+      "name": {
+        "ar": "ديبسي بيتسي توت العليق المجمد المغطى بالشوكولاتة البيضاء والداكنة (85 جم)",
+        "en": "Dipsy Bitsy Frozen Raspberries Dipped in White and Dark Chocolate (85g)"
+      },
+      "price": 195.0,
+      "sale_price": 97.5,
       "stock": 1
     },
     "pending": false
@@ -2307,6 +2475,34 @@
       "price": 375.0,
       "sale_price": 150.0,
       "stock": 3
+    },
+    "pending": false
+  },
+  "56405920": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 56405920,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4daaca6bd557039207ec01fa8adb34fea34714763f55235160435fad737afd6d",
+      "name": {
+        "ar": "ديبسي بيتسي شيري في شيكولاته خاليه من السكر",
+        "en": "Dipsy Bitsy Cherries Dipped in Sugar Free Chocolate"
+      },
+      "price": 195.0,
+      "reason": "new_discount",
+      "sale_price": 97.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 56405920,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4daaca6bd557039207ec01fa8adb34fea34714763f55235160435fad737afd6d",
+      "name": {
+        "ar": "ديبسي بيتسي شيري في شيكولاته خاليه من السكر",
+        "en": "Dipsy Bitsy Cherries Dipped in Sugar Free Chocolate"
+      },
+      "price": 195.0,
+      "sale_price": 97.5,
+      "stock": 2
     },
     "pending": false
   },
