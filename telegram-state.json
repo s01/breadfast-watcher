@@ -1222,7 +1222,7 @@
   },
   "42363050": {
     "notified": {
-      "discount_percent": 50.333,
+      "discount_percent": 52.333,
       "id": 42363050,
       "image": "https://cdn.breadfast.com/wp-content/uploads/3ff25e1c8c465b5e8786425f9f018993a5226a4423f49b98d3cf4564d4e5647d",
       "name": {
@@ -1230,12 +1230,12 @@
         "en": "Balance Snack Pack"
       },
       "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 74.5,
+      "reason": "improved_discount",
+      "sale_price": 71.5,
       "stock": 5
     },
     "observed": {
-      "discount_percent": 50.333,
+      "discount_percent": 52.333,
       "id": 42363050,
       "image": "https://cdn.breadfast.com/wp-content/uploads/3ff25e1c8c465b5e8786425f9f018993a5226a4423f49b98d3cf4564d4e5647d",
       "name": {
@@ -1243,7 +1243,7 @@
         "en": "Balance Snack Pack"
       },
       "price": 150.0,
-      "sale_price": 74.5,
+      "sale_price": 71.5,
       "stock": 5
     },
     "pending": false
