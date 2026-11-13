@@ -1,4 +1,20 @@
 {
+  "155": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 51.154,
+      "id": 155,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0f593b0537795870d06d5028baa25cccba52bd9fafbc8bbecf9ad5a51efaae65",
+      "name": {
+        "ar": "كرواسون بالجبنة",
+        "en": "Cheese Croissant"
+      },
+      "price": 65.0,
+      "sale_price": 31.75,
+      "stock": 0
+    },
+    "pending": false
+  },
   "17837887": {
     "notified": {
       "discount_percent": 60.177,
@@ -58,7 +74,7 @@
   "20283910": {
     "notified": null,
     "observed": {
-      "discount_percent": 53.333,
+      "discount_percent": 55.0,
       "id": 20283910,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/banana-pudding-1-1.png",
       "name": {
@@ -66,7 +82,23 @@
         "en": "Banana Pudding"
       },
       "price": 105.0,
-      "sale_price": 49.0,
+      "sale_price": 47.25,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "203760": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 51.429,
+      "id": 203760,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Croissant-2.png",
+      "name": {
+        "ar": "كرواسون الشوكولاتة بالبندق",
+        "en": "Chocolate Hazelnut Croissant"
+      },
+      "price": 70.0,
+      "sale_price": 34.0,
       "stock": 0
     },
     "pending": false
@@ -350,34 +382,6 @@
     },
     "pending": false
   },
-  "25060879": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 25060879,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/PROM-2.png",
-      "name": {
-        "ar": "بريدفاست دبس رمان سكويز(480 مل)",
-        "en": "Breadfast Easy Squeeze Pomegranate Molasses (480ml)"
-      },
-      "price": 145.0,
-      "reason": "new_discount",
-      "sale_price": 72.5,
-      "stock": 14
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 25060879,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/PROM-2.png",
-      "name": {
-        "ar": "بريدفاست دبس رمان سكويز(480 مل)",
-        "en": "Breadfast Easy Squeeze Pomegranate Molasses (480ml)"
-      },
-      "price": 145.0,
-      "sale_price": 72.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "25332010": {
     "notified": {
       "discount_percent": 50.0,
@@ -516,31 +520,19 @@
     },
     "pending": false
   },
-  "29087798": {
-    "notified": {
-      "discount_percent": 50.013,
-      "id": 29087798,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/شيدر-شرائح-طبيعي-250جم-6224002906199-1.png",
-      "name": {
-        "ar": "افانتي جبنة شيدر طبيعى شرائح (250جم)",
-        "en": "Avanti Cheddar Cheese Slices (250g)"
-      },
-      "price": 194.75,
-      "reason": "new_discount",
-      "sale_price": 97.35,
-      "stock": 15
-    },
+  "28050266": {
+    "notified": null,
     "observed": {
-      "discount_percent": 50.013,
-      "id": 29087798,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/شيدر-شرائح-طبيعي-250جم-6224002906199-1.png",
+      "discount_percent": 53.281,
+      "id": 28050266,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1cd75f615746c9d19d2e831d08fd2301ca9b0bb942e431b1f0c9567b26fc7928",
       "name": {
-        "ar": "افانتي جبنة شيدر طبيعى شرائح (250جم)",
-        "en": "Avanti Cheddar Cheese Slices (250g)"
+        "ar": "بايجل روست بيف",
+        "en": "Roast Beef Bagel"
       },
-      "price": 194.75,
-      "sale_price": 97.35,
-      "stock": 1
+      "price": 160.0,
+      "sale_price": 74.75,
+      "stock": 0
     },
     "pending": false
   },
@@ -2768,22 +2760,6 @@
     },
     "pending": false
   },
-  "57549982": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 57549982,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/353ca41056edc1b3e3169baa9bb3782356b70abf3e3cc71278833b40c0b00298",
-      "name": {
-        "ar": "راب فراخ بيري بيري حار",
-        "en": "Spicy Peri Peri Chicken Wrap"
-      },
-      "price": 175.0,
-      "sale_price": 78.75,
-      "stock": 0
-    },
-    "pending": false
-  },
   "60673171": {
     "notified": {
       "discount_percent": 50.0,
@@ -3737,34 +3713,6 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "65277926": {
-    "notified": {
-      "discount_percent": 55.0,
-      "id": 65277926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
-      "name": {
-        "ar": "ريلي جود ترمس (150 جرام)",
-        "en": "ReallyGood Termess (150g)"
-      },
-      "price": 60.0,
-      "reason": "new_discount",
-      "sale_price": 27.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 65277926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
-      "name": {
-        "ar": "ريلي جود ترمس (150 جرام)",
-        "en": "ReallyGood Termess (150g)"
-      },
-      "price": 60.0,
-      "sale_price": 30.0,
       "stock": 2
     },
     "pending": false
