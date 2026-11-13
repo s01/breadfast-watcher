@@ -1,60 +1,4 @@
 {
-  "13182714": {
-    "notified": {
-      "discount_percent": 50.794,
-      "id": 13182714,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/Capture-129.png",
-      "name": {
-        "ar": "فودى ذرة حلوة (400 جم)",
-        "en": "Foody Sweet Corn (400g)"
-      },
-      "price": 47.25,
-      "reason": "new_discount",
-      "sale_price": 23.25,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.794,
-      "id": 13182714,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/Capture-129.png",
-      "name": {
-        "ar": "فودى ذرة حلوة (400 جم)",
-        "en": "Foody Sweet Corn (400g)"
-      },
-      "price": 47.25,
-      "sale_price": 23.25,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17648215": {
-    "notified": {
-      "discount_percent": 53.333,
-      "id": 17648215,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/BALANCE-3-1.png",
-      "name": {
-        "ar": "بالانس بروتين مقرمش بالكريمة الحامضة (78-70 جم)",
-        "en": "Balance Protein Crackers Sour Cream And Onion (70-78g)"
-      },
-      "price": 15.0,
-      "reason": "new_discount",
-      "sale_price": 7.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 53.333,
-      "id": 17648215,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/BALANCE-3-1.png",
-      "name": {
-        "ar": "بالانس بروتين مقرمش بالكريمة الحامضة (78-70 جم)",
-        "en": "Balance Protein Crackers Sour Cream And Onion (70-78g)"
-      },
-      "price": 15.0,
-      "sale_price": 7.0,
-      "stock": 2
-    },
-    "pending": false
-  },
   "18500311": {
     "notified": {
       "discount_percent": 50.617,
@@ -191,34 +135,6 @@
       "price": 65.0,
       "sale_price": 32.5,
       "stock": 1
-    },
-    "pending": false
-  },
-  "22598244": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22598244,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
-      "name": {
-        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
-        "en": "Shahd Original Pane Beyti (800g)"
-      },
-      "price": 317.5,
-      "reason": "new_discount",
-      "sale_price": 158.75,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22598244,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
-      "name": {
-        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
-        "en": "Shahd Original Pane Beyti (800g)"
-      },
-      "price": 317.5,
-      "sale_price": 158.75,
-      "stock": 11
     },
     "pending": false
   },
@@ -382,34 +298,6 @@
       },
       "price": 410.0,
       "sale_price": 205.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "30522222": {
-    "notified": {
-      "discount_percent": 59.627,
-      "id": 30522222,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d0ea2fd88c3b3018a9a8ecbb096454654aa6192cd097ce9c08f2dfac42226b59",
-      "name": {
-        "ar": "هاينزتونا قطع في زيت دوار الشمس (185 جم)",
-        "en": "Heinz Tuna Chunks In Sunflower Oil (185gm)"
-      },
-      "price": 80.5,
-      "reason": "new_discount",
-      "sale_price": 32.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 59.627,
-      "id": 30522222,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d0ea2fd88c3b3018a9a8ecbb096454654aa6192cd097ce9c08f2dfac42226b59",
-      "name": {
-        "ar": "هاينزتونا قطع في زيت دوار الشمس (185 جم)",
-        "en": "Heinz Tuna Chunks In Sunflower Oil (185gm)"
-      },
-      "price": 80.5,
-      "sale_price": 32.5,
       "stock": 1
     },
     "pending": false
@@ -3387,7 +3275,7 @@
       },
       "price": 995.0,
       "sale_price": 497.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
