@@ -1,48 +1,4 @@
 {
-  "155": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 51.154,
-      "id": 155,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0f593b0537795870d06d5028baa25cccba52bd9fafbc8bbecf9ad5a51efaae65",
-      "name": {
-        "ar": "كرواسون بالجبنة",
-        "en": "Cheese Croissant"
-      },
-      "price": 65.0,
-      "sale_price": 31.75,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "17837887": {
-    "notified": {
-      "discount_percent": 60.177,
-      "id": 17837887,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/12Barbeque-Kofta-1-2-2-2-2-1-500x364.png",
-      "name": {
-        "ar": "فام بيف كفتة مجمده شوي بقري (400 جرام)",
-        "en": "Fam Beef Frozen BBQ Kofta (400g)"
-      },
-      "price": 226.0,
-      "reason": "new_discount",
-      "sale_price": 90.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 60.177,
-      "id": 17837887,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/12Barbeque-Kofta-1-2-2-2-2-1-500x364.png",
-      "name": {
-        "ar": "فام بيف كفتة مجمده شوي بقري (400 جرام)",
-        "en": "Fam Beef Frozen BBQ Kofta (400g)"
-      },
-      "price": 226.0,
-      "sale_price": 90.0,
-      "stock": 2
-    },
-    "pending": false
-  },
   "18500311": {
     "notified": {
       "discount_percent": 50.617,
@@ -68,22 +24,6 @@
       "price": 81.0,
       "sale_price": 40.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "20283910": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 20283910,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/banana-pudding-1-1.png",
-      "name": {
-        "ar": "بودينج الموز",
-        "en": "Banana Pudding"
-      },
-      "price": 105.0,
-      "sale_price": 47.25,
-      "stock": 0
     },
     "pending": false
   },
@@ -354,34 +294,6 @@
     },
     "pending": false
   },
-  "22598244": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22598244,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
-      "name": {
-        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
-        "en": "Shahd Original Pane Beyti (800g)"
-      },
-      "price": 317.5,
-      "reason": "new_discount",
-      "sale_price": 158.75,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22598244,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
-      "name": {
-        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
-        "en": "Shahd Original Pane Beyti (800g)"
-      },
-      "price": 317.5,
-      "sale_price": 158.75,
-      "stock": 1
-    },
-    "pending": false
-  },
   "25332010": {
     "notified": {
       "discount_percent": 50.0,
@@ -517,22 +429,6 @@
       "price": 320.0,
       "sale_price": 160.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "28050266": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 53.281,
-      "id": 28050266,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1cd75f615746c9d19d2e831d08fd2301ca9b0bb942e431b1f0c9567b26fc7928",
-      "name": {
-        "ar": "بايجل روست بيف",
-        "en": "Roast Beef Bagel"
-      },
-      "price": 160.0,
-      "sale_price": 74.75,
-      "stock": 0
     },
     "pending": false
   },
@@ -728,34 +624,6 @@
     },
     "pending": false
   },
-  "33897707": {
-    "notified": {
-      "discount_percent": 59.947,
-      "id": 33897707,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4757d188b220827fd8ef2e6754262a2ec15814c9030a5dc782c78f0add318568",
-      "name": {
-        "ar": "دريا محشي الفلفل (400 جم)",
-        "en": "Daria Stuffed Bell Peppers (400 g)"
-      },
-      "price": 94.25,
-      "reason": "improved_discount",
-      "sale_price": 37.75,
-      "stock": 15
-    },
-    "observed": {
-      "discount_percent": 59.947,
-      "id": 33897707,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4757d188b220827fd8ef2e6754262a2ec15814c9030a5dc782c78f0add318568",
-      "name": {
-        "ar": "دريا محشي الفلفل (400 جم)",
-        "en": "Daria Stuffed Bell Peppers (400 g)"
-      },
-      "price": 94.25,
-      "sale_price": 37.75,
-      "stock": 15
-    },
-    "pending": false
-  },
   "36641234": {
     "notified": {
       "discount_percent": 70.0,
@@ -806,7 +674,7 @@
       },
       "price": 300.0,
       "sale_price": 90.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2216,7 +2084,7 @@
       },
       "price": 7470.0,
       "sale_price": 3735.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2757,6 +2625,22 @@
       "price": 340.0,
       "sale_price": 170.0,
       "stock": 2
+    },
+    "pending": false
+  },
+  "57549982": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 57549982,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/353ca41056edc1b3e3169baa9bb3782356b70abf3e3cc71278833b40c0b00298",
+      "name": {
+        "ar": "راب فراخ بيري بيري حار",
+        "en": "Spicy Peri Peri Chicken Wrap"
+      },
+      "price": 175.0,
+      "sale_price": 78.75,
+      "stock": 0
     },
     "pending": false
   },
@@ -3713,34 +3597,6 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "65277926": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 65277926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
-      "name": {
-        "ar": "ريلي جود ترمس (150 جرام)",
-        "en": "ReallyGood Termess (150g)"
-      },
-      "price": 60.0,
-      "reason": "new_discount",
-      "sale_price": 30.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 65277926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
-      "name": {
-        "ar": "ريلي جود ترمس (150 جرام)",
-        "en": "ReallyGood Termess (150g)"
-      },
-      "price": 60.0,
-      "sale_price": 30.0,
       "stock": 2
     },
     "pending": false
