@@ -2254,34 +2254,6 @@
     },
     "pending": false
   },
-  "54979878": {
-    "notified": {
-      "discount_percent": 54.933,
-      "id": 54979878,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0292743bfce4fa82634ab11c8a9be1bd84f668809f4026c8c3442d1b2f32a60d",
-      "name": {
-        "ar": "ريقاف نايل بلند كوفى شاى  (10 Tea Bags)",
-        "en": "Reqaf Nile Blend Coffee Tea (10 Tea Bags)"
-      },
-      "price": 375.0,
-      "reason": "new_discount",
-      "sale_price": 169.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 54.933,
-      "id": 54979878,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0292743bfce4fa82634ab11c8a9be1bd84f668809f4026c8c3442d1b2f32a60d",
-      "name": {
-        "ar": "ريقاف نايل بلند كوفى شاى  (10 Tea Bags)",
-        "en": "Reqaf Nile Blend Coffee Tea (10 Tea Bags)"
-      },
-      "price": 375.0,
-      "sale_price": 169.0,
-      "stock": 3
-    },
-    "pending": false
-  },
   "56956466": {
     "notified": {
       "discount_percent": 50.0,
