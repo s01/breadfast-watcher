@@ -664,34 +664,6 @@
     },
     "pending": false
   },
-  "33897707": {
-    "notified": {
-      "discount_percent": 59.947,
-      "id": 33897707,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e0e3bc73d079443cbf70439369bbae25c05f16a2adf9f0342abb3797993edc91",
-      "name": {
-        "ar": "دريا محشي الفلفل (400 جم)",
-        "en": "Daria Stuffed Bell Peppers (400 g)"
-      },
-      "price": 94.25,
-      "reason": "new_discount",
-      "sale_price": 37.75,
-      "stock": 15
-    },
-    "observed": {
-      "discount_percent": 59.947,
-      "id": 33897707,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e0e3bc73d079443cbf70439369bbae25c05f16a2adf9f0342abb3797993edc91",
-      "name": {
-        "ar": "دريا محشي الفلفل (400 جم)",
-        "en": "Daria Stuffed Bell Peppers (400 g)"
-      },
-      "price": 94.25,
-      "sale_price": 37.75,
-      "stock": 15
-    },
-    "pending": false
-  },
   "36641234": {
     "notified": {
       "discount_percent": 70.0,
@@ -3786,7 +3758,7 @@
       },
       "price": 600.0,
       "sale_price": 300.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   }
