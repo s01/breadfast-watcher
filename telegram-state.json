@@ -334,6 +334,34 @@
     },
     "pending": false
   },
+  "25060879": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 25060879,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/PROM-2.png",
+      "name": {
+        "ar": "بريدفاست دبس رمان سكويز(480 مل)",
+        "en": "Breadfast Easy Squeeze Pomegranate Molasses (480ml)"
+      },
+      "price": 145.0,
+      "reason": "new_discount",
+      "sale_price": 72.5,
+      "stock": 14
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 25060879,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/PROM-2.png",
+      "name": {
+        "ar": "بريدفاست دبس رمان سكويز(480 مل)",
+        "en": "Breadfast Easy Squeeze Pomegranate Molasses (480ml)"
+      },
+      "price": 145.0,
+      "sale_price": 72.5,
+      "stock": 14
+    },
+    "pending": false
+  },
   "25332010": {
     "notified": {
       "discount_percent": 50.0,
@@ -358,6 +386,34 @@
       "price": 78.0,
       "sale_price": 39.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "25382893": {
+    "notified": {
+      "discount_percent": 55.0,
+      "id": 25382893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
+      "name": {
+        "ar": "شهد داينو ناجتس (400 جرام)",
+        "en": "Shahd Dino Nuggets (400g)"
+      },
+      "price": 200.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 25382893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
+      "name": {
+        "ar": "شهد داينو ناجتس (400 جرام)",
+        "en": "Shahd Dino Nuggets (400g)"
+      },
+      "price": 200.0,
+      "sale_price": 90.0,
+      "stock": 11
     },
     "pending": false
   },
@@ -469,6 +525,34 @@
       "price": 320.0,
       "sale_price": 160.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "29087798": {
+    "notified": {
+      "discount_percent": 50.013,
+      "id": 29087798,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/شيدر-شرائح-طبيعي-250جم-6224002906199-1.png",
+      "name": {
+        "ar": "افانتي جبنة شيدر طبيعى شرائح (250جم)",
+        "en": "Avanti Cheddar Cheese Slices (250g)"
+      },
+      "price": 194.75,
+      "reason": "new_discount",
+      "sale_price": 97.35,
+      "stock": 15
+    },
+    "observed": {
+      "discount_percent": 50.013,
+      "id": 29087798,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/شيدر-شرائح-طبيعي-250جم-6224002906199-1.png",
+      "name": {
+        "ar": "افانتي جبنة شيدر طبيعى شرائح (250جم)",
+        "en": "Avanti Cheddar Cheese Slices (250g)"
+      },
+      "price": 194.75,
+      "sale_price": 97.35,
+      "stock": 15
     },
     "pending": false
   },
@@ -668,18 +752,18 @@
     "notified": {
       "discount_percent": 59.947,
       "id": 33897707,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e0e3bc73d079443cbf70439369bbae25c05f16a2adf9f0342abb3797993edc91",
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4757d188b220827fd8ef2e6754262a2ec15814c9030a5dc782c78f0add318568",
       "name": {
         "ar": "دريا محشي الفلفل (400 جم)",
         "en": "Daria Stuffed Bell Peppers (400 g)"
       },
       "price": 94.25,
-      "reason": "new_discount",
+      "reason": "improved_discount",
       "sale_price": 37.75,
       "stock": 15
     },
     "observed": {
-      "discount_percent": 54.96,
+      "discount_percent": 59.947,
       "id": 33897707,
       "image": "https://cdn.breadfast.com/wp-content/uploads/4757d188b220827fd8ef2e6754262a2ec15814c9030a5dc782c78f0add318568",
       "name": {
@@ -687,7 +771,7 @@
         "en": "Daria Stuffed Bell Peppers (400 g)"
       },
       "price": 94.25,
-      "sale_price": 42.45,
+      "sale_price": 37.75,
       "stock": 15
     },
     "pending": false
