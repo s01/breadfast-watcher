@@ -3717,6 +3717,34 @@
     },
     "pending": false
   },
+  "65277926": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 65277926,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
+      "name": {
+        "ar": "ريلي جود ترمس (150 جرام)",
+        "en": "ReallyGood Termess (150g)"
+      },
+      "price": 60.0,
+      "reason": "new_discount",
+      "sale_price": 30.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 65277926,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
+      "name": {
+        "ar": "ريلي جود ترمس (150 جرام)",
+        "en": "ReallyGood Termess (150g)"
+      },
+      "price": 60.0,
+      "sale_price": 30.0,
+      "stock": 2
+    },
+    "pending": false
+  },
   "65283851": {
     "notified": {
       "discount_percent": 55.0,
