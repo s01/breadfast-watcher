@@ -330,7 +330,7 @@
       },
       "price": 317.5,
       "sale_price": 158.75,
-      "stock": 11
+      "stock": 9
     },
     "pending": false
   },
@@ -358,34 +358,6 @@
       "price": 78.0,
       "sale_price": 39.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "25382893": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 25382893,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
-      "name": {
-        "ar": "شهد داينو ناجتس (400 جرام)",
-        "en": "Shahd Dino Nuggets (400g)"
-      },
-      "price": 200.0,
-      "reason": "new_discount",
-      "sale_price": 100.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 25382893,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
-      "name": {
-        "ar": "شهد داينو ناجتس (400 جرام)",
-        "en": "Shahd Dino Nuggets (400g)"
-      },
-      "price": 200.0,
-      "sale_price": 100.0,
-      "stock": 11
     },
     "pending": false
   },
@@ -468,6 +440,34 @@
       },
       "price": 70.0,
       "sale_price": 35.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "27571536": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 27571536,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/54903ef97cad899fc06b2894728718fd9d1da63c406b5ccc9833a7c2d2a7cc75",
+      "name": {
+        "ar": "(غارنييه ماء ميسيلار سكين أكتيف لتنظيف الوجه و ازالة المكياج (400 مل",
+        "en": "Garnier Skin Active Micellar Cleansing Water Makeup Remover (400 ml)"
+      },
+      "price": 320.0,
+      "reason": "new_discount",
+      "sale_price": 160.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 27571536,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/54903ef97cad899fc06b2894728718fd9d1da63c406b5ccc9833a7c2d2a7cc75",
+      "name": {
+        "ar": "(غارنييه ماء ميسيلار سكين أكتيف لتنظيف الوجه و ازالة المكياج (400 مل",
+        "en": "Garnier Skin Active Micellar Cleansing Water Makeup Remover (400 ml)"
+      },
+      "price": 320.0,
+      "sale_price": 160.0,
       "stock": 1
     },
     "pending": false
@@ -1334,7 +1334,7 @@
       },
       "price": 350.0,
       "sale_price": 175.0,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -1361,7 +1361,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -1388,7 +1388,7 @@
       },
       "price": 420.0,
       "sale_price": 210.0,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -1579,6 +1579,34 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 2
+    },
+    "pending": false
+  },
+  "44295631": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295631,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2f95ac9e6b204a6c3b8f67783f996754b3ad85bcfdfc10e4f7e287fe587a6f08",
+      "name": {
+        "ar": "فاكيشن جل لتفتيح البشرة",
+        "en": "Vacation Uni-White Day Gel"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295631,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2f95ac9e6b204a6c3b8f67783f996754b3ad85bcfdfc10e4f7e287fe587a6f08",
+      "name": {
+        "ar": "فاكيشن جل لتفتيح البشرة",
+        "en": "Vacation Uni-White Day Gel"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
     },
     "pending": false
   },
@@ -1958,7 +1986,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2150,7 +2178,7 @@
       },
       "price": 475.0,
       "sale_price": 237.5,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -2303,6 +2331,62 @@
       },
       "price": 979.0,
       "sale_price": 489.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691431": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691431,
+      "image": "https://i.ibb.co/DPKgxtVY/3264680009761.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil (50ml)"
+      },
+      "price": 1699.0,
+      "reason": "new_discount",
+      "sale_price": 849.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691431,
+      "image": "https://i.ibb.co/DPKgxtVY/3264680009761.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil (50ml)"
+      },
+      "price": 1699.0,
+      "sale_price": 849.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "54691432": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691432,
+      "image": "https://i.ibb.co/PsCj0Qtw/3264680038334.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس جولدن فلورات (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil Goldin Florale (50ml)"
+      },
+      "price": 1799.0,
+      "reason": "new_discount",
+      "sale_price": 899.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691432,
+      "image": "https://i.ibb.co/PsCj0Qtw/3264680038334.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس جولدن فلورات (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil Goldin Florale (50ml)"
+      },
+      "price": 1799.0,
+      "sale_price": 899.5,
       "stock": 1
     },
     "pending": false
@@ -2471,34 +2555,6 @@
       "price": 2550.0,
       "sale_price": 1275.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "54979878": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 54979878,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0292743bfce4fa82634ab11c8a9be1bd84f668809f4026c8c3442d1b2f32a60d",
-      "name": {
-        "ar": "ريقاف نايل بلند كوفى شاى  (10 Tea Bags)",
-        "en": "Reqaf Nile Blend Coffee Tea (10 Tea Bags)"
-      },
-      "price": 375.0,
-      "reason": "new_discount",
-      "sale_price": 150.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 54979878,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0292743bfce4fa82634ab11c8a9be1bd84f668809f4026c8c3442d1b2f32a60d",
-      "name": {
-        "ar": "ريقاف نايل بلند كوفى شاى  (10 Tea Bags)",
-        "en": "Reqaf Nile Blend Coffee Tea (10 Tea Bags)"
-      },
-      "price": 375.0,
-      "sale_price": 150.0,
-      "stock": 3
     },
     "pending": false
   },
@@ -3250,7 +3306,7 @@
       },
       "price": 395.0,
       "sale_price": 197.5,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -3277,7 +3333,7 @@
       },
       "price": 375.0,
       "sale_price": 187.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -3443,6 +3499,34 @@
     },
     "pending": false
   },
+  "61264212": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61264212,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a4caff0abd85e03ee35ea978233ac71e59cdee5eb5dc4621c48731486d92f09e",
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير سيروم (90 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Serum (90ml)"
+      },
+      "price": 1100.0,
+      "reason": "new_discount",
+      "sale_price": 550.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61264212,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a4caff0abd85e03ee35ea978233ac71e59cdee5eb5dc4621c48731486d92f09e",
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير سيروم (90 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Serum (90ml)"
+      },
+      "price": 1100.0,
+      "sale_price": 550.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "6201984": {
     "notified": {
       "discount_percent": 50.0,
@@ -3483,6 +3567,34 @@
       "price": 299.0,
       "sale_price": 149.5,
       "stock": 0
+    },
+    "pending": false
+  },
+  "64565683": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 64565683,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cdf9ad2779b704640b6c35f44434181351270d9d189e4b98512aa9fc88900408",
+      "name": {
+        "ar": "فاكيشن رول أون بيتش بريز مزيل العرق (50 مل)",
+        "en": "Vacation Beach Breeze Roll-On Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 64565683,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cdf9ad2779b704640b6c35f44434181351270d9d189e4b98512aa9fc88900408",
+      "name": {
+        "ar": "فاكيشن رول أون بيتش بريز مزيل العرق (50 مل)",
+        "en": "Vacation Beach Breeze Roll-On Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
     },
     "pending": false
   },
@@ -3620,7 +3732,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -3647,7 +3759,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
