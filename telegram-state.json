@@ -801,7 +801,19 @@
     "pending": false
   },
   "36641239": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ef6f1ab3569bc33be5a7cd2d88d75eb63a4636c58939d742328418d78e8545da",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 04 شيك ليب",
+        "en": "Queen Lifter Lip Gloss 04 Chic Lip"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
     "observed": {
       "discount_percent": 70.0,
       "id": 36641239,
@@ -812,12 +824,24 @@
       },
       "price": 300.0,
       "sale_price": 90.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
   "36641240": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641240,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/33710944bbd992f1511e7ca6bd754198ae1267eb664ec602f5e4b5243ccbee4c",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 05 كوريوس",
+        "en": "Queen Lifter Lip Gloss 05 Curious"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 2
+    },
     "observed": {
       "discount_percent": 70.0,
       "id": 36641240,
@@ -828,7 +852,7 @@
       },
       "price": 300.0,
       "sale_price": 90.0,
-      "stock": 0
+      "stock": 2
     },
     "pending": false
   },
@@ -3115,7 +3139,7 @@
       },
       "price": 180.0,
       "sale_price": 90.0,
-      "stock": 3
+      "stock": 5
     },
     "pending": false
   },
@@ -3143,7 +3167,7 @@
       },
       "price": 180.0,
       "sale_price": 90.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -3170,12 +3194,24 @@
       },
       "price": 180.0,
       "sale_price": 90.0,
-      "stock": 2
+      "stock": 5
     },
     "pending": false
   },
   "60980875": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980875,
+      "image": "https://i.ibb.co/mCTDnXgP/Lip-balm-pina-colada.jpg",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بينا كولادا حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Pina Colada SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 3
+    },
     "observed": {
       "discount_percent": 50.0,
       "id": 60980875,
@@ -3186,7 +3222,7 @@
       },
       "price": 180.0,
       "sale_price": 90.0,
-      "stock": 0
+      "stock": 3
     },
     "pending": false
   },
