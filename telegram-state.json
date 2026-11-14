@@ -305,62 +305,6 @@
     },
     "pending": false
   },
-  "26795300": {
-    "notified": {
-      "discount_percent": 51.02,
-      "id": 26795300,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/001.jpg",
-      "name": {
-        "ar": "طبالى فول زيت محوج (300 جرام)",
-        "en": "Tabali Foul With Oil (300g)"
-      },
-      "price": 49.0,
-      "reason": "improved_discount",
-      "sale_price": 24.0,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26795300,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/001.jpg",
-      "name": {
-        "ar": "طبالى فول زيت محوج (300 جرام)",
-        "en": "Tabali Foul With Oil (300g)"
-      },
-      "price": 49.0,
-      "sale_price": 24.5,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "26795304": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26795304,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/003.jpg",
-      "name": {
-        "ar": "طبالى فول زيت زيتون (300 جرام)",
-        "en": "Tabali Foul with Olive Oil (300g)"
-      },
-      "price": 60.5,
-      "reason": "new_discount",
-      "sale_price": 30.25,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26795304,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/003.jpg",
-      "name": {
-        "ar": "طبالى فول زيت زيتون (300 جرام)",
-        "en": "Tabali Foul with Olive Oil (300g)"
-      },
-      "price": 60.5,
-      "sale_price": 30.25,
-      "stock": 2
-    },
-    "pending": false
-  },
   "26795307": {
     "notified": {
       "discount_percent": 50.877,
@@ -688,6 +632,34 @@
       },
       "price": 78.0,
       "sale_price": 39.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36596288": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 36596288,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875873086/10e6976adb0556e2.jpg",
+      "name": {
+        "ar": "فيشي كريم ليفت أكتيف بيجمنت سبيشليست بي 3 الليلي (50 مل)",
+        "en": "Vichy Liftactiv Pigment Specialist B3 Night Cream (50ml)"
+      },
+      "price": 2200.0,
+      "reason": "new_discount",
+      "sale_price": 1100.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 36596288,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875873086/10e6976adb0556e2.jpg",
+      "name": {
+        "ar": "فيشي كريم ليفت أكتيف بيجمنت سبيشليست بي 3 الليلي (50 مل)",
+        "en": "Vichy Liftactiv Pigment Specialist B3 Night Cream (50ml)"
+      },
+      "price": 2200.0,
+      "sale_price": 1100.0,
       "stock": 1
     },
     "pending": false
@@ -1986,7 +1958,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -3760,7 +3732,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
