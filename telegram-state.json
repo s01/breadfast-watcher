@@ -2617,34 +2617,6 @@
     },
     "pending": false
   },
-  "60673175": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
-      "name": {
-        "ar": "رويال إس جبنة مش (500g)",
-        "en": "Royal S Mish Cheese (500g)"
-      },
-      "price": 57.6,
-      "reason": "new_discount",
-      "sale_price": 28.8,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
-      "name": {
-        "ar": "رويال إس جبنة مش (500g)",
-        "en": "Royal S Mish Cheese (500g)"
-      },
-      "price": 57.6,
-      "sale_price": 28.8,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673176": {
     "notified": {
       "discount_percent": 50.0,
