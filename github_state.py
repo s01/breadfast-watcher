@@ -2,7 +2,7 @@
 import base64,datetime,json,os,re,subprocess,sys
 from pathlib import Path
 BRANCH='monitor-state'
-FILES=('telegram-state.json','full-scan.json','health-state.json')
+FILES=('telegram-state.json','full-scan.json','health-state.json','bot-state.json')
 ROOT=Path(os.environ.get('BREADFAST_STATE_DIR','state'))
 REPO=os.environ.get('GITHUB_REPOSITORY','')
 

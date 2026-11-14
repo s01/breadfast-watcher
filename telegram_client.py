@@ -24,11 +24,12 @@ def request_config(url,payload):
     body=json.dumps(payload,ensure_ascii=True)
     return '\n'.join(['url = '+json.dumps(url),'request = "POST"','header = "Content-Type: application/json"','data = '+json.dumps(body)])
 
-def send(text, html_format=False):
+def send(text, html_format=False, reply_markup=None):
     chat=os.environ.get('TELEGRAM_CHAT_ID','').strip()
     if not chat: raise TelegramError('Telegram chat ID is missing')
     payload={'chat_id':chat,'text':text,'link_preview_options':{'is_disabled':True}}
     if html_format: payload['parse_mode']='HTML'
+    if reply_markup is not None: payload['reply_markup']=reply_markup
     result=api('sendMessage',payload)
     expected=visible_text(text) if html_format else text
     if result.get('text','').strip()!=expected.strip():

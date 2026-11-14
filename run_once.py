@@ -8,8 +8,12 @@ def main():
     root.mkdir(parents=True,exist_ok=True)
     health=root/'health-state.json'
     previous=json.loads(health.read_text()) if health.exists() else {}
-    scan_mode='--full' if os.environ.get('BREADFAST_FORCE_FULL','').lower()=='true' else '--auto'
-    r=subprocess.run([sys.executable,str(Path(__file__).with_name('scan.py')),scan_mode,'--telegram'],capture_output=True,text=True)
+    from bot_controls import poll,complete
+    requested=poll(root)
+    scan_mode='--full' if os.environ.get('BREADFAST_FORCE_FULL','').lower()=='true' or requested=='full' else None if requested=='offers' else '--auto'
+    command=[sys.executable,str(Path(__file__).with_name('scan.py')),'--telegram']
+    if scan_mode:command.append(scan_mode)
+    r=subprocess.run(command,capture_output=True,text=True)
     if r.returncode:
         print('Breadfast check failed. Inspect the report and workflow logs; this is not evidence of no offers.')
         if not previous.get('failed'):
@@ -23,7 +27,9 @@ def main():
         except Exception:return 2
     health.write_text(json.dumps({'failed':False}))
     report=json.loads(Path(__file__).with_name('latest-scan.json').read_text())
-    print(json.dumps({k:report.get(k) for k in ('checked_at','scope','successful_endpoints','requested_endpoints','unique_products','delivered_messages','delivered_offers','delivery_batches','errors')}))
+    if requested:complete(root,report)
+    report['requested_scan']=requested
+    print(json.dumps({k:report.get(k) for k in ('checked_at','scope','requested_scan','successful_endpoints','requested_endpoints','unique_products','delivered_messages','delivered_offers','delivery_batches','errors')}))
     return 0
 
 if __name__=='__main__':raise SystemExit(main())
