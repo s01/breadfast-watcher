@@ -2491,6 +2491,34 @@
     },
     "pending": false
   },
+  "57549982": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 57549982,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/353ca41056edc1b3e3169baa9bb3782356b70abf3e3cc71278833b40c0b00298",
+      "name": {
+        "ar": "راب فراخ بيري بيري حار",
+        "en": "Spicy Peri Peri Chicken Wrap"
+      },
+      "price": 175.0,
+      "reason": "new_discount",
+      "sale_price": 87.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 57549982,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/353ca41056edc1b3e3169baa9bb3782356b70abf3e3cc71278833b40c0b00298",
+      "name": {
+        "ar": "راب فراخ بيري بيري حار",
+        "en": "Spicy Peri Peri Chicken Wrap"
+      },
+      "price": 175.0,
+      "sale_price": 87.5,
+      "stock": 2
+    },
+    "pending": false
+  },
   "58524722": {
     "notified": null,
     "observed": {
