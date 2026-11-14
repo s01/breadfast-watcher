@@ -1,80 +1,4 @@
 {
-  "10784620": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 62.0,
-      "id": 10784620,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/13c1952ae3b4da2adcc5935e992b2968a07c3208e82641779d2ce2b95765a2d2",
-      "name": {
-        "ar": "ساندويتش سلمون مدخن و جبنة قريش",
-        "en": "Salmon & Cottage Cheese Sandwich"
-      },
-      "price": 175.0,
-      "sale_price": 66.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "1308913": {
-    "notified": {
-      "discount_percent": 62.0,
-      "id": 1308913,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/Tuna-Sandwich.png",
-      "name": {
-        "ar": "ساندوتش خلطة التونة",
-        "en": "Signature Tuna Sandwich"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 57.0,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 62.0,
-      "id": 1308913,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/Tuna-Sandwich.png",
-      "name": {
-        "ar": "ساندوتش خلطة التونة",
-        "en": "Signature Tuna Sandwich"
-      },
-      "price": 150.0,
-      "sale_price": 57.0,
-      "stock": 5
-    },
-    "pending": false
-  },
-  "1309000": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 70.0,
-      "id": 1309000,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9776354f647d567319e41c4f6113c394d763dd1be30596673990881a255337a2",
-      "name": {
-        "ar": "ساندوتش الدجاج بالهنى ماسترد",
-        "en": "Honey Mustard Chicken Sandwich"
-      },
-      "price": 140.0,
-      "sale_price": 42.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "14314147": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 14314147,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/43b98cc4addaaa0b7657f851bea9325f7ec6fb18953c91bac2d33d24de7041b0",
-      "name": {
-        "ar": "باوند كيك بالجزر",
-        "en": "Carrot Pound Cake"
-      },
-      "price": 175.0,
-      "sale_price": 70.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "21096505": {
     "notified": {
       "discount_percent": 50.0,
@@ -214,62 +138,6 @@
     },
     "pending": false
   },
-  "21781866": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21781866,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/359d24dff614aa89d90e2dea809677143dbf087c4fb78ab7ceaaaa5ad2c178b0",
-      "name": {
-        "ar": "(160جم) كان كيك شوكولاته اسبريسو",
-        "en": "Can Cake Esspresso Chocolate Cake (160g)"
-      },
-      "price": 178.5,
-      "reason": "new_discount",
-      "sale_price": 89.25,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21781866,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/359d24dff614aa89d90e2dea809677143dbf087c4fb78ab7ceaaaa5ad2c178b0",
-      "name": {
-        "ar": "(160جم) كان كيك شوكولاته اسبريسو",
-        "en": "Can Cake Esspresso Chocolate Cake (160g)"
-      },
-      "price": 178.5,
-      "sale_price": 89.25,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "21781870": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21781870,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cb2928cc8e2fe936ac2afb46719cc5d9ef461940e19044c2f3cb47889d045c7d",
-      "name": {
-        "ar": "كان كيك شوكولاته بالبسكوت المكرمل (160جم)",
-        "en": "Can Cake Caramelized Biscuit Milk Chocolate Cake (160g)"
-      },
-      "price": 189.0,
-      "reason": "new_discount",
-      "sale_price": 94.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21781870,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cb2928cc8e2fe936ac2afb46719cc5d9ef461940e19044c2f3cb47889d045c7d",
-      "name": {
-        "ar": "كان كيك شوكولاته بالبسكوت المكرمل (160جم)",
-        "en": "Can Cake Caramelized Biscuit Milk Chocolate Cake (160g)"
-      },
-      "price": 189.0,
-      "sale_price": 94.5,
-      "stock": 5
-    },
-    "pending": false
-  },
   "22518408": {
     "notified": {
       "discount_percent": 50.0,
@@ -323,50 +191,6 @@
       "price": 65.0,
       "sale_price": 32.5,
       "stock": 3
-    },
-    "pending": false
-  },
-  "22871738": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 65.0,
-      "id": 22871738,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ed3710b4f3a346428ebd13a377c4b8596fc8d67809494f3769e1e49cb9606730",
-      "name": {
-        "ar": "راب الفراخ الجواكامولي",
-        "en": "Chicken Guac Wrap"
-      },
-      "price": 170.0,
-      "sale_price": 59.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "22871801": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22871801,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/432270d527fe11275a0deb832eb36925b7d8589e2169eb57f8acffff933bd221",
-      "name": {
-        "ar": "راب الروست بيف",
-        "en": "Roast Beef Wrap"
-      },
-      "price": 165.0,
-      "reason": "new_discount",
-      "sale_price": 82.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22871801,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/432270d527fe11275a0deb832eb36925b7d8589e2169eb57f8acffff933bd221",
-      "name": {
-        "ar": "راب الروست بيف",
-        "en": "Roast Beef Wrap"
-      },
-      "price": 165.0,
-      "sale_price": 82.5,
-      "stock": 2
     },
     "pending": false
   },
@@ -503,34 +327,6 @@
       },
       "price": 81.0,
       "sale_price": 40.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "3652241": {
-    "notified": {
-      "discount_percent": 62.0,
-      "id": 3652241,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ba8a0d5b382c085018dcf480ecca67a6f3de0080e31f7fb4fe5f0754a3a4f7a1",
-      "name": {
-        "ar": "ساندوتش فراخ مع صوص البيستو",
-        "en": "Pesto Chicken Sandwich"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 57.0,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 62.0,
-      "id": 3652241,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ba8a0d5b382c085018dcf480ecca67a6f3de0080e31f7fb4fe5f0754a3a4f7a1",
-      "name": {
-        "ar": "ساندوتش فراخ مع صوص البيستو",
-        "en": "Pesto Chicken Sandwich"
-      },
-      "price": 150.0,
-      "sale_price": 57.0,
       "stock": 1
     },
     "pending": false
@@ -695,7 +491,7 @@
       },
       "price": 300.0,
       "sale_price": 90.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -961,22 +757,6 @@
       "price": 520.0,
       "sale_price": 260.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "43475299": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 43475299,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f69477795e2c5bef468e5503cce996446c242fab26a45aa77181a1c4e068cbb4",
-      "name": {
-        "ar": "راب صدور تركي و بصل مكرمل",
-        "en": "Premium Turkey Breast & Caramelized Onions Wrap"
-      },
-      "price": 190.0,
-      "sale_price": 76.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -2501,66 +2281,6 @@
     },
     "pending": false
   },
-  "57549982": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 57549982,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/353ca41056edc1b3e3169baa9bb3782356b70abf3e3cc71278833b40c0b00298",
-      "name": {
-        "ar": "راب فراخ بيري بيري حار",
-        "en": "Spicy Peri Peri Chicken Wrap"
-      },
-      "price": 175.0,
-      "reason": "new_discount",
-      "sale_price": 87.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 57549982,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/353ca41056edc1b3e3169baa9bb3782356b70abf3e3cc71278833b40c0b00298",
-      "name": {
-        "ar": "راب فراخ بيري بيري حار",
-        "en": "Spicy Peri Peri Chicken Wrap"
-      },
-      "price": 175.0,
-      "sale_price": 87.5,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "58524723": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 58524723,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/dcc6fc32d4e73c0c24abc198ebea300e89871cb94f7e298d29695cf03d783d78",
-      "name": {
-        "ar": "ساندوتش روست بيف بالمشروم",
-        "en": "Mushroom Roast Beef Toastie"
-      },
-      "price": 230.0,
-      "sale_price": 92.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "59105768": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 59105768,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/91f66bbd72bd2aaccb5e3e5269915d7765058ab8ff56379bf95b8a60bf165b76",
-      "name": {
-        "ar": "تيراميسو حجم كبير",
-        "en": "Shareable Classic Tiramisu"
-      },
-      "price": 550.0,
-      "sale_price": 247.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "60673171": {
     "notified": {
       "discount_percent": 50.0,
@@ -3419,22 +3139,6 @@
     },
     "pending": false
   },
-  "6232057": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 70.0,
-      "id": 6232057,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/Turkey-and-Cheese-Sandwich.png",
-      "name": {
-        "ar": "ساندوتش تركي و جبنة",
-        "en": "Turkey & Cheese Sandwich"
-      },
-      "price": 130.0,
-      "sale_price": 39.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "62434450": {
     "notified": null,
     "observed": {
@@ -3672,50 +3376,6 @@
     },
     "pending": false
   },
-  "6750268": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 6750268,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/Turkey-Cheese-Croissant1.png",
-      "name": {
-        "ar": "كرواسون بالتركي والشيدر",
-        "en": "Turkey & Cheddar Croissant"
-      },
-      "price": 75.0,
-      "sale_price": 33.75,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "6898086": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 6898086,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fc87fbb0f53811d6fb238ca5b2247b0a537192b65296e79f93fba2c76ec3f88",
-      "name": {
-        "ar": "ملوخية (250 جرام)",
-        "en": "Molokheya (250g)"
-      },
-      "price": 25.0,
-      "reason": "new_discount",
-      "sale_price": 12.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 6898086,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fc87fbb0f53811d6fb238ca5b2247b0a537192b65296e79f93fba2c76ec3f88",
-      "name": {
-        "ar": "ملوخية (250 جرام)",
-        "en": "Molokheya (250g)"
-      },
-      "price": 25.0,
-      "sale_price": 12.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "72332167": {
     "notified": {
       "discount_percent": 50.0,
@@ -3740,22 +3400,6 @@
       "price": 600.0,
       "sale_price": 300.0,
       "stock": 2
-    },
-    "pending": false
-  },
-  "7299403": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 7299403,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Cheese-Coissant.png",
-      "name": {
-        "ar": "كرواسون بالبسطرمة وجبنة كريمي",
-        "en": "Pastirma & Cream Cheese Croissant"
-      },
-      "price": 80.0,
-      "sale_price": 36.0,
-      "stock": 0
     },
     "pending": false
   }
