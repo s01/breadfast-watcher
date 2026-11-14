@@ -2015,34 +2015,6 @@
     },
     "pending": false
   },
-  "52555731": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 52555731,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f6bbb6b0305dc1485901b4d3dd1612663cf47341e4a4ab383064e8ce75ee4760",
-      "name": {
-        "ar": "بريددفاست زيت زيتون بالفلفل (500 ملي)",
-        "en": "Breadfast infused Olive Oil with chili (500ml)"
-      },
-      "price": 365.0,
-      "reason": "new_discount",
-      "sale_price": 146.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 52555731,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f6bbb6b0305dc1485901b4d3dd1612663cf47341e4a4ab383064e8ce75ee4760",
-      "name": {
-        "ar": "بريددفاست زيت زيتون بالفلفل (500 ملي)",
-        "en": "Breadfast infused Olive Oil with chili (500ml)"
-      },
-      "price": 365.0,
-      "sale_price": 146.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "54136901": {
     "notified": null,
     "observed": {
@@ -3400,62 +3372,6 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "65277926": {
-    "notified": {
-      "discount_percent": 68.217,
-      "id": 65277926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
-      "name": {
-        "ar": "ريلي جود ترمس (150 جرام)",
-        "en": "ReallyGood Termess (150g)"
-      },
-      "price": 60.0,
-      "reason": "new_discount",
-      "sale_price": 19.07,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 68.217,
-      "id": 65277926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
-      "name": {
-        "ar": "ريلي جود ترمس (150 جرام)",
-        "en": "ReallyGood Termess (150g)"
-      },
-      "price": 60.0,
-      "sale_price": 19.07,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "65283851": {
-    "notified": {
-      "discount_percent": 58.617,
-      "id": 65283851,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e6d6dc723befc6db28948ad7146e5ed372945cb2d923867f1b9b62097c0aa0fe",
-      "name": {
-        "ar": "ريلي جود حمص (150 جرام)",
-        "en": "ReallyGood Hummus (150g)"
-      },
-      "price": 60.0,
-      "reason": "new_discount",
-      "sale_price": 24.83,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 58.617,
-      "id": 65283851,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e6d6dc723befc6db28948ad7146e5ed372945cb2d923867f1b9b62097c0aa0fe",
-      "name": {
-        "ar": "ريلي جود حمص (150 جرام)",
-        "en": "ReallyGood Hummus (150g)"
-      },
-      "price": 60.0,
-      "sale_price": 24.83,
       "stock": 2
     },
     "pending": false
