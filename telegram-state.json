@@ -2416,7 +2416,7 @@
       },
       "price": 230.0,
       "sale_price": 115.0,
-      "stock": 3
+      "stock": 4
     },
     "pending": false
   },
@@ -3085,7 +3085,7 @@
       },
       "price": 395.0,
       "sale_price": 197.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
