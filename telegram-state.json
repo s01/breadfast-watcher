@@ -14,7 +14,7 @@
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.617,
+      "discount_percent": 50.0,
       "id": 18500311,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/Screenshot-2024-03-21-133702-1.png",
       "name": {
@@ -22,8 +22,8 @@
         "en": "Tabali Foul Baladna (500g)"
       },
       "price": 81.0,
-      "sale_price": 40.0,
-      "stock": 1
+      "sale_price": 40.5,
+      "stock": 5
     },
     "pending": false
   },
@@ -301,7 +301,7 @@
       },
       "price": 78.0,
       "sale_price": 39.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -320,7 +320,7 @@
       "stock": 4
     },
     "observed": {
-      "discount_percent": 51.02,
+      "discount_percent": 50.0,
       "id": 26795300,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/001.jpg",
       "name": {
@@ -328,8 +328,36 @@
         "en": "Tabali Foul With Oil (300g)"
       },
       "price": 49.0,
-      "sale_price": 24.0,
-      "stock": 1
+      "sale_price": 24.5,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "26795304": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 26795304,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/003.jpg",
+      "name": {
+        "ar": "طبالى فول زيت زيتون (300 جرام)",
+        "en": "Tabali Foul with Olive Oil (300g)"
+      },
+      "price": 60.5,
+      "reason": "new_discount",
+      "sale_price": 30.25,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 26795304,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/003.jpg",
+      "name": {
+        "ar": "طبالى فول زيت زيتون (300 جرام)",
+        "en": "Tabali Foul with Olive Oil (300g)"
+      },
+      "price": 60.5,
+      "sale_price": 30.25,
+      "stock": 2
     },
     "pending": false
   },
@@ -348,7 +376,7 @@
       "stock": 2
     },
     "observed": {
-      "discount_percent": 50.877,
+      "discount_percent": 50.0,
       "id": 26795307,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/002.jpg",
       "name": {
@@ -356,8 +384,8 @@
         "en": "Tabali Foul With Saffron Lemon (300g)"
       },
       "price": 57.0,
-      "sale_price": 28.0,
-      "stock": 1
+      "sale_price": 28.5,
+      "stock": 3
     },
     "pending": false
   },
@@ -384,6 +412,34 @@
       },
       "price": 70.0,
       "sale_price": 35.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "26795313": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 26795313,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-09-at-14.56.53_af5fa1d4-1.jpg",
+      "name": {
+        "ar": "طبالى سلطة حمص بالليمون المعصفر (250 جرام)",
+        "en": "Tabali Hummus Salad with Saffron Lemon (250g)"
+      },
+      "price": 81.0,
+      "reason": "new_discount",
+      "sale_price": 40.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 26795313,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-09-at-14.56.53_af5fa1d4-1.jpg",
+      "name": {
+        "ar": "طبالى سلطة حمص بالليمون المعصفر (250 جرام)",
+        "en": "Tabali Hummus Salad with Saffron Lemon (250g)"
+      },
+      "price": 81.0,
+      "sale_price": 40.5,
       "stock": 1
     },
     "pending": false
@@ -494,7 +550,7 @@
       },
       "price": 71.0,
       "sale_price": 35.5,
-      "stock": 1
+      "stock": 10
     },
     "pending": false
   },
@@ -521,7 +577,7 @@
       },
       "price": 87.0,
       "sale_price": 43.5,
-      "stock": 2
+      "stock": 5
     },
     "pending": false
   },
@@ -540,7 +596,7 @@
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.617,
+      "discount_percent": 50.0,
       "id": 3297235,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-11-at-15.45.03_3c665232.png",
       "name": {
@@ -548,8 +604,8 @@
         "en": "Tabali Foul With Flaxseed Oil (500g)"
       },
       "price": 81.0,
-      "sale_price": 40.0,
-      "stock": 1
+      "sale_price": 40.5,
+      "stock": 6
     },
     "pending": false
   },
@@ -568,7 +624,7 @@
       "stock": 4
     },
     "observed": {
-      "discount_percent": 50.617,
+      "discount_percent": 50.0,
       "id": 3297330,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-45-1.png",
       "name": {
@@ -576,8 +632,8 @@
         "en": "Tabali Alexandrian Foul (500g)"
       },
       "price": 81.0,
-      "sale_price": 40.0,
-      "stock": 1
+      "sale_price": 40.5,
+      "stock": 7
     },
     "pending": false
   },
@@ -605,6 +661,34 @@
       "price": 81.0,
       "sale_price": 40.5,
       "stock": 2
+    },
+    "pending": false
+  },
+  "3298640": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 3298640,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-411.png",
+      "name": {
+        "ar": "طبالى سلطة حمص (250 جم)",
+        "en": "Tabali Hummus Salad (250g)"
+      },
+      "price": 78.0,
+      "reason": "new_discount",
+      "sale_price": 39.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 3298640,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-411.png",
+      "name": {
+        "ar": "طبالى سلطة حمص (250 جم)",
+        "en": "Tabali Hummus Salad (250g)"
+      },
+      "price": 78.0,
+      "sale_price": 39.0,
+      "stock": 3
     },
     "pending": false
   },
