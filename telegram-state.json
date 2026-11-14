@@ -859,6 +859,34 @@
     },
     "pending": false
   },
+  "4162092": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 4162092,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/881e08a4a7a33d153546215b1922a1a0d79bae7e596ae864da8bbf916499d2de",
+      "name": {
+        "ar": "ديليمور هوت دوج تركي(250 جرام)",
+        "en": "Delimore Turkey Hotdogs (250g)"
+      },
+      "price": 320.0,
+      "reason": "new_discount",
+      "sale_price": 160.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 4162092,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/881e08a4a7a33d153546215b1922a1a0d79bae7e596ae864da8bbf916499d2de",
+      "name": {
+        "ar": "ديليمور هوت دوج تركي(250 جرام)",
+        "en": "Delimore Turkey Hotdogs (250g)"
+      },
+      "price": 320.0,
+      "sale_price": 160.0,
+      "stock": 3
+    },
+    "pending": false
+  },
   "41791839": {
     "notified": {
       "discount_percent": 50.0,
