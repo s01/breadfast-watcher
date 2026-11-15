@@ -1383,6 +1383,62 @@
     },
     "pending": false
   },
+  "51473684": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51473684,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875912600/2f60374efcace486.jpg",
+      "name": {
+        "ar": "فيشي سيروم ليفت أكتيف كولاجين سبيشيالست 16 (30 مل)",
+        "en": "Vichy Liftactiv Collagen Specialist 16 Serum (30ml)"
+      },
+      "price": 2000.0,
+      "reason": "new_discount",
+      "sale_price": 1000.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51473684,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875912600/2f60374efcace486.jpg",
+      "name": {
+        "ar": "فيشي سيروم ليفت أكتيف كولاجين سبيشيالست 16 (30 مل)",
+        "en": "Vichy Liftactiv Collagen Specialist 16 Serum (30ml)"
+      },
+      "price": 2000.0,
+      "sale_price": 1000.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "51759996": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51759996,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
+      "name": {
+        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
+        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
+      },
+      "price": 1500.0,
+      "reason": "new_discount",
+      "sale_price": 750.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51759996,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
+      "name": {
+        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
+        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
+      },
+      "price": 1500.0,
+      "sale_price": 750.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "51881739": {
     "notified": {
       "discount_percent": 50.0,
