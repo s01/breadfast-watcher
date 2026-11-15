@@ -334,6 +334,34 @@
     },
     "pending": false
   },
+  "41619161": {
+    "notified": {
+      "discount_percent": 70.238,
+      "id": 41619161,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fc2bba4856ed92be99bc729abe327107aba3d1fe1d865d0ec516ee7d6f4618f7",
+      "name": {
+        "ar": "فشار مملح بالكراميل من بريدفاست (١٧٠ غرامًا)",
+        "en": "Breadfast Salted & Caramel Mix Popcorn Bucket (170g)"
+      },
+      "price": 168.0,
+      "reason": "new_discount",
+      "sale_price": 50.0,
+      "stock": 15
+    },
+    "observed": {
+      "discount_percent": 70.238,
+      "id": 41619161,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fc2bba4856ed92be99bc729abe327107aba3d1fe1d865d0ec516ee7d6f4618f7",
+      "name": {
+        "ar": "فشار مملح بالكراميل من بريدفاست (١٧٠ غرامًا)",
+        "en": "Breadfast Salted & Caramel Mix Popcorn Bucket (170g)"
+      },
+      "price": 168.0,
+      "sale_price": 50.0,
+      "stock": 15
+    },
+    "pending": false
+  },
   "42164930": {
     "notified": {
       "discount_percent": 50.0,
@@ -1339,6 +1367,34 @@
     },
     "pending": false
   },
+  "5027136": {
+    "notified": {
+      "discount_percent": 50.02,
+      "id": 5027136,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2e1da17936127bb1d222c6bc88c60b168945c8a0189125d98c32f4254d5842a1",
+      "name": {
+        "ar": "بريدفاست مكسرات مشكلة مملحة و ممحمصة (200 جرام)",
+        "en": "Breadfast Salted Deluxe Mixed Nuts (200g)"
+      },
+      "price": 299.88,
+      "reason": "new_discount",
+      "sale_price": 149.88,
+      "stock": 15
+    },
+    "observed": {
+      "discount_percent": 50.02,
+      "id": 5027136,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2e1da17936127bb1d222c6bc88c60b168945c8a0189125d98c32f4254d5842a1",
+      "name": {
+        "ar": "بريدفاست مكسرات مشكلة مملحة و ممحمصة (200 جرام)",
+        "en": "Breadfast Salted Deluxe Mixed Nuts (200g)"
+      },
+      "price": 299.88,
+      "sale_price": 149.88,
+      "stock": 15
+    },
+    "pending": false
+  },
   "50967924": {
     "notified": {
       "discount_percent": 50.0,
@@ -1380,34 +1436,6 @@
       "price": 7470.0,
       "sale_price": 3735.0,
       "stock": 0
-    },
-    "pending": false
-  },
-  "51759996": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 51759996,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
-      "name": {
-        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
-        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
-      },
-      "price": 1500.0,
-      "reason": "new_discount",
-      "sale_price": 750.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51759996,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
-      "name": {
-        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
-        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
-      },
-      "price": 1500.0,
-      "sale_price": 750.0,
-      "stock": 1
     },
     "pending": false
   },
