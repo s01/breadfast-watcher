@@ -434,6 +434,22 @@
     },
     "pending": false
   },
+  "40847996": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40847996,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3b2477b4c226f1241046ce5b0b33a213e68f0021219d6c9401ca895efa7d6961",
+      "name": {
+        "ar": "جرانولا",
+        "en": "Granola Cup"
+      },
+      "price": 25.0,
+      "sale_price": 12.5,
+      "stock": 0
+    },
+    "pending": false
+  },
   "41021944": {
     "notified": {
       "discount_percent": 58.431,
@@ -2089,6 +2105,22 @@
     },
     "pending": false
   },
+  "60597081": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 51.0,
+      "id": 60597081,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/32220438d4f5548bd394f9236cbd18a9fda86906d3fa0536960ded75696b8d0c",
+      "name": {
+        "ar": "دانيش جبنة كريمي بارميزان",
+        "en": "Parmesan Cream Cheese Danish"
+      },
+      "price": 100.0,
+      "sale_price": 49.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "60673171": {
     "notified": {
       "discount_percent": 50.0,
@@ -2832,22 +2864,6 @@
     },
     "pending": false
   },
-  "65283851": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 65283851,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e6d6dc723befc6db28948ad7146e5ed372945cb2d923867f1b9b62097c0aa0fe",
-      "name": {
-        "ar": "ريلي جود حمص (150 جرام)",
-        "en": "ReallyGood Hummus (150g)"
-      },
-      "price": 60.0,
-      "sale_price": 30.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "65670995": {
     "notified": {
       "discount_percent": 50.0,
@@ -2960,22 +2976,6 @@
     },
     "pending": false
   },
-  "66521709": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 54.907,
-      "id": 66521709,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03621b3aa178a875109e43c3cd73cf249957a957b336f06ce72c085647a19295",
-      "name": {
-        "ar": "إيت يور درينك بينك ليمونيد",
-        "en": "Eat Your Drink Pink Lemonade"
-      },
-      "price": 140.0,
-      "sale_price": 63.13,
-      "stock": 0
-    },
-    "pending": false
-  },
   "67016177": {
     "notified": {
       "discount_percent": 50.0,
@@ -3029,6 +3029,34 @@
       "price": 25.0,
       "sale_price": 11.25,
       "stock": 0
+    },
+    "pending": false
+  },
+  "72232977": {
+    "notified": {
+      "discount_percent": 59.0,
+      "id": 72232977,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/79aeb7dad19a9348de971af3f4709044a60a9c4974f0b68901c6dd016dc89ee7",
+      "name": {
+        "ar": "باوند كيك بالتفاح والكراميل",
+        "en": "Apple Caramel Pound Cake"
+      },
+      "price": 175.0,
+      "reason": "new_discount",
+      "sale_price": 71.75,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 59.0,
+      "id": 72232977,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/79aeb7dad19a9348de971af3f4709044a60a9c4974f0b68901c6dd016dc89ee7",
+      "name": {
+        "ar": "باوند كيك بالتفاح والكراميل",
+        "en": "Apple Caramel Pound Cake"
+      },
+      "price": 175.0,
+      "sale_price": 71.75,
+      "stock": 1
     },
     "pending": false
   }
