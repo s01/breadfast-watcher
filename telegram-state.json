@@ -2017,34 +2017,6 @@
     },
     "pending": false
   },
-  "60673176": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673176,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d7cf50bb2c04ba0d7083f11edb3d5072e1bf189103f8af90936903e04e219557",
-      "name": {
-        "ar": "رويال إس كيرى شيدر (500g)",
-        "en": "Royal S Kiri Cheedr (500g)"
-      },
-      "price": 130.8,
-      "reason": "new_discount",
-      "sale_price": 65.4,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673176,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d7cf50bb2c04ba0d7083f11edb3d5072e1bf189103f8af90936903e04e219557",
-      "name": {
-        "ar": "رويال إس كيرى شيدر (500g)",
-        "en": "Royal S Kiri Cheedr (500g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673177": {
     "notified": {
       "discount_percent": 50.0,
@@ -2069,62 +2041,6 @@
       },
       "price": 130.8,
       "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673178": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673178,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/25374d1581e2803cd521e49316e32a8354d9eb61ee5a071938acb78cd649a161",
-      "name": {
-        "ar": "رويال إس كيرى قشطة (500g)",
-        "en": "Royal S Kiri Kashta (500g)"
-      },
-      "price": 130.8,
-      "reason": "new_discount",
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673178,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/25374d1581e2803cd521e49316e32a8354d9eb61ee5a071938acb78cd649a161",
-      "name": {
-        "ar": "رويال إس كيرى قشطة (500g)",
-        "en": "Royal S Kiri Kashta (500g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673185": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673185,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
-      "name": {
-        "ar": "رويال إس حلوم (300g)",
-        "en": "Royal S Halloumi Cheese (300g)"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 75.0,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673185,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
-      "name": {
-        "ar": "رويال إس حلوم (300g)",
-        "en": "Royal S Halloumi Cheese (300g)"
-      },
-      "price": 150.0,
-      "sale_price": 75.0,
       "stock": 1
     },
     "pending": false
