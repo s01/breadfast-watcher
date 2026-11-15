@@ -1,4 +1,60 @@
 {
+  "19866840": {
+    "notified": {
+      "discount_percent": 55.0,
+      "id": 19866840,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/Saute-Mix-Slices.jpg",
+      "name": {
+        "ar": "ريلي جود خضار سوتيه -شرائح (400ج)",
+        "en": "ReallyGood Sautee Mix- Slices (400g)"
+      },
+      "price": 50.0,
+      "reason": "new_discount",
+      "sale_price": 22.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 19866840,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/Saute-Mix-Slices.jpg",
+      "name": {
+        "ar": "ريلي جود خضار سوتيه -شرائح (400ج)",
+        "en": "ReallyGood Sautee Mix- Slices (400g)"
+      },
+      "price": 50.0,
+      "sale_price": 22.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "21096511": {
+    "notified": {
+      "discount_percent": 53.0,
+      "id": 21096511,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Creamy-Plain.jpg",
+      "name": {
+        "ar": "جبنة كريمي سادة (300 جرام)",
+        "en": "Creamy Cheese Plain (300g)"
+      },
+      "price": 69.0,
+      "reason": "new_discount",
+      "sale_price": 32.43,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 53.0,
+      "id": 21096511,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Creamy-Plain.jpg",
+      "name": {
+        "ar": "جبنة كريمي سادة (300 جرام)",
+        "en": "Creamy Cheese Plain (300g)"
+      },
+      "price": 69.0,
+      "sale_price": 32.43,
+      "stock": 4
+    },
+    "pending": false
+  },
   "21770695": {
     "notified": {
       "discount_percent": 50.0,
@@ -663,7 +719,7 @@
       },
       "price": 420.0,
       "sale_price": 210.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
