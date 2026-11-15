@@ -415,6 +415,78 @@
     },
     "pending": false
   },
+  "50984283": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 50984283,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1ebd906a4fd5871011efb45bbdb077d2fedc680c21c0c8d63669a16120c4c36a",
+      "name": {
+        "ar": "جان بول غوتييه سكاندال اليكسير او دو بارفان للنساء (50 مل)",
+        "en": "Jean Paul Gaultier Scandal Elixir EDP For Her (50ml)"
+      },
+      "price": 7470.0,
+      "sale_price": 3735.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "51473684": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51473684,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875912600/2f60374efcace486.jpg",
+      "name": {
+        "ar": "فيشي سيروم ليفت أكتيف كولاجين سبيشيالست 16 (30 مل)",
+        "en": "Vichy Liftactiv Collagen Specialist 16 Serum (30ml)"
+      },
+      "price": 2000.0,
+      "reason": "new_discount",
+      "sale_price": 1000.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51473684,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875912600/2f60374efcace486.jpg",
+      "name": {
+        "ar": "فيشي سيروم ليفت أكتيف كولاجين سبيشيالست 16 (30 مل)",
+        "en": "Vichy Liftactiv Collagen Specialist 16 Serum (30ml)"
+      },
+      "price": 2000.0,
+      "sale_price": 1000.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "51759996": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51759996,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
+      "name": {
+        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
+        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
+      },
+      "price": 1500.0,
+      "reason": "new_discount",
+      "sale_price": 750.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51759996,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
+      "name": {
+        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
+        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
+      },
+      "price": 1500.0,
+      "sale_price": 750.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "51881796": {
     "notified": {
       "discount_percent": 50.0,
@@ -468,6 +540,22 @@
       "price": 383.0,
       "sale_price": 153.2,
       "stock": 1
+    },
+    "pending": false
+  },
+  "54136901": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.032,
+      "id": 54136901,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7ca0b48192b337476f5ef0808ed650c0c4d937ec1e87bf1e44b6d98b501c97d7",
+      "name": {
+        "ar": "لطافة أسد الكسير او دي بارفان للرجال (100 مل)",
+        "en": "Lattafa Asad Elixir EDP For Him (100ml)"
+      },
+      "price": 1575.0,
+      "sale_price": 787.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -1333,6 +1421,22 @@
       "price": 189.0,
       "sale_price": 94.5,
       "stock": 7
+    },
+    "pending": false
+  },
+  "62434450": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 62434450,
+      "image": "https://iili.io/CuPzYOP.jpg",
+      "name": {
+        "ar": "إيتين بلس ليب جلوس بوب (6 مل)",
+        "en": "Eighteen Plus Lip Gloss Pop (6ml)"
+      },
+      "price": 299.0,
+      "sale_price": 149.5,
+      "stock": 0
     },
     "pending": false
   },
