@@ -2871,5 +2871,33 @@
       "stock": 1
     },
     "pending": false
+  },
+  "71572380": {
+    "notified": {
+      "discount_percent": 51.236,
+      "id": 71572380,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c18220e8ed264f1f8d225fa0c37bff9d63df7c602c73c61caab42dc1afd3dff",
+      "name": {
+        "ar": "بودينج موز حجم كبير",
+        "en": "Banana Pudding Shareable"
+      },
+      "price": 525.0,
+      "reason": "new_discount",
+      "sale_price": 256.01,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 51.236,
+      "id": 71572380,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c18220e8ed264f1f8d225fa0c37bff9d63df7c602c73c61caab42dc1afd3dff",
+      "name": {
+        "ar": "بودينج موز حجم كبير",
+        "en": "Banana Pudding Shareable"
+      },
+      "price": 525.0,
+      "sale_price": 256.01,
+      "stock": 1
+    },
+    "pending": false
   }
 }
