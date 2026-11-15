@@ -23,7 +23,7 @@
       },
       "price": 50.0,
       "sale_price": 17.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -191,7 +191,7 @@
       },
       "price": 50.0,
       "sale_price": 9.95,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -275,7 +275,23 @@
       },
       "price": 38.0,
       "sale_price": 16.34,
-      "stock": 1
+      "stock": 0
+    },
+    "pending": false
+  },
+  "37181905": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 37181905,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0b1558eeab6175a7f5e76b9199a992b3b7618bbb787a71f2d52e42fd1bb714ac",
+      "name": {
+        "ar": "فيجو كابوتشا (1 قطعه)",
+        "en": "Vigo Iceberg Lettuce (1 Piece)"
+      },
+      "price": 22.0,
+      "sale_price": 9.9,
+      "stock": 0
     },
     "pending": false
   },
@@ -581,7 +597,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -608,7 +624,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -664,7 +680,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 5
+      "stock": 6
     },
     "pending": false
   },
@@ -719,7 +735,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 2
+      "stock": 5
     },
     "pending": false
   },
@@ -1083,7 +1099,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -1195,7 +1211,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1251,7 +1267,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -1363,7 +1379,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -1391,7 +1407,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 4
+      "stock": 5
     },
     "pending": false
   },
@@ -1495,6 +1511,34 @@
     },
     "pending": false
   },
+  "51759996": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51759996,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
+      "name": {
+        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
+        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
+      },
+      "price": 1500.0,
+      "reason": "new_discount",
+      "sale_price": 750.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51759996,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a76b3dba84853cddc9df205f4c5b0116663b0fed09a4de5a908a54205b2daf87",
+      "name": {
+        "ar": "كريم ماري آند ماي سبيكيول كولاجين (15 غرام)",
+        "en": "Mary & May Spicule Collagen PDRN Cream (15g)"
+      },
+      "price": 1500.0,
+      "sale_price": 750.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "51881739": {
     "notified": {
       "discount_percent": 50.0,
@@ -1547,7 +1591,7 @@
       },
       "price": 475.0,
       "sale_price": 237.5,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -1575,7 +1619,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -2013,7 +2057,7 @@
       },
       "price": 230.0,
       "sale_price": 115.0,
-      "stock": 2
+      "stock": 4
     },
     "pending": false
   },
@@ -2461,7 +2505,7 @@
       },
       "price": 395.0,
       "sale_price": 197.5,
-      "stock": 1
+      "stock": 5
     },
     "pending": false
   },
@@ -2489,7 +2533,7 @@
       },
       "price": 375.0,
       "sale_price": 187.5,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -2828,7 +2872,7 @@
       },
       "price": 350.0,
       "sale_price": 175.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2856,7 +2900,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -2912,7 +2956,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2956,7 +3000,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 4
     },
     "pending": false
   },
@@ -2984,7 +3028,7 @@
       },
       "price": 25.0,
       "sale_price": 11.25,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   }
