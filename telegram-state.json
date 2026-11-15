@@ -138,6 +138,118 @@
     },
     "pending": false
   },
+  "40105504": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105504,
+      "image": "https://i.ibb.co/jPt2VrgT/Drakon-sun-screen-promo-pack-150-60-no-price.png",
+      "name": {
+        "ar": "دراكون كريم جل واقي من الشمس (150 مل + 60 مل)",
+        "en": "Drakon Sunscreen Gel Cream (150ml + 60ml)"
+      },
+      "price": 998.0,
+      "reason": "new_discount",
+      "sale_price": 499.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105504,
+      "image": "https://i.ibb.co/jPt2VrgT/Drakon-sun-screen-promo-pack-150-60-no-price.png",
+      "name": {
+        "ar": "دراكون كريم جل واقي من الشمس (150 مل + 60 مل)",
+        "en": "Drakon Sunscreen Gel Cream (150ml + 60ml)"
+      },
+      "price": 998.0,
+      "sale_price": 499.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105511": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105511,
+      "image": "https://i.ibb.co/zhLrnSw5/Offer-Drakon-Whitening-Roll-On-Deodorant-Lollipop-candy-1-1.png",
+      "name": {
+        "ar": "دراكون مزيل عرق رول لتبييض البشرة بنكهة اللولي بوب (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Lollipop candy (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105511,
+      "image": "https://i.ibb.co/zhLrnSw5/Offer-Drakon-Whitening-Roll-On-Deodorant-Lollipop-candy-1-1.png",
+      "name": {
+        "ar": "دراكون مزيل عرق رول لتبييض البشرة بنكهة اللولي بوب (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Lollipop candy (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105513": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105513,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d1b599c9cc5d2d5f07de4cee617677e267a49636a928ad6d8b752b2389fd3e5a",
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة باشن بيك (50 مل+ 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Passion Peak (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105513,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d1b599c9cc5d2d5f07de4cee617677e267a49636a928ad6d8b752b2389fd3e5a",
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة باشن بيك (50 مل+ 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Passion Peak (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105515": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105515,
+      "image": "https://i.ibb.co/pjLG0DR1/Offer-Drakon-Whitening-Roll-On-Deodorant-Oriental-Oud-1-1.png",
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة برائحة العود الشرقي (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Oriental Oud (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105515,
+      "image": "https://i.ibb.co/pjLG0DR1/Offer-Drakon-Whitening-Roll-On-Deodorant-Oriental-Oud-1-1.png",
+      "name": {
+        "ar": "دراكون مزيل عرق رول أون لتبييض البشرة برائحة العود الشرقي (50 مل + 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant Oriental Oud (50ml + 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "42164930": {
     "notified": {
       "discount_percent": 50.0,
@@ -359,6 +471,34 @@
     },
     "pending": false
   },
+  "44295637": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295637,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4a661aeb563de623d96b20976ad70225dfdd721786f32b15b32dfd2a8c8ef4ee",
+      "name": {
+        "ar": "فاكيشن سيروم فيتامين سي 10٪ ٣٠ مل",
+        "en": "Vacation Vitamin C 10% 30 ml"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295637,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4a661aeb563de623d96b20976ad70225dfdd721786f32b15b32dfd2a8c8ef4ee",
+      "name": {
+        "ar": "فاكيشن سيروم فيتامين سي 10٪ ٣٠ مل",
+        "en": "Vacation Vitamin C 10% 30 ml"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "pending": false
+  },
   "44692107": {
     "notified": {
       "discount_percent": 50.0,
@@ -487,6 +627,34 @@
     },
     "pending": false
   },
+  "51881740": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881740,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/46a78f25622030d3e2d8ec7717127727655006935a8b1e7204a0168aefd2eabf",
+      "name": {
+        "ar": "سورالون بخاخ سيكا (100 مل)",
+        "en": "Soralone Cica Spray (100ml)"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881740,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/46a78f25622030d3e2d8ec7717127727655006935a8b1e7204a0168aefd2eabf",
+      "name": {
+        "ar": "سورالون بخاخ سيكا (100 مل)",
+        "en": "Soralone Cica Spray (100ml)"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "pending": false
+  },
   "51881796": {
     "notified": {
       "discount_percent": 50.0,
@@ -512,6 +680,62 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 1
+    },
+    "pending": false
+  },
+  "51881797": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881797,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4889221df687abec768ace7d858a24a5aa63bfb3e43076d6ab4842eca9883094",
+      "name": {
+        "ar": "فاكيشن سيروم أرجيريلين 10% (30 مل)",
+        "en": "Vacation Argireline Serum 10% (30ml)"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881797,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4889221df687abec768ace7d858a24a5aa63bfb3e43076d6ab4842eca9883094",
+      "name": {
+        "ar": "فاكيشن سيروم أرجيريلين 10% (30 مل)",
+        "en": "Vacation Argireline Serum 10% (30ml)"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "51881798": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881798,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7c84bd1ef31a58515b53bebc386454bc3f6f8e7226370f992c4f028eaa731607",
+      "name": {
+        "ar": "فاكيشن سيروم الكافيين 5% (30 مل)",
+        "en": "Vacation Caffeine Serum 5% (30ml)"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881798,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7c84bd1ef31a58515b53bebc386454bc3f6f8e7226370f992c4f028eaa731607",
+      "name": {
+        "ar": "فاكيشن سيروم الكافيين 5% (30 مل)",
+        "en": "Vacation Caffeine Serum 5% (30ml)"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 2
     },
     "pending": false
   },
