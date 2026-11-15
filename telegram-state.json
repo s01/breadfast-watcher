@@ -138,6 +138,118 @@
     },
     "pending": false
   },
+  "42164930": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42164930,
+      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
+      },
+      "price": 6800.0,
+      "reason": "new_discount",
+      "sale_price": 3400.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42164930,
+      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
+      },
+      "price": 6800.0,
+      "sale_price": 3400.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "42164932": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42164932,
+      "image": "https://i.ibb.co/6f13vrh/4989225532.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن برفيوم للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean Parfum For Him (50ml)"
+      },
+      "price": 7200.0,
+      "reason": "new_discount",
+      "sale_price": 3600.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42164932,
+      "image": "https://i.ibb.co/6f13vrh/4989225532.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن برفيوم للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean Parfum For Him (50ml)"
+      },
+      "price": 7200.0,
+      "sale_price": 3600.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "42882498": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "image": "https://i.ibb.co/W4S5qmZ9/hyalusolaire-milk.png",
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "reason": "new_discount",
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "image": "https://i.ibb.co/W4S5qmZ9/hyalusolaire-milk.png",
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "43658238": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 43658238,
+      "image": "https://i.ibb.co/PzvkrY6x/AC-Lamp-for-T3.jpg",
+      "name": {
+        "ar": "ملاي عدسة ازالة الشعر لحب الشباب جهاز T3",
+        "en": "Mlay Ac Lamp For T3"
+      },
+      "price": 1000.0,
+      "reason": "new_discount",
+      "sale_price": 500.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 43658238,
+      "image": "https://i.ibb.co/PzvkrY6x/AC-Lamp-for-T3.jpg",
+      "name": {
+        "ar": "ملاي عدسة ازالة الشعر لحب الشباب جهاز T3",
+        "en": "Mlay Ac Lamp For T3"
+      },
+      "price": 1000.0,
+      "sale_price": 500.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "44295613": {
     "notified": {
       "discount_percent": 50.0,
@@ -969,6 +1081,34 @@
       },
       "price": 216.0,
       "sale_price": 108.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60676796": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "reason": "new_discount",
+      "sale_price": 649.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "sale_price": 649.5,
       "stock": 1
     },
     "pending": false
