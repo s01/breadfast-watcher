@@ -163,7 +163,7 @@
       },
       "price": 50.0,
       "sale_price": 9.95,
-      "stock": 3
+      "stock": 1
     },
     "pending": false
   },
@@ -2900,34 +2900,6 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "65810463": {
-    "notified": {
-      "discount_percent": 51.333,
-      "id": 65810463,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5a45f5cedc1d616ff2d54846a9f944903f8245c72f83ff0194495587bd9e0f41",
-      "name": {
-        "ar": "بدون سكر – بودينج الموز",
-        "en": "Zero Sugar Banana Pudding"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 73.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 51.333,
-      "id": 65810463,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5a45f5cedc1d616ff2d54846a9f944903f8245c72f83ff0194495587bd9e0f41",
-      "name": {
-        "ar": "بدون سكر – بودينج الموز",
-        "en": "Zero Sugar Banana Pudding"
-      },
-      "price": 150.0,
-      "sale_price": 73.0,
       "stock": 1
     },
     "pending": false
