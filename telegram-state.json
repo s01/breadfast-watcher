@@ -1,7 +1,7 @@
 {
   "19866840": {
     "notified": {
-      "discount_percent": 55.0,
+      "discount_percent": 65.0,
       "id": 19866840,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/Saute-Mix-Slices.jpg",
       "name": {
@@ -9,12 +9,12 @@
         "en": "ReallyGood Sautee Mix- Slices (400g)"
       },
       "price": 50.0,
-      "reason": "new_discount",
-      "sale_price": 22.5,
+      "reason": "improved_discount",
+      "sale_price": 17.5,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 55.0,
+      "discount_percent": 65.0,
       "id": 19866840,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/Saute-Mix-Slices.jpg",
       "name": {
@@ -22,14 +22,14 @@
         "en": "ReallyGood Sautee Mix- Slices (400g)"
       },
       "price": 50.0,
-      "sale_price": 22.5,
+      "sale_price": 17.5,
       "stock": 1
     },
     "pending": false
   },
   "21096511": {
     "notified": {
-      "discount_percent": 53.0,
+      "discount_percent": 63.0,
       "id": 21096511,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Creamy-Plain.jpg",
       "name": {
@@ -37,12 +37,12 @@
         "en": "Creamy Cheese Plain (300g)"
       },
       "price": 69.0,
-      "reason": "new_discount",
-      "sale_price": 32.43,
+      "reason": "improved_discount",
+      "sale_price": 25.53,
       "stock": 4
     },
     "observed": {
-      "discount_percent": 53.0,
+      "discount_percent": 63.0,
       "id": 21096511,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Creamy-Plain.jpg",
       "name": {
@@ -50,7 +50,7 @@
         "en": "Creamy Cheese Plain (300g)"
       },
       "price": 69.0,
-      "sale_price": 32.43,
+      "sale_price": 25.53,
       "stock": 4
     },
     "pending": false
@@ -247,6 +247,34 @@
       },
       "price": 410.0,
       "sale_price": 205.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "3367277": {
+    "notified": {
+      "discount_percent": 57.0,
+      "id": 3367277,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-1wh.png",
+      "name": {
+        "ar": "جريبفروت ابيض (1 كيلو)",
+        "en": "White Grapefruit (1kg)"
+      },
+      "price": 38.0,
+      "reason": "new_discount",
+      "sale_price": 16.34,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 57.0,
+      "id": 3367277,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-1wh.png",
+      "name": {
+        "ar": "جريبفروت ابيض (1 كيلو)",
+        "en": "White Grapefruit (1kg)"
+      },
+      "price": 38.0,
+      "sale_price": 16.34,
       "stock": 1
     },
     "pending": false
@@ -2929,6 +2957,34 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 1
+    },
+    "pending": false
+  },
+  "6898086": {
+    "notified": {
+      "discount_percent": 55.0,
+      "id": 6898086,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3fc87fbb0f53811d6fb238ca5b2247b0a537192b65296e79f93fba2c76ec3f88",
+      "name": {
+        "ar": "ملوخية (250 جرام)",
+        "en": "Molokheya (250g)"
+      },
+      "price": 25.0,
+      "reason": "new_discount",
+      "sale_price": 11.25,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 6898086,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3fc87fbb0f53811d6fb238ca5b2247b0a537192b65296e79f93fba2c76ec3f88",
+      "name": {
+        "ar": "ملوخية (250 جرام)",
+        "en": "Molokheya (250g)"
+      },
+      "price": 25.0,
+      "sale_price": 11.25,
+      "stock": 2
     },
     "pending": false
   }
