@@ -1,32 +1,4 @@
 {
-  "20418": {
-    "notified": {
-      "discount_percent": 63.333,
-      "id": 20418,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mini-zucchini-muffins-pi-1.png",
-      "name": {
-        "ar": "5 ميني مافن كوسة وجزر",
-        "en": "5 Mini Zucchini & Carrot Muffins"
-      },
-      "price": 60.0,
-      "reason": "new_discount",
-      "sale_price": 22.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 63.333,
-      "id": 20418,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mini-zucchini-muffins-pi-1.png",
-      "name": {
-        "ar": "5 ميني مافن كوسة وجزر",
-        "en": "5 Mini Zucchini & Carrot Muffins"
-      },
-      "price": 60.0,
-      "sale_price": 22.0,
-      "stock": 3
-    },
-    "pending": false
-  },
   "21770695": {
     "notified": {
       "discount_percent": 50.0,
@@ -1439,34 +1411,6 @@
     },
     "pending": false
   },
-  "5186": {
-    "notified": {
-      "discount_percent": 63.333,
-      "id": 5186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mini-chocolate-muffins-pi-1-1.png",
-      "name": {
-        "ar": "5 ميني مافن شيكولاتة",
-        "en": "5 Mini Chocolate Muffins"
-      },
-      "price": 60.0,
-      "reason": "new_discount",
-      "sale_price": 22.0,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 63.333,
-      "id": 5186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mini-chocolate-muffins-pi-1-1.png",
-      "name": {
-        "ar": "5 ميني مافن شيكولاتة",
-        "en": "5 Mini Chocolate Muffins"
-      },
-      "price": 60.0,
-      "sale_price": 22.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "51881739": {
     "notified": {
       "discount_percent": 50.0,
@@ -2760,26 +2704,10 @@
     },
     "pending": false
   },
-  "65277926": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 69.6,
-      "id": 65277926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1c7f6e768496184459a21bf1b93719d1ebfde4f5090b024cfa648078b470268c",
-      "name": {
-        "ar": "ريلي جود ترمس (150 جرام)",
-        "en": "ReallyGood Termess (150g)"
-      },
-      "price": 60.0,
-      "sale_price": 18.24,
-      "stock": 0
-    },
-    "pending": false
-  },
   "65283851": {
     "notified": null,
     "observed": {
-      "discount_percent": 60.417,
+      "discount_percent": 50.0,
       "id": 65283851,
       "image": "https://cdn.breadfast.com/wp-content/uploads/e6d6dc723befc6db28948ad7146e5ed372945cb2d923867f1b9b62097c0aa0fe",
       "name": {
@@ -2787,7 +2715,7 @@
         "en": "ReallyGood Hummus (150g)"
       },
       "price": 60.0,
-      "sale_price": 23.75,
+      "sale_price": 30.0,
       "stock": 0
     },
     "pending": false
@@ -2945,94 +2873,6 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 1
-    },
-    "pending": false
-  },
-  "71306067": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 71306067,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c025409a74ed02c475074a07bf9a1c8e00cd48bccf0da8354a5590cb0d0788ea",
-      "name": {
-        "ar": "ميني مافن بزبدة الفول السوداني والموز (5 قطع)",
-        "en": "Wholesome Peanut Butter & Banana Mini Muffins (5pcs)"
-      },
-      "price": 70.0,
-      "reason": "new_discount",
-      "sale_price": 28.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 71306067,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c025409a74ed02c475074a07bf9a1c8e00cd48bccf0da8354a5590cb0d0788ea",
-      "name": {
-        "ar": "ميني مافن بزبدة الفول السوداني والموز (5 قطع)",
-        "en": "Wholesome Peanut Butter & Banana Mini Muffins (5pcs)"
-      },
-      "price": 70.0,
-      "sale_price": 28.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "71306096": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 67.143,
-      "id": 71306096,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/202d1b668feebf446c14bdfce99b31a812e55a11c16d7a9ac5dbb39dcc5ce366",
-      "name": {
-        "ar": "مافن بالتمر والجوز",
-        "en": "Wholesome Dates and Walnuts Muffin"
-      },
-      "price": 70.0,
-      "sale_price": 23.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "71572380": {
-    "notified": {
-      "discount_percent": 51.236,
-      "id": 71572380,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3c18220e8ed264f1f8d225fa0c37bff9d63df7c602c73c61caab42dc1afd3dff",
-      "name": {
-        "ar": "بودينج موز حجم كبير",
-        "en": "Banana Pudding Shareable"
-      },
-      "price": 525.0,
-      "reason": "new_discount",
-      "sale_price": 256.01,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 51.236,
-      "id": 71572380,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3c18220e8ed264f1f8d225fa0c37bff9d63df7c602c73c61caab42dc1afd3dff",
-      "name": {
-        "ar": "بودينج موز حجم كبير",
-        "en": "Banana Pudding Shareable"
-      },
-      "price": 525.0,
-      "sale_price": 256.01,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "7299308": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 51.22,
-      "id": 7299308,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mini-ginger-cookies.png",
-      "name": {
-        "ar": "ميني كوكيز بالجنزبيل والقرفة",
-        "en": "Ginger & Cinnamon Mini Cookies (5pcs)"
-      },
-      "price": 50.0,
-      "sale_price": 24.39,
-      "stock": 0
     },
     "pending": false
   }
