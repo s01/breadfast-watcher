@@ -1414,7 +1414,7 @@
       "stock": 11
     },
     "observed": {
-      "discount_percent": 60.0,
+      "discount_percent": 50.4,
       "id": 44737950,
       "image": "https://cdn.breadfast.com/wp-content/uploads/84920049b9de519cbd3382affd6fbce214478f6cc493128c269f1c86404fa72c",
       "name": {
@@ -1422,7 +1422,7 @@
         "en": "Breadfast Muddy Bites - Pistachio (100g)"
       },
       "price": 125.0,
-      "sale_price": 50.0,
+      "sale_price": 62.0,
       "stock": 11
     },
     "pending": false
