@@ -1399,6 +1399,34 @@
     },
     "pending": false
   },
+  "44737950": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 44737950,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/84920049b9de519cbd3382affd6fbce214478f6cc493128c269f1c86404fa72c",
+      "name": {
+        "ar": "بريدفاست ميني كونز - فستق (100 جرام)",
+        "en": "Breadfast Muddy Bites - Pistachio (100g)"
+      },
+      "price": 125.0,
+      "reason": "new_discount",
+      "sale_price": 50.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 44737950,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/84920049b9de519cbd3382affd6fbce214478f6cc493128c269f1c86404fa72c",
+      "name": {
+        "ar": "بريدفاست ميني كونز - فستق (100 جرام)",
+        "en": "Breadfast Muddy Bites - Pistachio (100g)"
+      },
+      "price": 125.0,
+      "sale_price": 50.0,
+      "stock": 11
+    },
+    "pending": false
+  },
   "50967924": {
     "notified": {
       "discount_percent": 50.0,
@@ -1580,6 +1608,34 @@
       "price": 475.0,
       "sale_price": 237.5,
       "stock": 2
+    },
+    "pending": false
+  },
+  "52555710": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 52555710,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9ab223937852f4ac82d6697864f52c85478411508b285abc909ca9fa8dfcd31a",
+      "name": {
+        "ar": "أماريتي كيك جيلاتو مانجو عويس",
+        "en": "Amaretti Mango Eweis Crumbles Gelato Cake"
+      },
+      "price": 780.0,
+      "reason": "new_discount",
+      "sale_price": 312.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 52555710,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9ab223937852f4ac82d6697864f52c85478411508b285abc909ca9fa8dfcd31a",
+      "name": {
+        "ar": "أماريتي كيك جيلاتو مانجو عويس",
+        "en": "Amaretti Mango Eweis Crumbles Gelato Cake"
+      },
+      "price": 780.0,
+      "sale_price": 312.0,
+      "stock": 3
     },
     "pending": false
   },
