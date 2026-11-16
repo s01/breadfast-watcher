@@ -1,4 +1,32 @@
 {
+  "1514555": {
+    "notified": {
+      "discount_percent": 50.233,
+      "id": 1514555,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/05892582b0e2f488e0ec621447e6f7c7b3936848a807ffd446ae0554e5fb64a8",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
+        "en": "Axe Deodorant Spray Black Temptation For Men (150ml)"
+      },
+      "price": 215.0,
+      "reason": "new_discount",
+      "sale_price": 107.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.233,
+      "id": 1514555,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/05892582b0e2f488e0ec621447e6f7c7b3936848a807ffd446ae0554e5fb64a8",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
+        "en": "Axe Deodorant Spray Black Temptation For Men (150ml)"
+      },
+      "price": 215.0,
+      "sale_price": 107.0,
+      "stock": 3
+    },
+    "pending": false
+  },
   "21770695": {
     "notified": {
       "discount_percent": 50.0,
@@ -391,6 +419,34 @@
       "price": 12.0,
       "sale_price": 5.4,
       "stock": 0
+    },
+    "pending": false
+  },
+  "41619157": {
+    "notified": {
+      "discount_percent": 70.068,
+      "id": 41619157,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cb67b10b2820fd83b63af864e8ebb03326c26338ce7bd67953a466c4c616e48c",
+      "name": {
+        "ar": "فشار مملح من بريدفاست (١٠٠ غرام)",
+        "en": "Breadfast Salted Popcorn Bucket (100g)"
+      },
+      "price": 147.0,
+      "reason": "new_discount",
+      "sale_price": 44.0,
+      "stock": 12
+    },
+    "observed": {
+      "discount_percent": 70.068,
+      "id": 41619157,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cb67b10b2820fd83b63af864e8ebb03326c26338ce7bd67953a466c4c616e48c",
+      "name": {
+        "ar": "فشار مملح من بريدفاست (١٠٠ غرام)",
+        "en": "Breadfast Salted Popcorn Bucket (100g)"
+      },
+      "price": 147.0,
+      "sale_price": 44.0,
+      "stock": 12
     },
     "pending": false
   },
