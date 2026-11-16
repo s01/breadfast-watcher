@@ -1371,34 +1371,6 @@
     },
     "pending": false
   },
-  "44737950": {
-    "notified": {
-      "discount_percent": 50.4,
-      "id": 44737950,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/84920049b9de519cbd3382affd6fbce214478f6cc493128c269f1c86404fa72c",
-      "name": {
-        "ar": "بريدفاست ميني كونز - فستق (100 جرام)",
-        "en": "Breadfast Muddy Bites - Pistachio (100g)"
-      },
-      "price": 125.0,
-      "reason": "new_discount",
-      "sale_price": 62.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.4,
-      "id": 44737950,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/84920049b9de519cbd3382affd6fbce214478f6cc493128c269f1c86404fa72c",
-      "name": {
-        "ar": "بريدفاست ميني كونز - فستق (100 جرام)",
-        "en": "Breadfast Muddy Bites - Pistachio (100g)"
-      },
-      "price": 125.0,
-      "sale_price": 62.0,
-      "stock": 11
-    },
-    "pending": false
-  },
   "50967924": {
     "notified": {
       "discount_percent": 50.0,
@@ -1624,34 +1596,6 @@
       "price": 1575.0,
       "sale_price": 787.0,
       "stock": 0
-    },
-    "pending": false
-  },
-  "54605277": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54605277,
-      "image": "https://images.barcodelookup.com/155024/1550246227-1.jpg",
-      "name": {
-        "ar": "ميديكوب إيج-آر غطاء رأس الأرنب الوردي بوستر برو (60 جرام)",
-        "en": "Medicube Age-R Booster Pro Pink Bunny Head Case (60g)"
-      },
-      "price": 1130.0,
-      "reason": "new_discount",
-      "sale_price": 565.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54605277,
-      "image": "https://images.barcodelookup.com/155024/1550246227-1.jpg",
-      "name": {
-        "ar": "ميديكوب إيج-آر غطاء رأس الأرنب الوردي بوستر برو (60 جرام)",
-        "en": "Medicube Age-R Booster Pro Pink Bunny Head Case (60g)"
-      },
-      "price": 1130.0,
-      "sale_price": 565.0,
-      "stock": 1
     },
     "pending": false
   },
