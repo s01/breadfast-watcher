@@ -1455,6 +1455,34 @@
     },
     "pending": false
   },
+  "44737950": {
+    "notified": {
+      "discount_percent": 50.4,
+      "id": 44737950,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/84920049b9de519cbd3382affd6fbce214478f6cc493128c269f1c86404fa72c",
+      "name": {
+        "ar": "بريدفاست ميني كونز - فستق (100 جرام)",
+        "en": "Breadfast Muddy Bites - Pistachio (100g)"
+      },
+      "price": 125.0,
+      "reason": "new_discount",
+      "sale_price": 62.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.4,
+      "id": 44737950,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/84920049b9de519cbd3382affd6fbce214478f6cc493128c269f1c86404fa72c",
+      "name": {
+        "ar": "بريدفاست ميني كونز - فستق (100 جرام)",
+        "en": "Breadfast Muddy Bites - Pistachio (100g)"
+      },
+      "price": 125.0,
+      "sale_price": 62.0,
+      "stock": 11
+    },
+    "pending": false
+  },
   "50967924": {
     "notified": {
       "discount_percent": 50.0,
@@ -1930,62 +1958,6 @@
       "price": 340.0,
       "sale_price": 170.0,
       "stock": 2
-    },
-    "pending": false
-  },
-  "57895503": {
-    "notified": {
-      "discount_percent": 62.988,
-      "id": 57895503,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/35be0ceb4e112cf66eba0f3082f4e68d22565f8e6e65754055bf384eac21807a",
-      "name": {
-        "ar": "بريدفاست فاصوليا خضراء مجففة بالتجميد (60 جم)",
-        "en": "Breadfast Freeze Dried Green Beans (60g)"
-      },
-      "price": 204.8,
-      "reason": "new_discount",
-      "sale_price": 75.8,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 62.988,
-      "id": 57895503,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/35be0ceb4e112cf66eba0f3082f4e68d22565f8e6e65754055bf384eac21807a",
-      "name": {
-        "ar": "بريدفاست فاصوليا خضراء مجففة بالتجميد (60 جم)",
-        "en": "Breadfast Freeze Dried Green Beans (60g)"
-      },
-      "price": 204.8,
-      "sale_price": 75.8,
-      "stock": 11
-    },
-    "pending": false
-  },
-  "57895505": {
-    "notified": {
-      "discount_percent": 62.988,
-      "id": 57895505,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ccaa825aa36b5ad317b22a4907e154e42e631c4094c8870e85d72df4c659c7cc",
-      "name": {
-        "ar": "بريدفاست كوسة مجففة بالتجميد (50 جم)",
-        "en": "Breadfast Freeze Dried Zucchini (50g)"
-      },
-      "price": 204.8,
-      "reason": "new_discount",
-      "sale_price": 75.8,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 62.988,
-      "id": 57895505,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ccaa825aa36b5ad317b22a4907e154e42e631c4094c8870e85d72df4c659c7cc",
-      "name": {
-        "ar": "بريدفاست كوسة مجففة بالتجميد (50 جم)",
-        "en": "Breadfast Freeze Dried Zucchini (50g)"
-      },
-      "price": 204.8,
-      "sale_price": 75.8,
-      "stock": 11
     },
     "pending": false
   },
