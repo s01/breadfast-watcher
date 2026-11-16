@@ -1877,6 +1877,62 @@
     },
     "pending": false
   },
+  "57895503": {
+    "notified": {
+      "discount_percent": 62.988,
+      "id": 57895503,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/35be0ceb4e112cf66eba0f3082f4e68d22565f8e6e65754055bf384eac21807a",
+      "name": {
+        "ar": "بريدفاست فاصوليا خضراء مجففة بالتجميد (60 جم)",
+        "en": "Breadfast Freeze Dried Green Beans (60g)"
+      },
+      "price": 204.8,
+      "reason": "new_discount",
+      "sale_price": 75.8,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 62.988,
+      "id": 57895503,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/35be0ceb4e112cf66eba0f3082f4e68d22565f8e6e65754055bf384eac21807a",
+      "name": {
+        "ar": "بريدفاست فاصوليا خضراء مجففة بالتجميد (60 جم)",
+        "en": "Breadfast Freeze Dried Green Beans (60g)"
+      },
+      "price": 204.8,
+      "sale_price": 75.8,
+      "stock": 11
+    },
+    "pending": false
+  },
+  "57895505": {
+    "notified": {
+      "discount_percent": 62.988,
+      "id": 57895505,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ccaa825aa36b5ad317b22a4907e154e42e631c4094c8870e85d72df4c659c7cc",
+      "name": {
+        "ar": "بريدفاست كوسة مجففة بالتجميد (50 جم)",
+        "en": "Breadfast Freeze Dried Zucchini (50g)"
+      },
+      "price": 204.8,
+      "reason": "new_discount",
+      "sale_price": 75.8,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 62.988,
+      "id": 57895505,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ccaa825aa36b5ad317b22a4907e154e42e631c4094c8870e85d72df4c659c7cc",
+      "name": {
+        "ar": "بريدفاست كوسة مجففة بالتجميد (50 جم)",
+        "en": "Breadfast Freeze Dried Zucchini (50g)"
+      },
+      "price": 204.8,
+      "sale_price": 75.8,
+      "stock": 11
+    },
+    "pending": false
+  },
   "60673171": {
     "notified": {
       "discount_percent": 50.0,
