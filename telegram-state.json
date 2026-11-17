@@ -1,4 +1,32 @@
 {
+  "11639350": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 11639350,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ccc05bba30a3bae15bdd5cc50a869e0347e2539cd6c34ef57869ef6c3938888c",
+      "name": {
+        "ar": "جرو لبن جوز هند خالى من اللاكتوز ,الجلوتين, سكر (1 لتر)",
+        "en": "Gro Coconut Milk Lactose ,Gluten, Sugar Free (1L)"
+      },
+      "price": 160.0,
+      "reason": "new_discount",
+      "sale_price": 80.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 11639350,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ccc05bba30a3bae15bdd5cc50a869e0347e2539cd6c34ef57869ef6c3938888c",
+      "name": {
+        "ar": "جرو لبن جوز هند خالى من اللاكتوز ,الجلوتين, سكر (1 لتر)",
+        "en": "Gro Coconut Milk Lactose ,Gluten, Sugar Free (1L)"
+      },
+      "price": 160.0,
+      "sale_price": 80.0,
+      "stock": 11
+    },
+    "pending": false
+  },
   "21770695": {
     "notified": {
       "discount_percent": 50.0,
@@ -1536,6 +1564,34 @@
       "price": 1575.0,
       "sale_price": 787.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "54605286": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54605286,
+      "image": "https://m.media-amazon.com/images/I/615CHdBfYAL._AC_SL1500_.jpg",
+      "name": {
+        "ar": "نومبوزين رقم 1 مسحوق بانتوثينيك B5 النشط لتجفيف البشرة (7 جرام)",
+        "en": "Numbuzin No.1 Pantothenic B5 Active Drying Powder (7g)"
+      },
+      "price": 520.0,
+      "reason": "new_discount",
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54605286,
+      "image": "https://m.media-amazon.com/images/I/615CHdBfYAL._AC_SL1500_.jpg",
+      "name": {
+        "ar": "نومبوزين رقم 1 مسحوق بانتوثينيك B5 النشط لتجفيف البشرة (7 جرام)",
+        "en": "Numbuzin No.1 Pantothenic B5 Active Drying Powder (7g)"
+      },
+      "price": 520.0,
+      "sale_price": 260.0,
+      "stock": 1
     },
     "pending": false
   },
