@@ -27,34 +27,6 @@
     },
     "pending": false
   },
-  "21771123": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21771123,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a850ce3a7d46119839dce100ad661c542fe3282eadf6af73eb5ca7305b04425c",
-      "name": {
-        "ar": "كان كيك شوكو فادج (160 جم)",
-        "en": "Can Cake Choco Fudge (160g)"
-      },
-      "price": 178.5,
-      "reason": "new_discount",
-      "sale_price": 89.25,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21771123,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a850ce3a7d46119839dce100ad661c542fe3282eadf6af73eb5ca7305b04425c",
-      "name": {
-        "ar": "كان كيك شوكو فادج (160 جم)",
-        "en": "Can Cake Choco Fudge (160g)"
-      },
-      "price": 178.5,
-      "sale_price": 89.25,
-      "stock": 1
-    },
-    "pending": false
-  },
   "21781255": {
     "notified": {
       "discount_percent": 50.0,
