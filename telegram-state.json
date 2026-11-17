@@ -1,32 +1,4 @@
 {
-  "1989637": {
-    "notified": {
-      "discount_percent": 64.045,
-      "id": 1989637,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/beef-lunchon-1.png",
-      "name": {
-        "ar": "حلواني لانشون بقري سادة (200 جرام)",
-        "en": "Halwani Beef Luncheon Plain (200g)"
-      },
-      "price": 89.0,
-      "reason": "new_discount",
-      "sale_price": 32.0,
-      "stock": 7
-    },
-    "observed": {
-      "discount_percent": 64.045,
-      "id": 1989637,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/beef-lunchon-1.png",
-      "name": {
-        "ar": "حلواني لانشون بقري سادة (200 جرام)",
-        "en": "Halwani Beef Luncheon Plain (200g)"
-      },
-      "price": 89.0,
-      "sale_price": 32.0,
-      "stock": 7
-    },
-    "pending": false
-  },
   "21770695": {
     "notified": {
       "discount_percent": 50.0,
@@ -83,34 +55,6 @@
     },
     "pending": false
   },
-  "24551145": {
-    "notified": {
-      "discount_percent": 70.0,
-      "id": 24551145,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/17bf4b28036ff0ec3502c26c83af31b1de5e7f2d650008ccb7962e5b488f7730",
-      "name": {
-        "ar": "ريتش بسطرمة (150جرام)",
-        "en": "Rich Pastirma (150g)"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 45.0,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 70.0,
-      "id": 24551145,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/17bf4b28036ff0ec3502c26c83af31b1de5e7f2d650008ccb7962e5b488f7730",
-      "name": {
-        "ar": "ريتش بسطرمة (150جرام)",
-        "en": "Rich Pastirma (150g)"
-      },
-      "price": 150.0,
-      "sale_price": 45.0,
-      "stock": 6
-    },
-    "pending": false
-  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -136,34 +80,6 @@
       "price": 320.0,
       "sale_price": 160.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "28050282": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28050282,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/Capture-139.png",
-      "name": {
-        "ar": "سلطة فتوش",
-        "en": "Fattoush Salad"
-      },
-      "price": 130.0,
-      "reason": "new_discount",
-      "sale_price": 65.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28050282,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/Capture-139.png",
-      "name": {
-        "ar": "سلطة فتوش",
-        "en": "Fattoush Salad"
-      },
-      "price": 130.0,
-      "sale_price": 65.0,
-      "stock": 2
     },
     "pending": false
   },
@@ -248,34 +164,6 @@
       "price": 38.0,
       "sale_price": 16.34,
       "stock": 0
-    },
-    "pending": false
-  },
-  "3434": {
-    "notified": {
-      "discount_percent": 63.636,
-      "id": 3434,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3ee001676c817ec98e784bf6aba787a7ccef5b7eca8e9ea64b813274fbf7b8f5",
-      "name": {
-        "ar": "بريدفاست 5 عيش فينو",
-        "en": "Breadfast 5 Soft Bread"
-      },
-      "price": 22.0,
-      "reason": "new_discount",
-      "sale_price": 8.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 59.091,
-      "id": 3434,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3ee001676c817ec98e784bf6aba787a7ccef5b7eca8e9ea64b813274fbf7b8f5",
-      "name": {
-        "ar": "بريدفاست 5 عيش فينو",
-        "en": "Breadfast 5 Soft Bread"
-      },
-      "price": 22.0,
-      "sale_price": 9.0,
-      "stock": 10
     },
     "pending": false
   },
@@ -1635,34 +1523,6 @@
     },
     "pending": false
   },
-  "53794846": {
-    "notified": {
-      "discount_percent": 64.901,
-      "id": 53794846,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fa90787db541f8950718f1c92ab4aa7265c4dc84468f1ab5959ca03f3c7a791d",
-      "name": {
-        "ar": "جبنه بوراتا (1 قطعه)",
-        "en": "Burrata Cheese (1 Piece)"
-      },
-      "price": 151.0,
-      "reason": "new_discount",
-      "sale_price": 53.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 64.901,
-      "id": 53794846,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fa90787db541f8950718f1c92ab4aa7265c4dc84468f1ab5959ca03f3c7a791d",
-      "name": {
-        "ar": "جبنه بوراتا (1 قطعه)",
-        "en": "Burrata Cheese (1 Piece)"
-      },
-      "price": 151.0,
-      "sale_price": 53.0,
-      "stock": 3
-    },
-    "pending": false
-  },
   "54136901": {
     "notified": null,
     "observed": {
@@ -1898,22 +1758,6 @@
       "price": 340.0,
       "sale_price": 170.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "58524722": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 65.385,
-      "id": 58524722,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f82b737c1450fd494ae9d4fc7da47e6f0850cf6612c8bc9a887eb607788d07c8",
-      "name": {
-        "ar": "سادوتش حلومي",
-        "en": "Halloumi Toastie"
-      },
-      "price": 130.0,
-      "sale_price": 45.0,
-      "stock": 0
     },
     "pending": false
   },
