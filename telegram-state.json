@@ -14,7 +14,7 @@
       "stock": 9
     },
     "observed": {
-      "discount_percent": 55.0,
+      "discount_percent": 50.0,
       "id": 11639350,
       "image": "https://cdn.breadfast.com/wp-content/uploads/ccc05bba30a3bae15bdd5cc50a869e0347e2539cd6c34ef57869ef6c3938888c",
       "name": {
@@ -22,7 +22,7 @@
         "en": "Gro Coconut Milk Lactose ,Gluten, Sugar Free (1L)"
       },
       "price": 160.0,
-      "sale_price": 72.0,
+      "sale_price": 80.0,
       "stock": 6
     },
     "pending": false
