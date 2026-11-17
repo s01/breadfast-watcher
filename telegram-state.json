@@ -55,6 +55,34 @@
     },
     "pending": false
   },
+  "26898686": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 26898686,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875597210/4c8a515846c50c4e.jpg",
+      "name": {
+        "ar": "سيرافي لوشن ترطيب يومي للوجه والجسم (236 مل)",
+        "en": "Cerave Moisturising Lotion (236ml)"
+      },
+      "price": 640.0,
+      "reason": "new_discount",
+      "sale_price": 320.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 26898686,
+      "image": "https://web-production-e9e3b.up.railway.app/img/3337875597210/4c8a515846c50c4e.jpg",
+      "name": {
+        "ar": "سيرافي لوشن ترطيب يومي للوجه والجسم (236 مل)",
+        "en": "Cerave Moisturising Lotion (236ml)"
+      },
+      "price": 640.0,
+      "sale_price": 320.0,
+      "stock": 3
+    },
+    "pending": false
+  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -1536,6 +1564,34 @@
       "price": 1575.0,
       "sale_price": 787.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "54605286": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54605286,
+      "image": "https://m.media-amazon.com/images/I/615CHdBfYAL._AC_SL1500_.jpg",
+      "name": {
+        "ar": "نومبوزين رقم 1 مسحوق بانتوثينيك B5 النشط لتجفيف البشرة (7 جرام)",
+        "en": "Numbuzin No.1 Pantothenic B5 Active Drying Powder (7g)"
+      },
+      "price": 520.0,
+      "reason": "new_discount",
+      "sale_price": 260.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54605286,
+      "image": "https://m.media-amazon.com/images/I/615CHdBfYAL._AC_SL1500_.jpg",
+      "name": {
+        "ar": "نومبوزين رقم 1 مسحوق بانتوثينيك B5 النشط لتجفيف البشرة (7 جرام)",
+        "en": "Numbuzin No.1 Pantothenic B5 Active Drying Powder (7g)"
+      },
+      "price": 520.0,
+      "sale_price": 260.0,
+      "stock": 2
     },
     "pending": false
   },
