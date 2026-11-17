@@ -1,4 +1,32 @@
 {
+  "11639350": {
+    "notified": {
+      "discount_percent": 55.0,
+      "id": 11639350,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ccc05bba30a3bae15bdd5cc50a869e0347e2539cd6c34ef57869ef6c3938888c",
+      "name": {
+        "ar": "جرو لبن جوز هند خالى من اللاكتوز ,الجلوتين, سكر (1 لتر)",
+        "en": "Gro Coconut Milk Lactose ,Gluten, Sugar Free (1L)"
+      },
+      "price": 160.0,
+      "reason": "new_discount",
+      "sale_price": 72.0,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 11639350,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ccc05bba30a3bae15bdd5cc50a869e0347e2539cd6c34ef57869ef6c3938888c",
+      "name": {
+        "ar": "جرو لبن جوز هند خالى من اللاكتوز ,الجلوتين, سكر (1 لتر)",
+        "en": "Gro Coconut Milk Lactose ,Gluten, Sugar Free (1L)"
+      },
+      "price": 160.0,
+      "sale_price": 72.0,
+      "stock": 6
+    },
+    "pending": false
+  },
   "21770695": {
     "notified": {
       "discount_percent": 50.0,
