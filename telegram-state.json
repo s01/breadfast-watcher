@@ -139,6 +139,34 @@
     },
     "pending": false
   },
+  "28050282": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 28050282,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/Capture-139.png",
+      "name": {
+        "ar": "سلطة فتوش",
+        "en": "Fattoush Salad"
+      },
+      "price": 130.0,
+      "reason": "new_discount",
+      "sale_price": 65.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 28050282,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/Capture-139.png",
+      "name": {
+        "ar": "سلطة فتوش",
+        "en": "Fattoush Salad"
+      },
+      "price": 130.0,
+      "sale_price": 65.0,
+      "stock": 2
+    },
+    "pending": false
+  },
   "29815423": {
     "notified": {
       "discount_percent": 50.0,
@@ -238,7 +266,7 @@
       "stock": 11
     },
     "observed": {
-      "discount_percent": 63.636,
+      "discount_percent": 59.091,
       "id": 3434,
       "image": "https://cdn.breadfast.com/wp-content/uploads/3ee001676c817ec98e784bf6aba787a7ccef5b7eca8e9ea64b813274fbf7b8f5",
       "name": {
@@ -246,7 +274,7 @@
         "en": "Breadfast 5 Soft Bread"
       },
       "price": 22.0,
-      "sale_price": 8.0,
+      "sale_price": 9.0,
       "stock": 11
     },
     "pending": false
