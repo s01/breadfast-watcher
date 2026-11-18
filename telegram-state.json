@@ -27,34 +27,6 @@
     },
     "pending": false
   },
-  "1308913": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 1308913,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/Tuna-Sandwich.png",
-      "name": {
-        "ar": "ساندوتش خلطة التونة",
-        "en": "Signature Tuna Sandwich"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 60.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 1308913,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/Tuna-Sandwich.png",
-      "name": {
-        "ar": "ساندوتش خلطة التونة",
-        "en": "Signature Tuna Sandwich"
-      },
-      "price": 150.0,
-      "sale_price": 60.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "19038441": {
     "notified": {
       "discount_percent": 50.127,
@@ -693,7 +665,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -831,7 +803,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 6
+      "stock": 4
     },
     "pending": false
   },
@@ -1791,116 +1763,6 @@
     },
     "pending": false
   },
-  "54691431": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54691431,
-      "image": "https://i.ibb.co/DPKgxtVY/3264680009761.jpg",
-      "name": {
-        "ar": "نوكس زيت جاف هويل بروديجيوس (50 مل)",
-        "en": "Nuxe Huile Prodigieuse Dry Oil (50ml)"
-      },
-      "price": 1699.0,
-      "reason": "new_discount",
-      "sale_price": 849.5,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54691431,
-      "image": "https://i.ibb.co/DPKgxtVY/3264680009761.jpg",
-      "name": {
-        "ar": "نوكس زيت جاف هويل بروديجيوس (50 مل)",
-        "en": "Nuxe Huile Prodigieuse Dry Oil (50ml)"
-      },
-      "price": 1699.0,
-      "sale_price": 849.5,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "54691432": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54691432,
-      "image": "https://i.ibb.co/PsCj0Qtw/3264680038334.jpg",
-      "name": {
-        "ar": "نوكس زيت جاف هويل بروديجيوس جولدن فلورات (50 مل)",
-        "en": "Nuxe Huile Prodigieuse Dry Oil Goldin Florale (50ml)"
-      },
-      "price": 1799.0,
-      "reason": "new_discount",
-      "sale_price": 899.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54691432,
-      "image": "https://i.ibb.co/PsCj0Qtw/3264680038334.jpg",
-      "name": {
-        "ar": "نوكس زيت جاف هويل بروديجيوس جولدن فلورات (50 مل)",
-        "en": "Nuxe Huile Prodigieuse Dry Oil Goldin Florale (50ml)"
-      },
-      "price": 1799.0,
-      "sale_price": 899.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "54691479": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54691479,
-      "name": {
-        "ar": "نوكس رول أون ويل بروديجيوس (60 مل)",
-        "en": "Nuxe Huile Prodigieuse Roll-On (60ml)"
-      },
-      "price": 1900.0,
-      "reason": "new_discount",
-      "sale_price": 950.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54691479,
-      "image": "https://i.ibb.co/wNWCSDfg/3264680042188.jpg",
-      "name": {
-        "ar": "نوكس رول أون ويل بروديجيوس (60 مل)",
-        "en": "Nuxe Huile Prodigieuse Roll-On (60ml)"
-      },
-      "price": 1900.0,
-      "sale_price": 950.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "54691480": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54691480,
-      "name": {
-        "ar": "نوكس هولي بروديجيوس أو رول أون (60 مل)",
-        "en": "Nuxe Huile Prodigieuse Or Roll-On (60ml)"
-      },
-      "price": 2550.0,
-      "reason": "new_discount",
-      "sale_price": 1275.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54691480,
-      "image": "https://i.ibb.co/PZR1b6xs/3264680042201.jpg",
-      "name": {
-        "ar": "نوكس هولي بروديجيوس أو رول أون (60 مل)",
-        "en": "Nuxe Huile Prodigieuse Or Roll-On (60ml)"
-      },
-      "price": 2550.0,
-      "sale_price": 1275.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "56405920": {
     "notified": {
       "discount_percent": 50.0,
@@ -2780,7 +2642,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
