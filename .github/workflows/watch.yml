@@ -19,6 +19,8 @@ jobs:
       BREADFAST_STATE_DIR: ${{ github.workspace }}/state
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      BREADFAST_FOOD_LATITUDE: ${{ secrets.BREADFAST_FOOD_LATITUDE }}
+      BREADFAST_FOOD_LONGITUDE: ${{ secrets.BREADFAST_FOOD_LONGITUDE }}
       GH_TOKEN: ${{ github.token }}
       BREADFAST_FORCE_FULL: ${{ inputs.full_scan }}
     steps:
@@ -29,6 +31,8 @@ jobs:
         run: |
           test -n "$TELEGRAM_BOT_TOKEN"
           test -n "$TELEGRAM_CHAT_ID"
+          test -n "$BREADFAST_FOOD_LATITUDE"
+          test -n "$BREADFAST_FOOD_LONGITUDE"
       - name: Restore alert history
         id: restore
         run: python3 github_state.py load

@@ -2,7 +2,7 @@
 import base64,datetime,json,os,re,subprocess,sys
 from pathlib import Path
 BRANCH='monitor-state'
-FILES=('telegram-state.json','full-scan.json','health-state.json','bot-state.json')
+FILES=('telegram-state.json','full-scan.json','health-state.json','bot-state.json','mall-state.json','mall-full-scan.json','restaurants-state.json','restaurants-full-scan.json')
 ROOT=Path(os.environ.get('BREADFAST_STATE_DIR','state'))
 REPO=os.environ.get('GITHUB_REPOSITORY','')
 
@@ -42,7 +42,7 @@ def save():
         p=ROOT/name
         if not p.exists():continue
         value=json.loads(p.read_text())
-        if name=='full-scan.json':value={'checked_at':value['checked_at']}
+        if name.endswith('full-scan.json'):value={'checked_at':value['checked_at']}
         raw=json.dumps(value,ensure_ascii=False,sort_keys=True,indent=2)+'\n'
         import hashlib
         digest=hashlib.sha1(b'blob '+str(len(raw.encode())).encode()+b'\0'+raw.encode()).hexdigest()

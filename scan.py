@@ -32,7 +32,10 @@ def match(product, threshold=50, require_stock=True):
         if price<=0 or sale<=0 or sale>=price: return None
         discount=(price-sale)/price*100
         if discount<threshold or (require_stock and float(product.get('stock',0))<=0): return None
-        return {'id':product['id'],'name':product.get('name'),'price':float(price),'sale_price':float(sale),'discount_percent':round(float(discount),3),'stock':product.get('stock'),'image':product.get('image')}
+        offer={'id':product['id'],'name':product.get('name'),'price':float(price),'sale_price':float(sale),'discount_percent':round(float(discount),3),'stock':product.get('stock'),'image':product.get('image')}
+        for key in ('merchant_name','base_price_only','_catalogue'):
+            if key in product:offer[key]=product[key]
+        return offer
     except (KeyError,TypeError,ValueError,decimal.InvalidOperation): return None
 
 def new_offers(products, old, threshold=50):
@@ -63,38 +66,43 @@ def save_json(path, data):
     temporary.replace(path)
 
 def main():
-    parser=argparse.ArgumentParser(); parser.add_argument('--full',action='store_true'); parser.add_argument('--auto',action='store_true'); parser.add_argument('--telegram',action='store_true'); parser.add_argument('--threshold',type=float,default=50); args=parser.parse_args()
+    parser=argparse.ArgumentParser(); parser.add_argument('--full',action='store_true'); parser.add_argument('--auto',action='store_true'); parser.add_argument('--telegram',action='store_true'); parser.add_argument('--threshold',type=float,default=50); parser.add_argument('--catalogue',choices=('grocery','mall','restaurants'),default='grocery'); args=parser.parse_args()
+    from catalogue_sources import plan,food_get,normalize,LABELS,PREFIX,MALL_WAREHOUSE
+    source=args.catalogue; prefix=PREFIX[source]
     if args.auto:
-        previous=STATE/'full-scan.json'
+        previous=STATE/(prefix+'full-scan.json')
         try:
             last=datetime.datetime.fromisoformat(json.loads(previous.read_text())['checked_at'])
             args.full=(datetime.datetime.now(datetime.timezone.utc)-last).total_seconds()>=3600
         except (OSError,KeyError,ValueError): args.full=True
-    categories=get('subcategories')['data']['categories']
-    jobs=[]
-    for c in categories:
-        if args.full:
-            jobs.extend(('subcategories/'+str(s['id']),{}) for s in c.get('subcategories',[]))
-        else: jobs.append(('categories/'+str(c['id']),{'type':'deals'}))
-    jobs=list({(p,json.dumps(q,sort_keys=True)) for p,q in jobs})
+    category_count,planned=plan(source,args.full,get)
+    jobs=list({(p,json.dumps(q,sort_keys=True)) for p,q in planned})
     products={}; errors=[]; completed=0
     def fetch(job):
         path,query=job
         time.sleep(0.3)
-        return path,get(path,**json.loads(query))
+        params=json.loads(query)
+        data=food_get(path) if source=='restaurants' else get(path,**params)
+        return path,data,params
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         futures={pool.submit(fetch,j):j[0] for j in jobs}
         for f in concurrent.futures.as_completed(futures):
             try:
-                path,data=f.result()
+                path,data,params=f.result()
                 if not isinstance(data,(list,dict)): raise RuntimeError('Unexpected catalogue response')
-                for p in extract(data): products[str(p['id'])]=p
+                for p in extract(data):
+                    p=normalize(p,source,params);products[str(p['id'])]=p
                 completed+=1
             except Exception as e: errors.append({'path':futures[f],'error':str(e)})
     hits=sorted([m for p in products.values() if (m:=match(p,args.threshold))],key=lambda p:p['discount_percent'],reverse=True)
-    report={'checked_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'warehouse':{'id':WAREHOUSE,'name':'6th of October FP #6','area':'6th of October City'},'scope':'all advertised subcategories' if args.full else 'deals in all advertised categories','category_count':len(categories),'requested_endpoints':len(jobs),'successful_endpoints':completed,'unique_products':len(products),'errors':errors,'matches':hits}
+    report={'checked_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'warehouse':{'id':WAREHOUSE,'name':'6th of October FP #6','area':'6th of October City'},'scope':'all advertised subcategories' if args.full else 'deals in all advertised categories','category_count':category_count,'requested_endpoints':len(jobs),'successful_endpoints':completed,'unique_products':len(products),'errors':errors,'matches':hits}
+    report['catalogue']=source
+    report['coverage']=LABELS[source]
+    if source=='mall':report['warehouse']={'id':MALL_WAREHOUSE,'name':'October Mall catalogue'}
+    if source=='restaurants':
+        report.pop('warehouse',None);report['scope']='all discovered nearby restaurant menus'
     report['minimum_discount_percent']=args.threshold
-    state_path=STATE/'telegram-state.json'
+    state_path=STATE/('telegram-state.json' if source=='grocery' else prefix+'state.json')
     old=json.loads(state_path.read_text()) if state_path.exists() else {}
     report['new_matches'],current=new_offers(products,old,args.threshold)
     # Never acknowledge offers before delivery or after a partial scan.
@@ -102,7 +110,7 @@ def main():
         from telegram_client import send,prepare_batches
         from zoneinfo import ZoneInfo
         checked=datetime.datetime.fromisoformat(report['checked_at']).astimezone(ZoneInfo('Africa/Cairo')).strftime('%d %b %Y %H:%M Cairo')
-        batches=prepare_batches(report['new_matches'],checked)
+        batches=prepare_batches(report['new_matches'],checked,coverage=LABELS[source])
         report['delivery_batches']=[]
         try:
             for batch in batches:
@@ -120,10 +128,10 @@ def main():
             report['delivered_offers']=sum(len(batch.product_ids) for batch in batches)
         except Exception:
             report['errors'].append({'stage':'telegram','error':'Notification failed; unconfirmed offers remain pending'})
-    save_json(ROOT/'latest-scan.json',report)
+    save_json(ROOT/(prefix+'latest-scan.json'),report)
     if not errors:
-        save_json(STATE/('full-scan.json' if args.full else 'deals-scan.json'),{k:v for k,v in report.items() if k not in ('matches','new_matches')})
-    save_json(ROOT/'products.json',list(products.values()))
+        save_json(STATE/(prefix+('full-scan.json' if args.full else 'deals-scan.json')),{k:v for k,v in report.items() if k not in ('matches','new_matches')})
+    save_json(ROOT/(prefix+'products.json'),list(products.values()))
     print(json.dumps(report,ensure_ascii=False,indent=2))
     if report['errors']: raise SystemExit(2)
 if __name__=='__main__': main()

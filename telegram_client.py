@@ -66,21 +66,24 @@ def product_card(p):
     else: english=clean_name(names); arabic=''
     title=english or arabic or 'Product '+str(p['id'])
     discount=f"{p['discount_percent']:.1f}".rstrip('0').rstrip('.')
-    card=f"<b>{discount}% OFF</b>\n<b>{html.escape(title)}</b>\n"
+    card=f"<b>{discount}% OFF</b>\n"
+    if p.get('merchant_name'):card+='<b>'+html.escape(clean_name(p['merchant_name']))+'</b>\n'
+    card+='<b>'+html.escape(title)+'</b>\n'
     if arabic and arabic!=title: card+=html.escape(arabic)+'\n'
     saved=Decimal(str(p['price']))-Decimal(str(p['sale_price']))
     card+=f"Was: <s>EGP {money(p['price'])}</s>\nNow: <b>EGP {money(p['sale_price'])}</b>\nSave: EGP {money(saved)}\n"
+    if p.get('base_price_only'):card+='Base item price; required options may change the total.\n'
     url=product_url(p)
     if url: card+=f'<a href="{html.escape(url,quote=True)}">Open product in Breadfast</a>\n'
     else: card+='<a href="https://app.breadfast.com/Breadfast">Open Breadfast (search by name)</a>'
     image=p.get('image','')
-    if isinstance(image,str) and urlparse(image).scheme=='https' and urlparse(image).hostname=='cdn.breadfast.com':
+    if isinstance(image,str) and urlparse(image).scheme=='https' and urlparse(image).hostname in ('cdn.breadfast.com','food-cdn.breadfast.com','cdn.supercommerce.io','i.postimg.cc'):
         card+=f' | <a href="{html.escape(image,quote=True)}">Product photo</a>'
     card+='\n'
     return card
 
-def prepare_batches(products,checked_at):
-    header='<b>Breadfast offers</b>\n'+str(len(products))+' new or improved offers | 50% off and above\nOctober FP #6 | '+html.escape(checked_at)+'\n\n'
+def prepare_batches(products,checked_at,coverage='Grocery | October FP #6'):
+    header='<b>Breadfast offers</b>\n'+str(len(products))+' new or improved offers | 50% off and above\n'+html.escape(coverage)+' | '+html.escape(checked_at)+'\n\n'
     messages=[]; cards=[]; ids=[]
     ordered=sorted(products,key=lambda x:(-x['discount_percent'],str(x['id'])))
     for p in ordered:
