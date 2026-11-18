@@ -1,0 +1,682 @@
+{
+  "1182:28466": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1182:28466",
+      "image": "https://food-cdn.breadfast.com/1781602402796-Untitled%20design%20(18).png",
+      "merchant_name": "5 Roosters",
+      "name": {
+        "ar": "عرض الديل",
+        "en": "Deal Offer"
+      },
+      "price": 598.0,
+      "reason": "new_discount",
+      "sale_price": 299.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1182:28466",
+      "image": "https://food-cdn.breadfast.com/1781602402796-Untitled%20design%20(18).png",
+      "merchant_name": "5 Roosters",
+      "name": {
+        "ar": "عرض الديل",
+        "en": "Deal Offer"
+      },
+      "price": 598.0,
+      "sale_price": 299.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1186:35131": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1186:35131",
+      "image": "https://food-cdn.breadfast.com/1784700276060-f74893cd-5a24-4e0d-bfb4-9d4589d89dea.png",
+      "merchant_name": "Burger Republic",
+      "name": {
+        "ar": "تشيت داي",
+        "en": "Cheat Day"
+      },
+      "price": 320.0,
+      "reason": "new_discount",
+      "sale_price": 160.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1186:35131",
+      "image": "https://food-cdn.breadfast.com/1784700276060-f74893cd-5a24-4e0d-bfb4-9d4589d89dea.png",
+      "merchant_name": "Burger Republic",
+      "name": {
+        "ar": "تشيت داي",
+        "en": "Cheat Day"
+      },
+      "price": 320.0,
+      "sale_price": 160.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1188:62550": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1188:62550",
+      "image": "https://food-cdn.breadfast.com/1792649060908-e892aedc-3b8e-4134-bea2-33a30b41e703.png",
+      "merchant_name": "Smoothie Paradise",
+      "name": {
+        "ar": "بان كيك شوكولاتة مع صودا",
+        "en": "Chocolate Pancake with Soda"
+      },
+      "price": 190.0,
+      "reason": "new_discount",
+      "sale_price": 95.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1188:62550",
+      "image": "https://food-cdn.breadfast.com/1792649060908-e892aedc-3b8e-4134-bea2-33a30b41e703.png",
+      "merchant_name": "Smoothie Paradise",
+      "name": {
+        "ar": "بان كيك شوكولاتة مع صودا",
+        "en": "Chocolate Pancake with Soda"
+      },
+      "price": 190.0,
+      "sale_price": 95.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1188:62551": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1188:62551",
+      "image": "https://food-cdn.breadfast.com/1792649824810-8c0f285c-a149-4c64-a832-99fef04f7574.png",
+      "merchant_name": "Smoothie Paradise",
+      "name": {
+        "ar": "فريسكا شوكولاتة مع ليمون نعناع",
+        "en": "Chocolate Fresca with Lemon Mint"
+      },
+      "price": 190.0,
+      "reason": "new_discount",
+      "sale_price": 95.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1188:62551",
+      "image": "https://food-cdn.breadfast.com/1792649824810-8c0f285c-a149-4c64-a832-99fef04f7574.png",
+      "merchant_name": "Smoothie Paradise",
+      "name": {
+        "ar": "فريسكا شوكولاتة مع ليمون نعناع",
+        "en": "Chocolate Fresca with Lemon Mint"
+      },
+      "price": 190.0,
+      "sale_price": 95.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1188:62552": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1188:62552",
+      "image": "https://food-cdn.breadfast.com/1792649951121-fc28de09-8c2d-4b80-b887-beb06ad617cb.png",
+      "merchant_name": "Smoothie Paradise",
+      "name": {
+        "ar": "مرزرزة شوكولاتة مع بطيخ",
+        "en": "Chocolate Mrazraza with Watermelon"
+      },
+      "price": 190.0,
+      "reason": "new_discount",
+      "sale_price": 95.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1188:62552",
+      "image": "https://food-cdn.breadfast.com/1792649951121-fc28de09-8c2d-4b80-b887-beb06ad617cb.png",
+      "merchant_name": "Smoothie Paradise",
+      "name": {
+        "ar": "مرزرزة شوكولاتة مع بطيخ",
+        "en": "Chocolate Mrazraza with Watermelon"
+      },
+      "price": 190.0,
+      "sale_price": 95.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1200:14777": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1200:14777",
+      "image": "https://food-cdn.breadfast.com/1774859848254-Untitled%20design%20(1).png",
+      "merchant_name": "Kansas",
+      "name": {
+        "ar": "عرض 10 قطع",
+        "en": "10 Pieces Deal"
+      },
+      "price": 850.0,
+      "reason": "new_discount",
+      "sale_price": 425.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1200:14777",
+      "image": "https://food-cdn.breadfast.com/1774859848254-Untitled%20design%20(1).png",
+      "merchant_name": "Kansas",
+      "name": {
+        "ar": "عرض 10 قطع",
+        "en": "10 Pieces Deal"
+      },
+      "price": 850.0,
+      "sale_price": 425.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1210:47744": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 52.532,
+      "id": "1210:47744",
+      "image": "https://food-cdn.breadfast.com/1793176629034-7dcbb01a-b53d-4eee-a71e-4aa570034fc7.png",
+      "merchant_name": "Butcher's Burger",
+      "name": {
+        "ar": "برجر وأجنحة 1",
+        "en": "Burger & Wings 1"
+      },
+      "price": 598.0,
+      "reason": "new_discount",
+      "sale_price": 283.86,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 52.532,
+      "id": "1210:47744",
+      "image": "https://food-cdn.breadfast.com/1793176629034-7dcbb01a-b53d-4eee-a71e-4aa570034fc7.png",
+      "merchant_name": "Butcher's Burger",
+      "name": {
+        "ar": "برجر وأجنحة 1",
+        "en": "Burger & Wings 1"
+      },
+      "price": 598.0,
+      "sale_price": 283.86,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1282:45809": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1282:45809",
+      "image": "https://food-cdn.breadfast.com/1787567822866-b7034fa2-4011-4c6e-a9c4-01272f574f24.png",
+      "merchant_name": "El Dahan",
+      "name": {
+        "ar": "عرض كفتة مع ارز",
+        "en": "Kofta with Rice Offer"
+      },
+      "price": 336.5,
+      "reason": "new_discount",
+      "sale_price": 168.25,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1282:45809",
+      "image": "https://food-cdn.breadfast.com/1787567822866-b7034fa2-4011-4c6e-a9c4-01272f574f24.png",
+      "merchant_name": "El Dahan",
+      "name": {
+        "ar": "عرض كفتة مع ارز",
+        "en": "Kofta with Rice Offer"
+      },
+      "price": 336.5,
+      "sale_price": 168.25,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2515:62110": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2515:62110",
+      "image": "https://food-cdn.breadfast.com/1792578788659-97256937-8f7f-4cac-9425-8422389912e1.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١",
+        "en": "Back-to-School Offer 1"
+      },
+      "price": 416.0,
+      "reason": "new_discount",
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2515:62110",
+      "image": "https://food-cdn.breadfast.com/1792578788659-97256937-8f7f-4cac-9425-8422389912e1.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١",
+        "en": "Back-to-School Offer 1"
+      },
+      "price": 416.0,
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2515:62111": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2515:62111",
+      "image": "https://food-cdn.breadfast.com/1792578814028-5829ac20-18f2-4e4b-a3d2-53232dfccc58.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٢",
+        "en": "Back-to-School Offer 2"
+      },
+      "price": 416.0,
+      "reason": "new_discount",
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2515:62111",
+      "image": "https://food-cdn.breadfast.com/1792578814028-5829ac20-18f2-4e4b-a3d2-53232dfccc58.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٢",
+        "en": "Back-to-School Offer 2"
+      },
+      "price": 416.0,
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2515:62112": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2515:62112",
+      "image": "https://food-cdn.breadfast.com/1792578844351-ff46b607-e04f-4868-a780-567fada9fd34.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٣",
+        "en": "Back-to-School Offer 3"
+      },
+      "price": 416.0,
+      "reason": "new_discount",
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2515:62112",
+      "image": "https://food-cdn.breadfast.com/1792578844351-ff46b607-e04f-4868-a780-567fada9fd34.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٣",
+        "en": "Back-to-School Offer 3"
+      },
+      "price": 416.0,
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2515:62113": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 52.77,
+      "id": "2515:62113",
+      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٤",
+        "en": "Back-to-School Offer 4"
+      },
+      "price": 379.0,
+      "reason": "new_discount",
+      "sale_price": 179.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 52.77,
+      "id": "2515:62113",
+      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٤",
+        "en": "Back-to-School Offer 4"
+      },
+      "price": 379.0,
+      "sale_price": 179.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2515:62127": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.846,
+      "id": "2515:62127",
+      "image": "https://food-cdn.breadfast.com/1792608782051-9f2ecfa4-6082-4ace-bff5-202d8d76c9be.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١٩",
+        "en": "Back-to-School Offer 19"
+      },
+      "price": 1300.0,
+      "reason": "new_discount",
+      "sale_price": 639.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.846,
+      "id": "2515:62127",
+      "image": "https://food-cdn.breadfast.com/1792608782051-9f2ecfa4-6082-4ace-bff5-202d8d76c9be.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١٩",
+        "en": "Back-to-School Offer 19"
+      },
+      "price": 1300.0,
+      "sale_price": 639.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2515:67907": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.985,
+      "id": "2515:67907",
+      "image": "https://food-cdn.breadfast.com/1794460092430-7db95fec-ec01-4f99-bcee-f34616dcf2f2.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "اشتري ساندوتش واحصل على 2 ساندوتش مجانًا",
+        "en": "Buy One Sandwich and Get Two Free"
+      },
+      "price": 406.0,
+      "reason": "new_discount",
+      "sale_price": 199.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.985,
+      "id": "2515:67907",
+      "image": "https://food-cdn.breadfast.com/1794460092430-7db95fec-ec01-4f99-bcee-f34616dcf2f2.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "اشتري ساندوتش واحصل على 2 ساندوتش مجانًا",
+        "en": "Buy One Sandwich and Get Two Free"
+      },
+      "price": 406.0,
+      "sale_price": 199.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2516:62129": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2516:62129",
+      "image": "https://food-cdn.breadfast.com/1792578788659-97256937-8f7f-4cac-9425-8422389912e1.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١",
+        "en": "Back-to-School Offer 1"
+      },
+      "price": 416.0,
+      "reason": "new_discount",
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2516:62129",
+      "image": "https://food-cdn.breadfast.com/1792578788659-97256937-8f7f-4cac-9425-8422389912e1.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١",
+        "en": "Back-to-School Offer 1"
+      },
+      "price": 416.0,
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2516:62130": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2516:62130",
+      "image": "https://food-cdn.breadfast.com/1792578814028-5829ac20-18f2-4e4b-a3d2-53232dfccc58.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٢",
+        "en": "Back-to-School Offer 2"
+      },
+      "price": 416.0,
+      "reason": "new_discount",
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2516:62130",
+      "image": "https://food-cdn.breadfast.com/1792578814028-5829ac20-18f2-4e4b-a3d2-53232dfccc58.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٢",
+        "en": "Back-to-School Offer 2"
+      },
+      "price": 416.0,
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2516:62131": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2516:62131",
+      "image": "https://food-cdn.breadfast.com/1792578844351-ff46b607-e04f-4868-a780-567fada9fd34.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٣",
+        "en": "Back-to-School Offer 3"
+      },
+      "price": 416.0,
+      "reason": "new_discount",
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 60.337,
+      "id": "2516:62131",
+      "image": "https://food-cdn.breadfast.com/1792578844351-ff46b607-e04f-4868-a780-567fada9fd34.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٣",
+        "en": "Back-to-School Offer 3"
+      },
+      "price": 416.0,
+      "sale_price": 165.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2516:62132": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 52.77,
+      "id": "2516:62132",
+      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٤",
+        "en": "Back-to-School Offer 4"
+      },
+      "price": 379.0,
+      "reason": "new_discount",
+      "sale_price": 179.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 52.77,
+      "id": "2516:62132",
+      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ٤",
+        "en": "Back-to-School Offer 4"
+      },
+      "price": 379.0,
+      "sale_price": 179.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2516:62146": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.846,
+      "id": "2516:62146",
+      "image": "https://food-cdn.breadfast.com/1792608774500-325969ce-2222-4209-b1ab-bdf66d76194b.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١٩",
+        "en": "Back-to-School Offer 19"
+      },
+      "price": 1300.0,
+      "reason": "new_discount",
+      "sale_price": 639.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.846,
+      "id": "2516:62146",
+      "image": "https://food-cdn.breadfast.com/1792608774500-325969ce-2222-4209-b1ab-bdf66d76194b.png",
+      "merchant_name": "Bab Sharqy",
+      "name": {
+        "ar": "عرض العودة إلى المدارس ١٩",
+        "en": "Back-to-School Offer 19"
+      },
+      "price": 1300.0,
+      "sale_price": 639.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "2930:50584": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2930:50584",
+      "image": "https://food-cdn.breadfast.com/1789051890149-39638575-09f0-47ec-9437-06c985a5e274.png",
+      "merchant_name": "Chicken Fila",
+      "name": {
+        "ar": "2× ذا فيست",
+        "en": "2X The Feast"
+      },
+      "price": 720.0,
+      "reason": "new_discount",
+      "sale_price": 360.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2930:50584",
+      "image": "https://food-cdn.breadfast.com/1789051890149-39638575-09f0-47ec-9437-06c985a5e274.png",
+      "merchant_name": "Chicken Fila",
+      "name": {
+        "ar": "2× ذا فيست",
+        "en": "2X The Feast"
+      },
+      "price": 720.0,
+      "sale_price": 360.0,
+      "stock": 1000
+    },
+    "pending": false
+  }
+}
