@@ -27,34 +27,6 @@
     },
     "pending": false
   },
-  "1514555": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 1514555,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/05892582b0e2f488e0ec621447e6f7c7b3936848a807ffd446ae0554e5fb64a8",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
-        "en": "Axe Deodorant Spray Black Temptation For Men (150ml)"
-      },
-      "price": 215.0,
-      "reason": "new_discount",
-      "sale_price": 107.5,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 1514555,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/05892582b0e2f488e0ec621447e6f7c7b3936848a807ffd446ae0554e5fb64a8",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
-        "en": "Axe Deodorant Spray Black Temptation For Men (150ml)"
-      },
-      "price": 215.0,
-      "sale_price": 107.5,
-      "stock": 12
-    },
-    "pending": false
-  },
   "21770695": {
     "notified": {
       "discount_percent": 50.0,
@@ -2700,58 +2672,30 @@
     },
     "pending": false
   },
-  "976534": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 976534,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e177ddc5820bea18be921539f94db82601cda05456fad1170ab67deaaee85cf1",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق ايس تشيل للرجال (150مل)",
-        "en": "Axe Deodorant Spray Ice Chill For Men (150ml)"
-      },
-      "price": 215.0,
-      "reason": "new_discount",
-      "sale_price": 107.5,
-      "stock": 8
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 976534,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e177ddc5820bea18be921539f94db82601cda05456fad1170ab67deaaee85cf1",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق ايس تشيل للرجال (150مل)",
-        "en": "Axe Deodorant Spray Ice Chill For Men (150ml)"
-      },
-      "price": 215.0,
-      "sale_price": 107.5,
-      "stock": 5
-    },
-    "pending": false
-  },
   "9959075": {
     "notified": {
-      "discount_percent": 50.296,
+      "discount_percent": 59.032,
       "id": 9959075,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/6223001240488.png",
       "name": {
         "ar": "زينة تريو مناديل تواليت مضغوطة 10+2 هدية (12 رول)",
         "en": "Zeina Toilet Trio Compressed Tissues 10+2 Free (12 Rolls)"
       },
-      "price": 169.0,
-      "reason": "new_discount",
-      "sale_price": 84.0,
+      "price": 143.99,
+      "reason": "improved_discount",
+      "sale_price": 58.99,
       "stock": 6
     },
     "observed": {
-      "discount_percent": 50.296,
+      "discount_percent": 59.032,
       "id": 9959075,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/6223001240488.png",
       "name": {
         "ar": "زينة تريو مناديل تواليت مضغوطة 10+2 هدية (12 رول)",
         "en": "Zeina Toilet Trio Compressed Tissues 10+2 Free (12 Rolls)"
       },
-      "price": 169.0,
-      "sale_price": 84.0,
+      "price": 143.99,
+      "sale_price": 58.99,
       "stock": 6
     },
     "pending": false
