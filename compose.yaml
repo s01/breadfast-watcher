@@ -4,7 +4,7 @@ services:
     restart: unless-stopped
     env_file: .env
     environment:
-      SCAN_INTERVAL_SECONDS: '600'
+      SCAN_INTERVAL_SECONDS: '300'
       BREADFAST_STATE_DIR: /data
     volumes:
       - breadfast-state:/data
