@@ -79,7 +79,7 @@
       },
       "price": 2390.0,
       "sale_price": 999.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -610,7 +610,7 @@
       },
       "price": 6480.0,
       "sale_price": 3240.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1780,7 +1780,7 @@
     "observed": {
       "discount_percent": 50.032,
       "id": 54136901,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7ca0b48192b337476f5ef0808ed650c0c4d937ec1e87bf1e44b6d98b501c97d7",
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9758113d1c8d9227d09d5f51fa65fc996eeb1fe2a6ea45dbba6090e26041285b",
       "name": {
         "ar": "لطافة أسد الكسير او دي بارفان للرجال (100 مل)",
         "en": "Lattafa Asad Elixir EDP For Him (100ml)"
