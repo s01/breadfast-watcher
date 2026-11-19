@@ -1,4 +1,23 @@
 {
+  "1036:66248": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1036:66248",
+      "image": "https://food-cdn.breadfast.com/1793789190017-c0a5b86a-c800-47e4-836c-2fd1a0dc53a4.png",
+      "merchant_name": "Prego",
+      "name": {
+        "ar": "اشتري وجبة واحصل على واحدة مجانًا",
+        "en": "Buy One Meal and Get One Free"
+      },
+      "price": 510.0,
+      "sale_price": 255.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "1182:28466": {
     "notified": {
       "_catalogue": "restaurants",
