@@ -55,171 +55,31 @@
     },
     "pending": false
   },
-  "19038441": {
-    "notified": {
-      "discount_percent": 50.127,
-      "id": 19038441,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
-        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
-      },
-      "price": 3950.0,
-      "reason": "new_discount",
-      "sale_price": 1970.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.127,
-      "id": 19038441,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
-        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
-      },
-      "price": 3950.0,
-      "sale_price": 1970.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "19042011": {
-    "notified": {
-      "discount_percent": 58.201,
-      "id": 19042011,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
-      "name": {
-        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
-        "en": "Jaguar Classic Black EDT For Him (100ml)"
-      },
-      "price": 2390.0,
-      "reason": "new_discount",
-      "sale_price": 999.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 58.201,
-      "id": 19042011,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
-      "name": {
-        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
-        "en": "Jaguar Classic Black EDT For Him (100ml)"
-      },
-      "price": 2390.0,
-      "sale_price": 999.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "21770695": {
+  "27504409": {
     "notified": {
       "discount_percent": 50.0,
-      "id": 21770695,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e08c933a96353c13d0f6bfb06d5dcf74ebe2d2e08ad44c50389292671dc6114e",
+      "id": 27504409,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ba5d1976744a4fe0f8ba339c5764caf52eaa081fa06dd33790e1f72b8c37b8ec",
       "name": {
-        "ar": "كان كيك كعكة عيد ميلاد (160 جم)",
-        "en": "Can Cake Birthday Cake (160g)"
+        "ar": "بيزلين سيروم اندر ارم للتفتيح الفوري (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum Instant Bright (150ml)"
       },
-      "price": 147.0,
+      "price": 599.0,
       "reason": "new_discount",
-      "sale_price": 73.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21770695,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e08c933a96353c13d0f6bfb06d5dcf74ebe2d2e08ad44c50389292671dc6114e",
-      "name": {
-        "ar": "كان كيك كعكة عيد ميلاد (160 جم)",
-        "en": "Can Cake Birthday Cake (160g)"
-      },
-      "price": 147.0,
-      "sale_price": 73.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "21781255": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21781255,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/476b5f66fd1ed78d2d610c169032de54a47691cc669272d876ac85c81664e03b",
-      "name": {
-        "ar": "كان كيك فادج كراميل مملح (160جم)",
-        "en": "Can Cake Salty Caramel Fudge (160g)"
-      },
-      "price": 178.5,
-      "reason": "new_discount",
-      "sale_price": 89.25,
+      "sale_price": 299.5,
       "stock": 4
     },
     "observed": {
       "discount_percent": 50.0,
-      "id": 21781255,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/476b5f66fd1ed78d2d610c169032de54a47691cc669272d876ac85c81664e03b",
+      "id": 27504409,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ba5d1976744a4fe0f8ba339c5764caf52eaa081fa06dd33790e1f72b8c37b8ec",
       "name": {
-        "ar": "كان كيك فادج كراميل مملح (160جم)",
-        "en": "Can Cake Salty Caramel Fudge (160g)"
+        "ar": "بيزلين سيروم اندر ارم للتفتيح الفوري (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum Instant Bright (150ml)"
       },
-      "price": 178.5,
-      "sale_price": 89.25,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26190534": {
-    "notified": {
-      "discount_percent": 57.071,
-      "id": 26190534,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
-      },
-      "price": 5940.0,
-      "reason": "new_discount",
-      "sale_price": 2550.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 57.071,
-      "id": 26190534,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
-      },
-      "price": 5940.0,
-      "sale_price": 2550.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26863557": {
-    "notified": {
-      "discount_percent": 50.239,
-      "id": 26863557,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
-      "name": {
-        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
-        "en": "Clinique Happy EDT For Him (100ml)"
-      },
-      "price": 4180.0,
-      "reason": "new_discount",
-      "sale_price": 2080.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.239,
-      "id": 26863557,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
-      "name": {
-        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
-        "en": "Clinique Happy EDT For Him (100ml)"
-      },
-      "price": 4180.0,
-      "sale_price": 2080.0,
-      "stock": 1
+      "price": 599.0,
+      "sale_price": 299.5,
+      "stock": 4
     },
     "pending": false
   },
@@ -391,62 +251,6 @@
     },
     "pending": false
   },
-  "30580": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30580,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/minibrownfinal.png",
-      "name": {
-        "ar": "5 خبز بلدي بني ميني",
-        "en": "5 Mini Brown Baladi Bread"
-      },
-      "price": 12.0,
-      "reason": "new_discount",
-      "sale_price": 6.0,
-      "stock": 8
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30580,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/minibrownfinal.png",
-      "name": {
-        "ar": "5 خبز بلدي بني ميني",
-        "en": "5 Mini Brown Baladi Bread"
-      },
-      "price": 12.0,
-      "sale_price": 6.0,
-      "stock": 8
-    },
-    "pending": false
-  },
-  "31486556": {
-    "notified": {
-      "discount_percent": 50.108,
-      "id": 31486556,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
-      "name": {
-        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
-        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
-      },
-      "price": 4650.0,
-      "reason": "new_discount",
-      "sale_price": 2320.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.108,
-      "id": 31486556,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
-      "name": {
-        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
-        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
-      },
-      "price": 4650.0,
-      "sale_price": 2320.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "3367277": {
     "notified": {
       "discount_percent": 57.0,
@@ -475,6 +279,174 @@
     },
     "pending": false
   },
+  "38934099": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38934099,
+      "image": "https://i.ibb.co/vfB9LYx/5281018712740.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - يؤخر الحلاقة (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Delays Shaving (150ml)"
+      },
+      "price": 649.0,
+      "reason": "new_discount",
+      "sale_price": 324.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38934099,
+      "image": "https://i.ibb.co/vfB9LYx/5281018712740.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - يؤخر الحلاقة (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Delays Shaving (150ml)"
+      },
+      "price": 649.0,
+      "sale_price": 324.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "38934100": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38934100,
+      "image": "https://i.ibb.co/Hfqg2GhD/5281018712757.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - باودر سوفت (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Powder Soft (150ml)"
+      },
+      "price": 599.0,
+      "reason": "new_discount",
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38934100,
+      "image": "https://i.ibb.co/Hfqg2GhD/5281018712757.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - باودر سوفت (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Powder Soft (150ml)"
+      },
+      "price": 599.0,
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "38934101": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38934101,
+      "image": "https://i.ibb.co/rf15p2mr/5281018712764.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - ورد جوري (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Jouri Rose (150ml)"
+      },
+      "price": 599.0,
+      "reason": "new_discount",
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38934101,
+      "image": "https://i.ibb.co/rf15p2mr/5281018712764.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - ورد جوري (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Jouri Rose (150ml)"
+      },
+      "price": 599.0,
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "38934102": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38934102,
+      "image": "https://i.ibb.co/PZt1kcd6/5281018712771.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - لمسة حريرية (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Silky Touch (150ml)"
+      },
+      "price": 599.0,
+      "reason": "new_discount",
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38934102,
+      "image": "https://i.ibb.co/PZt1kcd6/5281018712771.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - لمسة حريرية (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Silky Touch (150ml)"
+      },
+      "price": 599.0,
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "38934103": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38934103,
+      "image": "https://i.ibb.co/SwwfpNwY/5281018713556.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - الخيار وشجرة الشاي (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Cucumber & Tea Tree (150ml)"
+      },
+      "price": 599.0,
+      "reason": "new_discount",
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38934103,
+      "image": "https://i.ibb.co/SwwfpNwY/5281018713556.jpg",
+      "name": {
+        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - الخيار وشجرة الشاي (150 مل)",
+        "en": "Beesline Radiant Bright Under Arm Serum - Cucumber & Tea Tree (150ml)"
+      },
+      "price": 599.0,
+      "sale_price": 299.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "38934106": {
+    "notified": {
+      "discount_percent": 55.556,
+      "id": 38934106,
+      "image": "https://i.ibb.co/HTGbLPYV/5281018715383.jpg",
+      "name": {
+        "ar": "بيزلين سيروم للتحكم في الدهون وموازنة البشرة (30 مل)",
+        "en": "Beesline Sebum Control Balancing Serum (30ml)"
+      },
+      "price": 999.0,
+      "reason": "new_discount",
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.556,
+      "id": 38934106,
+      "image": "https://i.ibb.co/HTGbLPYV/5281018715383.jpg",
+      "name": {
+        "ar": "بيزلين سيروم للتحكم في الدهون وموازنة البشرة (30 مل)",
+        "en": "Beesline Sebum Control Balancing Serum (30ml)"
+      },
+      "price": 999.0,
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "38934108": {
     "notified": {
       "discount_percent": 55.556,
@@ -495,6 +467,34 @@
       "name": {
         "ar": "بيزلين سيروم المرطب للغاية (30 مل)",
         "en": "Beesline Super Hydrating Serum (30ml)"
+      },
+      "price": 999.0,
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38934109": {
+    "notified": {
+      "discount_percent": 55.556,
+      "id": 38934109,
+      "image": "https://i.ibb.co/RK0v47j/5281018715437.jpg",
+      "name": {
+        "ar": "بيزلين سيروم الموحد والمفتح للبشرة (30 مل)",
+        "en": "Beesline Unifying Brightening Serum (30ml)"
+      },
+      "price": 999.0,
+      "reason": "new_discount",
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.556,
+      "id": 38934109,
+      "image": "https://i.ibb.co/RK0v47j/5281018715437.jpg",
+      "name": {
+        "ar": "بيزلين سيروم الموحد والمفتح للبشرة (30 مل)",
+        "en": "Beesline Unifying Brightening Serum (30ml)"
       },
       "price": 999.0,
       "sale_price": 444.0,
@@ -638,90 +638,6 @@
       },
       "price": 599.0,
       "sale_price": 249.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "42164930": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42164930,
-      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
-      "name": {
-        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
-        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
-      },
-      "price": 6800.0,
-      "reason": "new_discount",
-      "sale_price": 3400.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42164930,
-      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
-      "name": {
-        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
-        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
-      },
-      "price": 6120.0,
-      "sale_price": 3060.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "42164932": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42164932,
-      "image": "https://i.ibb.co/6f13vrh/4989225532.jpg",
-      "name": {
-        "ar": "برادا لونا روسا أوشن برفيوم للرجال (50 مل)",
-        "en": "Prada Luna Rossa Ocean Parfum For Him (50ml)"
-      },
-      "price": 7200.0,
-      "reason": "new_discount",
-      "sale_price": 3600.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42164932,
-      "image": "https://i.ibb.co/6f13vrh/4989225532.jpg",
-      "name": {
-        "ar": "برادا لونا روسا أوشن برفيوم للرجال (50 مل)",
-        "en": "Prada Luna Rossa Ocean Parfum For Him (50ml)"
-      },
-      "price": 6480.0,
-      "sale_price": 3240.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "43658238": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 43658238,
-      "image": "https://i.ibb.co/PzvkrY6x/AC-Lamp-for-T3.jpg",
-      "name": {
-        "ar": "ملاي عدسة ازالة الشعر لحب الشباب جهاز T3",
-        "en": "Mlay Ac Lamp For T3"
-      },
-      "price": 1000.0,
-      "reason": "new_discount",
-      "sale_price": 500.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 43658238,
-      "image": "https://i.ibb.co/PzvkrY6x/AC-Lamp-for-T3.jpg",
-      "name": {
-        "ar": "ملاي عدسة ازالة الشعر لحب الشباب جهاز T3",
-        "en": "Mlay Ac Lamp For T3"
-      },
-      "price": 1000.0,
-      "sale_price": 500.0,
       "stock": 1
     },
     "pending": false
@@ -1619,22 +1535,6 @@
     },
     "pending": false
   },
-  "50984283": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50984283,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1ebd906a4fd5871011efb45bbdb077d2fedc680c21c0c8d63669a16120c4c36a",
-      "name": {
-        "ar": "جان بول غوتييه سكاندال اليكسير او دو بارفان للنساء (50 مل)",
-        "en": "Jean Paul Gaultier Scandal Elixir EDP For Her (50ml)"
-      },
-      "price": 7470.0,
-      "sale_price": 3735.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "51881739": {
     "notified": {
       "discount_percent": 50.0,
@@ -1803,75 +1703,395 @@
     },
     "pending": false
   },
-  "53998454": {
+  "54691424": {
     "notified": {
       "discount_percent": 50.0,
-      "id": 53998454,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
+      "id": 54691424,
+      "image": "https://i.ibb.co/gM5FRCkB/3264680043413.png",
       "name": {
-        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
-        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
+        "ar": "نوكس جل التنظيف المهدئ فيري روز (150 مل)",
+        "en": "Nuxe Very Rose Sooth Cleans Gel (150ml)"
       },
-      "price": 3700.0,
+      "price": 979.0,
       "reason": "new_discount",
-      "sale_price": 1850.0,
+      "sale_price": 489.5,
       "stock": 1
     },
     "observed": {
       "discount_percent": 50.0,
-      "id": 53998454,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
+      "id": 54691424,
+      "image": "https://i.ibb.co/gM5FRCkB/3264680043413.png",
       "name": {
-        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
-        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
+        "ar": "نوكس جل التنظيف المهدئ فيري روز (150 مل)",
+        "en": "Nuxe Very Rose Sooth Cleans Gel (150ml)"
       },
-      "price": 3700.0,
-      "sale_price": 1850.0,
+      "price": 979.0,
+      "sale_price": 489.5,
       "stock": 1
     },
     "pending": false
   },
-  "54136901": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.032,
-      "id": 54136901,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9758113d1c8d9227d09d5f51fa65fc996eeb1fe2a6ea45dbba6090e26041285b",
+  "54691425": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691425,
+      "image": "https://i.ibb.co/Cs0sBfhX/3264680039980.png",
       "name": {
-        "ar": "لطافة أسد الكسير او دي بارفان للرجال (100 مل)",
-        "en": "Lattafa Asad Elixir EDP For Him (100ml)"
+        "ar": "نوكس زنك باور بيور جل التنظيف (150 مل)",
+        "en": "Nuxe Zinc Power Pur Cleans Gel (150ml)"
       },
-      "price": 1575.0,
-      "sale_price": 787.0,
-      "stock": 0
+      "price": 959.0,
+      "reason": "new_discount",
+      "sale_price": 479.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691425,
+      "image": "https://i.ibb.co/Cs0sBfhX/3264680039980.png",
+      "name": {
+        "ar": "نوكس زنك باور بيور جل التنظيف (150 مل)",
+        "en": "Nuxe Zinc Power Pur Cleans Gel (150ml)"
+      },
+      "price": 959.0,
+      "sale_price": 479.5,
+      "stock": 1
     },
     "pending": false
   },
-  "56405920": {
+  "54691429": {
     "notified": {
       "discount_percent": 50.0,
-      "id": 56405920,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4daaca6bd557039207ec01fa8adb34fea34714763f55235160435fad737afd6d",
+      "id": 54691429,
+      "image": "https://i.ibb.co/twLp5Rv2/3264680022166-1.png",
       "name": {
-        "ar": "ديبسي بيتسي شيري في شيكولاته خاليه من السكر",
-        "en": "Dipsy Bitsy Cherries Dipped in Sugar Free Chocolate"
+        "ar": "نوكس سائل الواقي من الشمس بعامل حماية 50 (50 مل)",
+        "en": "Nuxe Sun Fluid SPF 50 (50ml)"
       },
-      "price": 195.0,
+      "price": 1369.0,
       "reason": "new_discount",
-      "sale_price": 97.5,
-      "stock": 2
+      "sale_price": 684.5,
+      "stock": 1
     },
     "observed": {
       "discount_percent": 50.0,
-      "id": 56405920,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4daaca6bd557039207ec01fa8adb34fea34714763f55235160435fad737afd6d",
+      "id": 54691429,
+      "image": "https://i.ibb.co/twLp5Rv2/3264680022166-1.png",
       "name": {
-        "ar": "ديبسي بيتسي شيري في شيكولاته خاليه من السكر",
-        "en": "Dipsy Bitsy Cherries Dipped in Sugar Free Chocolate"
+        "ar": "نوكس سائل الواقي من الشمس بعامل حماية 50 (50 مل)",
+        "en": "Nuxe Sun Fluid SPF 50 (50ml)"
       },
-      "price": 195.0,
-      "sale_price": 97.5,
-      "stock": 2
+      "price": 1369.0,
+      "sale_price": 684.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691431": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691431,
+      "image": "https://i.ibb.co/DPKgxtVY/3264680009761.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil (50ml)"
+      },
+      "price": 1699.0,
+      "reason": "new_discount",
+      "sale_price": 849.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691431,
+      "image": "https://i.ibb.co/DPKgxtVY/3264680009761.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil (50ml)"
+      },
+      "price": 1699.0,
+      "sale_price": 849.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "54691432": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691432,
+      "image": "https://i.ibb.co/PsCj0Qtw/3264680038334.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس جولدن فلورات (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil Goldin Florale (50ml)"
+      },
+      "price": 1799.0,
+      "reason": "new_discount",
+      "sale_price": 899.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691432,
+      "image": "https://i.ibb.co/PsCj0Qtw/3264680038334.jpg",
+      "name": {
+        "ar": "نوكس زيت جاف هويل بروديجيوس جولدن فلورات (50 مل)",
+        "en": "Nuxe Huile Prodigieuse Dry Oil Goldin Florale (50ml)"
+      },
+      "price": 1799.0,
+      "sale_price": 899.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691433": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691433,
+      "image": "https://i.ibb.co/YTjCGcgM/3264680021978.jpg",
+      "name": {
+        "ar": "نوكس مزيل العرق ريف دي المنعش (50 مل)",
+        "en": "Nuxe Reve De The Fresh Deodorant (50ml)"
+      },
+      "price": 759.0,
+      "reason": "new_discount",
+      "sale_price": 379.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691433,
+      "image": "https://i.ibb.co/YTjCGcgM/3264680021978.jpg",
+      "name": {
+        "ar": "نوكس مزيل العرق ريف دي المنعش (50 مل)",
+        "en": "Nuxe Reve De The Fresh Deodorant (50ml)"
+      },
+      "price": 759.0,
+      "sale_price": 379.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691436": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691436,
+      "image": "https://i.ibb.co/KxTBk4rg/3264680004070.jpg",
+      "name": {
+        "ar": "نوكس ريف دي ميل جل تنظيف الوجه (200 مل)",
+        "en": "Nuxe Reve De Miel Facial Cleansing Gel (200ml)"
+      },
+      "price": 990.0,
+      "reason": "new_discount",
+      "sale_price": 495.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691436,
+      "image": "https://i.ibb.co/KxTBk4rg/3264680004070.jpg",
+      "name": {
+        "ar": "نوكس ريف دي ميل جل تنظيف الوجه (200 مل)",
+        "en": "Nuxe Reve De Miel Facial Cleansing Gel (200ml)"
+      },
+      "price": 990.0,
+      "sale_price": 495.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691437": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691437,
+      "image": "https://i.ibb.co/chFNJj3K/3264680015809.jpg",
+      "name": {
+        "ar": "نوكس مرطب الشفاه ريف دي ميل (15 مل)",
+        "en": "Nuxe Reve De Miel Lip Balm (15ml)"
+      },
+      "price": 959.0,
+      "reason": "new_discount",
+      "sale_price": 479.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691437,
+      "image": "https://i.ibb.co/chFNJj3K/3264680015809.jpg",
+      "name": {
+        "ar": "نوكس مرطب الشفاه ريف دي ميل (15 مل)",
+        "en": "Nuxe Reve De Miel Lip Balm (15ml)"
+      },
+      "price": 959.0,
+      "sale_price": 479.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691438": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691438,
+      "image": "https://i.ibb.co/vxYhpv0T/3264680004117.jpg",
+      "name": {
+        "ar": "نوكس ستيك ترطيب الشفاه ريف دي ميل (4 جم)",
+        "en": "Nuxe Reve De Miel Lip Moist Stick (4g)"
+      },
+      "price": 589.0,
+      "reason": "new_discount",
+      "sale_price": 294.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691438,
+      "image": "https://i.ibb.co/vxYhpv0T/3264680004117.jpg",
+      "name": {
+        "ar": "نوكس ستيك ترطيب الشفاه ريف دي ميل (4 جم)",
+        "en": "Nuxe Reve De Miel Lip Moist Stick (4g)"
+      },
+      "price": 589.0,
+      "sale_price": 294.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691440": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691440,
+      "image": "https://i.ibb.co/HLZFM2TT/3264680034688.jpg",
+      "name": {
+        "ar": "نوكس ماسك ما قبل الشامبو هير بروديجيوكس (125 مل)",
+        "en": "Nuxe Hair Prodigieux Pre-Shampoo Mask (125ml)"
+      },
+      "price": 2199.0,
+      "reason": "new_discount",
+      "sale_price": 1099.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691440,
+      "image": "https://i.ibb.co/HLZFM2TT/3264680034688.jpg",
+      "name": {
+        "ar": "نوكس ماسك ما قبل الشامبو هير بروديجيوكس (125 مل)",
+        "en": "Nuxe Hair Prodigieux Pre-Shampoo Mask (125ml)"
+      },
+      "price": 2199.0,
+      "sale_price": 1099.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691462": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691462,
+      "image": "https://images.barcodelookup.com/30995/309957350-1.jpg",
+      "name": {
+        "ar": "موكس سيروم ميرفيلانس مصل الزيت المنشط لشد البشرة (30 مل)",
+        "en": "Nuxe Merveillance Lift Firming Activating Oil Serum (30ml)"
+      },
+      "price": 2999.0,
+      "reason": "new_discount",
+      "sale_price": 1499.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691462,
+      "image": "https://images.barcodelookup.com/30995/309957350-1.jpg",
+      "name": {
+        "ar": "موكس سيروم ميرفيلانس مصل الزيت المنشط لشد البشرة (30 مل)",
+        "en": "Nuxe Merveillance Lift Firming Activating Oil Serum (30ml)"
+      },
+      "price": 2999.0,
+      "sale_price": 1499.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691475": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691475,
+      "image": "https://i.ibb.co/CG9Pbfc/3264680043529.jpg",
+      "name": {
+        "ar": "نوكس سيروم تكبير الشفاه برائحة الورد (8 مل)",
+        "en": "Nuxe Very Rose Plumping Lip Serum (8ml)"
+      },
+      "price": 1325.0,
+      "reason": "new_discount",
+      "sale_price": 662.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691475,
+      "image": "https://i.ibb.co/CG9Pbfc/3264680043529.jpg",
+      "name": {
+        "ar": "نوكس سيروم تكبير الشفاه برائحة الورد (8 مل)",
+        "en": "Nuxe Very Rose Plumping Lip Serum (8ml)"
+      },
+      "price": 1325.0,
+      "sale_price": 662.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691479": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691479,
+      "image": "https://i.ibb.co/wNWCSDfg/3264680042188.jpg",
+      "name": {
+        "ar": "نوكس رول أون ويل بروديجيوس (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Roll-On (60ml)"
+      },
+      "price": 1900.0,
+      "reason": "new_discount",
+      "sale_price": 950.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691479,
+      "image": "https://i.ibb.co/wNWCSDfg/3264680042188.jpg",
+      "name": {
+        "ar": "نوكس رول أون ويل بروديجيوس (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Roll-On (60ml)"
+      },
+      "price": 1900.0,
+      "sale_price": 950.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691480": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691480,
+      "image": "https://i.ibb.co/PZR1b6xs/3264680042201.jpg",
+      "name": {
+        "ar": "نوكس هولي بروديجيوس أو رول أون (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Or Roll-On (60ml)"
+      },
+      "price": 2550.0,
+      "reason": "new_discount",
+      "sale_price": 1275.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691480,
+      "image": "https://i.ibb.co/PZR1b6xs/3264680042201.jpg",
+      "name": {
+        "ar": "نوكس هولي بروديجيوس أو رول أون (60 مل)",
+        "en": "Nuxe Huile Prodigieuse Or Roll-On (60ml)"
+      },
+      "price": 2550.0,
+      "sale_price": 1275.0,
+      "stock": 1
     },
     "pending": false
   },
@@ -2179,34 +2399,6 @@
       },
       "price": 216.0,
       "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60676796": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60676796,
-      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
-      "name": {
-        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
-        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
-      },
-      "price": 1299.0,
-      "reason": "new_discount",
-      "sale_price": 649.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60676796,
-      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
-      "name": {
-        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
-        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
-      },
-      "price": 1299.0,
-      "sale_price": 649.5,
       "stock": 1
     },
     "pending": false
