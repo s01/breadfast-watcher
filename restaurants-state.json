@@ -290,6 +290,25 @@
     },
     "pending": false
   },
+  "1282:66236": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1282:66236",
+      "image": "https://food-cdn.breadfast.com/1793785789473-7478a8dd-8358-4787-86c9-afa7fc48c873.png",
+      "merchant_name": "El Dahan",
+      "name": {
+        "ar": "اشتري حواوشي واحصل على واحد مجانًا",
+        "en": "Buy One Hawawshi and Get One Free"
+      },
+      "price": 282.0,
+      "sale_price": 141.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "2008:66110": {
     "notified": null,
     "observed": {
