@@ -1,6 +1,21 @@
 {
   "1036:66248": {
-    "notified": null,
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1036:66248",
+      "image": "https://food-cdn.breadfast.com/1793789190017-c0a5b86a-c800-47e4-836c-2fd1a0dc53a4.png",
+      "merchant_name": "Prego",
+      "name": {
+        "ar": "اشتري وجبة واحصل على واحدة مجانًا",
+        "en": "Buy One Meal and Get One Free"
+      },
+      "price": 510.0,
+      "reason": "new_discount",
+      "sale_price": 255.0,
+      "stock": 1000
+    },
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": true,
@@ -14,7 +29,7 @@
       },
       "price": 510.0,
       "sale_price": 255.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -135,7 +150,7 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -169,7 +184,7 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -203,7 +218,7 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -363,7 +378,22 @@
     "pending": false
   },
   "2008:66110": {
-    "notified": null,
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2008:66110",
+      "image": "https://food-cdn.breadfast.com/1793720852748-dd7562e4-a5c1-46c2-8c54-89f4a413d13b.png",
+      "merchant_name": "Shawermer",
+      "name": {
+        "ar": "اشتري شاورما سجق واحصل على واحدة مجانًا",
+        "en": "Buy One Sojouk Shawerma and Get One Free"
+      },
+      "price": 260.0,
+      "reason": "new_discount",
+      "sale_price": 130.0,
+      "stock": 1000
+    },
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
@@ -377,12 +407,27 @@
       },
       "price": 260.0,
       "sale_price": 130.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
   "2008:66111": {
-    "notified": null,
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2008:66111",
+      "image": "https://food-cdn.breadfast.com/1793721003557-a39ab7d7-52a5-4b51-aaa4-839fab4daf1a.png",
+      "merchant_name": "Shawermer",
+      "name": {
+        "ar": "اشتري كباب إيراني واحصل على واحدة مجانًا",
+        "en": "Buy One Iranian Kebab and Get One Free"
+      },
+      "price": 270.0,
+      "reason": "new_discount",
+      "sale_price": 135.0,
+      "stock": 1000
+    },
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
@@ -396,12 +441,27 @@
       },
       "price": 270.0,
       "sale_price": 135.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
   "2008:66112": {
-    "notified": null,
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2008:66112",
+      "image": "https://food-cdn.breadfast.com/1793721153339-1a0072d6-0cdf-4cfe-bb49-cefd6caa9edd.png",
+      "merchant_name": "Shawermer",
+      "name": {
+        "ar": "اشتري شاورما دجاج واحصل على واحدة مجانًا",
+        "en": "Buy One Chicken Shawerma and Get One Free"
+      },
+      "price": 320.0,
+      "reason": "new_discount",
+      "sale_price": 160.0,
+      "stock": 1000
+    },
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
@@ -415,7 +475,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -483,7 +543,7 @@
       },
       "price": 416.0,
       "sale_price": 165.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -517,7 +577,7 @@
       },
       "price": 416.0,
       "sale_price": 165.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -551,7 +611,7 @@
       },
       "price": 416.0,
       "sale_price": 165.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -585,7 +645,7 @@
       },
       "price": 379.0,
       "sale_price": 179.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -619,12 +679,27 @@
       },
       "price": 1300.0,
       "sale_price": 639.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
   "2515:67903": {
-    "notified": null,
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2515:67903",
+      "image": "https://food-cdn.breadfast.com/1794459727983-b3002572-bf8a-430f-acc2-eb10361499f1.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "اشتري شاورما دجاج سوري كبير واحصل على واحد مجانًا",
+        "en": "Buy One Large Chicken Shawarma and Get One Free"
+      },
+      "price": 242.0,
+      "reason": "new_discount",
+      "sale_price": 121.0,
+      "stock": 1000
+    },
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
@@ -638,12 +713,27 @@
       },
       "price": 242.0,
       "sale_price": 121.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
   "2515:67906": {
-    "notified": null,
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2515:67906",
+      "image": "https://food-cdn.breadfast.com/1794459944308-aecf012e-9b92-41e8-95e2-c34a19651ffd.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "اشتري فطيرة سجق كبرى واحصل على فطيرة بوغاشة مجانًا",
+        "en": "Buy One Sojouk Feteer and Get One Boghasha Feteer Free"
+      },
+      "price": 484.0,
+      "reason": "new_discount",
+      "sale_price": 242.0,
+      "stock": 1000
+    },
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
@@ -657,7 +747,7 @@
       },
       "price": 484.0,
       "sale_price": 242.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -691,7 +781,7 @@
       },
       "price": 406.0,
       "sale_price": 199.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -725,7 +815,7 @@
       },
       "price": 416.0,
       "sale_price": 165.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -759,7 +849,7 @@
       },
       "price": 416.0,
       "sale_price": 165.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -793,7 +883,7 @@
       },
       "price": 416.0,
       "sale_price": 165.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -827,7 +917,7 @@
       },
       "price": 379.0,
       "sale_price": 179.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -861,7 +951,7 @@
       },
       "price": 1300.0,
       "sale_price": 639.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
