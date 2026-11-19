@@ -563,7 +563,7 @@
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
-      "discount_percent": 60.337,
+      "discount_percent": 52.163,
       "id": "2515:62110",
       "image": "https://food-cdn.breadfast.com/1792578788659-97256937-8f7f-4cac-9425-8422389912e1.png",
       "merchant_name": "Hamza",
@@ -572,7 +572,7 @@
         "en": "Back-to-School Offer 1"
       },
       "price": 416.0,
-      "sale_price": 165.0,
+      "sale_price": 199.0,
       "stock": 1000
     },
     "pending": false
@@ -597,7 +597,7 @@
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
-      "discount_percent": 60.337,
+      "discount_percent": 52.163,
       "id": "2515:62111",
       "image": "https://food-cdn.breadfast.com/1792578814028-5829ac20-18f2-4e4b-a3d2-53232dfccc58.png",
       "merchant_name": "Hamza",
@@ -606,7 +606,7 @@
         "en": "Back-to-School Offer 2"
       },
       "price": 416.0,
-      "sale_price": 165.0,
+      "sale_price": 199.0,
       "stock": 1000
     },
     "pending": false
@@ -631,7 +631,7 @@
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
-      "discount_percent": 60.337,
+      "discount_percent": 52.163,
       "id": "2515:62112",
       "image": "https://food-cdn.breadfast.com/1792578844351-ff46b607-e04f-4868-a780-567fada9fd34.png",
       "merchant_name": "Hamza",
@@ -640,75 +640,7 @@
         "en": "Back-to-School Offer 3"
       },
       "price": 416.0,
-      "sale_price": 165.0,
-      "stock": 1000
-    },
-    "pending": false
-  },
-  "2515:62113": {
-    "notified": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 52.77,
-      "id": "2515:62113",
-      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
-      "merchant_name": "Hamza",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ٤",
-        "en": "Back-to-School Offer 4"
-      },
-      "price": 379.0,
-      "reason": "new_discount",
-      "sale_price": 179.0,
-      "stock": 1000
-    },
-    "observed": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 52.77,
-      "id": "2515:62113",
-      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
-      "merchant_name": "Hamza",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ٤",
-        "en": "Back-to-School Offer 4"
-      },
-      "price": 379.0,
-      "sale_price": 179.0,
-      "stock": 1000
-    },
-    "pending": false
-  },
-  "2515:62127": {
-    "notified": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 50.846,
-      "id": "2515:62127",
-      "image": "https://food-cdn.breadfast.com/1792608782051-9f2ecfa4-6082-4ace-bff5-202d8d76c9be.png",
-      "merchant_name": "Hamza",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ١٩",
-        "en": "Back-to-School Offer 19"
-      },
-      "price": 1300.0,
-      "reason": "new_discount",
-      "sale_price": 639.0,
-      "stock": 1000
-    },
-    "observed": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 50.846,
-      "id": "2515:62127",
-      "image": "https://food-cdn.breadfast.com/1792608782051-9f2ecfa4-6082-4ace-bff5-202d8d76c9be.png",
-      "merchant_name": "Hamza",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ١٩",
-        "en": "Back-to-School Offer 19"
-      },
-      "price": 1300.0,
-      "sale_price": 639.0,
+      "sale_price": 199.0,
       "stock": 1000
     },
     "pending": false
@@ -835,7 +767,7 @@
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
-      "discount_percent": 60.337,
+      "discount_percent": 52.163,
       "id": "2516:62129",
       "image": "https://food-cdn.breadfast.com/1792578788659-97256937-8f7f-4cac-9425-8422389912e1.png",
       "merchant_name": "Bab Sharqy",
@@ -844,7 +776,7 @@
         "en": "Back-to-School Offer 1"
       },
       "price": 416.0,
-      "sale_price": 165.0,
+      "sale_price": 199.0,
       "stock": 1000
     },
     "pending": false
@@ -869,7 +801,7 @@
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
-      "discount_percent": 60.337,
+      "discount_percent": 52.163,
       "id": "2516:62130",
       "image": "https://food-cdn.breadfast.com/1792578814028-5829ac20-18f2-4e4b-a3d2-53232dfccc58.png",
       "merchant_name": "Bab Sharqy",
@@ -878,7 +810,7 @@
         "en": "Back-to-School Offer 2"
       },
       "price": 416.0,
-      "sale_price": 165.0,
+      "sale_price": 199.0,
       "stock": 1000
     },
     "pending": false
@@ -903,7 +835,7 @@
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": false,
-      "discount_percent": 60.337,
+      "discount_percent": 52.163,
       "id": "2516:62131",
       "image": "https://food-cdn.breadfast.com/1792578844351-ff46b607-e04f-4868-a780-567fada9fd34.png",
       "merchant_name": "Bab Sharqy",
@@ -912,75 +844,7 @@
         "en": "Back-to-School Offer 3"
       },
       "price": 416.0,
-      "sale_price": 165.0,
-      "stock": 1000
-    },
-    "pending": false
-  },
-  "2516:62132": {
-    "notified": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 52.77,
-      "id": "2516:62132",
-      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
-      "merchant_name": "Bab Sharqy",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ٤",
-        "en": "Back-to-School Offer 4"
-      },
-      "price": 379.0,
-      "reason": "new_discount",
-      "sale_price": 179.0,
-      "stock": 1000
-    },
-    "observed": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 52.77,
-      "id": "2516:62132",
-      "image": "https://food-cdn.breadfast.com/1792578891172-867b5929-3d43-4d33-ad09-fe900ec1cef4.png",
-      "merchant_name": "Bab Sharqy",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ٤",
-        "en": "Back-to-School Offer 4"
-      },
-      "price": 379.0,
-      "sale_price": 179.0,
-      "stock": 1000
-    },
-    "pending": false
-  },
-  "2516:62146": {
-    "notified": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 50.846,
-      "id": "2516:62146",
-      "image": "https://food-cdn.breadfast.com/1792608774500-325969ce-2222-4209-b1ab-bdf66d76194b.png",
-      "merchant_name": "Bab Sharqy",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ١٩",
-        "en": "Back-to-School Offer 19"
-      },
-      "price": 1300.0,
-      "reason": "new_discount",
-      "sale_price": 639.0,
-      "stock": 1000
-    },
-    "observed": {
-      "_catalogue": "restaurants",
-      "base_price_only": false,
-      "discount_percent": 50.846,
-      "id": "2516:62146",
-      "image": "https://food-cdn.breadfast.com/1792608774500-325969ce-2222-4209-b1ab-bdf66d76194b.png",
-      "merchant_name": "Bab Sharqy",
-      "name": {
-        "ar": "عرض العودة إلى المدارس ١٩",
-        "en": "Back-to-School Offer 19"
-      },
-      "price": 1300.0,
-      "sale_price": 639.0,
+      "sale_price": 199.0,
       "stock": 1000
     },
     "pending": false
