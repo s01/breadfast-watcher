@@ -1847,62 +1847,6 @@
     },
     "pending": false
   },
-  "60673177": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
-      "name": {
-        "ar": "رويال إس كيرى رومى (450g)",
-        "en": "Royal S Kiri Roomy (450g)"
-      },
-      "price": 130.8,
-      "reason": "new_discount",
-      "sale_price": 65.4,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
-      "name": {
-        "ar": "رويال إس كيرى رومى (450g)",
-        "en": "Royal S Kiri Roomy (450g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673186": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
-      "name": {
-        "ar": "رويال إس شلل (300g)",
-        "en": "Royal S Shallal Cheese (300g)"
-      },
-      "price": 162.0,
-      "reason": "new_discount",
-      "sale_price": 81.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
-      "name": {
-        "ar": "رويال إس شلل (300g)",
-        "en": "Royal S Shallal Cheese (300g)"
-      },
-      "price": 162.0,
-      "sale_price": 81.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -1927,34 +1871,6 @@
       },
       "price": 156.0,
       "sale_price": 78.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673188": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673188,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5fe94db4ded0d409ec2bac60dcf3c1d3c8706adb42567ab7e5485ec8c07556ea",
-      "name": {
-        "ar": "رويال إس عكاوى تشيكى (300g)",
-        "en": "Royal S Akkawi Czech Cheese (300g)"
-      },
-      "price": 138.0,
-      "reason": "new_discount",
-      "sale_price": 69.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673188,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5fe94db4ded0d409ec2bac60dcf3c1d3c8706adb42567ab7e5485ec8c07556ea",
-      "name": {
-        "ar": "رويال إس عكاوى تشيكى (300g)",
-        "en": "Royal S Akkawi Czech Cheese (300g)"
-      },
-      "price": 138.0,
-      "sale_price": 69.0,
       "stock": 1
     },
     "pending": false
@@ -2120,34 +2036,6 @@
       "name": {
         "ar": "رويال إس لبنة ماعز بابريكا (450g)",
         "en": "Royal S Labna Goat With Paprika (450g)"
-      },
-      "price": 216.0,
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673198": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
-      "name": {
-        "ar": "رويال إس لبنة ماعز زعتر (400g)",
-        "en": "Royal S Labna Goat With Thyme (400g)"
-      },
-      "price": 216.0,
-      "reason": "new_discount",
-      "sale_price": 108.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
-      "name": {
-        "ar": "رويال إس لبنة ماعز زعتر (400g)",
-        "en": "Royal S Labna Goat With Thyme (400g)"
       },
       "price": 216.0,
       "sale_price": 108.0,
@@ -2558,7 +2446,7 @@
       },
       "price": 350.0,
       "sale_price": 175.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
