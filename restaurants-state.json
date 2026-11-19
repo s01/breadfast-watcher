@@ -275,6 +275,25 @@
     },
     "pending": false
   },
+  "1255:66888": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1255:66888",
+      "image": "https://food-cdn.breadfast.com/1793827299912-68f21df3-8fcd-41a7-9bec-85d7f876f48c.png",
+      "merchant_name": "Lado's Pizza",
+      "name": {
+        "ar": "اشتري بيتزا واحصل على واحدة مجانًا",
+        "en": "Buy One Pizza and Get One Free"
+      },
+      "price": 750.0,
+      "sale_price": 375.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "1282:45809": {
     "notified": {
       "_catalogue": "restaurants",
