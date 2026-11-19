@@ -63,12 +63,27 @@
       },
       "price": 598.0,
       "sale_price": 299.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
   "1185:66143": {
-    "notified": null,
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": true,
+      "discount_percent": 50.0,
+      "id": "1185:66143",
+      "image": "https://food-cdn.breadfast.com/1793738826628-c956a222-bac1-4bd3-9228-c11b75ba9f77.png",
+      "merchant_name": "Pizza 88",
+      "name": {
+        "ar": "اشتري بيتزا وسط واحصل على واحدة مجانًا",
+        "en": "Buy One Medium Pizza and Get One Free"
+      },
+      "price": 500.0,
+      "reason": "new_discount",
+      "sale_price": 250.0,
+      "stock": 1000
+    },
     "observed": {
       "_catalogue": "restaurants",
       "base_price_only": true,
@@ -82,7 +97,7 @@
       },
       "price": 500.0,
       "sale_price": 250.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -252,7 +267,7 @@
       },
       "price": 850.0,
       "sale_price": 425.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -286,7 +301,7 @@
       },
       "price": 598.0,
       "sale_price": 283.86,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   },
@@ -985,7 +1000,7 @@
       },
       "price": 720.0,
       "sale_price": 360.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   }
