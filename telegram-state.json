@@ -279,6 +279,90 @@
     },
     "pending": false
   },
+  "29819338": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 29819338,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6325a1b930de98b8b7369d765f5f95b5fd34e650de3d319ca86523df6a99b916",
+      "name": {
+        "ar": "ديرماسي سيروم مضاد لحب الشباب (30 مل)",
+        "en": "Dermacy Acne Prone Serum (30ml)"
+      },
+      "price": 490.0,
+      "reason": "new_discount",
+      "sale_price": 245.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 29819338,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6325a1b930de98b8b7369d765f5f95b5fd34e650de3d319ca86523df6a99b916",
+      "name": {
+        "ar": "ديرماسي سيروم مضاد لحب الشباب (30 مل)",
+        "en": "Dermacy Acne Prone Serum (30ml)"
+      },
+      "price": 490.0,
+      "sale_price": 245.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "29819544": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 29819544,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/8f6bf1823af546e312bde19bea37555840c5ff140af6407f9c60b3c1151e191b",
+      "name": {
+        "ar": "ديرماسي سيروم مضاد للتجاعيد (30 مل)",
+        "en": "Dermacy Anti Wrinkle Serum (30ml)"
+      },
+      "price": 585.0,
+      "reason": "new_discount",
+      "sale_price": 292.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 29819544,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/8f6bf1823af546e312bde19bea37555840c5ff140af6407f9c60b3c1151e191b",
+      "name": {
+        "ar": "ديرماسي سيروم مضاد للتجاعيد (30 مل)",
+        "en": "Dermacy Anti Wrinkle Serum (30ml)"
+      },
+      "price": 585.0,
+      "sale_price": 292.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "29819709": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 29819709,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fc96d05dce9512e3bd807eadcc5a3b2b3830e78c2eb2c3fea63bd7dfb598ffb6",
+      "name": {
+        "ar": "(ديرماسي سيروم جلو بوستر لتفتيح البشرة (30 مل",
+        "en": "Dermacy Glow Booster Serum (30ml)"
+      },
+      "price": 490.0,
+      "reason": "new_discount",
+      "sale_price": 245.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 29819709,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fc96d05dce9512e3bd807eadcc5a3b2b3830e78c2eb2c3fea63bd7dfb598ffb6",
+      "name": {
+        "ar": "(ديرماسي سيروم جلو بوستر لتفتيح البشرة (30 مل",
+        "en": "Dermacy Glow Booster Serum (30ml)"
+      },
+      "price": 490.0,
+      "sale_price": 245.0,
+      "stock": 2
+    },
+    "pending": false
+  },
   "31486556": {
     "notified": {
       "discount_percent": 50.108,
@@ -609,7 +693,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 1
+      "stock": 4
     },
     "pending": false
   },
@@ -831,7 +915,7 @@
       },
       "price": 480.0,
       "sale_price": 240.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -887,7 +971,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1055,7 +1139,7 @@
       },
       "price": 345.0,
       "sale_price": 172.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1195,7 +1279,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -1223,7 +1307,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 3
+      "stock": 4
     },
     "pending": false
   },
@@ -1279,7 +1363,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 4
     },
     "pending": false
   },
@@ -1307,7 +1391,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 3
+      "stock": 4
     },
     "pending": false
   },
@@ -1335,7 +1419,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1519,7 +1603,7 @@
       },
       "price": 750.0,
       "sale_price": 375.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2530,7 +2614,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2558,7 +2642,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 5
+      "stock": 6
     },
     "pending": false
   },
@@ -2586,34 +2670,6 @@
       },
       "price": 215.0,
       "sale_price": 107.5,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "9959075": {
-    "notified": {
-      "discount_percent": 59.032,
-      "id": 9959075,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/6223001240488.png",
-      "name": {
-        "ar": "زينة تريو مناديل تواليت مضغوطة 10+2 هدية (12 رول)",
-        "en": "Zeina Toilet Trio Compressed Tissues 10+2 Free (12 Rolls)"
-      },
-      "price": 143.99,
-      "reason": "improved_discount",
-      "sale_price": 58.99,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 59.032,
-      "id": 9959075,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/6223001240488.png",
-      "name": {
-        "ar": "زينة تريو مناديل تواليت مضغوطة 10+2 هدية (12 رول)",
-        "en": "Zeina Toilet Trio Compressed Tissues 10+2 Free (12 Rolls)"
-      },
-      "price": 143.99,
-      "sale_price": 58.99,
       "stock": 3
     },
     "pending": false
