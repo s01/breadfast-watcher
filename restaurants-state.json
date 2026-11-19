@@ -574,6 +574,44 @@
     },
     "pending": false
   },
+  "2515:67903": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2515:67903",
+      "image": "https://food-cdn.breadfast.com/1794459727983-b3002572-bf8a-430f-acc2-eb10361499f1.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "اشتري شاورما دجاج سوري كبير واحصل على واحد مجانًا",
+        "en": "Buy One Large Chicken Shawarma and Get One Free"
+      },
+      "price": 242.0,
+      "sale_price": 121.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "2515:67906": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2515:67906",
+      "image": "https://food-cdn.breadfast.com/1794459944308-aecf012e-9b92-41e8-95e2-c34a19651ffd.png",
+      "merchant_name": "Hamza",
+      "name": {
+        "ar": "اشتري فطيرة سجق كبرى واحصل على فطيرة بوغاشة مجانًا",
+        "en": "Buy One Sojouk Feteer and Get One Boghasha Feteer Free"
+      },
+      "price": 484.0,
+      "sale_price": 242.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "2515:67907": {
     "notified": {
       "_catalogue": "restaurants",
