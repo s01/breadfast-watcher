@@ -271,6 +271,63 @@
     },
     "pending": false
   },
+  "2008:66110": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2008:66110",
+      "image": "https://food-cdn.breadfast.com/1793720852748-dd7562e4-a5c1-46c2-8c54-89f4a413d13b.png",
+      "merchant_name": "Shawermer",
+      "name": {
+        "ar": "اشتري شاورما سجق واحصل على واحدة مجانًا",
+        "en": "Buy One Sojouk Shawerma and Get One Free"
+      },
+      "price": 260.0,
+      "sale_price": 130.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "2008:66111": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2008:66111",
+      "image": "https://food-cdn.breadfast.com/1793721003557-a39ab7d7-52a5-4b51-aaa4-839fab4daf1a.png",
+      "merchant_name": "Shawermer",
+      "name": {
+        "ar": "اشتري كباب إيراني واحصل على واحدة مجانًا",
+        "en": "Buy One Iranian Kebab and Get One Free"
+      },
+      "price": 270.0,
+      "sale_price": 135.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "2008:66112": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "2008:66112",
+      "image": "https://food-cdn.breadfast.com/1793721153339-1a0072d6-0cdf-4cfe-bb49-cefd6caa9edd.png",
+      "merchant_name": "Shawermer",
+      "name": {
+        "ar": "اشتري شاورما دجاج واحصل على واحدة مجانًا",
+        "en": "Buy One Chicken Shawerma and Get One Free"
+      },
+      "price": 320.0,
+      "sale_price": 160.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "2515:62110": {
     "notified": {
       "_catalogue": "restaurants",
