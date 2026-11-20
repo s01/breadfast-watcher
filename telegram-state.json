@@ -1,60 +1,4 @@
 {
-  "12568643": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 12568643,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ed3a24cb0036296c6f67a000e7185a5131d014fab70ab6acbf54648854d7293a",
-      "name": {
-        "ar": "بريد فاست زيت زيتون البكر الممتاز (1لتر)",
-        "en": "Breadfast Extra Virgin Olive Oil Glass (1L)"
-      },
-      "price": 862.48,
-      "reason": "new_discount",
-      "sale_price": 344.99,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 12568643,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ed3a24cb0036296c6f67a000e7185a5131d014fab70ab6acbf54648854d7293a",
-      "name": {
-        "ar": "بريد فاست زيت زيتون البكر الممتاز (1لتر)",
-        "en": "Breadfast Extra Virgin Olive Oil Glass (1L)"
-      },
-      "price": 862.48,
-      "sale_price": 344.99,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "1762778": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 1762778,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/fairy-lemon.png",
-      "name": {
-        "ar": "فيري سائل غسيل الاطباق الترا برائحه الليمون خصم 2 جنيه ( 420 جرام )",
-        "en": "Fairy Ultra Concentrated Dishwashing Lemon Scent 2 L.E Off (420gm)"
-      },
-      "price": 87.0,
-      "reason": "new_discount",
-      "sale_price": 34.8,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 1762778,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/fairy-lemon.png",
-      "name": {
-        "ar": "فيري سائل غسيل الاطباق الترا برائحه الليمون خصم 2 جنيه ( 420 جرام )",
-        "en": "Fairy Ultra Concentrated Dishwashing Lemon Scent 2 L.E Off (420gm)"
-      },
-      "price": 87.0,
-      "sale_price": 34.8,
-      "stock": 1
-    },
-    "pending": false
-  },
   "21096505": {
     "notified": {
       "discount_percent": 50.0,
@@ -191,7 +135,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 6
+      "stock": 5
     },
     "pending": false
   },
@@ -360,34 +304,6 @@
       "price": 490.0,
       "sale_price": 245.0,
       "stock": 2
-    },
-    "pending": false
-  },
-  "2992763": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 2992763,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-32.png",
-      "name": {
-        "ar": "صن شاين تونة قطعة واحدة سهلة الفتح (200 جرام)",
-        "en": "Sunshine Solid Tuna-Easy Open (200g)"
-      },
-      "price": 82.0,
-      "reason": "new_discount",
-      "sale_price": 32.8,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 2992763,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-32.png",
-      "name": {
-        "ar": "صن شاين تونة قطعة واحدة سهلة الفتح (200 جرام)",
-        "en": "Sunshine Solid Tuna-Easy Open (200g)"
-      },
-      "price": 82.0,
-      "sale_price": 32.8,
-      "stock": 1
     },
     "pending": false
   },
@@ -1839,7 +1755,7 @@
       },
       "price": 750.0,
       "sale_price": 375.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -2483,34 +2399,6 @@
       },
       "price": 340.0,
       "sale_price": 170.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "6010538": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 6010538,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/70x90-50-Bags.png",
-      "name": {
-        "ar": "سواي رول قمامة 70*90 50كيس",
-        "en": "Sway Home - 50 Garbage Bags (90*70)"
-      },
-      "price": 250.0,
-      "reason": "new_discount",
-      "sale_price": 100.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 6010538,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/70x90-50-Bags.png",
-      "name": {
-        "ar": "سواي رول قمامة 70*90 50كيس",
-        "en": "Sway Home - 50 Garbage Bags (90*70)"
-      },
-      "price": 250.0,
-      "sale_price": 100.0,
       "stock": 1
     },
     "pending": false
