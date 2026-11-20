@@ -135,7 +135,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -359,7 +359,7 @@
       },
       "price": 649.0,
       "sale_price": 324.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -471,7 +471,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -695,34 +695,6 @@
       "price": 599.0,
       "sale_price": 249.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "42935615": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42935615,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cb91a26bf961b183b40a41a2c2d405b02f1d376236a6d8817e1adffb2d6c46f0",
-      "name": {
-        "ar": "سواي شاور جيل برائحة جوز الهند و الفانيلا (1 ليتر)",
-        "en": "Sway Shower Gel Coconut vanilla (1L)"
-      },
-      "price": 130.0,
-      "reason": "new_discount",
-      "sale_price": 65.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42935615,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cb91a26bf961b183b40a41a2c2d405b02f1d376236a6d8817e1adffb2d6c46f0",
-      "name": {
-        "ar": "سواي شاور جيل برائحة جوز الهند و الفانيلا (1 ليتر)",
-        "en": "Sway Shower Gel Coconut vanilla (1L)"
-      },
-      "price": 130.0,
-      "sale_price": 65.0,
-      "stock": 3
     },
     "pending": false
   },
@@ -1531,7 +1503,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -1559,7 +1531,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 6
+      "stock": 5
     },
     "pending": false
   },
@@ -1699,7 +1671,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -2259,7 +2231,7 @@
       },
       "price": 230.0,
       "sale_price": 115.0,
-      "stock": 6
+      "stock": 5
     },
     "pending": false
   },
@@ -2539,7 +2511,7 @@
       },
       "price": 395.0,
       "sale_price": 197.5,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -2946,7 +2918,7 @@
       },
       "price": 350.0,
       "sale_price": 175.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -2974,7 +2946,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -3002,7 +2974,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 6
+      "stock": 5
     },
     "pending": false
   }
