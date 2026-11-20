@@ -1759,34 +1759,6 @@
     },
     "pending": false
   },
-  "53782434": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 53782434,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fcbd85b3dc460fa950583d6c1b25fda4a12f07babdb9f3a0d79dc30c95f605b",
-      "name": {
-        "ar": "سيمبلي مطهر عام (750 مل)",
-        "en": "Simply General Disinfectant Liquid (750ml)"
-      },
-      "price": 130.0,
-      "reason": "new_discount",
-      "sale_price": 65.0,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 53782434,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fcbd85b3dc460fa950583d6c1b25fda4a12f07babdb9f3a0d79dc30c95f605b",
-      "name": {
-        "ar": "سيمبلي مطهر عام (750 مل)",
-        "en": "Simply General Disinfectant Liquid (750ml)"
-      },
-      "price": 130.0,
-      "sale_price": 65.0,
-      "stock": 5
-    },
-    "pending": false
-  },
   "54691424": {
     "notified": {
       "discount_percent": 50.0,
