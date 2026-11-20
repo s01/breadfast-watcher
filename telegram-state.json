@@ -1,32 +1,4 @@
 {
-  "13980039": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 13980039,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/66fbdabf5498f2c7fd832d7600b2508b8a74ea724543b4f7c6fbb38efe92125a",
-      "name": {
-        "ar": "سيرافي كريم مرطب للبشرة الجافة (177 مل)",
-        "en": "Cerave Moisturising Cream For Dry Skin (177ml)"
-      },
-      "price": 550.0,
-      "reason": "new_discount",
-      "sale_price": 275.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 13980039,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/66fbdabf5498f2c7fd832d7600b2508b8a74ea724543b4f7c6fbb38efe92125a",
-      "name": {
-        "ar": "سيرافي كريم مرطب للبشرة الجافة (177 مل)",
-        "en": "Cerave Moisturising Cream For Dry Skin (177ml)"
-      },
-      "price": 550.0,
-      "sale_price": 275.0,
-      "stock": 2
-    },
-    "pending": false
-  },
   "21096505": {
     "notified": {
       "discount_percent": 50.0,
@@ -111,6 +83,34 @@
     },
     "pending": false
   },
+  "27503530": {
+    "notified": {
+      "discount_percent": 55.556,
+      "id": 27503530,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-22-Photoroom-1.png",
+      "name": {
+        "ar": "بيزلين سيروم لنضارة الوجة (30 مل)‎",
+        "en": "Beesline Instant Bright Glow Serum (30ml)"
+      },
+      "price": 999.0,
+      "reason": "new_discount",
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.556,
+      "id": 27503530,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-22-Photoroom-1.png",
+      "name": {
+        "ar": "بيزلين سيروم لنضارة الوجة (30 مل)‎",
+        "en": "Beesline Instant Bright Glow Serum (30ml)"
+      },
+      "price": 999.0,
+      "sale_price": 444.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "27504409": {
     "notified": {
       "discount_percent": 50.0,
@@ -135,7 +135,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 2
+      "stock": 6
     },
     "pending": false
   },
@@ -580,8 +580,92 @@
         "ar": "دراكون كريم جل واقي من الشمس (150 مل + 60 مل)",
         "en": "Drakon Sunscreen Gel Cream (150ml + 60ml)"
       },
+      "price": 798.0,
+      "sale_price": 399.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105505": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105505,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1b6fa0df9694a737e1e369e72f0124b011d8047bc1efef4b726241d2181a38f6",
+      "name": {
+        "ar": "دراكون كريم جل واقي من الشمس (150 مل + 150 مل)",
+        "en": "Drakon Sunscreen Gel Cream (150ml + 150ml)"
+      },
+      "price": 998.0,
+      "reason": "new_discount",
+      "sale_price": 499.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105505,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1b6fa0df9694a737e1e369e72f0124b011d8047bc1efef4b726241d2181a38f6",
+      "name": {
+        "ar": "دراكون كريم جل واقي من الشمس (150 مل + 150 مل)",
+        "en": "Drakon Sunscreen Gel Cream (150ml + 150ml)"
+      },
       "price": 998.0,
       "sale_price": 499.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105508": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105508,
+      "image": "https://i.ibb.co/Rk8NyYK2/Drakon-Promopack-Rollon-pink-Bubble-Roll-on-Lolli-Pop-Candy.png",
+      "name": {
+        "ar": "دراكون مزيل عرق مُبيض (بينك ببل 50 مل+ لولي بوب 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant (Pink Bubble 50ml + Lollipop Candy 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105508,
+      "image": "https://i.ibb.co/Rk8NyYK2/Drakon-Promopack-Rollon-pink-Bubble-Roll-on-Lolli-Pop-Candy.png",
+      "name": {
+        "ar": "دراكون مزيل عرق مُبيض (بينك ببل 50 مل+ لولي بوب 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant (Pink Bubble 50ml + Lollipop Candy 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "40105509": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 40105509,
+      "image": "https://i.ibb.co/1YJJd5y3/Drakon-Whitening-Roll-On-Deodorant-Lollipop-Candy-Roll-On-Deodorant-Passion-Peek-1-1-Promo-Pack.png",
+      "name": {
+        "ar": "دراكون مزيل عرق مُبيض (لولي بوب 50 مل+ باشن بيك 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant (Lollipop Candy 50ml + Passion Peek 50ml)"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 40105509,
+      "image": "https://i.ibb.co/1YJJd5y3/Drakon-Whitening-Roll-On-Deodorant-Lollipop-Candy-Roll-On-Deodorant-Passion-Peek-1-1-Promo-Pack.png",
+      "name": {
+        "ar": "دراكون مزيل عرق مُبيض (لولي بوب 50 مل+ باشن بيك 50 مل)",
+        "en": "Drakon Whitening Roll-On Deodorant (Lollipop Candy 50ml + Passion Peek 50ml)"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
       "stock": 1
     },
     "pending": false
@@ -863,6 +947,34 @@
     },
     "pending": false
   },
+  "44295620": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295620,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/29128f7aa5d6158475e22c804b4a1828a8e40587dfc3f63e95a6c70daee240a4",
+      "name": {
+        "ar": "كابكسي سيروم الشعر ١٢٠ مل",
+        "en": "Capixy Hair Serum 120ml"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295620,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/29128f7aa5d6158475e22c804b4a1828a8e40587dfc3f63e95a6c70daee240a4",
+      "name": {
+        "ar": "كابكسي سيروم الشعر ١٢٠ مل",
+        "en": "Capixy Hair Serum 120ml"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 6
+    },
+    "pending": false
+  },
   "44295621": {
     "notified": {
       "discount_percent": 50.0,
@@ -887,7 +999,7 @@
       },
       "price": 420.0,
       "sale_price": 210.0,
-      "stock": 3
+      "stock": 6
     },
     "pending": false
   },
@@ -1143,6 +1255,34 @@
     },
     "pending": false
   },
+  "44295633": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295633,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e568957247b60ac21e7c03707caa5b87eb5bf5320862a2b0b1bc4185d230ee94",
+      "name": {
+        "ar": "فاكيشن غسول سيبيو كونترول للوجه (200 مل)",
+        "en": "Vacation Facial Cleansing Sebio Control (200ml)"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295633,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e568957247b60ac21e7c03707caa5b87eb5bf5320862a2b0b1bc4185d230ee94",
+      "name": {
+        "ar": "فاكيشن غسول سيبيو كونترول للوجه (200 مل)",
+        "en": "Vacation Facial Cleansing Sebio Control (200ml)"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "44295634": {
     "notified": {
       "discount_percent": 50.0,
@@ -1167,7 +1307,7 @@
       },
       "price": 345.0,
       "sale_price": 172.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -1195,7 +1335,7 @@
       },
       "price": 475.0,
       "sale_price": 237.5,
-      "stock": 2
+      "stock": 6
     },
     "pending": false
   },
@@ -1251,7 +1391,7 @@
       },
       "price": 475.0,
       "sale_price": 237.5,
-      "stock": 2
+      "stock": 6
     },
     "pending": false
   },
@@ -1279,7 +1419,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 1
+      "stock": 5
     },
     "pending": false
   },
@@ -1335,7 +1475,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 4
+      "stock": 6
     },
     "pending": false
   },
@@ -1363,7 +1503,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1391,7 +1531,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -1447,7 +1587,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 6
     },
     "pending": false
   },
@@ -1503,7 +1643,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -1531,7 +1671,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 3
+      "stock": 6
     },
     "pending": false
   },
@@ -1559,7 +1699,7 @@
       },
       "price": 130.0,
       "sale_price": 65.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1615,7 +1755,7 @@
       },
       "price": 750.0,
       "sale_price": 375.0,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -1671,7 +1811,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 11
     },
     "pending": false
   },
@@ -2231,7 +2371,7 @@
       },
       "price": 230.0,
       "sale_price": 115.0,
-      "stock": 4
+      "stock": 5
     },
     "pending": false
   },
@@ -2259,7 +2399,7 @@
       },
       "price": 340.0,
       "sale_price": 170.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2539,7 +2679,7 @@
       },
       "price": 375.0,
       "sale_price": 187.5,
-      "stock": 3
+      "stock": 4
     },
     "pending": false
   },
@@ -2595,6 +2735,34 @@
       },
       "price": 780.0,
       "sale_price": 390.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "61262981": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61262981,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/98ebfda27dc4da93bf1fefda0f0b019a2f18230ab88e6945740b61689798256f",
+      "name": {
+        "ar": "د. أرجان أدفانسد هير ماسك (250 مل)",
+        "en": "Dr. Argan Advanced Hair Mask (250ml)"
+      },
+      "price": 900.0,
+      "reason": "new_discount",
+      "sale_price": 450.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61262981,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/98ebfda27dc4da93bf1fefda0f0b019a2f18230ab88e6945740b61689798256f",
+      "name": {
+        "ar": "د. أرجان أدفانسد هير ماسك (250 مل)",
+        "en": "Dr. Argan Advanced Hair Mask (250ml)"
+      },
+      "price": 900.0,
+      "sale_price": 450.0,
       "stock": 1
     },
     "pending": false
@@ -2711,6 +2879,34 @@
     },
     "pending": false
   },
+  "61264021": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61264021,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b0fa64cc929241a68e3900470cec658dbbb313545b76f910129463f56fdd466b",
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس ليف إن هير بلسم (250 مل)",
+        "en": "Dr. Argan Advanced Cannabis Leave-In Hair Conditioner (250ml)"
+      },
+      "price": 950.0,
+      "reason": "new_discount",
+      "sale_price": 475.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61264021,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b0fa64cc929241a68e3900470cec658dbbb313545b76f910129463f56fdd466b",
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس ليف إن هير بلسم (250 مل)",
+        "en": "Dr. Argan Advanced Cannabis Leave-In Hair Conditioner (250ml)"
+      },
+      "price": 950.0,
+      "sale_price": 475.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "61264212": {
     "notified": {
       "discount_percent": 50.0,
@@ -2735,6 +2931,34 @@
       },
       "price": 1100.0,
       "sale_price": 550.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "61264419": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 61264419,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/738b2f2a32c72cf24f0a42e1f0931ebd8af6bc7c10c23ab1fdedc6c1cdddcc25",
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير تونيك(150 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Tonic (150ml)"
+      },
+      "price": 1200.0,
+      "reason": "new_discount",
+      "sale_price": 600.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 61264419,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/738b2f2a32c72cf24f0a42e1f0931ebd8af6bc7c10c23ab1fdedc6c1cdddcc25",
+      "name": {
+        "ar": "د. أرجان أدفانسد كانابيس هير تونيك(150 مل)",
+        "en": "Dr. Argan Advanced Cannabis Hair Tonic (150ml)"
+      },
+      "price": 1200.0,
+      "sale_price": 600.0,
       "stock": 1
     },
     "pending": false
@@ -2779,6 +3003,34 @@
       "price": 299.0,
       "sale_price": 149.5,
       "stock": 0
+    },
+    "pending": false
+  },
+  "63537526": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 63537526,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3f982527cf7fb5575a238320e36242f5289d228b0e601d7742635c0d027c027b",
+      "name": {
+        "ar": "فاكشن بخاخ مزيل عرق آيسي سيج (200 مل)",
+        "en": "Vacation Icy Sage Deodorant Spray (200ml)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 63537526,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3f982527cf7fb5575a238320e36242f5289d228b0e601d7742635c0d027c027b",
+      "name": {
+        "ar": "فاكشن بخاخ مزيل عرق آيسي سيج (200 مل)",
+        "en": "Vacation Icy Sage Deodorant Spray (200ml)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
     },
     "pending": false
   },
@@ -2834,7 +3086,35 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 3
+    },
+    "pending": false
+  },
+  "64566317": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 64566317,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/970d8365ac34316e96bab1829a022f1e7c6815c8df44496e8a27e99b885c908b",
+      "name": {
+        "ar": "كابيكسي بخاخ سيروم مضاد للقشرة (120 مل)",
+        "en": "Capixy Anti-Dandruff Serum Spray (120ml)"
+      },
+      "price": 375.0,
+      "reason": "new_discount",
+      "sale_price": 187.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 64566317,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/970d8365ac34316e96bab1829a022f1e7c6815c8df44496e8a27e99b885c908b",
+      "name": {
+        "ar": "كابيكسي بخاخ سيروم مضاد للقشرة (120 مل)",
+        "en": "Capixy Anti-Dandruff Serum Spray (120ml)"
+      },
+      "price": 375.0,
+      "sale_price": 187.5,
+      "stock": 6
     },
     "pending": false
   },
@@ -2974,7 +3254,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 4
+      "stock": 2
     },
     "pending": false
   }
