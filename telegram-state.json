@@ -2403,34 +2403,6 @@
     },
     "pending": false
   },
-  "60673173": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673173,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9b7056a6a8354332f25e46167f42d4aaa7a49ac721258456f5e68d657decbfd7",
-      "name": {
-        "ar": "رويال إس جبنة قريش حبة البركة (750g)",
-        "en": "Royal S Cottage Cheese With Black Seed (750g)"
-      },
-      "price": 132.0,
-      "reason": "new_discount",
-      "sale_price": 66.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673173,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9b7056a6a8354332f25e46167f42d4aaa7a49ac721258456f5e68d657decbfd7",
-      "name": {
-        "ar": "رويال إس جبنة قريش حبة البركة (750g)",
-        "en": "Royal S Cottage Cheese With Black Seed (750g)"
-      },
-      "price": 132.0,
-      "sale_price": 66.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
