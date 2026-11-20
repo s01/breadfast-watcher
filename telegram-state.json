@@ -1,32 +1,4 @@
 {
-  "21096505": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21096505,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Fetta-Felfel.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالفلفل (300 جرام)",
-        "en": "Feta Cheese With Pepper (300g)"
-      },
-      "price": 65.0,
-      "reason": "new_discount",
-      "sale_price": 32.5,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21096505,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Fetta-Felfel.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالفلفل (300 جرام)",
-        "en": "Feta Cheese With Pepper (300g)"
-      },
-      "price": 65.0,
-      "sale_price": 32.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "22518408": {
     "notified": {
       "discount_percent": 50.0,
@@ -52,90 +24,6 @@
       "price": 65.0,
       "sale_price": 32.5,
       "stock": 1
-    },
-    "pending": false
-  },
-  "22518413": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22518413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالزعتر (300 جرام)",
-        "en": "Feta Cheese With Zaatar (300g)"
-      },
-      "price": 65.0,
-      "reason": "new_discount",
-      "sale_price": 32.5,
-      "stock": 7
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22518413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالزعتر (300 جرام)",
-        "en": "Feta Cheese With Zaatar (300g)"
-      },
-      "price": 65.0,
-      "sale_price": 32.5,
-      "stock": 10
-    },
-    "pending": false
-  },
-  "27503530": {
-    "notified": {
-      "discount_percent": 55.556,
-      "id": 27503530,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-22-Photoroom-1.png",
-      "name": {
-        "ar": "بيزلين سيروم لنضارة الوجة (30 مل)‎",
-        "en": "Beesline Instant Bright Glow Serum (30ml)"
-      },
-      "price": 999.0,
-      "reason": "new_discount",
-      "sale_price": 444.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 55.556,
-      "id": 27503530,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-22-Photoroom-1.png",
-      "name": {
-        "ar": "بيزلين سيروم لنضارة الوجة (30 مل)‎",
-        "en": "Beesline Instant Bright Glow Serum (30ml)"
-      },
-      "price": 999.0,
-      "sale_price": 444.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27504409": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27504409,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ba5d1976744a4fe0f8ba339c5764caf52eaa081fa06dd33790e1f72b8c37b8ec",
-      "name": {
-        "ar": "بيزلين سيروم اندر ارم للتفتيح الفوري (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum Instant Bright (150ml)"
-      },
-      "price": 599.0,
-      "reason": "new_discount",
-      "sale_price": 299.5,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27504409,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ba5d1976744a4fe0f8ba339c5764caf52eaa081fa06dd33790e1f72b8c37b8ec",
-      "name": {
-        "ar": "بيزلين سيروم اندر ارم للتفتيح الفوري (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum Instant Bright (150ml)"
-      },
-      "price": 599.0,
-      "sale_price": 299.5,
-      "stock": 5
     },
     "pending": false
   },
@@ -388,173 +276,6 @@
       "price": 599.0,
       "sale_price": 299.5,
       "stock": 2
-    },
-    "pending": false
-  },
-  "38934101": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38934101,
-      "image": "https://i.ibb.co/rf15p2mr/5281018712764.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - ورد جوري (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Jouri Rose (150ml)"
-      },
-      "price": 599.0,
-      "reason": "new_discount",
-      "sale_price": 299.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38934101,
-      "image": "https://i.ibb.co/rf15p2mr/5281018712764.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - ورد جوري (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Jouri Rose (150ml)"
-      },
-      "price": 599.0,
-      "sale_price": 299.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38934102": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38934102,
-      "image": "https://i.ibb.co/PZt1kcd6/5281018712771.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - لمسة حريرية (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Silky Touch (150ml)"
-      },
-      "price": 599.0,
-      "reason": "new_discount",
-      "sale_price": 299.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38934102,
-      "image": "https://i.ibb.co/PZt1kcd6/5281018712771.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - لمسة حريرية (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Silky Touch (150ml)"
-      },
-      "price": 599.0,
-      "sale_price": 299.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38934103": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38934103,
-      "image": "https://i.ibb.co/SwwfpNwY/5281018713556.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - الخيار وشجرة الشاي (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Cucumber & Tea Tree (150ml)"
-      },
-      "price": 599.0,
-      "reason": "new_discount",
-      "sale_price": 299.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38934103,
-      "image": "https://i.ibb.co/SwwfpNwY/5281018713556.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - الخيار وشجرة الشاي (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Cucumber & Tea Tree (150ml)"
-      },
-      "price": 599.0,
-      "sale_price": 299.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38934106": {
-    "notified": {
-      "discount_percent": 55.556,
-      "id": 38934106,
-      "image": "https://i.ibb.co/HTGbLPYV/5281018715383.jpg",
-      "name": {
-        "ar": "بيزلين سيروم للتحكم في الدهون وموازنة البشرة (30 مل)",
-        "en": "Beesline Sebum Control Balancing Serum (30ml)"
-      },
-      "price": 999.0,
-      "reason": "new_discount",
-      "sale_price": 444.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 55.556,
-      "id": 38934106,
-      "image": "https://i.ibb.co/HTGbLPYV/5281018715383.jpg",
-      "name": {
-        "ar": "بيزلين سيروم للتحكم في الدهون وموازنة البشرة (30 مل)",
-        "en": "Beesline Sebum Control Balancing Serum (30ml)"
-      },
-      "price": 999.0,
-      "sale_price": 444.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38934108": {
-    "notified": {
-      "discount_percent": 55.556,
-      "id": 38934108,
-      "name": {
-        "ar": "بيزلين سيروم المرطب للغاية (30 مل)",
-        "en": "Beesline Super Hydrating Serum (30ml)"
-      },
-      "price": 999.0,
-      "reason": "new_discount",
-      "sale_price": 444.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 55.556,
-      "id": 38934108,
-      "image": "https://i.ibb.co/1fCww6VX/5281018715406.jpg",
-      "name": {
-        "ar": "بيزلين سيروم المرطب للغاية (30 مل)",
-        "en": "Beesline Super Hydrating Serum (30ml)"
-      },
-      "price": 999.0,
-      "sale_price": 444.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38934109": {
-    "notified": {
-      "discount_percent": 55.556,
-      "id": 38934109,
-      "image": "https://i.ibb.co/RK0v47j/5281018715437.jpg",
-      "name": {
-        "ar": "بيزلين سيروم الموحد والمفتح للبشرة (30 مل)",
-        "en": "Beesline Unifying Brightening Serum (30ml)"
-      },
-      "price": 999.0,
-      "reason": "new_discount",
-      "sale_price": 444.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 55.556,
-      "id": 38934109,
-      "image": "https://i.ibb.co/RK0v47j/5281018715437.jpg",
-      "name": {
-        "ar": "بيزلين سيروم الموحد والمفتح للبشرة (30 مل)",
-        "en": "Beesline Unifying Brightening Serum (30ml)"
-      },
-      "price": 999.0,
-      "sale_price": 444.0,
-      "stock": 1
     },
     "pending": false
   },
@@ -1699,7 +1420,7 @@
       },
       "price": 130.0,
       "sale_price": 65.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -2288,34 +2009,6 @@
       "price": 2550.0,
       "sale_price": 1275.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "56956466": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 56956466,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
-        "en": "Imported Cow Butter Piece (200g)"
-      },
-      "price": 129.5,
-      "reason": "new_discount",
-      "sale_price": 64.75,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56956466,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
-        "en": "Imported Cow Butter Piece (200g)"
-      },
-      "price": 129.5,
-      "sale_price": 64.75,
-      "stock": 2
     },
     "pending": false
   },
@@ -3058,7 +2751,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
