@@ -1,4 +1,32 @@
 {
+  "11066007": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 11066007,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/06/Nutella-Profiterole-minus1.png",
+      "name": {
+        "ar": "شوكولاتة بالبندق بروفترول",
+        "en": "Chocolate Hazelnut Profiteroles Cup"
+      },
+      "price": 80.0,
+      "reason": "new_discount",
+      "sale_price": 40.0,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 11066007,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/06/Nutella-Profiterole-minus1.png",
+      "name": {
+        "ar": "شوكولاتة بالبندق بروفترول",
+        "en": "Chocolate Hazelnut Profiteroles Cup"
+      },
+      "price": 80.0,
+      "sale_price": 40.0,
+      "stock": 6
+    },
+    "pending": false
+  },
   "12568570": {
     "notified": {
       "discount_percent": 50.0,
@@ -24,6 +52,34 @@
       "price": 490.0,
       "sale_price": 245.0,
       "stock": 3
+    },
+    "pending": false
+  },
+  "14172364": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 14172364,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/Sheeshhh.jpg",
+      "name": {
+        "ar": "ميت هاوس شيش طاووق مجمد (900 جرام)",
+        "en": "Meat House Frozen Chicken Sheesh Tawook (900g)"
+      },
+      "price": 310.0,
+      "reason": "new_discount",
+      "sale_price": 93.0,
+      "stock": 7
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 14172364,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/Sheeshhh.jpg",
+      "name": {
+        "ar": "ميت هاوس شيش طاووق مجمد (900 جرام)",
+        "en": "Meat House Frozen Chicken Sheesh Tawook (900g)"
+      },
+      "price": 310.0,
+      "sale_price": 93.0,
+      "stock": 7
     },
     "pending": false
   },
@@ -415,7 +471,7 @@
       },
       "price": 80.0,
       "sale_price": 24.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -1672,7 +1728,7 @@
       },
       "price": 260.0,
       "sale_price": 78.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
