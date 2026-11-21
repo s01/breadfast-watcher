@@ -2979,34 +2979,6 @@
     },
     "pending": false
   },
-  "65810484": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 65810484,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d4cafc2cefd88c455188a0b7e9f3c8a07590b1f3d7ef5af44b64bef43f27e634",
-      "name": {
-        "ar": "بريدفاست تشيلز — مانجو بدون سكر",
-        "en": "Breadfast Chills — Zero Sugar Mango"
-      },
-      "price": 156.55,
-      "reason": "new_discount",
-      "sale_price": 62.62,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 65810484,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d4cafc2cefd88c455188a0b7e9f3c8a07590b1f3d7ef5af44b64bef43f27e634",
-      "name": {
-        "ar": "بريدفاست تشيلز — مانجو بدون سكر",
-        "en": "Breadfast Chills — Zero Sugar Mango"
-      },
-      "price": 156.55,
-      "sale_price": 62.62,
-      "stock": 1
-    },
-    "pending": false
-  },
   "66914282": {
     "notified": {
       "discount_percent": 53.642,
