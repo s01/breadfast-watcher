@@ -2180,6 +2180,34 @@
     },
     "pending": false
   },
+  "58524706": {
+    "notified": {
+      "discount_percent": 50.003,
+      "id": 58524706,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4df5e18b36271018973da332f26bee8728af641ee70aab0e5ca90e2466a45685",
+      "name": {
+        "ar": "بريدفاست تشيلز — بودينغ الموز",
+        "en": "Breadfast Chills — Banana Pudding Ice Cream (250mL)"
+      },
+      "price": 156.55,
+      "reason": "new_discount",
+      "sale_price": 78.27,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.003,
+      "id": 58524706,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4df5e18b36271018973da332f26bee8728af641ee70aab0e5ca90e2466a45685",
+      "name": {
+        "ar": "بريدفاست تشيلز — بودينغ الموز",
+        "en": "Breadfast Chills — Banana Pudding Ice Cream (250mL)"
+      },
+      "price": 156.55,
+      "sale_price": 78.27,
+      "stock": 2
+    },
+    "pending": false
+  },
   "6010467": {
     "notified": {
       "discount_percent": 50.0,
