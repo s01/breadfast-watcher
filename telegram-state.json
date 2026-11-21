@@ -1,4 +1,32 @@
 {
+  "12568570": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 12568570,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/34f9c8f129ad459555db35508f5f769bf45815a9f64e2bda0b303b5a18dd3133",
+      "name": {
+        "ar": "بريد فاست زيت زيتون البكر الممتاز (500مل)",
+        "en": "Breadfast Extra Virgin Olive Oil Glass (500ml)"
+      },
+      "price": 490.0,
+      "reason": "new_discount",
+      "sale_price": 245.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 12568570,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/34f9c8f129ad459555db35508f5f769bf45815a9f64e2bda0b303b5a18dd3133",
+      "name": {
+        "ar": "بريد فاست زيت زيتون البكر الممتاز (500مل)",
+        "en": "Breadfast Extra Virgin Olive Oil Glass (500ml)"
+      },
+      "price": 490.0,
+      "sale_price": 245.0,
+      "stock": 3
+    },
+    "pending": false
+  },
   "1762778": {
     "notified": {
       "discount_percent": 50.0,
@@ -107,7 +135,7 @@
       },
       "price": 65.0,
       "sale_price": 32.5,
-      "stock": 8
+      "stock": 9
     },
     "pending": false
   },
@@ -2152,6 +2180,34 @@
     },
     "pending": false
   },
+  "6010467": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 6010467,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/70x90-25-Bags.png",
+      "name": {
+        "ar": "سواي رول قمامة 70*90 - 25كيس",
+        "en": "Sway Home - 25 Garbage Bags (90*70)"
+      },
+      "price": 155.0,
+      "reason": "new_discount",
+      "sale_price": 77.5,
+      "stock": 12
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 6010467,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/70x90-25-Bags.png",
+      "name": {
+        "ar": "سواي رول قمامة 70*90 - 25كيس",
+        "en": "Sway Home - 25 Garbage Bags (90*70)"
+      },
+      "price": 155.0,
+      "sale_price": 77.5,
+      "stock": 12
+    },
+    "pending": false
+  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -2976,6 +3032,34 @@
       "price": 450.0,
       "sale_price": 225.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "65810481": {
+    "notified": {
+      "discount_percent": 50.003,
+      "id": 65810481,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/53d4981f85faf03a62ecd9cfde82cdd91a5682acf6424e31ca642fb39eeebe53",
+      "name": {
+        "ar": "بريدفاست تشيلز — جوافة بدون سكر",
+        "en": "Breadfast Chills — Zero Sugar Guava"
+      },
+      "price": 156.55,
+      "reason": "new_discount",
+      "sale_price": 78.27,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.003,
+      "id": 65810481,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/53d4981f85faf03a62ecd9cfde82cdd91a5682acf6424e31ca642fb39eeebe53",
+      "name": {
+        "ar": "بريدفاست تشيلز — جوافة بدون سكر",
+        "en": "Breadfast Chills — Zero Sugar Guava"
+      },
+      "price": 156.55,
+      "sale_price": 78.27,
+      "stock": 2
     },
     "pending": false
   },
