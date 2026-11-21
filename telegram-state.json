@@ -27,6 +27,90 @@
     },
     "pending": false
   },
+  "14195240": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 14195240,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03853a410c7c0aa22d83b63b8b9c667a0fb4f5ed26ca3210f0819f47909485e4",
+      "name": {
+        "ar": "تريس ليتشيس فرنش فانيليا",
+        "en": "French Vanilla Tres Leches"
+      },
+      "price": 105.0,
+      "reason": "new_discount",
+      "sale_price": 31.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 14195240,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03853a410c7c0aa22d83b63b8b9c667a0fb4f5ed26ca3210f0819f47909485e4",
+      "name": {
+        "ar": "تريس ليتشيس فرنش فانيليا",
+        "en": "French Vanilla Tres Leches"
+      },
+      "price": 105.0,
+      "sale_price": 31.5,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "16850603": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 16850603,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2add6f1161f10117750a3519d002309b2394e543baf4b9f2c1e7636c10eb7587",
+      "name": {
+        "ar": "دونات تشيز كيك بالفراولة",
+        "en": "Strawberry Cheesecake Donut"
+      },
+      "price": 55.0,
+      "reason": "new_discount",
+      "sale_price": 16.5,
+      "stock": 8
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 16850603,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2add6f1161f10117750a3519d002309b2394e543baf4b9f2c1e7636c10eb7587",
+      "name": {
+        "ar": "دونات تشيز كيك بالفراولة",
+        "en": "Strawberry Cheesecake Donut"
+      },
+      "price": 55.0,
+      "sale_price": 16.5,
+      "stock": 8
+    },
+    "pending": false
+  },
+  "16850612": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 16850612,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Chocolate-Sprinkles-Donut-1.png",
+      "name": {
+        "ar": "دونات الشوكولاتة بالسبرينكلز",
+        "en": "Chocolate Sprinkles Donut"
+      },
+      "price": 45.0,
+      "reason": "new_discount",
+      "sale_price": 13.5,
+      "stock": 7
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 16850612,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Chocolate-Sprinkles-Donut-1.png",
+      "name": {
+        "ar": "دونات الشوكولاتة بالسبرينكلز",
+        "en": "Chocolate Sprinkles Donut"
+      },
+      "price": 45.0,
+      "sale_price": 13.5,
+      "stock": 7
+    },
+    "pending": false
+  },
   "1762778": {
     "notified": {
       "discount_percent": 50.0,
@@ -307,6 +391,34 @@
     },
     "pending": false
   },
+  "3149215": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 3149215,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/07/Lemon-Mint-1L-1.png",
+      "name": {
+        "ar": "بريدفاست عصير ليمون نعناع طبيعي (1 لتر)",
+        "en": "Breadfast Fresh Lemon-Mint Juice (1L)"
+      },
+      "price": 80.0,
+      "reason": "new_discount",
+      "sale_price": 24.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 3149215,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/07/Lemon-Mint-1L-1.png",
+      "name": {
+        "ar": "بريدفاست عصير ليمون نعناع طبيعي (1 لتر)",
+        "en": "Breadfast Fresh Lemon-Mint Juice (1L)"
+      },
+      "price": 80.0,
+      "sale_price": 24.0,
+      "stock": 3
+    },
+    "pending": false
+  },
   "3367277": {
     "notified": {
       "discount_percent": 57.0,
@@ -332,6 +444,62 @@
       "price": 38.0,
       "sale_price": 16.34,
       "stock": 0
+    },
+    "pending": false
+  },
+  "33916984": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 33916984,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/13fde59964b0d5a2b8dfa58ee170bdd8bc9a06bca10bb08171aab509bbe2e15f",
+      "name": {
+        "ar": "بودينج الموز باللوتس",
+        "en": "Lotus Banana Pudding"
+      },
+      "price": 110.0,
+      "reason": "new_discount",
+      "sale_price": 33.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 33916984,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/13fde59964b0d5a2b8dfa58ee170bdd8bc9a06bca10bb08171aab509bbe2e15f",
+      "name": {
+        "ar": "بودينج الموز باللوتس",
+        "en": "Lotus Banana Pudding"
+      },
+      "price": 110.0,
+      "sale_price": 33.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "3652241": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 3652241,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ba8a0d5b382c085018dcf480ecca67a6f3de0080e31f7fb4fe5f0754a3a4f7a1",
+      "name": {
+        "ar": "ساندوتش فراخ مع صوص البيستو",
+        "en": "Pesto Chicken Sandwich"
+      },
+      "price": 150.0,
+      "reason": "new_discount",
+      "sale_price": 45.0,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 3652241,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ba8a0d5b382c085018dcf480ecca67a6f3de0080e31f7fb4fe5f0754a3a4f7a1",
+      "name": {
+        "ar": "ساندوتش فراخ مع صوص البيستو",
+        "en": "Pesto Chicken Sandwich"
+      },
+      "price": 150.0,
+      "sale_price": 45.0,
+      "stock": 6
     },
     "pending": false
   },
@@ -1480,6 +1648,34 @@
     },
     "pending": false
   },
+  "48507498": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 48507498,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/381d4c7cae695e8e753347a574686f18aa95e410b5ae9c1c916fa62d5941ded4",
+      "name": {
+        "ar": "بلوبيري مستورد (125جرام)",
+        "en": "Imported Blueberries (125g)"
+      },
+      "price": 260.0,
+      "reason": "new_discount",
+      "sale_price": 78.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 48507498,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/381d4c7cae695e8e753347a574686f18aa95e410b5ae9c1c916fa62d5941ded4",
+      "name": {
+        "ar": "بلوبيري مستورد (125جرام)",
+        "en": "Imported Blueberries (125g)"
+      },
+      "price": 260.0,
+      "sale_price": 78.0,
+      "stock": 3
+    },
+    "pending": false
+  },
   "50967924": {
     "notified": {
       "discount_percent": 50.0,
@@ -1673,6 +1869,34 @@
       "price": 383.0,
       "sale_price": 153.2,
       "stock": 1
+    },
+    "pending": false
+  },
+  "53794846": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 53794846,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fa90787db541f8950718f1c92ab4aa7265c4dc84468f1ab5959ca03f3c7a791d",
+      "name": {
+        "ar": "جبنه بوراتا (1 قطعه)",
+        "en": "Burrata Cheese (1 Piece)"
+      },
+      "price": 151.0,
+      "reason": "new_discount",
+      "sale_price": 45.3,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 53794846,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fa90787db541f8950718f1c92ab4aa7265c4dc84468f1ab5959ca03f3c7a791d",
+      "name": {
+        "ar": "جبنه بوراتا (1 قطعه)",
+        "en": "Burrata Cheese (1 Piece)"
+      },
+      "price": 151.0,
+      "sale_price": 45.3,
+      "stock": 3
     },
     "pending": false
   },
@@ -3144,6 +3368,34 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 5
+    },
+    "pending": false
+  },
+  "71572380": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 71572380,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c18220e8ed264f1f8d225fa0c37bff9d63df7c602c73c61caab42dc1afd3dff",
+      "name": {
+        "ar": "بودينج موز حجم كبير",
+        "en": "Banana Pudding Shareable"
+      },
+      "price": 525.0,
+      "reason": "new_discount",
+      "sale_price": 157.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 71572380,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c18220e8ed264f1f8d225fa0c37bff9d63df7c602c73c61caab42dc1afd3dff",
+      "name": {
+        "ar": "بودينج موز حجم كبير",
+        "en": "Banana Pudding Shareable"
+      },
+      "price": 525.0,
+      "sale_price": 157.5,
+      "stock": 1
     },
     "pending": false
   }
