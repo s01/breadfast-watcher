@@ -219,7 +219,7 @@
       },
       "price": 490.0,
       "sale_price": 245.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -304,62 +304,6 @@
       "price": 38.0,
       "sale_price": 16.34,
       "stock": 0
-    },
-    "pending": false
-  },
-  "38934099": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38934099,
-      "image": "https://i.ibb.co/vfB9LYx/5281018712740.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - يؤخر الحلاقة (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Delays Shaving (150ml)"
-      },
-      "price": 649.0,
-      "reason": "new_discount",
-      "sale_price": 324.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38934099,
-      "image": "https://i.ibb.co/vfB9LYx/5281018712740.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - يؤخر الحلاقة (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Delays Shaving (150ml)"
-      },
-      "price": 649.0,
-      "sale_price": 324.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38934100": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38934100,
-      "image": "https://i.ibb.co/Hfqg2GhD/5281018712757.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - باودر سوفت (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Powder Soft (150ml)"
-      },
-      "price": 599.0,
-      "reason": "new_discount",
-      "sale_price": 299.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38934100,
-      "image": "https://i.ibb.co/Hfqg2GhD/5281018712757.jpg",
-      "name": {
-        "ar": "بيزلين سيروم راديانت برايت تحت الإبط - باودر سوفت (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum - Powder Soft (150ml)"
-      },
-      "price": 599.0,
-      "sale_price": 299.5,
-      "stock": 2
     },
     "pending": false
   },
@@ -610,7 +554,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 3
+      "stock": 1
     },
     "pending": false
   },
@@ -776,7 +720,7 @@
       },
       "price": 475.0,
       "sale_price": 237.5,
-      "stock": 5
+      "stock": 6
     },
     "pending": false
   },
@@ -1224,7 +1168,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 4
+      "stock": 5
     },
     "pending": false
   },
@@ -1252,7 +1196,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 6
     },
     "pending": false
   },
@@ -1308,7 +1252,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -1336,7 +1280,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 3
+      "stock": 5
     },
     "pending": false
   },
@@ -1448,7 +1392,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1476,7 +1420,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 5
+      "stock": 6
     },
     "pending": false
   },
@@ -1588,7 +1532,7 @@
       },
       "price": 475.0,
       "sale_price": 237.5,
-      "stock": 4
+      "stock": 6
     },
     "pending": false
   },
@@ -2176,7 +2120,7 @@
       },
       "price": 230.0,
       "sale_price": 115.0,
-      "stock": 4
+      "stock": 8
     },
     "pending": false
   },
@@ -2204,7 +2148,7 @@
       },
       "price": 340.0,
       "sale_price": 170.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -2708,7 +2652,7 @@
       },
       "price": 1100.0,
       "sale_price": 550.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2780,6 +2724,34 @@
       "price": 299.0,
       "sale_price": 149.5,
       "stock": 0
+    },
+    "pending": false
+  },
+  "63537524": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 63537524,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f9fd2f103268d949ad4d6c56e32a83003b85f14271559383b412e591c8ba8afe",
+      "name": {
+        "ar": "فاكشن بخاخ مزيل عرق ليتشي بينك بيبر (200 مل)",
+        "en": "Vacation Lychee Pink Pepper Deodorant Spray (200ml)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 63537524,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f9fd2f103268d949ad4d6c56e32a83003b85f14271559383b412e591c8ba8afe",
+      "name": {
+        "ar": "فاكشن بخاخ مزيل عرق ليتشي بينك بيبر (200 مل)",
+        "en": "Vacation Lychee Pink Pepper Deodorant Spray (200ml)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
     },
     "pending": false
   },
@@ -2863,7 +2835,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 4
     },
     "pending": false
   },
@@ -3059,7 +3031,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 5
     },
     "pending": false
   }
