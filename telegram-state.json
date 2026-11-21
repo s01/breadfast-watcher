@@ -139,34 +139,6 @@
     },
     "pending": false
   },
-  "28006887": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28006887,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Extra-Virgin-Olive-Oil-Glass-1LBreadfast_2-1.jpg",
-      "name": {
-        "ar": "2x بريد فاست زيت زيتون البكر الممتاز (1لتر)",
-        "en": "2x Breadfast Extra Virgin Olive Oil Glass (1L)"
-      },
-      "price": 1724.96,
-      "reason": "new_discount",
-      "sale_price": 862.48,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28006887,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Extra-Virgin-Olive-Oil-Glass-1LBreadfast_2-1.jpg",
-      "name": {
-        "ar": "2x بريد فاست زيت زيتون البكر الممتاز (1لتر)",
-        "en": "2x Breadfast Extra Virgin Olive Oil Glass (1L)"
-      },
-      "price": 1724.96,
-      "sale_price": 862.48,
-      "stock": 1
-    },
-    "pending": false
-  },
   "29815423": {
     "notified": {
       "discount_percent": 50.0,
