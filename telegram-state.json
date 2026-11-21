@@ -531,6 +531,34 @@
     },
     "pending": false
   },
+  "411916": {
+    "notified": {
+      "discount_percent": 92.0,
+      "id": 411916,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Parsley.png",
+      "name": {
+        "ar": "بقدونس (100 جرام)",
+        "en": "Parsley (100g)"
+      },
+      "price": 12.0,
+      "reason": "new_discount",
+      "sale_price": 0.96,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 92.0,
+      "id": 411916,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Parsley.png",
+      "name": {
+        "ar": "بقدونس (100 جرام)",
+        "en": "Parsley (100g)"
+      },
+      "price": 12.0,
+      "sale_price": 0.96,
+      "stock": 3
+    },
+    "pending": false
+  },
   "44295613": {
     "notified": {
       "discount_percent": 50.0,
