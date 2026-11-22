@@ -1916,34 +1916,6 @@
     },
     "pending": false
   },
-  "52555714": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 52555714,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bd8c8e3fb502605bfa24a5df220ccc41b1d190dba6ea11925b79a8bef123f853",
-      "name": {
-        "ar": "أماريتي معمول بالقشطة (150 جم)",
-        "en": "Amaretti Maamoul Eshta (150g)"
-      },
-      "price": 158.0,
-      "reason": "new_discount",
-      "sale_price": 63.2,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 52555714,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bd8c8e3fb502605bfa24a5df220ccc41b1d190dba6ea11925b79a8bef123f853",
-      "name": {
-        "ar": "أماريتي معمول بالقشطة (150 جم)",
-        "en": "Amaretti Maamoul Eshta (150g)"
-      },
-      "price": 158.0,
-      "sale_price": 63.2,
-      "stock": 5
-    },
-    "pending": false
-  },
   "52555728": {
     "notified": {
       "discount_percent": 60.0,
@@ -3345,34 +3317,6 @@
       "price": 450.0,
       "sale_price": 225.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "65810481": {
-    "notified": {
-      "discount_percent": 50.003,
-      "id": 65810481,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/53d4981f85faf03a62ecd9cfde82cdd91a5682acf6424e31ca642fb39eeebe53",
-      "name": {
-        "ar": "بريدفاست تشيلز — جوافة بدون سكر",
-        "en": "Breadfast Chills — Zero Sugar Guava"
-      },
-      "price": 156.55,
-      "reason": "new_discount",
-      "sale_price": 78.27,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.003,
-      "id": 65810481,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/53d4981f85faf03a62ecd9cfde82cdd91a5682acf6424e31ca642fb39eeebe53",
-      "name": {
-        "ar": "بريدفاست تشيلز — جوافة بدون سكر",
-        "en": "Breadfast Chills — Zero Sugar Guava"
-      },
-      "price": 156.55,
-      "sale_price": 78.27,
-      "stock": 2
     },
     "pending": false
   },
