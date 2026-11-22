@@ -27,6 +27,34 @@
     },
     "pending": false
   },
+  "20812528": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 20812528,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-15-at-16.58.25_1f21907b.png",
+      "name": {
+        "ar": "(1 كجم) دجاج شهد - بانيه 20 قطعة",
+        "en": "Shahd Chicken - Original Pane 20Pcs (1Kg)"
+      },
+      "price": 317.5,
+      "reason": "new_discount",
+      "sale_price": 158.75,
+      "stock": 12
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 20812528,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-15-at-16.58.25_1f21907b.png",
+      "name": {
+        "ar": "(1 كجم) دجاج شهد - بانيه 20 قطعة",
+        "en": "Shahd Chicken - Original Pane 20Pcs (1Kg)"
+      },
+      "price": 317.5,
+      "sale_price": 158.75,
+      "stock": 12
+    },
+    "pending": false
+  },
   "21096505": {
     "notified": {
       "discount_percent": 50.0,
