@@ -727,6 +727,78 @@
     },
     "pending": false
   },
+  "42164930": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42164930,
+      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
+      },
+      "price": 6120.0,
+      "reason": "new_discount",
+      "sale_price": 3060.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42164930,
+      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
+      },
+      "price": 6120.0,
+      "sale_price": 3060.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "42164932": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42164932,
+      "image": "https://i.ibb.co/6f13vrh/4989225532.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن برفيوم للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean Parfum For Him (50ml)"
+      },
+      "price": 6480.0,
+      "sale_price": 3240.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "42882498": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904933/ca23de80da52ca28.jpg",
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "reason": "new_discount",
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904933/ca23de80da52ca28.jpg",
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "43658238": {
     "notified": {
       "discount_percent": 50.0,
@@ -1588,7 +1660,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -1897,6 +1969,22 @@
       "price": 151.0,
       "sale_price": 45.3,
       "stock": 3
+    },
+    "pending": false
+  },
+  "54136901": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.032,
+      "id": 54136901,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9758113d1c8d9227d09d5f51fa65fc996eeb1fe2a6ea45dbba6090e26041285b",
+      "name": {
+        "ar": "لطافة أسد الكسير او دي بارفان للرجال (100 مل)",
+        "en": "Lattafa Asad Elixir EDP For Him (100ml)"
+      },
+      "price": 1575.0,
+      "sale_price": 787.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -2600,6 +2688,34 @@
     },
     "pending": false
   },
+  "60676796": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "reason": "new_discount",
+      "sale_price": 649.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "sale_price": 649.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60980876": {
     "notified": {
       "discount_percent": 50.0,
@@ -2933,33 +3049,6 @@
       "price": 1200.0,
       "sale_price": 600.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "6201984": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 6201984,
-      "name": {
-        "ar": "بريدفاست كينوا 3-الوان (400 جرام)",
-        "en": "Breadfast Tri-Colour Quinoa (400g)"
-      },
-      "price": 189.0,
-      "reason": "new_discount",
-      "sale_price": 94.5,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 6201984,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/quinoa-tricolor.png",
-      "name": {
-        "ar": "بريدفاست كينوا 3-الوان (400 جرام)",
-        "en": "Breadfast Tri-Colour Quinoa (400g)"
-      },
-      "price": 189.0,
-      "sale_price": 94.5,
-      "stock": 2
     },
     "pending": false
   },
