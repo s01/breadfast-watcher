@@ -391,62 +391,6 @@
     },
     "pending": false
   },
-  "32333734": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32333734,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0d0a9c6c3979509a00701c7173baf631ea4bc38698d85bfb6b4aefc11c731039",
-      "name": {
-        "ar": "أماريتي كيكة بلح و التوفي",
-        "en": "Amaretti Sticky Toffee Date Cake"
-      },
-      "price": 780.0,
-      "reason": "new_discount",
-      "sale_price": 390.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32333734,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0d0a9c6c3979509a00701c7173baf631ea4bc38698d85bfb6b4aefc11c731039",
-      "name": {
-        "ar": "أماريتي كيكة بلح و التوفي",
-        "en": "Amaretti Sticky Toffee Date Cake"
-      },
-      "price": 780.0,
-      "sale_price": 390.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "32333736": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32333736,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/75d1036d0271d164a44600835ae9a72d968b72819a6eb660cd42a7007950fade",
-      "name": {
-        "ar": "أماريتي كيكة ايس كريم مستكة فسدق",
-        "en": "Amaretti Mastic Pistachio Gelato Cake"
-      },
-      "price": 860.0,
-      "reason": "new_discount",
-      "sale_price": 430.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32333736,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/75d1036d0271d164a44600835ae9a72d968b72819a6eb660cd42a7007950fade",
-      "name": {
-        "ar": "أماريتي كيكة ايس كريم مستكة فسدق",
-        "en": "Amaretti Mastic Pistachio Gelato Cake"
-      },
-      "price": 860.0,
-      "sale_price": 430.0,
-      "stock": 2
-    },
-    "pending": false
-  },
   "3367277": {
     "notified": {
       "discount_percent": 57.0,
@@ -475,58 +419,186 @@
     },
     "pending": false
   },
-  "33954733": {
+  "36641236": {
     "notified": {
-      "discount_percent": 50.0,
-      "id": 33954733,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7a3bd6ca871381c12747f46500ebf7be626b5f796aa2447bf3ad83fa8ae6144b",
+      "discount_percent": 70.0,
+      "id": 36641236,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0425205dab9e7ce7e6d03a9f7d9b7e25944ed2a7c16196723e4e06a6d9baeada",
       "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار - دارك كراميل كرسب (٧٠ جرام)",
-        "en": "6x Breadfast BYLD Dark Caramel Crisp Protein Bar (70g)"
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 01 غلوسّي دريم",
+        "en": "Queen Lifter Lip Gloss 01 Glossy Dream"
       },
-      "price": 450.0,
+      "price": 300.0,
       "reason": "new_discount",
-      "sale_price": 225.0,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 33954733,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7a3bd6ca871381c12747f46500ebf7be626b5f796aa2447bf3ad83fa8ae6144b",
-      "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار - دارك كراميل كرسب (٧٠ جرام)",
-        "en": "6x Breadfast BYLD Dark Caramel Crisp Protein Bar (70g)"
-      },
-      "price": 450.0,
-      "sale_price": 225.0,
-      "stock": 5
-    },
-    "pending": false
-  },
-  "33954853": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 33954853,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bd3297046cf6413d817a63a8bac33360718050b797bef47c3dc953896b442dc0",
-      "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار - بندق (٧٠ جرام)",
-        "en": "6x Breadfast BYLD Hazelnut Fudge Protein Bar (70g)"
-      },
-      "price": 450.0,
-      "reason": "new_discount",
-      "sale_price": 225.0,
+      "sale_price": 90.0,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.0,
-      "id": 33954853,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bd3297046cf6413d817a63a8bac33360718050b797bef47c3dc953896b442dc0",
+      "discount_percent": 70.0,
+      "id": 36641236,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0425205dab9e7ce7e6d03a9f7d9b7e25944ed2a7c16196723e4e06a6d9baeada",
       "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار - بندق (٧٠ جرام)",
-        "en": "6x Breadfast BYLD Hazelnut Fudge Protein Bar (70g)"
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 01 غلوسّي دريم",
+        "en": "Queen Lifter Lip Gloss 01 Glossy Dream"
       },
-      "price": 450.0,
-      "sale_price": 225.0,
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641238": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641238,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/212fcff007876ee79a15318132c3e330054481702f29ad0156e6bfe89bf05f8a",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 03 جلو أب",
+        "en": "Queen Lifter Lip Gloss 03 Glow Up"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641238,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/212fcff007876ee79a15318132c3e330054481702f29ad0156e6bfe89bf05f8a",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 03 جلو أب",
+        "en": "Queen Lifter Lip Gloss 03 Glow Up"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641239": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ef6f1ab3569bc33be5a7cd2d88d75eb63a4636c58939d742328418d78e8545da",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 04 شيك ليب",
+        "en": "Queen Lifter Lip Gloss 04 Chic Lip"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ef6f1ab3569bc33be5a7cd2d88d75eb63a4636c58939d742328418d78e8545da",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 04 شيك ليب",
+        "en": "Queen Lifter Lip Gloss 04 Chic Lip"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641240": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641240,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/33710944bbd992f1511e7ca6bd754198ae1267eb664ec602f5e4b5243ccbee4c",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 05 كوريوس",
+        "en": "Queen Lifter Lip Gloss 05 Curious"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641240,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/33710944bbd992f1511e7ca6bd754198ae1267eb664ec602f5e4b5243ccbee4c",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 05 كوريوس",
+        "en": "Queen Lifter Lip Gloss 05 Curious"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "36641241": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641241,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7694a1b4dc3bb3ad29f8bc9b78c54cabcf3c5f2ced31f883eeb40ce76130b30d",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 06  ليب دريب",
+        "en": "Queen Lifter Lip Gloss 06 Lip Drip"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641241,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7694a1b4dc3bb3ad29f8bc9b78c54cabcf3c5f2ced31f883eeb40ce76130b30d",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 06  ليب دريب",
+        "en": "Queen Lifter Lip Gloss 06 Lip Drip"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36641242": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641242,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c51d91f9faa2e93280f67dba23efd261abe17953cd56cfa8a5f355a882a5bde1",
+      "name": {
+        "ar": "كوين ماسك الشفاه الليلي بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Lip Sleeping Mask Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "sale_price": 39.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641243": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641243,
+      "image": "https://i.ibb.co/cXZnhpzN/1000.png",
+      "name": {
+        "ar": "كوين مقشر الشفاه المقشر بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Exfoliating Lip Scrub Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "reason": "new_discount",
+      "sale_price": 39.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641243,
+      "image": "https://i.ibb.co/cXZnhpzN/1000.png",
+      "name": {
+        "ar": "كوين مقشر الشفاه المقشر بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Exfoliating Lip Scrub Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "sale_price": 39.0,
       "stock": 1
     },
     "pending": false
@@ -836,34 +908,6 @@
       "price": 599.0,
       "sale_price": 249.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "41619156": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 41619156,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d788dcb3037d9a5c90c80d6f8f99cae739181b0e67f1fd33f4ebb7b13bc1beca",
-      "name": {
-        "ar": "فشار مملح من بريدفاست (٤٥ غرامًا)",
-        "en": "Breadfast Salted Popcorn Bucket (45g)"
-      },
-      "price": 125.0,
-      "reason": "new_discount",
-      "sale_price": 62.5,
-      "stock": 12
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 41619156,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d788dcb3037d9a5c90c80d6f8f99cae739181b0e67f1fd33f4ebb7b13bc1beca",
-      "name": {
-        "ar": "فشار مملح من بريدفاست (٤٥ غرامًا)",
-        "en": "Breadfast Salted Popcorn Bucket (45g)"
-      },
-      "price": 125.0,
-      "sale_price": 62.5,
-      "stock": 12
     },
     "pending": false
   },
@@ -1888,62 +1932,6 @@
     },
     "pending": false
   },
-  "44733841": {
-    "notified": {
-      "discount_percent": 55.0,
-      "id": 44733841,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4aa7ec45bbb7a2c0511cae63daf75264d030c9be86dabf5ebd189bcdb411036c",
-      "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار - بسكويت القرفة (70 جرام)",
-        "en": "6x Breadfast BYLD Cinnamon Biscuit Protein Bar (70g)"
-      },
-      "price": 450.0,
-      "reason": "new_discount",
-      "sale_price": 202.5,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 44733841,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4aa7ec45bbb7a2c0511cae63daf75264d030c9be86dabf5ebd189bcdb411036c",
-      "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار - بسكويت القرفة (70 جرام)",
-        "en": "6x Breadfast BYLD Cinnamon Biscuit Protein Bar (70g)"
-      },
-      "price": 450.0,
-      "sale_price": 202.5,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "44736515": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 44736515,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/baa6787957e2f19825779247202b1fdaaeb3ad07a3dc6dd7c9ffe89c64857442",
-      "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار- كوكيز اند كريم (٧٠ جرام)",
-        "en": "6x Breadfast BYLD Cookies & Cream Protein Bar (70g)"
-      },
-      "price": 450.0,
-      "reason": "new_discount",
-      "sale_price": 225.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44736515,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/baa6787957e2f19825779247202b1fdaaeb3ad07a3dc6dd7c9ffe89c64857442",
-      "name": {
-        "ar": "6x بريدفاست بيلد بروتين بار- كوكيز اند كريم (٧٠ جرام)",
-        "en": "6x Breadfast BYLD Cookies & Cream Protein Bar (70g)"
-      },
-      "price": 450.0,
-      "sale_price": 225.0,
-      "stock": 2
-    },
-    "pending": false
-  },
   "50967924": {
     "notified": {
       "discount_percent": 50.0,
@@ -2109,34 +2097,6 @@
       "price": 475.0,
       "sale_price": 237.5,
       "stock": 2
-    },
-    "pending": false
-  },
-  "52555712": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 52555712,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5b1ab7b5de6cb19cc4a13f4a71c8e35cd03d19acfd749655df78e58bd3be51db",
-      "name": {
-        "ar": "أماريتي كيك جيلاتو بيكان مكرمل",
-        "en": "Amaretti Caramelised Pecan Gelato Cake"
-      },
-      "price": 920.0,
-      "reason": "new_discount",
-      "sale_price": 460.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 52555712,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5b1ab7b5de6cb19cc4a13f4a71c8e35cd03d19acfd749655df78e58bd3be51db",
-      "name": {
-        "ar": "أماريتي كيك جيلاتو بيكان مكرمل",
-        "en": "Amaretti Caramelised Pecan Gelato Cake"
-      },
-      "price": 920.0,
-      "sale_price": 460.0,
-      "stock": 3
     },
     "pending": false
   },
@@ -2601,34 +2561,6 @@
       "price": 2550.0,
       "sale_price": 1275.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "56567358": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 56567358,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0c937428fe7aa867b924db0e70e0fc1cd49f0e6a8df902769ab10db7bc4c6cf5",
-      "name": {
-        "ar": "بريدفاست بريتزل بالزعتر (100 غرام)",
-        "en": "Breadfast Thyme Pretzels (100g)"
-      },
-      "price": 45.0,
-      "reason": "new_discount",
-      "sale_price": 22.5,
-      "stock": 12
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56567358,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0c937428fe7aa867b924db0e70e0fc1cd49f0e6a8df902769ab10db7bc4c6cf5",
-      "name": {
-        "ar": "بريدفاست بريتزل بالزعتر (100 غرام)",
-        "en": "Breadfast Thyme Pretzels (100g)"
-      },
-      "price": 45.0,
-      "sale_price": 22.5,
-      "stock": 12
     },
     "pending": false
   },
