@@ -939,34 +939,6 @@
     },
     "pending": false
   },
-  "411922": {
-    "notified": {
-      "discount_percent": 91.667,
-      "id": 411922,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Coriander.png",
-      "name": {
-        "ar": "كزبرة (100 جرام)",
-        "en": "Coriander (100g)"
-      },
-      "price": 12.0,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 8
-    },
-    "observed": {
-      "discount_percent": 91.667,
-      "id": 411922,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Coriander.png",
-      "name": {
-        "ar": "كزبرة (100 جرام)",
-        "en": "Coriander (100g)"
-      },
-      "price": 12.0,
-      "sale_price": 1.0,
-      "stock": 7
-    },
-    "pending": false
-  },
   "411925": {
     "notified": {
       "discount_percent": 91.667,
@@ -3669,34 +3641,6 @@
       "price": 48.0,
       "sale_price": 20.3,
       "stock": 1
-    },
-    "pending": false
-  },
-  "6898086": {
-    "notified": {
-      "discount_percent": 55.0,
-      "id": 6898086,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fc87fbb0f53811d6fb238ca5b2247b0a537192b65296e79f93fba2c76ec3f88",
-      "name": {
-        "ar": "ملوخية (250 جرام)",
-        "en": "Molokheya (250g)"
-      },
-      "price": 25.0,
-      "reason": "new_discount",
-      "sale_price": 11.25,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 6898086,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fc87fbb0f53811d6fb238ca5b2247b0a537192b65296e79f93fba2c76ec3f88",
-      "name": {
-        "ar": "ملوخية (250 جرام)",
-        "en": "Molokheya (250g)"
-      },
-      "price": 25.0,
-      "sale_price": 11.25,
-      "stock": 5
     },
     "pending": false
   }
