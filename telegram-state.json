@@ -27,6 +27,34 @@
     },
     "pending": false
   },
+  "1794103": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1794103,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B3D8AAD8B1D8A8D8B3-D8B9D8A7D8AFD98A-3.png",
+      "name": {
+        "ar": "شهد ستيربس دجاج للقلي (400 جرام)",
+        "en": "Shahd Breaded Chicken Strips (400g)"
+      },
+      "price": 184.0,
+      "reason": "new_discount",
+      "sale_price": 92.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1794103,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B3D8AAD8B1D8A8D8B3-D8B9D8A7D8AFD98A-3.png",
+      "name": {
+        "ar": "شهد ستيربس دجاج للقلي (400 جرام)",
+        "en": "Shahd Breaded Chicken Strips (400g)"
+      },
+      "price": 184.0,
+      "sale_price": 92.0,
+      "stock": 11
+    },
+    "pending": false
+  },
   "20812528": {
     "notified": {
       "discount_percent": 50.0,
@@ -136,6 +164,34 @@
       "price": 65.0,
       "sale_price": 32.5,
       "stock": 10
+    },
+    "pending": false
+  },
+  "25382893": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 25382893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
+      "name": {
+        "ar": "شهد داينو ناجتس (400 جرام)",
+        "en": "Shahd Dino Nuggets (400g)"
+      },
+      "price": 200.0,
+      "reason": "new_discount",
+      "sale_price": 100.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 25382893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
+      "name": {
+        "ar": "شهد داينو ناجتس (400 جرام)",
+        "en": "Shahd Dino Nuggets (400g)"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 11
     },
     "pending": false
   },
