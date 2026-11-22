@@ -643,6 +643,34 @@
     },
     "pending": false
   },
+  "42871192": {
+    "notified": {
+      "discount_percent": 57.557,
+      "id": 42871192,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7359d0c90850935a3be558bc82d3a6c816d4f185fe4620095fc25e42d5eca2b1",
+      "name": {
+        "ar": "بيكسي اون ثا جو بلش ستيك - روبي (19 جرام)",
+        "en": "Pixi On The Go Blush Stick - Ruby (19g)"
+      },
+      "price": 1449.0,
+      "reason": "new_discount",
+      "sale_price": 615.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 57.557,
+      "id": 42871192,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7359d0c90850935a3be558bc82d3a6c816d4f185fe4620095fc25e42d5eca2b1",
+      "name": {
+        "ar": "بيكسي اون ثا جو بلش ستيك - روبي (19 جرام)",
+        "en": "Pixi On The Go Blush Stick - Ruby (19g)"
+      },
+      "price": 1449.0,
+      "sale_price": 615.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "44295613": {
     "notified": {
       "discount_percent": 50.0,
