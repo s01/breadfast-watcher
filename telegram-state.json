@@ -2124,34 +2124,6 @@
     },
     "pending": false
   },
-  "56956466": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 56956466,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
-        "en": "Imported Cow Butter Piece (200g)"
-      },
-      "price": 129.5,
-      "reason": "new_discount",
-      "sale_price": 64.75,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56956466,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
-        "en": "Imported Cow Butter Piece (200g)"
-      },
-      "price": 129.5,
-      "sale_price": 64.75,
-      "stock": 8
-    },
-    "pending": false
-  },
   "56956738": {
     "notified": {
       "discount_percent": 50.0,
