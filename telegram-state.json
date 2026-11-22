@@ -111,34 +111,6 @@
     },
     "pending": false
   },
-  "2166239": {
-    "notified": {
-      "discount_percent": 62.632,
-      "id": 2166239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B1D98AD8ADD8A7D986.png",
-      "name": {
-        "ar": "ريحان (100 جرام)",
-        "en": "Basil (100g)"
-      },
-      "price": 19.0,
-      "reason": "new_discount",
-      "sale_price": 7.1,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 62.632,
-      "id": 2166239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B1D98AD8ADD8A7D986.png",
-      "name": {
-        "ar": "ريحان (100 جرام)",
-        "en": "Basil (100g)"
-      },
-      "price": 19.0,
-      "sale_price": 7.1,
-      "stock": 3
-    },
-    "pending": false
-  },
   "22518408": {
     "notified": {
       "discount_percent": 50.0,
@@ -499,7 +471,7 @@
       },
       "price": 300.0,
       "sale_price": 90.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -527,7 +499,7 @@
       },
       "price": 300.0,
       "sale_price": 90.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
