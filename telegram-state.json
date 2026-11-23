@@ -1,4 +1,32 @@
 {
+  "1391830": {
+    "notified": {
+      "discount_percent": 51.852,
+      "id": 1391830,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/eggplante.png",
+      "name": {
+        "ar": "باذنجان رومي (1 كيلو)",
+        "en": "Roumi Eggplants (1Kg)"
+      },
+      "price": 27.0,
+      "reason": "new_discount",
+      "sale_price": 13.0,
+      "stock": 8
+    },
+    "observed": {
+      "discount_percent": 51.852,
+      "id": 1391830,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/eggplante.png",
+      "name": {
+        "ar": "باذنجان رومي (1 كيلو)",
+        "en": "Roumi Eggplants (1Kg)"
+      },
+      "price": 27.0,
+      "sale_price": 13.0,
+      "stock": 8
+    },
+    "pending": false
+  },
   "1762778": {
     "notified": {
       "discount_percent": 50.0,
@@ -556,6 +584,34 @@
       "price": 38.0,
       "sale_price": 16.34,
       "stock": 0
+    },
+    "pending": false
+  },
+  "3434": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 3434,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3ee001676c817ec98e784bf6aba787a7ccef5b7eca8e9ea64b813274fbf7b8f5",
+      "name": {
+        "ar": "بريدفاست 5 عيش فينو",
+        "en": "Breadfast 5 Soft Bread"
+      },
+      "price": 22.0,
+      "reason": "new_discount",
+      "sale_price": 11.0,
+      "stock": 8
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 3434,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3ee001676c817ec98e784bf6aba787a7ccef5b7eca8e9ea64b813274fbf7b8f5",
+      "name": {
+        "ar": "بريدفاست 5 عيش فينو",
+        "en": "Breadfast 5 Soft Bread"
+      },
+      "price": 22.0,
+      "sale_price": 11.0,
+      "stock": 8
     },
     "pending": false
   },
@@ -2869,34 +2925,6 @@
       "price": 340.0,
       "sale_price": 170.0,
       "stock": 3
-    },
-    "pending": false
-  },
-  "60520871": {
-    "notified": {
-      "discount_percent": 55.446,
-      "id": 60520871,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b5beb2a3ca2d891e7602d25ec39defa314761a480ad8aab9892136e0bf903700",
-      "name": {
-        "ar": "دومتي توست بالحليب (500جم)",
-        "en": "Domty Milk Toast (500g)"
-      },
-      "price": 50.5,
-      "reason": "new_discount",
-      "sale_price": 22.5,
-      "stock": 20
-    },
-    "observed": {
-      "discount_percent": 55.446,
-      "id": 60520871,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b5beb2a3ca2d891e7602d25ec39defa314761a480ad8aab9892136e0bf903700",
-      "name": {
-        "ar": "دومتي توست بالحليب (500جم)",
-        "en": "Domty Milk Toast (500g)"
-      },
-      "price": 50.5,
-      "sale_price": 22.5,
-      "stock": 17
     },
     "pending": false
   },
