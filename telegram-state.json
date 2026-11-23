@@ -1,4 +1,60 @@
 {
+  "1391830": {
+    "notified": {
+      "discount_percent": 61.111,
+      "id": 1391830,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/eggplante.png",
+      "name": {
+        "ar": "باذنجان رومي (1 كيلو)",
+        "en": "Roumi Eggplants (1Kg)"
+      },
+      "price": 27.0,
+      "reason": "new_discount",
+      "sale_price": 10.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 61.111,
+      "id": 1391830,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/eggplante.png",
+      "name": {
+        "ar": "باذنجان رومي (1 كيلو)",
+        "en": "Roumi Eggplants (1Kg)"
+      },
+      "price": 27.0,
+      "sale_price": 10.5,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "14394661": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 14394661,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Zaatar.png",
+      "name": {
+        "ar": "كرواسون اللبنة والزعتر الفلسطيني",
+        "en": "Palestinian Labneh & Zaatar Croissant"
+      },
+      "price": 55.0,
+      "reason": "new_discount",
+      "sale_price": 27.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 14394661,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Zaatar.png",
+      "name": {
+        "ar": "كرواسون اللبنة والزعتر الفلسطيني",
+        "en": "Palestinian Labneh & Zaatar Croissant"
+      },
+      "price": 55.0,
+      "sale_price": 27.5,
+      "stock": 6
+    },
+    "pending": false
+  },
   "1762778": {
     "notified": {
       "discount_percent": 50.0,
@@ -2897,6 +2953,34 @@
       "price": 340.0,
       "sale_price": 170.0,
       "stock": 3
+    },
+    "pending": false
+  },
+  "57556338": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 57556338,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/604d509ef0918acfa49a493e23433debc7ae58fafc24d4bb78c5d3195f0cd0db",
+      "name": {
+        "ar": "كرواسون باللوتس",
+        "en": "Lotus Croissant"
+      },
+      "price": 100.0,
+      "reason": "new_discount",
+      "sale_price": 50.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 57556338,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/604d509ef0918acfa49a493e23433debc7ae58fafc24d4bb78c5d3195f0cd0db",
+      "name": {
+        "ar": "كرواسون باللوتس",
+        "en": "Lotus Croissant"
+      },
+      "price": 100.0,
+      "sale_price": 50.0,
+      "stock": 1
     },
     "pending": false
   },
