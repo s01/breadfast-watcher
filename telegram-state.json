@@ -2872,6 +2872,34 @@
     },
     "pending": false
   },
+  "60520871": {
+    "notified": {
+      "discount_percent": 55.446,
+      "id": 60520871,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b5beb2a3ca2d891e7602d25ec39defa314761a480ad8aab9892136e0bf903700",
+      "name": {
+        "ar": "دومتي توست بالحليب (500جم)",
+        "en": "Domty Milk Toast (500g)"
+      },
+      "price": 50.5,
+      "reason": "new_discount",
+      "sale_price": 22.5,
+      "stock": 20
+    },
+    "observed": {
+      "discount_percent": 55.446,
+      "id": 60520871,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b5beb2a3ca2d891e7602d25ec39defa314761a480ad8aab9892136e0bf903700",
+      "name": {
+        "ar": "دومتي توست بالحليب (500جم)",
+        "en": "Domty Milk Toast (500g)"
+      },
+      "price": 50.5,
+      "sale_price": 22.5,
+      "stock": 20
+    },
+    "pending": false
+  },
   "60673169": {
     "notified": {
       "discount_percent": 50.0,
