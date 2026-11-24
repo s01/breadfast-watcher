@@ -531,6 +531,34 @@
     },
     "pending": false
   },
+  "31790016": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 31790016,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/966297d068fd4f8d6ce77c1fa09a20d1e1248aef56888cca2fb208306618889a",
+      "name": {
+        "ar": "نوي بورن إن ڤيجاس للرجال (50 مل)",
+        "en": "Nuit Born in Vegas For Him (50ml)"
+      },
+      "price": 855.0,
+      "reason": "new_discount",
+      "sale_price": 427.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 31790016,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/966297d068fd4f8d6ce77c1fa09a20d1e1248aef56888cca2fb208306618889a",
+      "name": {
+        "ar": "نوي بورن إن ڤيجاس للرجال (50 مل)",
+        "en": "Nuit Born in Vegas For Him (50ml)"
+      },
+      "price": 855.0,
+      "sale_price": 427.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "3367277": {
     "notified": {
       "discount_percent": 57.0,
@@ -1452,7 +1480,7 @@
       },
       "price": 480.0,
       "sale_price": 240.0,
-      "stock": 5
+      "stock": 6
     },
     "pending": false
   },
@@ -2100,34 +2128,6 @@
     },
     "pending": false
   },
-  "49558782": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 49558782,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/313465af7f6008eae4268e528c85add9f5afff4437f300c34f22ad815aa28cc0",
-      "name": {
-        "ar": "برايفت فوط ماكسي سوبر بالأجنحه (50 فوطه) 1+1 مجانا",
-        "en": "Private Sanitary Pads Maxi Super (50Pads) 1+1 Free"
-      },
-      "price": 370.0,
-      "reason": "new_discount",
-      "sale_price": 185.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 49558782,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/313465af7f6008eae4268e528c85add9f5afff4437f300c34f22ad815aa28cc0",
-      "name": {
-        "ar": "برايفت فوط ماكسي سوبر بالأجنحه (50 فوطه) 1+1 مجانا",
-        "en": "Private Sanitary Pads Maxi Super (50Pads) 1+1 Free"
-      },
-      "price": 370.0,
-      "sale_price": 185.0,
-      "stock": 2
-    },
-    "pending": false
-  },
   "50967924": {
     "notified": {
       "discount_percent": 50.0,
@@ -2420,6 +2420,90 @@
       },
       "price": 959.0,
       "sale_price": 479.5,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "54691426": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691426,
+      "image": "https://i.ibb.co/6RqhLwBv/3264680039942.png",
+      "name": {
+        "ar": "نوكس الزنك باور سيروم (30 مل)",
+        "en": "Nuxe Zinc Power Serum (30ml)"
+      },
+      "price": 1750.0,
+      "reason": "new_discount",
+      "sale_price": 875.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691426,
+      "image": "https://i.ibb.co/6RqhLwBv/3264680039942.png",
+      "name": {
+        "ar": "نوكس الزنك باور سيروم (30 مل)",
+        "en": "Nuxe Zinc Power Serum (30ml)"
+      },
+      "price": 1750.0,
+      "sale_price": 875.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691427": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691427,
+      "image": "https://i.ibb.co/9H3L6xZy/3264680041945.png",
+      "name": {
+        "ar": "نوكس سائل الزنك باور (40 مل)",
+        "en": "Nuxe Zinc Power Fluide (40ml)"
+      },
+      "price": 1190.0,
+      "reason": "new_discount",
+      "sale_price": 595.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691427,
+      "image": "https://i.ibb.co/9H3L6xZy/3264680041945.png",
+      "name": {
+        "ar": "نوكس سائل الزنك باور (40 مل)",
+        "en": "Nuxe Zinc Power Fluide (40ml)"
+      },
+      "price": 1190.0,
+      "sale_price": 595.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54691428": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691428,
+      "image": "https://i.ibb.co/sdyd7YtW/3264680041938.png",
+      "name": {
+        "ar": "نوكس لوشن الزنك باور (200 مل)",
+        "en": "Nuxe Zinc Power Lotion (200ml)"
+      },
+      "price": 895.0,
+      "reason": "new_discount",
+      "sale_price": 447.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691428,
+      "image": "https://i.ibb.co/sdyd7YtW/3264680041938.png",
+      "name": {
+        "ar": "نوكس لوشن الزنك باور (200 مل)",
+        "en": "Nuxe Zinc Power Lotion (200ml)"
+      },
+      "price": 895.0,
+      "sale_price": 447.5,
       "stock": 1
     },
     "pending": false
@@ -2476,7 +2560,7 @@
       },
       "price": 1699.0,
       "sale_price": 849.5,
-      "stock": 1
+      "stock": 6
     },
     "pending": false
   },
@@ -2504,7 +2588,7 @@
       },
       "price": 1799.0,
       "sale_price": 899.5,
-      "stock": 1
+      "stock": 6
     },
     "pending": false
   },
@@ -2588,7 +2672,7 @@
       },
       "price": 959.0,
       "sale_price": 479.5,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -2648,6 +2732,34 @@
     },
     "pending": false
   },
+  "54691446": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691446,
+      "image": "https://i.ibb.co/6cqxv0g4/3264680010446.jpg",
+      "name": {
+        "ar": "نوكس ريف دي ميل كريم لليدين والأظافر (50 مل)",
+        "en": "Nuxe Reve De Miel Hand & Nail Cream (50ml)"
+      },
+      "price": 749.0,
+      "reason": "new_discount",
+      "sale_price": 374.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691446,
+      "image": "https://i.ibb.co/6cqxv0g4/3264680010446.jpg",
+      "name": {
+        "ar": "نوكس ريف دي ميل كريم لليدين والأظافر (50 مل)",
+        "en": "Nuxe Reve De Miel Hand & Nail Cream (50ml)"
+      },
+      "price": 749.0,
+      "sale_price": 374.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "54691462": {
     "notified": {
       "discount_percent": 50.0,
@@ -2676,6 +2788,34 @@
     },
     "pending": false
   },
+  "54691474": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691474,
+      "image": "https://i.ibb.co/NnfbnPjf/3264680043482.jpg",
+      "name": {
+        "ar": "نوكس كريم اليدين فيري روزي (50 مل)",
+        "en": "Nuxe Very Rose Cream Hand (50ml)"
+      },
+      "price": 575.0,
+      "reason": "new_discount",
+      "sale_price": 287.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691474,
+      "image": "https://i.ibb.co/NnfbnPjf/3264680043482.jpg",
+      "name": {
+        "ar": "نوكس كريم اليدين فيري روزي (50 مل)",
+        "en": "Nuxe Very Rose Cream Hand (50ml)"
+      },
+      "price": 575.0,
+      "sale_price": 287.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "54691475": {
     "notified": {
       "discount_percent": 50.0,
@@ -2700,7 +2840,7 @@
       },
       "price": 1325.0,
       "sale_price": 662.5,
-      "stock": 0
+      "stock": 2
     },
     "pending": false
   },
@@ -2728,7 +2868,7 @@
       },
       "price": 1900.0,
       "sale_price": 950.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -3948,7 +4088,7 @@
       },
       "price": 375.0,
       "sale_price": 187.5,
-      "stock": 3
+      "stock": 6
     },
     "pending": false
   },
