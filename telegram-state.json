@@ -135,7 +135,7 @@
       },
       "price": 317.5,
       "sale_price": 158.75,
-      "stock": 5
+      "stock": 4
     },
     "pending": false
   },
@@ -192,6 +192,34 @@
       "price": 65.0,
       "sale_price": 32.5,
       "stock": 1
+    },
+    "pending": false
+  },
+  "22598244": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22598244,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
+      "name": {
+        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
+        "en": "Shahd Original Pane Beyti (800g)"
+      },
+      "price": 317.5,
+      "reason": "new_discount",
+      "sale_price": 158.75,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22598244,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/824b3f0bc392ff2f8ae8a7c6aa0d411b6777ef3a61036f3a3566d70958198181",
+      "name": {
+        "ar": "شهد علبة بانية بيتي عادي (800 جرام)",
+        "en": "Shahd Original Pane Beyti (800g)"
+      },
+      "price": 317.5,
+      "sale_price": 158.75,
+      "stock": 3
     },
     "pending": false
   },
@@ -3313,6 +3341,34 @@
       "name": {
         "ar": "رويال إس لبنة ماعز بابريكا (450g)",
         "en": "Royal S Labna Goat With Paprika (450g)"
+      },
+      "price": 216.0,
+      "sale_price": 108.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60673198": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673198,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
+      "name": {
+        "ar": "رويال إس لبنة ماعز زعتر (400g)",
+        "en": "Royal S Labna Goat With Thyme (400g)"
+      },
+      "price": 216.0,
+      "reason": "new_discount",
+      "sale_price": 108.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673198,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
+      "name": {
+        "ar": "رويال إس لبنة ماعز زعتر (400g)",
+        "en": "Royal S Labna Goat With Thyme (400g)"
       },
       "price": 216.0,
       "sale_price": 108.0,
