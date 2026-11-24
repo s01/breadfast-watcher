@@ -879,7 +879,7 @@
       },
       "price": 720.0,
       "sale_price": 360.0,
-      "stock": 0
+      "stock": 1000
     },
     "pending": false
   }
