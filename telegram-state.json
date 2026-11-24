@@ -55,62 +55,6 @@
     },
     "pending": false
   },
-  "19038441": {
-    "notified": {
-      "discount_percent": 50.127,
-      "id": 19038441,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
-        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
-      },
-      "price": 3950.0,
-      "reason": "new_discount",
-      "sale_price": 1970.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.127,
-      "id": 19038441,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
-        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
-      },
-      "price": 3950.0,
-      "sale_price": 1970.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "19042011": {
-    "notified": {
-      "discount_percent": 58.201,
-      "id": 19042011,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
-      "name": {
-        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
-        "en": "Jaguar Classic Black EDT For Him (100ml)"
-      },
-      "price": 2390.0,
-      "reason": "new_discount",
-      "sale_price": 999.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 58.201,
-      "id": 19042011,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
-      "name": {
-        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
-        "en": "Jaguar Classic Black EDT For Him (100ml)"
-      },
-      "price": 2390.0,
-      "sale_price": 999.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "20812528": {
     "notified": {
       "discount_percent": 50.0,
@@ -247,62 +191,6 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26190534": {
-    "notified": {
-      "discount_percent": 57.071,
-      "id": 26190534,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
-      },
-      "price": 5940.0,
-      "reason": "new_discount",
-      "sale_price": 2550.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 57.071,
-      "id": 26190534,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
-      "name": {
-        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
-      },
-      "price": 5940.0,
-      "sale_price": 2550.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26863557": {
-    "notified": {
-      "discount_percent": 50.239,
-      "id": 26863557,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
-      "name": {
-        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
-        "en": "Clinique Happy EDT For Him (100ml)"
-      },
-      "price": 4180.0,
-      "reason": "new_discount",
-      "sale_price": 2080.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.239,
-      "id": 26863557,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
-      "name": {
-        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
-        "en": "Clinique Happy EDT For Him (100ml)"
-      },
-      "price": 4180.0,
-      "sale_price": 2080.0,
       "stock": 1
     },
     "pending": false
@@ -500,34 +388,6 @@
       "price": 490.0,
       "sale_price": 245.0,
       "stock": 2
-    },
-    "pending": false
-  },
-  "31486556": {
-    "notified": {
-      "discount_percent": 50.108,
-      "id": 31486556,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
-      "name": {
-        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
-        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
-      },
-      "price": 4650.0,
-      "reason": "new_discount",
-      "sale_price": 2320.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.108,
-      "id": 31486556,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
-      "name": {
-        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
-        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
-      },
-      "price": 4650.0,
-      "sale_price": 2320.0,
-      "stock": 1
     },
     "pending": false
   },
@@ -1075,78 +935,6 @@
       },
       "price": 599.0,
       "sale_price": 249.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "42164930": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42164930,
-      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
-      "name": {
-        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
-        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
-      },
-      "price": 6120.0,
-      "reason": "new_discount",
-      "sale_price": 3060.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42164930,
-      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
-      "name": {
-        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
-        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
-      },
-      "price": 6120.0,
-      "sale_price": 3060.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "42164932": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42164932,
-      "image": "https://i.ibb.co/6f13vrh/4989225532.jpg",
-      "name": {
-        "ar": "برادا لونا روسا أوشن برفيوم للرجال (50 مل)",
-        "en": "Prada Luna Rossa Ocean Parfum For Him (50ml)"
-      },
-      "price": 6480.0,
-      "sale_price": 3240.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "42882498": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42882498,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904933/ca23de80da52ca28.jpg",
-      "name": {
-        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
-        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
-      },
-      "price": 520.0,
-      "reason": "new_discount",
-      "sale_price": 260.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42882498,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904933/ca23de80da52ca28.jpg",
-      "name": {
-        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
-        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
-      },
-      "price": 520.0,
-      "sale_price": 260.0,
       "stock": 1
     },
     "pending": false
@@ -2324,50 +2112,6 @@
     },
     "pending": false
   },
-  "53998454": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 53998454,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
-      "name": {
-        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
-        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
-      },
-      "price": 3700.0,
-      "reason": "new_discount",
-      "sale_price": 1850.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 53998454,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
-      "name": {
-        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
-        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
-      },
-      "price": 3700.0,
-      "sale_price": 1850.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "54136901": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.032,
-      "id": 54136901,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9758113d1c8d9227d09d5f51fa65fc996eeb1fe2a6ea45dbba6090e26041285b",
-      "name": {
-        "ar": "لطافة أسد الكسير او دي بارفان للرجال (100 مل)",
-        "en": "Lattafa Asad Elixir EDP For Him (100ml)"
-      },
-      "price": 1575.0,
-      "sale_price": 787.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "54691424": {
     "notified": {
       "discount_percent": 50.0,
@@ -3232,7 +2976,7 @@
       },
       "price": 150.0,
       "sale_price": 75.0,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -3512,34 +3256,6 @@
       },
       "price": 216.0,
       "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60676796": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60676796,
-      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
-      "name": {
-        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
-        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
-      },
-      "price": 1299.0,
-      "reason": "new_discount",
-      "sale_price": 649.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60676796,
-      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
-      "name": {
-        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
-        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
-      },
-      "price": 1299.0,
-      "sale_price": 649.5,
       "stock": 1
     },
     "pending": false
@@ -4201,34 +3917,6 @@
       "price": 450.0,
       "sale_price": 225.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "66506320": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 66506320,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c237265e1c973a06f276a87bb4387f263e870597d0c2c9e3895b6c27ec5b6ec5",
-      "name": {
-        "ar": "ميني بريوش بيتزا",
-        "en": "Mini Brioche Pizza"
-      },
-      "price": 55.0,
-      "reason": "new_discount",
-      "sale_price": 27.5,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 66506320,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c237265e1c973a06f276a87bb4387f263e870597d0c2c9e3895b6c27ec5b6ec5",
-      "name": {
-        "ar": "ميني بريوش بيتزا",
-        "en": "Mini Brioche Pizza"
-      },
-      "price": 55.0,
-      "sale_price": 27.5,
-      "stock": 4
     },
     "pending": false
   },
