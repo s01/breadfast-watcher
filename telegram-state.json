@@ -559,6 +559,34 @@
     },
     "pending": false
   },
+  "3434": {
+    "notified": {
+      "discount_percent": 63.636,
+      "id": 3434,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3ee001676c817ec98e784bf6aba787a7ccef5b7eca8e9ea64b813274fbf7b8f5",
+      "name": {
+        "ar": "بريدفاست 5 عيش فينو",
+        "en": "Breadfast 5 Soft Bread"
+      },
+      "price": 22.0,
+      "reason": "new_discount",
+      "sale_price": 8.0,
+      "stock": 20
+    },
+    "observed": {
+      "discount_percent": 63.636,
+      "id": 3434,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3ee001676c817ec98e784bf6aba787a7ccef5b7eca8e9ea64b813274fbf7b8f5",
+      "name": {
+        "ar": "بريدفاست 5 عيش فينو",
+        "en": "Breadfast 5 Soft Bread"
+      },
+      "price": 22.0,
+      "sale_price": 8.0,
+      "stock": 20
+    },
+    "pending": false
+  },
   "36641236": {
     "notified": {
       "discount_percent": 70.0,
@@ -4061,6 +4089,34 @@
       "price": 450.0,
       "sale_price": 225.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "66506320": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 66506320,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c237265e1c973a06f276a87bb4387f263e870597d0c2c9e3895b6c27ec5b6ec5",
+      "name": {
+        "ar": "ميني بريوش بيتزا",
+        "en": "Mini Brioche Pizza"
+      },
+      "price": 55.0,
+      "reason": "new_discount",
+      "sale_price": 27.5,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 66506320,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c237265e1c973a06f276a87bb4387f263e870597d0c2c9e3895b6c27ec5b6ec5",
+      "name": {
+        "ar": "ميني بريوش بيتزا",
+        "en": "Mini Brioche Pizza"
+      },
+      "price": 55.0,
+      "sale_price": 27.5,
+      "stock": 11
     },
     "pending": false
   },
