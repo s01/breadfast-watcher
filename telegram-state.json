@@ -27,62 +27,6 @@
     },
     "pending": false
   },
-  "1794103": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 1794103,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B3D8AAD8B1D8A8D8B3-D8B9D8A7D8AFD98A-3.png",
-      "name": {
-        "ar": "شهد ستيربس دجاج للقلي (400 جرام)",
-        "en": "Shahd Breaded Chicken Strips (400g)"
-      },
-      "price": 184.0,
-      "reason": "new_discount",
-      "sale_price": 92.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 1794103,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B3D8AAD8B1D8A8D8B3-D8B9D8A7D8AFD98A-3.png",
-      "name": {
-        "ar": "شهد ستيربس دجاج للقلي (400 جرام)",
-        "en": "Shahd Breaded Chicken Strips (400g)"
-      },
-      "price": 184.0,
-      "sale_price": 92.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "20812528": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 20812528,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-15-at-16.58.25_1f21907b.png",
-      "name": {
-        "ar": "(1 كجم) دجاج شهد - بانيه 20 قطعة",
-        "en": "Shahd Chicken - Original Pane 20Pcs (1Kg)"
-      },
-      "price": 317.5,
-      "reason": "new_discount",
-      "sale_price": 158.75,
-      "stock": 12
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 20812528,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-15-at-16.58.25_1f21907b.png",
-      "name": {
-        "ar": "(1 كجم) دجاج شهد - بانيه 20 قطعة",
-        "en": "Shahd Chicken - Original Pane 20Pcs (1Kg)"
-      },
-      "price": 317.5,
-      "sale_price": 158.75,
-      "stock": 2
-    },
-    "pending": false
-  },
   "21096505": {
     "notified": {
       "discount_percent": 50.0,
@@ -164,34 +108,6 @@
       "price": 317.5,
       "sale_price": 158.75,
       "stock": 3
-    },
-    "pending": false
-  },
-  "25382893": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 25382893,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
-      "name": {
-        "ar": "شهد داينو ناجتس (400 جرام)",
-        "en": "Shahd Dino Nuggets (400g)"
-      },
-      "price": 200.0,
-      "reason": "new_discount",
-      "sale_price": 100.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 25382893,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/276f694c69669e92d4ecaf1bcaea2b857563defa48052a7687c88578f8e3158b",
-      "name": {
-        "ar": "شهد داينو ناجتس (400 جرام)",
-        "en": "Shahd Dino Nuggets (400g)"
-      },
-      "price": 200.0,
-      "sale_price": 100.0,
-      "stock": 1
     },
     "pending": false
   },
@@ -3008,34 +2924,6 @@
     },
     "pending": false
   },
-  "60673175": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
-      "name": {
-        "ar": "رويال إس جبنة مش (500g)",
-        "en": "Royal S Mish Cheese (500g)"
-      },
-      "price": 57.6,
-      "reason": "new_discount",
-      "sale_price": 28.8,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
-      "name": {
-        "ar": "رويال إس جبنة مش (500g)",
-        "en": "Royal S Mish Cheese (500g)"
-      },
-      "price": 57.6,
-      "sale_price": 28.8,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673176": {
     "notified": {
       "discount_percent": 50.0,
@@ -3064,34 +2952,6 @@
     },
     "pending": false
   },
-  "60673177": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
-      "name": {
-        "ar": "رويال إس كيرى رومى (450g)",
-        "en": "Royal S Kiri Roomy (450g)"
-      },
-      "price": 130.8,
-      "reason": "new_discount",
-      "sale_price": 65.4,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
-      "name": {
-        "ar": "رويال إس كيرى رومى (450g)",
-        "en": "Royal S Kiri Roomy (450g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673178": {
     "notified": {
       "discount_percent": 50.0,
@@ -3116,62 +2976,6 @@
       },
       "price": 130.8,
       "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673185": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673185,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
-      "name": {
-        "ar": "رويال إس حلوم (300g)",
-        "en": "Royal S Halloumi Cheese (300g)"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 75.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673185,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
-      "name": {
-        "ar": "رويال إس حلوم (300g)",
-        "en": "Royal S Halloumi Cheese (300g)"
-      },
-      "price": 150.0,
-      "sale_price": 75.0,
-      "stock": 6
-    },
-    "pending": false
-  },
-  "60673186": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
-      "name": {
-        "ar": "رويال إس شلل (300g)",
-        "en": "Royal S Shallal Cheese (300g)"
-      },
-      "price": 162.0,
-      "reason": "new_discount",
-      "sale_price": 81.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
-      "name": {
-        "ar": "رويال إس شلل (300g)",
-        "en": "Royal S Shallal Cheese (300g)"
-      },
-      "price": 162.0,
-      "sale_price": 81.0,
       "stock": 1
     },
     "pending": false
@@ -3228,90 +3032,6 @@
       },
       "price": 138.0,
       "sale_price": 69.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673191": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673191,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3d1759d63f9ea245564105b90d628ac0ccdf77ec2948fe2c3b32942d5a845089",
-      "name": {
-        "ar": "رويال إس نابلسية حبة البركة (300g)",
-        "en": "Royal S Nabulsi Cheese With Black Seed (300g)"
-      },
-      "price": 156.0,
-      "reason": "new_discount",
-      "sale_price": 78.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673191,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3d1759d63f9ea245564105b90d628ac0ccdf77ec2948fe2c3b32942d5a845089",
-      "name": {
-        "ar": "رويال إس نابلسية حبة البركة (300g)",
-        "en": "Royal S Nabulsi Cheese With Black Seed (300g)"
-      },
-      "price": 156.0,
-      "sale_price": 78.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673192": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673192,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
-      "name": {
-        "ar": "رويال إس عكاوى لبنانى (300g)",
-        "en": "Royal S Akkawi Lebanese Cheese (300g)"
-      },
-      "price": 138.0,
-      "reason": "new_discount",
-      "sale_price": 69.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673192,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
-      "name": {
-        "ar": "رويال إس عكاوى لبنانى (300g)",
-        "en": "Royal S Akkawi Lebanese Cheese (300g)"
-      },
-      "price": 138.0,
-      "sale_price": 69.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "60673193": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673193,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fa0e7d31f86d310e5335798f06ed23c31a753eeca5e0d51cf5296a4942e3a5af",
-      "name": {
-        "ar": "رويال إس مجدولة (300g)",
-        "en": "Royal S Magdoula Cheese (300g)"
-      },
-      "price": 162.0,
-      "reason": "new_discount",
-      "sale_price": 81.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673193,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fa0e7d31f86d310e5335798f06ed23c31a753eeca5e0d51cf5296a4942e3a5af",
-      "name": {
-        "ar": "رويال إس مجدولة (300g)",
-        "en": "Royal S Magdoula Cheese (300g)"
-      },
-      "price": 162.0,
-      "sale_price": 81.0,
       "stock": 1
     },
     "pending": false
@@ -3424,34 +3144,6 @@
       },
       "price": 216.0,
       "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60746968": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60746968,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5e459b9ee054d7735e2998881312091c6d77e810eb5e7cc9ac5c2c4ad5056042",
-      "name": {
-        "ar": "هدوى شيمر للجسم (150 مل)",
-        "en": "Hadwa Body Shimmer (150ml)"
-      },
-      "price": 399.0,
-      "reason": "new_discount",
-      "sale_price": 199.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60746968,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5e459b9ee054d7735e2998881312091c6d77e810eb5e7cc9ac5c2c4ad5056042",
-      "name": {
-        "ar": "هدوى شيمر للجسم (150 مل)",
-        "en": "Hadwa Body Shimmer (150ml)"
-      },
-      "price": 399.0,
-      "sale_price": 199.5,
       "stock": 1
     },
     "pending": false
