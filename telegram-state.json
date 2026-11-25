@@ -3148,6 +3148,34 @@
     },
     "pending": false
   },
+  "60673198": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673198,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
+      "name": {
+        "ar": "رويال إس لبنة ماعز زعتر (400g)",
+        "en": "Royal S Labna Goat With Thyme (400g)"
+      },
+      "price": 216.0,
+      "reason": "new_discount",
+      "sale_price": 108.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673198,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
+      "name": {
+        "ar": "رويال إس لبنة ماعز زعتر (400g)",
+        "en": "Royal S Labna Goat With Thyme (400g)"
+      },
+      "price": 216.0,
+      "sale_price": 108.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60746968": {
     "notified": {
       "discount_percent": 50.0,
