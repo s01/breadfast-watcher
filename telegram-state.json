@@ -195,6 +195,50 @@
     },
     "pending": false
   },
+  "26012491": {
+    "notified": {
+      "discount_percent": 54.277,
+      "id": 26012491,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/5114662-1.png",
+      "name": {
+        "ar": "شانيل بلو دي شانيل او دي بارفان للرجال (100 مل)",
+        "en": "Chanel Bleu De Chanel EDP For Him (100ml)"
+      },
+      "price": 11690.0,
+      "reason": "new_discount",
+      "sale_price": 5345.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 54.277,
+      "id": 26012491,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/5114662-1.png",
+      "name": {
+        "ar": "شانيل بلو دي شانيل او دي بارفان للرجال (100 مل)",
+        "en": "Chanel Bleu De Chanel EDP For Him (100ml)"
+      },
+      "price": 11690.0,
+      "sale_price": 5345.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "26190534": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 66.33,
+      "id": 26190534,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
+        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
+      },
+      "price": 5940.0,
+      "sale_price": 2000.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "27503530": {
     "notified": {
       "discount_percent": 50.0,
@@ -248,6 +292,22 @@
       "price": 320.0,
       "sale_price": 160.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "28698023": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 60.787,
+      "id": 28698023,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/3614273672054.png",
+      "name": {
+        "ar": "فالنتينو دونا بورن ان روم كورال فانتازي او دو بارفان للنساء (100 مل)",
+        "en": "Valentino Donna Born In Roma Coral Fantasy EDP For Her (100ml)"
+      },
+      "price": 8390.0,
+      "sale_price": 3290.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -2980,6 +3040,62 @@
     },
     "pending": false
   },
+  "60673169": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673169,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9ed47b9752dbcb0b9089ace80a665cd1fa53ce90ec433ba47621bd6a6a54f15f",
+      "name": {
+        "ar": "رويال إس جبنة قريش سادة (750g)",
+        "en": "Royal S Cottage Cheese (750g)"
+      },
+      "price": 128.4,
+      "reason": "new_discount",
+      "sale_price": 64.2,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673169,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9ed47b9752dbcb0b9089ace80a665cd1fa53ce90ec433ba47621bd6a6a54f15f",
+      "name": {
+        "ar": "رويال إس جبنة قريش سادة (750g)",
+        "en": "Royal S Cottage Cheese (750g)"
+      },
+      "price": 128.4,
+      "sale_price": 64.2,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60673171": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673171,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b255a409ddcbedc03aaa40c257ff256d5c48e8be342bdbe3b447d44a8975b97a",
+      "name": {
+        "ar": "رويال إس جبنة قريش زعتر (750g)",
+        "en": "Royal S Cottage Cheese With Zaater (750g)"
+      },
+      "price": 132.0,
+      "reason": "new_discount",
+      "sale_price": 66.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673171,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b255a409ddcbedc03aaa40c257ff256d5c48e8be342bdbe3b447d44a8975b97a",
+      "name": {
+        "ar": "رويال إس جبنة قريش زعتر (750g)",
+        "en": "Royal S Cottage Cheese With Zaater (750g)"
+      },
+      "price": 132.0,
+      "sale_price": 66.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60673175": {
     "notified": {
       "discount_percent": 50.0,
@@ -3004,7 +3120,7 @@
       },
       "price": 57.6,
       "sale_price": 28.8,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -3060,7 +3176,7 @@
       },
       "price": 130.8,
       "sale_price": 65.4,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -3116,7 +3232,7 @@
       },
       "price": 150.0,
       "sale_price": 75.0,
-      "stock": 3
+      "stock": 7
     },
     "pending": false
   },
