@@ -251,6 +251,34 @@
     },
     "pending": false
   },
+  "29012916": {
+    "notified": {
+      "discount_percent": 52.703,
+      "id": 29012916,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/3508441001114.png",
+      "name": {
+        "ar": "كريد افينتوس او دو بارفان للرجال (100 مل)",
+        "en": "Creed Aventus EDP For Him (100ml)"
+      },
+      "price": 29600.0,
+      "reason": "new_discount",
+      "sale_price": 14000.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 52.703,
+      "id": 29012916,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/3508441001114.png",
+      "name": {
+        "ar": "كريد افينتوس او دو بارفان للرجال (100 مل)",
+        "en": "Creed Aventus EDP For Him (100ml)"
+      },
+      "price": 29600.0,
+      "sale_price": 14000.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "29815423": {
     "notified": {
       "discount_percent": 50.0,
@@ -3312,7 +3340,7 @@
       },
       "price": 216.0,
       "sale_price": 108.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
