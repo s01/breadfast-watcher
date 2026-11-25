@@ -739,7 +739,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -2556,7 +2556,7 @@
       },
       "price": 959.0,
       "sale_price": 479.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2896,6 +2896,34 @@
     },
     "pending": false
   },
+  "60673175": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673175,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
+      "name": {
+        "ar": "رويال إس جبنة مش (500g)",
+        "en": "Royal S Mish Cheese (500g)"
+      },
+      "price": 57.6,
+      "reason": "new_discount",
+      "sale_price": 28.8,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673175,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
+      "name": {
+        "ar": "رويال إس جبنة مش (500g)",
+        "en": "Royal S Mish Cheese (500g)"
+      },
+      "price": 57.6,
+      "sale_price": 28.8,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60673176": {
     "notified": {
       "discount_percent": 50.0,
@@ -2980,6 +3008,62 @@
     },
     "pending": false
   },
+  "60673185": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673185,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
+      "name": {
+        "ar": "رويال إس حلوم (300g)",
+        "en": "Royal S Halloumi Cheese (300g)"
+      },
+      "price": 150.0,
+      "reason": "new_discount",
+      "sale_price": 75.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673185,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
+      "name": {
+        "ar": "رويال إس حلوم (300g)",
+        "en": "Royal S Halloumi Cheese (300g)"
+      },
+      "price": 150.0,
+      "sale_price": 75.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "60673186": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673186,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
+      "name": {
+        "ar": "رويال إس شلل (300g)",
+        "en": "Royal S Shallal Cheese (300g)"
+      },
+      "price": 162.0,
+      "reason": "new_discount",
+      "sale_price": 81.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673186,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
+      "name": {
+        "ar": "رويال إس شلل (300g)",
+        "en": "Royal S Shallal Cheese (300g)"
+      },
+      "price": 162.0,
+      "sale_price": 81.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -3004,6 +3088,34 @@
       },
       "price": 156.0,
       "sale_price": 78.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60673188": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673188,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5fe94db4ded0d409ec2bac60dcf3c1d3c8706adb42567ab7e5485ec8c07556ea",
+      "name": {
+        "ar": "رويال إس عكاوى تشيكى (300g)",
+        "en": "Royal S Akkawi Czech Cheese (300g)"
+      },
+      "price": 138.0,
+      "reason": "new_discount",
+      "sale_price": 69.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673188,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5fe94db4ded0d409ec2bac60dcf3c1d3c8706adb42567ab7e5485ec8c07556ea",
+      "name": {
+        "ar": "رويال إس عكاوى تشيكى (300g)",
+        "en": "Royal S Akkawi Czech Cheese (300g)"
+      },
+      "price": 138.0,
+      "sale_price": 69.0,
       "stock": 1
     },
     "pending": false
@@ -3033,6 +3145,34 @@
       "price": 156.0,
       "sale_price": 78.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "60673192": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673192,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
+      "name": {
+        "ar": "رويال إس عكاوى لبنانى (300g)",
+        "en": "Royal S Akkawi Lebanese Cheese (300g)"
+      },
+      "price": 138.0,
+      "reason": "new_discount",
+      "sale_price": 69.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673192,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
+      "name": {
+        "ar": "رويال إس عكاوى لبنانى (300g)",
+        "en": "Royal S Akkawi Lebanese Cheese (300g)"
+      },
+      "price": 138.0,
+      "sale_price": 69.0,
+      "stock": 2
     },
     "pending": false
   },
