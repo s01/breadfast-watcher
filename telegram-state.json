@@ -223,6 +223,34 @@
     },
     "pending": false
   },
+  "34981421": {
+    "notified": {
+      "discount_percent": 57.735,
+      "id": 34981421,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6b1ca5a16acbcdc0c71059f12a5ad5c5294be497d0017a692ca69f8b38c7b035",
+      "name": {
+        "ar": "5x (75g) بريدفاست شوكولاتة حليب بالكوكيز",
+        "en": "5x Breadfast Cookies'n Cream Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 613.15,
+      "reason": "new_discount",
+      "sale_price": 259.15,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 57.735,
+      "id": 34981421,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6b1ca5a16acbcdc0c71059f12a5ad5c5294be497d0017a692ca69f8b38c7b035",
+      "name": {
+        "ar": "5x (75g) بريدفاست شوكولاتة حليب بالكوكيز",
+        "en": "5x Breadfast Cookies'n Cream Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 613.15,
+      "sale_price": 259.15,
+      "stock": 5
+    },
+    "pending": false
+  },
   "38934099": {
     "notified": {
       "discount_percent": 50.0,
@@ -416,6 +444,34 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 1
+    },
+    "pending": false
+  },
+  "44678533": {
+    "notified": {
+      "discount_percent": 80.251,
+      "id": 44678533,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c16cfc13c4c9c24852082af90e758a0de31519f747db05034bbe56b435e8d4d8",
+      "name": {
+        "ar": "6x (35g) بريدفاست شيكولاتة دارك بالهني كومب",
+        "en": "6x Breadfast Honeycomb Dark Chocolate (100% Real Cocoa) (35g)"
+      },
+      "price": 306.54,
+      "reason": "new_discount",
+      "sale_price": 60.54,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 80.251,
+      "id": 44678533,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c16cfc13c4c9c24852082af90e758a0de31519f747db05034bbe56b435e8d4d8",
+      "name": {
+        "ar": "6x (35g) بريدفاست شيكولاتة دارك بالهني كومب",
+        "en": "6x Breadfast Honeycomb Dark Chocolate (100% Real Cocoa) (35g)"
+      },
+      "price": 306.54,
+      "sale_price": 60.54,
+      "stock": 5
     },
     "pending": false
   },
@@ -1227,7 +1283,7 @@
       },
       "price": 189.0,
       "sale_price": 94.5,
-      "stock": 11
+      "stock": 1
     },
     "pending": false
   },
