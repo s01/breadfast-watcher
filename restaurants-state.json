@@ -29,7 +29,7 @@
       },
       "price": 510.0,
       "sale_price": 255.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -63,7 +63,7 @@
       },
       "price": 598.0,
       "sale_price": 299.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -97,7 +97,7 @@
       },
       "price": 500.0,
       "sale_price": 250.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -131,7 +131,7 @@
       },
       "price": 335.0,
       "sale_price": 167.5,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -165,7 +165,7 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -199,7 +199,7 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -233,7 +233,1413 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 1000
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73134": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73134",
+      "image": "https://food-cdn.breadfast.com/1771421849699-QDxI1767185457064-Untitled20design2047.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة بديل كيري واحصل على الأخرى مجانًا",
+        "en": "Buy One Alternative Kiri Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73135": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73135",
+      "image": "https://food-cdn.breadfast.com/1771421912902-FEDM1767185978840-Untitled20design2051.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وزعتر واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Thyme Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73136": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73136",
+      "image": "https://food-cdn.breadfast.com/1771422107515-dCdS1767186113494-Untitled20design2053.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري ولانشون واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Luncheon Manoucheh Get One Free"
+      },
+      "price": 270.0,
+      "sale_price": 135.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73137": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73137",
+      "image": "https://food-cdn.breadfast.com/1771422226311-zqYQ1767185890098-Untitled20design2050.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وتركي واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Turkey Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73138": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73138",
+      "image": "https://food-cdn.breadfast.com/1771422350846-EKUX1767196194946-Untitled20design202020251231T174931.900.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وسلامي واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Salami Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73139": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73139",
+      "image": "https://food-cdn.breadfast.com/1771422446089-0tiR1767185679007-Untitled20design2049.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وبيبروني واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Pepperoni Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73140": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73140",
+      "image": "https://food-cdn.breadfast.com/1771422577184-XR3K1767196415684-Untitled20design202020251231T175323.589.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وسجق واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Sojouk Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73141": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73141",
+      "image": "https://food-cdn.breadfast.com/1771422727819-GkOK1767186213646-Untitled20design2054.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وهوت دوج واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Hot Dog Manoucheh Get One Free"
+      },
+      "price": 270.0,
+      "sale_price": 135.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73142": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73142",
+      "image": "https://food-cdn.breadfast.com/1771422818606-4s9G1767699308334-Untitled20design2037.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة عجة بيض واحصل على الأخرى مجانًا",
+        "en": "Buy One Omelette Manoucheh Get One Free"
+      },
+      "price": 170.0,
+      "sale_price": 85.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73143": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73143",
+      "image": "https://food-cdn.breadfast.com/1771422896761-4tXH1767184495887-Untitled20design2037.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة عجة بيض وكيري واحصل على الأخرى مجانًا",
+        "en": "Buy One Omelette & Kiri Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73144": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73144",
+      "image": "https://food-cdn.breadfast.com/1771422982604-UEiA1767184794510-Untitled20design2041.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة عجة بيض وموتزاريلا واحصل على الأخرى مجانًا",
+        "en": "Buy One Omelette & Mozzarella Manoucheh Get One Free"
+      },
+      "price": 250.0,
+      "sale_price": 125.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73145": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73145",
+      "image": "https://food-cdn.breadfast.com/1771423126010-xpGB1767184639447-Untitled20design2039.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة عجة بيض وسجق واحصل على الأخرى مجانًا",
+        "en": "Buy One Omelette & Sojouk Manoucheh Get One Free"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73146": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73146",
+      "image": "https://food-cdn.breadfast.com/1771423188031-5toX1767699336468-Untitled20design2037.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة عجة بيض وبيبروني واحصل على الأخرى مجانًا",
+        "en": "Buy One Omelette & Pepperoni Manoucheh Get One Free"
+      },
+      "price": 280.0,
+      "sale_price": 140.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73147": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73147",
+      "image": "https://food-cdn.breadfast.com/1771423251316-l55M1767184720486-Untitled20design2040.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة عجة بيض وسلامي واحصل على الأخرى مجانًا",
+        "en": "Buy One Omelette & Salami Manoucheh Get One Free"
+      },
+      "price": 280.0,
+      "sale_price": 140.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73148": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73148",
+      "image": "https://food-cdn.breadfast.com/1771418494238-wfN81767193842835-Untitled20design202020251231T171028.346.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة قشقوان واحصل على الأخرى مجانًا",
+        "en": "Buy One Kashkaval Manoucheh Get One Free"
+      },
+      "price": 250.0,
+      "sale_price": 125.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73149": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73149",
+      "image": "https://food-cdn.breadfast.com/1771418797710-cfTL1767191037325-Untitled20design2071.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة جبنة رومي واحصل على الأخرى مجانًا",
+        "en": "Buy One Roumi Cheese Manoucheh Get One Free"
+      },
+      "price": 250.0,
+      "sale_price": 125.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73150": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73150",
+      "image": "https://food-cdn.breadfast.com/1771419190266-YBL51767188121979-Untitled20design2067.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة جبنة مع مشروم وذرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Cheese with Mushroom & Corn Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73151": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73151",
+      "image": "https://food-cdn.breadfast.com/1771420547402-TOAw1767699161789-Untitled20design2036.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة جبنة وزيتون واحصل على الأخرى مجانًا",
+        "en": "Buy One Cheese & Olive Manoucheh Get One Free"
+      },
+      "price": 260.0,
+      "sale_price": 130.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73152": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73152",
+      "image": "https://food-cdn.breadfast.com/1771420812006-UzTm1767180187840-Untitled20design2018.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة جبنة ولانشون واحصل على الأخرى مجانًا",
+        "en": "Buy One Cheese & Luncheon Manoucheh Get One Free"
+      },
+      "price": 280.0,
+      "sale_price": 140.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73153": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73153",
+      "image": "https://food-cdn.breadfast.com/1771420930057-PbYL1767180287836-Untitled20design2019.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة جبنة وهوت دوج واحصل على الأخرى مجانًا",
+        "en": "Buy One Cheese & Hot Dog Manoucheh Get One Free"
+      },
+      "price": 280.0,
+      "sale_price": 140.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73154": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73154",
+      "image": "https://food-cdn.breadfast.com/1771421000222-6wzZ1767180116165-Untitled20design2017.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة جبنة وسلامي واحصل على الأخرى مجانًا",
+        "en": "Buy One Cheese & Salami Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73155": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73155",
+      "image": "https://food-cdn.breadfast.com/1771421072334-xzGO1767179710413-Untitled20design2013.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة جبنة وخضرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Cheese & Vegetables Manoucheh Get One Free"
+      },
+      "price": 270.0,
+      "sale_price": 135.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73156": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73156",
+      "image": "https://food-cdn.breadfast.com/1771424518008-F2qX1767189178322-Untitled20design2069.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة نصف جبنة ونصف زعتر واحصل على الأخرى مجانًا",
+        "en": "Buy One Half Cheese & Half Thyme Manoucheh Get One Free"
+      },
+      "price": 210.0,
+      "sale_price": 105.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73157": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73157",
+      "image": "https://food-cdn.breadfast.com/1771424609534-4ZaQ1767187893476-Untitled20design2064.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة محمرة سادة واحصل على الأخرى مجانًا",
+        "en": "Buy One Plain Muhammara Manoucheh Get One Free"
+      },
+      "price": 190.0,
+      "sale_price": 95.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73158": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73158",
+      "image": "https://food-cdn.breadfast.com/1771424670058-6inN1767188002795-Untitled20design2066.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة محمرة وزعتر واحصل على الأخرى مجانًا",
+        "en": "Buy One Muhammara & Thyme Manoucheh Get One Free"
+      },
+      "price": 220.0,
+      "sale_price": 110.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73159": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73159",
+      "image": "https://food-cdn.breadfast.com/1771425097227-7pVo1767187945900-Untitled20design2065.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة محمرة وجبنة واحصل على الأخرى مجانًا",
+        "en": "Buy One Muhammara & Cheese Manoucheh Get One Free"
+      },
+      "price": 240.0,
+      "sale_price": 120.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73160": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73160",
+      "image": "https://food-cdn.breadfast.com/1771425738478-P2ib1767697685850-Untitled20design2029.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة سبانخ مغلقة واحصل على الأخرى مجانًا",
+        "en": "Buy One Closed Spinach Manoucheh Get One Free"
+      },
+      "price": 160.0,
+      "sale_price": 80.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73161": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73161",
+      "image": "https://food-cdn.breadfast.com/1771425864811-dXgP1767199717987-Untitled20design202020251231T184807.012.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة حمص مدقوق واحصل على الأخرى مجانًا",
+        "en": "Buy One Mashed Hummus Manoucheh Get One Free"
+      },
+      "price": 240.0,
+      "sale_price": 120.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73162": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73162",
+      "image": "https://food-cdn.breadfast.com/1771425916735-FfXE1767180858544-Untitled20design2024.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة سبانخ وجبنة واحصل على الأخرى مجانًا",
+        "en": "Buy One Spinach & Cheese Manoucheh Get One Free"
+      },
+      "price": 250.0,
+      "sale_price": 125.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73163": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73163",
+      "image": "https://food-cdn.breadfast.com/1771425991870-nTKE1767185131314-Untitled20design2044.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة فلافل واحصل على الأخرى مجانًا",
+        "en": "Buy One Falafel Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73164": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73164",
+      "image": "https://food-cdn.breadfast.com/1771426883786-jKaJ1767200473179-Untitled20design202020251231T190042.631.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة صفيحة لحمة واحصل على الأخرى مجانًا",
+        "en": "Buy One Meat Safiha Get One Free"
+      },
+      "price": 280.0,
+      "sale_price": 140.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73165": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73165",
+      "image": "https://food-cdn.breadfast.com/1771426999589-gAdh1767200850961-Untitled20design202020251231T190717.707.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة صفيحة لحمة وجبنة واحصل على الأخرى مجانًا",
+        "en": "Buy One Meat & Cheese Safiha Get One Free"
+      },
+      "price": 310.0,
+      "sale_price": 155.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73166": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73166",
+      "image": "https://food-cdn.breadfast.com/1771427239553-qogx1767185216215-Untitled20design2045.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة قرص لحمة بالعجين واحصل على الآخر مجانًا",
+        "en": "Buy One Lahm Bl Ajin Qors Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73167": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73167",
+      "image": "https://food-cdn.breadfast.com/1771427479154-znvw1767187378587-Untitled20design2061.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة لحمة مفرومة ودبس رمان واحصل على الأخرى مجانًا",
+        "en": "Buy One Minced Meat & Pomegranate Molasses Manoucheh Get One Free"
+      },
+      "price": 390.0,
+      "sale_price": 195.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73168": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73168",
+      "image": "https://food-cdn.breadfast.com/1771427167319-K1RG1767187305339-Untitled20design2060.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة لحمة مفرومة ورشة جبنة واحصل على الأخرى مجانًا",
+        "en": "Buy One Minced Meat with Cheese Sprinkles Manoucheh Get One Free"
+      },
+      "price": 440.0,
+      "sale_price": 220.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73169": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73169",
+      "image": "https://food-cdn.breadfast.com/1771428076346-jFPm1769596899296-thumb250250cchqmkn33kBNk51767698002480Untitled20design2031.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة كعكة جبنة وزعتر واحصل على الأخرى مجانًا",
+        "en": "Buy One Thyme & Cheese Ka'ak Get One Free"
+      },
+      "price": 330.0,
+      "sale_price": 165.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73170": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73170",
+      "image": "https://food-cdn.breadfast.com/1771428180410-4AL01767698014755-Untitled20design2031.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة كعكة النعوم واحصل على الأخرى مجانًا",
+        "en": "Buy One Naoum Ka'ak Get One Free"
+      },
+      "price": 330.0,
+      "sale_price": 165.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73171": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73171",
+      "image": "https://food-cdn.breadfast.com/1771428254203-4AL01767698014755-Untitled20design2031.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة كعكة المخبز اللبناني واحصل على الأخرى مجانًا",
+        "en": "Buy One El Makhbaz El Lebnany Ka'ak Get One Free"
+      },
+      "price": 310.0,
+      "sale_price": 155.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73172": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73172",
+      "image": "https://food-cdn.breadfast.com/1771428336465-B9zy1767698049894-Untitled20design2031.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة كعكة أبو العرب واحصل على الأخرى مجانًا",
+        "en": "Buy One Abo El Arab Ka'ak Get One Free"
+      },
+      "price": 340.0,
+      "sale_price": 170.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73173": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73173",
+      "image": "https://food-cdn.breadfast.com/1771429279786-zmXU1767700039458-q1SJ1767257622791Untitled20design2082.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة شوكولاتة واحصل على الأخرى مجانًا",
+        "en": "Buy One Chocolate Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73174": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73174",
+      "image": "https://food-cdn.breadfast.com/1771430041080-RQ9p1767698835746-Untitled20design2033.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا شوكولاتة واحصل على الأخرى مجانًا",
+        "en": "Buy One Chocolate Pizza Get One Free"
+      },
+      "price": 470.0,
+      "sale_price": 235.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73175": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73175",
+      "image": "https://food-cdn.breadfast.com/1771429722253-FoaT1767700137478-Untitled20design2041.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة شوكولاتة وموز واحصل على الأخرى مجانًا",
+        "en": "Buy One Chocolate & Banana Manoucheh Get One Free"
+      },
+      "price": 220.0,
+      "sale_price": 110.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73176": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73176",
+      "image": "https://food-cdn.breadfast.com/1771429798814-mNDF1767186729903-Untitled20design2056.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة لبنة وعسل واحصل على الأخرى مجانًا",
+        "en": "Buy One Labneh & Honey Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73177": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73177",
+      "image": "https://food-cdn.breadfast.com/1771429893852-SVwz1767186053157-Untitled20design2052.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وعسل واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Honey Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73178": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73178",
+      "image": "https://food-cdn.breadfast.com/1771429952462-EO1z1767188209817-Untitled20design2068.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة موز وعسل واحصل على الأخرى مجانًا",
+        "en": "Buy One Banana & Honey Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73179": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73179",
+      "image": "https://food-cdn.breadfast.com/1787676811622-5830f9c7-c3e3-4d46-85bb-9205337994b0.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري مع مربي مشمش واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri with Apricot Jam Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73180": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73180",
+      "image": "https://food-cdn.breadfast.com/1787676800987-75054877-f9fb-49f8-87a4-28c8b8833504.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري مع مربي تين واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri with Fig Jam Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73181": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73181",
+      "image": "https://food-cdn.breadfast.com/1787676788473-ab94a634-90a5-4488-816e-90e583f9283b.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري مع مربي فراولة واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri with Strawberry Jam Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73182": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73182",
+      "image": "https://food-cdn.breadfast.com/1771435187031-cJYj1767187712924-Untitled20design2062.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا مارجريتا وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Margherita Pizza Get One Free"
+      },
+      "price": 460.0,
+      "sale_price": 230.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73183": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73183",
+      "image": "https://food-cdn.breadfast.com/1771435249288-uHrp1767178209538-Untitled20design203.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا بيبروني وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Pepperoni Pizza Get One Free"
+      },
+      "price": 580.0,
+      "sale_price": 290.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73184": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73184",
+      "image": "https://food-cdn.breadfast.com/1771435326493-9QT31767180672734-Untitled20design2022.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا خضار وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Vegetables Pizza Get One Free"
+      },
+      "price": 510.0,
+      "sale_price": 255.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73185": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73185",
+      "image": "https://food-cdn.breadfast.com/1771435409440-I0SK1767178458810-Untitled20design204.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا سجق وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Sojouk Pizza Get One Free"
+      },
+      "price": 670.0,
+      "sale_price": 335.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73186": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73186",
+      "image": "https://food-cdn.breadfast.com/1771435479908-pKOk1767186354120-Untitled20design2055.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا لانشون وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Luncheon Pizza Get One Free"
+      },
+      "price": 530.0,
+      "sale_price": 265.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73187": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73187",
+      "image": "https://food-cdn.breadfast.com/1771435573269-M4641767187817937-Untitled20design2063.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا مكسيكانو وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Mexicano Pizza Get One Free"
+      },
+      "price": 610.0,
+      "sale_price": 305.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73188": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73188",
+      "image": "https://food-cdn.breadfast.com/1771435791290-57eH1767201706524-Untitled20design202020251231T192104.680.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا سلامي وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Salami Pizza Get One Free"
+      },
+      "price": 560.0,
+      "sale_price": 280.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73189": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73189",
+      "image": "https://food-cdn.breadfast.com/1771435962529-e3UH1767189355024-Untitled20design2070.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا هوت سبايسي وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Hot Spicy Pizza Get One Free"
+      },
+      "price": 690.0,
+      "sale_price": 345.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73190": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73190",
+      "image": "https://food-cdn.breadfast.com/1771436129859-IXDi1767276454857-Untitled20design202020260101T160708.005.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا مكس جبنة وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Mix Cheese Pizza Get One Free"
+      },
+      "price": 490.0,
+      "sale_price": 245.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73191": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73191",
+      "image": "https://food-cdn.breadfast.com/1771436210013-wWXN1767178917041-Untitled20design208.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا هوت دوج وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Hot Dog Pizza Get One Free"
+      },
+      "price": 510.0,
+      "sale_price": 255.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73192": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73192",
+      "image": "https://food-cdn.breadfast.com/1771436281877-3tYs1767185031769-Untitled20design2043.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا فور سيزون وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Four Seasons Pizza Get One Free"
+      },
+      "price": 670.0,
+      "sale_price": 335.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73193": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73193",
+      "image": "https://food-cdn.breadfast.com/1771436358287-U3qk1767184356070-Untitled20design2035.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا ميامي سبيشيال وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Special Miami Pizza Get One Free"
+      },
+      "price": 670.0,
+      "sale_price": 335.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73194": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73194",
+      "image": "https://food-cdn.breadfast.com/1771435866175-zGqB1767691994291-Untitled20design2023.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا دجاج محشوة الأطراف وسط واحصل على الأخرى مجانًا",
+        "en": "Buy One Medium Chicken Stuffed Crust Pizza Get One Free"
+      },
+      "price": 720.0,
+      "sale_price": 360.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73195": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73195",
+      "image": "https://food-cdn.breadfast.com/1771438319590-GcTb1767178195790-Untitled20design203.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا بيبروني كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Pepperoni Pizza Get One Free"
+      },
+      "price": 720.0,
+      "sale_price": 360.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73196": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73196",
+      "image": "https://food-cdn.breadfast.com/1771438440787-fLx11767187700570-Untitled20design2062.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا مارجريتا كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Margherita Pizza Get One Free"
+      },
+      "price": 660.0,
+      "sale_price": 330.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73197": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73197",
+      "image": "https://food-cdn.breadfast.com/1771438513686-koEV1767180650896-Untitled20design2022.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا خضار كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Vegetables Pizza Get One Free"
+      },
+      "price": 780.0,
+      "sale_price": 390.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73198": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73198",
+      "image": "https://food-cdn.breadfast.com/1771438571577-2COb1767178443930-Untitled20design204.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا سجق كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Sojouk Pizza Get One Free"
+      },
+      "price": 860.0,
+      "sale_price": 430.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73199": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73199",
+      "image": "https://food-cdn.breadfast.com/1771438643539-sizG1767186340752-Untitled20design2055.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا لانشون كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Luncheon Pizza Get One Free"
+      },
+      "price": 700.0,
+      "sale_price": 350.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73200": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73200",
+      "image": "https://food-cdn.breadfast.com/1771438709576-ZTFd1767187804865-Untitled20design2063.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا مكسيكانو كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Mexicano Pizza Get One Free"
+      },
+      "price": 720.0,
+      "sale_price": 360.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73201": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73201",
+      "image": "https://food-cdn.breadfast.com/1771439000358-Savt1767201729990-Untitled20design202020251231T192104.680.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا سلامي كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Salami Pizza Get One Free"
+      },
+      "price": 740.0,
+      "sale_price": 370.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73202": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73202",
+      "image": "https://food-cdn.breadfast.com/1771439151319-GvK01767189337034-Untitled20design2070.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا هوت سبايسي كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Hot Spicy Pizza Get One Free"
+      },
+      "price": 880.0,
+      "sale_price": 440.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73204": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73204",
+      "image": "https://food-cdn.breadfast.com/1771439833893-8LRc1767276728327-Untitled20design202020260101T160708.005.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا مكس جبنة كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Mix Cheese Pizza Get One Free"
+      },
+      "price": 690.0,
+      "sale_price": 345.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73205": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73205",
+      "image": "https://food-cdn.breadfast.com/1771440038997-89m31767178893216-Untitled20design208.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا هوت دوج كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Hot Dog Pizza Get One Free"
+      },
+      "price": 660.0,
+      "sale_price": 330.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73206": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73206",
+      "image": "https://food-cdn.breadfast.com/1771440119213-nK9y1767185017066-Untitled20design2043.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا فورسيزون كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Four Seasons Pizza Get One Free"
+      },
+      "price": 830.0,
+      "sale_price": 415.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73207": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73207",
+      "image": "https://food-cdn.breadfast.com/1771440264893-aMFv1767184342853-Untitled20design2035.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا ميامي سبيشيال كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Special Miami Pizza Get One Free"
+      },
+      "price": 860.0,
+      "sale_price": 430.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "1197:73208": {
+    "notified": null,
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73208",
+      "image": "https://food-cdn.breadfast.com/1771439078993-fbmU1767692007605-Untitled20design2023.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة بيتزا دجاج محشوة الأطراف كبيرة واحصل على الأخرى مجانًا",
+        "en": "Buy One Large Chicken Stuffed Crust Pizza Get One Free"
+      },
+      "price": 980.0,
+      "sale_price": 490.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -267,7 +1673,7 @@
       },
       "price": 850.0,
       "sale_price": 425.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -301,7 +1707,7 @@
       },
       "price": 598.0,
       "sale_price": 283.86,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -335,7 +1741,7 @@
       },
       "price": 750.0,
       "sale_price": 375.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -573,7 +1979,7 @@
       },
       "price": 416.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -607,7 +2013,7 @@
       },
       "price": 416.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -641,7 +2047,7 @@
       },
       "price": 416.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -675,7 +2081,7 @@
       },
       "price": 242.0,
       "sale_price": 121.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -709,7 +2115,7 @@
       },
       "price": 484.0,
       "sale_price": 242.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -743,7 +2149,7 @@
       },
       "price": 406.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -777,7 +2183,7 @@
       },
       "price": 416.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -811,7 +2217,7 @@
       },
       "price": 416.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -845,7 +2251,7 @@
       },
       "price": 416.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -879,7 +2285,7 @@
       },
       "price": 242.0,
       "sale_price": 121.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -913,7 +2319,7 @@
       },
       "price": 484.0,
       "sale_price": 242.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -947,7 +2353,7 @@
       },
       "price": 406.0,
       "sale_price": 199.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
