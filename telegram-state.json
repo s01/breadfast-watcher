@@ -1031,7 +1031,7 @@
       },
       "price": 184.0,
       "sale_price": 80.87,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -17459,6 +17459,34 @@
     },
     "pending": true
   },
+  "46914872": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 46914872,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/8245a989aacf6d9975585932da29a48e0d600e7047ca7b97b2bbb2e49738b94e",
+      "name": {
+        "ar": "بريدفاست سيجناتشرسالمون فيليه تشانك (200جم)",
+        "en": "Breadfast Signature Salmon Fillet Chunk (200g)"
+      },
+      "price": 355.0,
+      "reason": "new_discount",
+      "sale_price": 177.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 46914872,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/8245a989aacf6d9975585932da29a48e0d600e7047ca7b97b2bbb2e49738b94e",
+      "name": {
+        "ar": "بريدفاست سيجناتشرسالمون فيليه تشانك (200جم)",
+        "en": "Breadfast Signature Salmon Fillet Chunk (200g)"
+      },
+      "price": 355.0,
+      "sale_price": 177.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "46944114": {
     "notified": null,
     "observed": {
@@ -23446,6 +23474,34 @@
       "stock": 1
     },
     "pending": true
+  },
+  "62811553": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 62811553,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f2d095ff246bd75958b823ec323c1526f976cffa946451228daa016c8dd745ca",
+      "name": {
+        "ar": "بريدفاست سيجناتشر جمبري متوسط لحم منظف مجمد (400 جرام)",
+        "en": "Breadfast Signature Medium Shrimps - Peeled & Deveined (400 gm)"
+      },
+      "price": 699.0,
+      "reason": "new_discount",
+      "sale_price": 349.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 62811553,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f2d095ff246bd75958b823ec323c1526f976cffa946451228daa016c8dd745ca",
+      "name": {
+        "ar": "بريدفاست سيجناتشر جمبري متوسط لحم منظف مجمد (400 جرام)",
+        "en": "Breadfast Signature Medium Shrimps - Peeled & Deveined (400 gm)"
+      },
+      "price": 699.0,
+      "sale_price": 349.5,
+      "stock": 1
+    },
+    "pending": false
   },
   "62900292": {
     "notified": null,
