@@ -1163,6 +1163,62 @@
     },
     "pending": false
   },
+  "42164930": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42164930,
+      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
+      },
+      "price": 6120.0,
+      "reason": "new_discount",
+      "sale_price": 3060.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42164930,
+      "image": "https://i.ibb.co/gLBnRK7v/shop-pf-03758-01-luna-rossa-ocean-edp-50ml-1.jpg",
+      "name": {
+        "ar": "برادا لونا روسا أوشن أو دو بارفان للرجال (50 مل)",
+        "en": "Prada Luna Rossa Ocean EDP For Him (50ml)"
+      },
+      "price": 6120.0,
+      "sale_price": 3060.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "42882498": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904933/ca23de80da52ca28.jpg",
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "reason": "new_discount",
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 42882498,
+      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904933/ca23de80da52ca28.jpg",
+      "name": {
+        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
+        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
+      },
+      "price": 520.0,
+      "sale_price": 260.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "42882500": {
     "notified": {
       "discount_percent": 50.633,
@@ -3584,6 +3640,34 @@
     },
     "pending": false
   },
+  "60676796": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "reason": "new_discount",
+      "sale_price": 649.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60676796,
+      "image": "https://www.dodoskin.com/cdn/shop/files/8809730952007-4.jpg",
+      "name": {
+        "ar": "مانيو بيفيدا سيكا هيرب سيروم (50 مل)",
+        "en": "Manyo Bifida Cica Herb Serum (50 ml)"
+      },
+      "price": 1299.0,
+      "sale_price": 649.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60980876": {
     "notified": {
       "discount_percent": 50.0,
@@ -4325,6 +4409,34 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 2
+    },
+    "pending": false
+  },
+  "67571991": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 67571991,
+      "image": "https://images.barcodelookup.com/148761/1487610470-2.jpg",
+      "name": {
+        "ar": "بولغاري مان إن بلاك أو دو برفان للرجال (100 مل)",
+        "en": "Bvlgari Man In Black EDP for Him (100ml)"
+      },
+      "price": 6590.0,
+      "reason": "new_discount",
+      "sale_price": 3295.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 67571991,
+      "image": "https://images.barcodelookup.com/148761/1487610470-2.jpg",
+      "name": {
+        "ar": "بولغاري مان إن بلاك أو دو برفان للرجال (100 مل)",
+        "en": "Bvlgari Man In Black EDP for Him (100ml)"
+      },
+      "price": 6590.0,
+      "sale_price": 3295.0,
+      "stock": 1
     },
     "pending": false
   }
