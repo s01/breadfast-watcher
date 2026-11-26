@@ -1,4 +1,284 @@
 {
+  "11087783": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 11087783,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/wedasyhjkl.png",
+      "name": {
+        "ar": "نيلكو توتتاري تاور",
+        "en": "Nilco Tottery Tower"
+      },
+      "price": 285.0,
+      "reason": "new_discount",
+      "sale_price": 142.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 11087783,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/wedasyhjkl.png",
+      "name": {
+        "ar": "نيلكو توتتاري تاور",
+        "en": "Nilco Tottery Tower"
+      },
+      "price": 285.0,
+      "sale_price": 142.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "1373486": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1373486,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/jackaroo.png",
+      "name": {
+        "ar": "نيلكو جاكارو لعبة بلوح خشبي وبطاقات",
+        "en": "Nilco Jackaroo Game With Wooden Board & Cards"
+      },
+      "price": 735.0,
+      "reason": "new_discount",
+      "sale_price": 367.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1373486,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/jackaroo.png",
+      "name": {
+        "ar": "نيلكو جاكارو لعبة بلوح خشبي وبطاقات",
+        "en": "Nilco Jackaroo Game With Wooden Board & Cards"
+      },
+      "price": 735.0,
+      "sale_price": 367.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1373607": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1373607,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bank-elhaz.png",
+      "name": {
+        "ar": "نيلكو بنك الحظ",
+        "en": "Nilco Original Bank El Haz"
+      },
+      "price": 585.0,
+      "reason": "new_discount",
+      "sale_price": 292.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1373607,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bank-elhaz.png",
+      "name": {
+        "ar": "نيلكو بنك الحظ",
+        "en": "Nilco Original Bank El Haz"
+      },
+      "price": 585.0,
+      "sale_price": 292.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1375878": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1375878,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/connect-four.png",
+      "name": {
+        "ar": "نيلكو لعبة فور ان رو",
+        "en": "Nilco Four In a Row Game"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1375878,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/connect-four.png",
+      "name": {
+        "ar": "نيلكو لعبة فور ان رو",
+        "en": "Nilco Four In a Row Game"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1376118": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1376118,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3418cd313abe98ee32025e12a01b7cd17be2f9b5f9aafeaea1b383d56bc2c1e4",
+      "name": {
+        "ar": "نيلكو لعبة المراحل العشرة ( علبة بلاستيك)",
+        "en": "Nilco Phase 10 Game (Plastic Box)"
+      },
+      "price": 250.0,
+      "reason": "new_discount",
+      "sale_price": 125.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1376118,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3418cd313abe98ee32025e12a01b7cd17be2f9b5f9aafeaea1b383d56bc2c1e4",
+      "name": {
+        "ar": "نيلكو لعبة المراحل العشرة ( علبة بلاستيك)",
+        "en": "Nilco Phase 10 Game (Plastic Box)"
+      },
+      "price": 250.0,
+      "sale_price": 125.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1376177": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1376177,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/playing-cards.png",
+      "name": {
+        "ar": "نيلكو كوتشينة (علبة بلاستيك)",
+        "en": "Nilco Playing Cards Game (Plastic Box)"
+      },
+      "price": 149.0,
+      "reason": "new_discount",
+      "sale_price": 74.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1376177,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/playing-cards.png",
+      "name": {
+        "ar": "نيلكو كوتشينة (علبة بلاستيك)",
+        "en": "Nilco Playing Cards Game (Plastic Box)"
+      },
+      "price": 149.0,
+      "sale_price": 74.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1376332": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1376332,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bank-el7az.png",
+      "name": {
+        "ar": "نيلكو لعبة بنك الحظ أوراق (علبة بلاستيك)",
+        "en": "Nilco Bank El Haz Cards Game (Plastic Box)"
+      },
+      "price": 250.0,
+      "reason": "new_discount",
+      "sale_price": 125.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1376332,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bank-el7az.png",
+      "name": {
+        "ar": "نيلكو لعبة بنك الحظ أوراق (علبة بلاستيك)",
+        "en": "Nilco Bank El Haz Cards Game (Plastic Box)"
+      },
+      "price": 250.0,
+      "sale_price": 125.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1376498": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1376498,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/carnval.png",
+      "name": {
+        "ar": "نيلكو لعبة كرنفال",
+        "en": "Nilco Carnaval Game"
+      },
+      "price": 525.0,
+      "reason": "new_discount",
+      "sale_price": 262.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1376498,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/carnval.png",
+      "name": {
+        "ar": "نيلكو لعبة كرنفال",
+        "en": "Nilco Carnaval Game"
+      },
+      "price": 525.0,
+      "sale_price": 262.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1376559": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1376559,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mafia.png",
+      "name": {
+        "ar": "نيلكو لعبة مافيا",
+        "en": "Nilco Mafia Card Game Box"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1376559,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mafia.png",
+      "name": {
+        "ar": "نيلكو لعبة مافيا",
+        "en": "Nilco Mafia Card Game Box"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1392062": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1392062,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bedon-kalam-4.png",
+      "name": {
+        "ar": "نيلكو لعبة بدون كلام (علبة بلاستيك)",
+        "en": "Nilco Without Talking Game (Plastic Box)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1392062,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bedon-kalam-4.png",
+      "name": {
+        "ar": "نيلكو لعبة بدون كلام (علبة بلاستيك)",
+        "en": "Nilco Without Talking Game (Plastic Box)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "1762778": {
     "notified": {
       "discount_percent": 50.0,
@@ -80,34 +360,6 @@
       "price": 65.0,
       "sale_price": 32.5,
       "stock": 1
-    },
-    "pending": false
-  },
-  "22518413": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22518413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالزعتر (300 جرام)",
-        "en": "Feta Cheese With Zaatar (300g)"
-      },
-      "price": 65.0,
-      "reason": "new_discount",
-      "sale_price": 32.5,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22518413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالزعتر (300 جرام)",
-        "en": "Feta Cheese With Zaatar (300g)"
-      },
-      "price": 65.0,
-      "sale_price": 32.5,
-      "stock": 4
     },
     "pending": false
   },
@@ -248,6 +500,230 @@
       "price": 613.15,
       "sale_price": 259.15,
       "stock": 5
+    },
+    "pending": false
+  },
+  "38929525": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929525,
+      "image": "https://i.ibb.co/PvHryN3K/1.png",
+      "name": {
+        "ar": "نيلكو دوتس اند لينز",
+        "en": "Nilco Dots & Lines"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 175.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929525,
+      "image": "https://i.ibb.co/PvHryN3K/1.png",
+      "name": {
+        "ar": "نيلكو دوتس اند لينز",
+        "en": "Nilco Dots & Lines"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929531": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929531,
+      "image": "https://i.ibb.co/5hztHTxc/7.png",
+      "name": {
+        "ar": "نيلكو الكوز",
+        "en": "Nilco El Koz"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929531,
+      "image": "https://i.ibb.co/5hztHTxc/7.png",
+      "name": {
+        "ar": "نيلكو الكوز",
+        "en": "Nilco El Koz"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929544": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929544,
+      "image": "https://i.ibb.co/VcXQxcCY/19.png",
+      "name": {
+        "ar": "كوتشينة نيلكو بريميم أسود",
+        "en": "Nilco Premium Playing Cards Black"
+      },
+      "price": 195.0,
+      "reason": "new_discount",
+      "sale_price": 97.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929544,
+      "image": "https://i.ibb.co/VcXQxcCY/19.png",
+      "name": {
+        "ar": "كوتشينة نيلكو بريميم أسود",
+        "en": "Nilco Premium Playing Cards Black"
+      },
+      "price": 195.0,
+      "sale_price": 97.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929548": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929548,
+      "image": "https://i.ibb.co/35HnT4W4/22.png",
+      "name": {
+        "ar": "نيلكو سيكونس ستاكس",
+        "en": "Nilco Sequence Stacks"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929548,
+      "image": "https://i.ibb.co/35HnT4W4/22.png",
+      "name": {
+        "ar": "نيلكو سيكونس ستاكس",
+        "en": "Nilco Sequence Stacks"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929550": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929550,
+      "image": "https://i.ibb.co/mVqTT02R/24.png",
+      "name": {
+        "ar": "نيلكو شيتي كويستشنز",
+        "en": "Nilco Shitty Questions"
+      },
+      "price": 395.0,
+      "reason": "new_discount",
+      "sale_price": 197.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929550,
+      "image": "https://i.ibb.co/mVqTT02R/24.png",
+      "name": {
+        "ar": "نيلكو شيتي كويستشنز",
+        "en": "Nilco Shitty Questions"
+      },
+      "price": 395.0,
+      "sale_price": 197.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929551": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929551,
+      "image": "https://i.ibb.co/QjPzMHDr/26.png",
+      "name": {
+        "ar": "نيلكو شات أب",
+        "en": "Nilco Shut Up"
+      },
+      "price": 395.0,
+      "reason": "new_discount",
+      "sale_price": 197.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929551,
+      "image": "https://i.ibb.co/QjPzMHDr/26.png",
+      "name": {
+        "ar": "نيلكو شات أب",
+        "en": "Nilco Shut Up"
+      },
+      "price": 395.0,
+      "sale_price": 197.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929556": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929556,
+      "image": "https://i.ibb.co/h14VpzzN/31.png",
+      "name": {
+        "ar": "نيلكو بسبس بومبا",
+        "en": "Nilco Exploding Kittens"
+      },
+      "price": 425.0,
+      "reason": "new_discount",
+      "sale_price": 212.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929556,
+      "image": "https://i.ibb.co/h14VpzzN/31.png",
+      "name": {
+        "ar": "نيلكو بسبس بومبا",
+        "en": "Nilco Exploding Kittens"
+      },
+      "price": 425.0,
+      "sale_price": 212.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929559": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38929559,
+      "image": "https://i.ibb.co/PZnJgTh1/34.png",
+      "name": {
+        "ar": "نيلكو جو فيش ديزني ستيتش",
+        "en": "Nilco Go Fish Disney Stitch"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38929559,
+      "image": "https://i.ibb.co/PZnJgTh1/34.png",
+      "name": {
+        "ar": "نيلكو جو فيش ديزني ستيتش",
+        "en": "Nilco Go Fish Disney Stitch"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 1
     },
     "pending": false
   },
@@ -503,6 +979,62 @@
     },
     "pending": false
   },
+  "44733653": {
+    "notified": {
+      "discount_percent": 59.589,
+      "id": 44733653,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3a8bd2e7f4851d7539e6e8938a08a92b6f79ee1432c3183003e3745c649886b6",
+      "name": {
+        "ar": "5x بريدفاست شيكولاتة دارك سادة (75 جرام)",
+        "en": "5x Breadfast Dark Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 639.8,
+      "reason": "new_discount",
+      "sale_price": 258.55,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 59.589,
+      "id": 44733653,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3a8bd2e7f4851d7539e6e8938a08a92b6f79ee1432c3183003e3745c649886b6",
+      "name": {
+        "ar": "5x بريدفاست شيكولاتة دارك سادة (75 جرام)",
+        "en": "5x Breadfast Dark Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 639.8,
+      "sale_price": 258.55,
+      "stock": 5
+    },
+    "pending": false
+  },
+  "46407035": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 46407035,
+      "image": "https://i.ibb.co/xKdnGmzf/Picture10.png",
+      "name": {
+        "ar": "نيلكو شطرنج كارتون شو بوكس",
+        "en": "Nilco chess show box carton"
+      },
+      "price": 545.0,
+      "reason": "new_discount",
+      "sale_price": 272.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 46407035,
+      "image": "https://i.ibb.co/xKdnGmzf/Picture10.png",
+      "name": {
+        "ar": "نيلكو شطرنج كارتون شو بوكس",
+        "en": "Nilco chess show box carton"
+      },
+      "price": 545.0,
+      "sale_price": 272.5,
+      "stock": 3
+    },
+    "pending": false
+  },
   "49558782": {
     "notified": {
       "discount_percent": 50.0,
@@ -699,6 +1231,62 @@
     },
     "pending": false
   },
+  "56493282": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 56493282,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/063706fdd79841685ac2d4edd04cfb61e2dc4bbc7ee41f0391c2cdd5ca9715e5",
+      "name": {
+        "ar": "نيلكو اوشن ترابس بورد",
+        "en": "Nilco Ocean Traps Board Game"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 56493282,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/063706fdd79841685ac2d4edd04cfb61e2dc4bbc7ee41f0391c2cdd5ca9715e5",
+      "name": {
+        "ar": "نيلكو اوشن ترابس بورد",
+        "en": "Nilco Ocean Traps Board Game"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "56493283": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 56493283,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe4359a7dd2dc0589753baac215d10c995b571eed6f73ba01a239f803c1a3898",
+      "name": {
+        "ar": "نيلكو سر الشبح كارت",
+        "en": "Nilco Ghost Secret Card Game"
+      },
+      "price": 250.0,
+      "reason": "new_discount",
+      "sale_price": 125.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 56493283,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe4359a7dd2dc0589753baac215d10c995b571eed6f73ba01a239f803c1a3898",
+      "name": {
+        "ar": "نيلكو سر الشبح كارت",
+        "en": "Nilco Ghost Secret Card Game"
+      },
+      "price": 250.0,
+      "sale_price": 125.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "56956466": {
     "notified": {
       "discount_percent": 50.0,
@@ -867,34 +1455,6 @@
     },
     "pending": false
   },
-  "60673177": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
-      "name": {
-        "ar": "رويال إس كيرى رومى (450g)",
-        "en": "Royal S Kiri Roomy (450g)"
-      },
-      "price": 130.8,
-      "reason": "new_discount",
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
-      "name": {
-        "ar": "رويال إس كيرى رومى (450g)",
-        "en": "Royal S Kiri Roomy (450g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673178": {
     "notified": {
       "discount_percent": 50.0,
@@ -919,62 +1479,6 @@
       },
       "price": 130.8,
       "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673185": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673185,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
-      "name": {
-        "ar": "رويال إس حلوم (300g)",
-        "en": "Royal S Halloumi Cheese (300g)"
-      },
-      "price": 150.0,
-      "reason": "new_discount",
-      "sale_price": 75.0,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673185,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
-      "name": {
-        "ar": "رويال إس حلوم (300g)",
-        "en": "Royal S Halloumi Cheese (300g)"
-      },
-      "price": 150.0,
-      "sale_price": 75.0,
-      "stock": 4
-    },
-    "pending": false
-  },
-  "60673186": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
-      "name": {
-        "ar": "رويال إس شلل (300g)",
-        "en": "Royal S Shallal Cheese (300g)"
-      },
-      "price": 162.0,
-      "reason": "new_discount",
-      "sale_price": 81.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673186,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
-      "name": {
-        "ar": "رويال إس شلل (300g)",
-        "en": "Royal S Shallal Cheese (300g)"
-      },
-      "price": 162.0,
-      "sale_price": 81.0,
       "stock": 1
     },
     "pending": false
@@ -1031,90 +1535,6 @@
       },
       "price": 138.0,
       "sale_price": 69.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673191": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673191,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3d1759d63f9ea245564105b90d628ac0ccdf77ec2948fe2c3b32942d5a845089",
-      "name": {
-        "ar": "رويال إس نابلسية حبة البركة (300g)",
-        "en": "Royal S Nabulsi Cheese With Black Seed (300g)"
-      },
-      "price": 156.0,
-      "reason": "new_discount",
-      "sale_price": 78.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673191,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3d1759d63f9ea245564105b90d628ac0ccdf77ec2948fe2c3b32942d5a845089",
-      "name": {
-        "ar": "رويال إس نابلسية حبة البركة (300g)",
-        "en": "Royal S Nabulsi Cheese With Black Seed (300g)"
-      },
-      "price": 156.0,
-      "sale_price": 78.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673192": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673192,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
-      "name": {
-        "ar": "رويال إس عكاوى لبنانى (300g)",
-        "en": "Royal S Akkawi Lebanese Cheese (300g)"
-      },
-      "price": 138.0,
-      "reason": "new_discount",
-      "sale_price": 69.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673192,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
-      "name": {
-        "ar": "رويال إس عكاوى لبنانى (300g)",
-        "en": "Royal S Akkawi Lebanese Cheese (300g)"
-      },
-      "price": 138.0,
-      "sale_price": 69.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "60673193": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673193,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fa0e7d31f86d310e5335798f06ed23c31a753eeca5e0d51cf5296a4942e3a5af",
-      "name": {
-        "ar": "رويال إس مجدولة (300g)",
-        "en": "Royal S Magdoula Cheese (300g)"
-      },
-      "price": 162.0,
-      "reason": "new_discount",
-      "sale_price": 81.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673193,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fa0e7d31f86d310e5335798f06ed23c31a753eeca5e0d51cf5296a4942e3a5af",
-      "name": {
-        "ar": "رويال إس مجدولة (300g)",
-        "en": "Royal S Magdoula Cheese (300g)"
-      },
-      "price": 162.0,
-      "sale_price": 81.0,
       "stock": 1
     },
     "pending": false
