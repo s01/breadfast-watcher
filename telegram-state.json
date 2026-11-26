@@ -531,6 +531,34 @@
     },
     "pending": false
   },
+  "14856101": {
+    "notified": {
+      "discount_percent": 68.462,
+      "id": 14856101,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Breadfast-Signature-Seasalt.jpg",
+      "name": {
+        "ar": "بريدفاست شوكولاتة دارك بلجيكية 70% بالملح (75 جرام)",
+        "en": "Breadfast Belgian Sea Salt Dark 70% Chocolate (75g)"
+      },
+      "price": 165.64,
+      "reason": "new_discount",
+      "sale_price": 52.24,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 68.462,
+      "id": 14856101,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Breadfast-Signature-Seasalt.jpg",
+      "name": {
+        "ar": "بريدفاست شوكولاتة دارك بلجيكية 70% بالملح (75 جرام)",
+        "en": "Breadfast Belgian Sea Salt Dark 70% Chocolate (75g)"
+      },
+      "price": 165.64,
+      "sale_price": 52.24,
+      "stock": 1
+    },
+    "pending": false
+  },
   "17446467": {
     "notified": {
       "discount_percent": 60.0,
@@ -12787,7 +12815,7 @@
       },
       "price": 290.0,
       "sale_price": 145.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -12815,6 +12843,34 @@
       },
       "price": 535.0,
       "sale_price": 267.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "39459769": {
+    "notified": {
+      "discount_percent": 57.0,
+      "id": 39459769,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5a728349be06e2e93874adae6da01b0d330c066db6520d0189068beb302bc1f2",
+      "name": {
+        "ar": "فام بيف سماش برجر مجمد (360 جرام)",
+        "en": "Fam Beef Frozen Smashed Beef Burger (360g)"
+      },
+      "price": 228.0,
+      "reason": "new_discount",
+      "sale_price": 98.04,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 57.0,
+      "id": 39459769,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5a728349be06e2e93874adae6da01b0d330c066db6520d0189068beb302bc1f2",
+      "name": {
+        "ar": "فام بيف سماش برجر مجمد (360 جرام)",
+        "en": "Fam Beef Frozen Smashed Beef Burger (360g)"
+      },
+      "price": 228.0,
+      "sale_price": 98.04,
       "stock": 1
     },
     "pending": false
@@ -14546,6 +14602,34 @@
       "stock": 1
     },
     "pending": true
+  },
+  "41397929": {
+    "notified": {
+      "discount_percent": 91.368,
+      "id": 41397929,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
+      "name": {
+        "ar": "ريز كولا زيرو زجاجة (400مل)",
+        "en": "Rizz Cola Zero Bottle (400ml)"
+      },
+      "price": 14.25,
+      "reason": "new_discount",
+      "sale_price": 1.23,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 91.368,
+      "id": 41397929,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
+      "name": {
+        "ar": "ريز كولا زيرو زجاجة (400مل)",
+        "en": "Rizz Cola Zero Bottle (400ml)"
+      },
+      "price": 14.25,
+      "sale_price": 1.23,
+      "stock": 1
+    },
+    "pending": false
   },
   "41552955": {
     "notified": null,
@@ -27138,6 +27222,34 @@
       "stock": 1
     },
     "pending": true
+  },
+  "8680810": {
+    "notified": {
+      "discount_percent": 63.233,
+      "id": 8680810,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/08/Thank-you-Bar-NO-BG.png",
+      "name": {
+        "ar": "شوكولاتة بالحليب للتهادي 75جرام",
+        "en": "Thank You Milk Chocolate Bar (75g)"
+      },
+      "price": 144.94,
+      "reason": "new_discount",
+      "sale_price": 53.29,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 63.233,
+      "id": 8680810,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/08/Thank-you-Bar-NO-BG.png",
+      "name": {
+        "ar": "شوكولاتة بالحليب للتهادي 75جرام",
+        "en": "Thank You Milk Chocolate Bar (75g)"
+      },
+      "price": 144.94,
+      "sale_price": 53.29,
+      "stock": 1
+    },
+    "pending": false
   },
   "9293795": {
     "notified": null,
