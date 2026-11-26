@@ -111,6 +111,34 @@
     },
     "pending": false
   },
+  "21728413": {
+    "notified": {
+      "discount_percent": 50.002,
+      "id": 21728413,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-09-at-12.41.45_38b629c2.jpg",
+      "name": {
+        "ar": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose",
+        "en": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose"
+      },
+      "price": 650.0,
+      "reason": "new_discount",
+      "sale_price": 324.99,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.002,
+      "id": 21728413,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-09-at-12.41.45_38b629c2.jpg",
+      "name": {
+        "ar": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose",
+        "en": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose"
+      },
+      "price": 650.0,
+      "sale_price": 324.99,
+      "stock": 1
+    },
+    "pending": false
+  },
   "22518408": {
     "notified": {
       "discount_percent": 50.0,
@@ -1298,7 +1326,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -2516,7 +2544,7 @@
       },
       "price": 399.0,
       "sale_price": 199.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3356,7 +3384,7 @@
       },
       "price": 150.0,
       "sale_price": 75.0,
-      "stock": 6
+      "stock": 5
     },
     "pending": false
   },
