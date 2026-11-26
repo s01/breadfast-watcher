@@ -113,7 +113,7 @@
   },
   "27503530": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 55.556,
       "id": 27503530,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-22-Photoroom-1.png",
       "name": {
@@ -121,12 +121,12 @@
         "en": "Beesline Instant Bright Glow Serum (30ml)"
       },
       "price": 999.0,
-      "reason": "new_discount",
-      "sale_price": 499.5,
+      "reason": "improved_discount",
+      "sale_price": 444.0,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 55.556,
       "id": 27503530,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-22-Photoroom-1.png",
       "name": {
@@ -134,7 +134,7 @@
         "en": "Beesline Instant Bright Glow Serum (30ml)"
       },
       "price": 999.0,
-      "sale_price": 499.5,
+      "sale_price": 444.0,
       "stock": 1
     },
     "pending": false
@@ -717,7 +717,7 @@
   },
   "38934108": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 55.556,
       "id": 38934108,
       "image": "https://i.ibb.co/1fCww6VX/5281018715406.jpg",
       "name": {
@@ -725,12 +725,12 @@
         "en": "Beesline Super Hydrating Serum (30ml)"
       },
       "price": 999.0,
-      "reason": "new_discount",
-      "sale_price": 499.5,
-      "stock": 1
+      "reason": "improved_discount",
+      "sale_price": 444.0,
+      "stock": 2
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 55.556,
       "id": 38934108,
       "image": "https://i.ibb.co/1fCww6VX/5281018715406.jpg",
       "name": {
@@ -738,8 +738,8 @@
         "en": "Beesline Super Hydrating Serum (30ml)"
       },
       "price": 999.0,
-      "sale_price": 499.5,
-      "stock": 1
+      "sale_price": 444.0,
+      "stock": 2
     },
     "pending": false
   },
@@ -1046,7 +1046,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -1157,7 +1157,7 @@
       },
       "price": 350.0,
       "sale_price": 175.0,
-      "stock": 1
+      "stock": 3
     },
     "pending": false
   },
@@ -1436,7 +1436,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 5
     },
     "pending": false
   },
@@ -1492,7 +1492,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 6
     },
     "pending": false
   },
@@ -1548,7 +1548,7 @@
       },
       "price": 345.0,
       "sale_price": 172.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -1744,7 +1744,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 4
+      "stock": 5
     },
     "pending": false
   },
@@ -1912,7 +1912,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 3
+      "stock": 4
     },
     "pending": false
   },
@@ -2052,7 +2052,7 @@
       },
       "price": 750.0,
       "sale_price": 375.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -2836,7 +2836,7 @@
       },
       "price": 340.0,
       "sale_price": 170.0,
-      "stock": 3
+      "stock": 4
     },
     "pending": false
   },
@@ -3524,7 +3524,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -3608,7 +3608,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -3640,6 +3640,34 @@
     },
     "pending": false
   },
+  "64566361": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 64566361,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d90fc7da60fcea317589d11953c99fc2ef7a16ab5cf21fc6ddb6d3845e3d355d",
+      "name": {
+        "ar": "كابيكسي شامبو أدفانس ريبير (250 مل)",
+        "en": "Capixy Advance Repair Shampoo (250ml)"
+      },
+      "price": 320.0,
+      "reason": "new_discount",
+      "sale_price": 160.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 64566361,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d90fc7da60fcea317589d11953c99fc2ef7a16ab5cf21fc6ddb6d3845e3d355d",
+      "name": {
+        "ar": "كابيكسي شامبو أدفانس ريبير (250 مل)",
+        "en": "Capixy Advance Repair Shampoo (250ml)"
+      },
+      "price": 320.0,
+      "sale_price": 160.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "65670995": {
     "notified": {
       "discount_percent": 50.0,
@@ -3664,6 +3692,34 @@
       },
       "price": 350.0,
       "sale_price": 175.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "65670996": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 65670996,
+      "image": "https://i.ibb.co/Jj4t8J2L/Advanced-hair-mask.png",
+      "name": {
+        "ar": "كابيكسي ماسك شعر أدفانس ريبير يترك على الشعر (250 مل)",
+        "en": "Capixy Advance Repair Leave-In Hair Mask (250ml)"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 65670996,
+      "image": "https://i.ibb.co/Jj4t8J2L/Advanced-hair-mask.png",
+      "name": {
+        "ar": "كابيكسي ماسك شعر أدفانس ريبير يترك على الشعر (250 مل)",
+        "en": "Capixy Advance Repair Leave-In Hair Mask (250ml)"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
       "stock": 1
     },
     "pending": false
@@ -3748,7 +3804,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
