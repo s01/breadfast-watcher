@@ -140,7 +140,19 @@
     "pending": false
   },
   "21728608": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 21728608,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-09-at-12.41.46_6f99b237.jpg",
+      "name": {
+        "ar": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick",
+        "en": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick"
+      },
+      "price": 700.0,
+      "reason": "new_discount",
+      "sale_price": 350.0,
+      "stock": 1
+    },
     "observed": {
       "discount_percent": 50.0,
       "id": 21728608,
@@ -153,7 +165,7 @@
       "sale_price": 350.0,
       "stock": 1
     },
-    "pending": true
+    "pending": false
   },
   "22518408": {
     "notified": {
@@ -4150,7 +4162,7 @@
   },
   "64565683": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 64565683,
       "image": "https://cdn.breadfast.com/wp-content/uploads/cdf9ad2779b704640b6c35f44434181351270d9d189e4b98512aa9fc88900408",
       "name": {
@@ -4158,9 +4170,9 @@
         "en": "Vacation Beach Breeze Roll-On Deodorant (50ml)"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 1
+      "reason": "improved_discount",
+      "sale_price": 99.0,
+      "stock": 2
     },
     "observed": {
       "discount_percent": 64.0,
@@ -4174,11 +4186,11 @@
       "sale_price": 99.0,
       "stock": 2
     },
-    "pending": true
+    "pending": false
   },
   "64566215": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 64566215,
       "image": "https://cdn.breadfast.com/wp-content/uploads/c8c1b4469c4a434b74ec553aa22688a33dbf758c87eb9abed1c158483b8a2892",
       "name": {
@@ -4186,9 +4198,9 @@
         "en": "Vacation Power Freeze Roll-On Deodorant (50ml)"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 2
+      "reason": "improved_discount",
+      "sale_price": 99.0,
+      "stock": 3
     },
     "observed": {
       "discount_percent": 64.0,
@@ -4202,7 +4214,7 @@
       "sale_price": 99.0,
       "stock": 3
     },
-    "pending": true
+    "pending": false
   },
   "64566317": {
     "notified": {
