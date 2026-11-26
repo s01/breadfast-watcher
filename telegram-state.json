@@ -139,6 +139,22 @@
     },
     "pending": false
   },
+  "21728608": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 21728608,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-09-at-12.41.46_6f99b237.jpg",
+      "name": {
+        "ar": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick",
+        "en": "Max Factor Colour Elixir Soft Matte Lipstick - 010 Muted Russet Lipstick"
+      },
+      "price": 700.0,
+      "sale_price": 350.0,
+      "stock": 1
+    },
+    "pending": true
+  },
   "22518408": {
     "notified": {
       "discount_percent": 50.0,
@@ -1554,63 +1570,63 @@
   },
   "44295623": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295623,
       "image": "https://cdn.breadfast.com/wp-content/uploads/e6b6936a42b3b7bea6d9a6111aafeb1ce9e5efd975a42cf48ebbe480e489e789",
       "name": {
         "ar": "فاكيشن صن سكرين شفاف ٣٠ مل",
         "en": "Vacation Unseen Sunscreen Gel 30ml"
       },
-      "price": 480.0,
-      "reason": "new_discount",
-      "sale_price": 240.0,
-      "stock": 2
+      "price": 450.0,
+      "reason": "improved_discount",
+      "sale_price": 135.0,
+      "stock": 6
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295623,
       "image": "https://cdn.breadfast.com/wp-content/uploads/e6b6936a42b3b7bea6d9a6111aafeb1ce9e5efd975a42cf48ebbe480e489e789",
       "name": {
         "ar": "فاكيشن صن سكرين شفاف ٣٠ مل",
         "en": "Vacation Unseen Sunscreen Gel 30ml"
       },
-      "price": 480.0,
-      "sale_price": 240.0,
+      "price": 450.0,
+      "sale_price": 135.0,
       "stock": 6
     },
     "pending": false
   },
   "44295625": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295625,
       "image": "https://cdn.breadfast.com/wp-content/uploads/9b5ef456b9f319add7b256327de93563df6aaa6cfab3b851f1d18f0d99acea5c",
       "name": {
         "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
         "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
       },
-      "price": 350.0,
-      "reason": "new_discount",
-      "sale_price": 175.0,
-      "stock": 2
+      "price": 480.0,
+      "reason": "improved_discount",
+      "sale_price": 144.0,
+      "stock": 4
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295625,
       "image": "https://cdn.breadfast.com/wp-content/uploads/9b5ef456b9f319add7b256327de93563df6aaa6cfab3b851f1d18f0d99acea5c",
       "name": {
         "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
         "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
       },
-      "price": 350.0,
-      "sale_price": 175.0,
+      "price": 480.0,
+      "sale_price": 144.0,
       "stock": 4
     },
     "pending": false
   },
   "44295627": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295627,
       "image": "https://cdn.breadfast.com/wp-content/uploads/1843d45e728f2450e1eaedd7e58484b509df958478a31da559d8d297346b2a5a",
       "name": {
@@ -1618,12 +1634,12 @@
         "en": "Vacation Sunscreen Lotion 120ml"
       },
       "price": 450.0,
-      "reason": "new_discount",
-      "sale_price": 225.0,
-      "stock": 2
+      "reason": "improved_discount",
+      "sale_price": 135.0,
+      "stock": 6
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295627,
       "image": "https://cdn.breadfast.com/wp-content/uploads/1843d45e728f2450e1eaedd7e58484b509df958478a31da559d8d297346b2a5a",
       "name": {
@@ -1631,35 +1647,35 @@
         "en": "Vacation Sunscreen Lotion 120ml"
       },
       "price": 450.0,
-      "sale_price": 225.0,
+      "sale_price": 135.0,
       "stock": 6
     },
     "pending": false
   },
   "44295628": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295628,
       "image": "https://cdn.breadfast.com/wp-content/uploads/55488a1c7ee755721b5dbbe5265ba8ed1dadc487c01488a5d7db76c94eda3e1d",
       "name": {
         "ar": "فاكيشن صن سكرين تنتدد ٥٠ مل",
         "en": "Vacation Tinted Sunscreen 50 ML"
       },
-      "price": 450.0,
-      "reason": "new_discount",
-      "sale_price": 225.0,
+      "price": 550.0,
+      "reason": "improved_discount",
+      "sale_price": 165.0,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295628,
       "image": "https://cdn.breadfast.com/wp-content/uploads/55488a1c7ee755721b5dbbe5265ba8ed1dadc487c01488a5d7db76c94eda3e1d",
       "name": {
         "ar": "فاكيشن صن سكرين تنتدد ٥٠ مل",
         "en": "Vacation Tinted Sunscreen 50 ML"
       },
-      "price": 450.0,
-      "sale_price": 225.0,
+      "price": 550.0,
+      "sale_price": 165.0,
       "stock": 1
     },
     "pending": false
@@ -1722,7 +1738,7 @@
   },
   "44295631": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295631,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2f95ac9e6b204a6c3b8f67783f996754b3ad85bcfdfc10e4f7e287fe587a6f08",
       "name": {
@@ -1730,12 +1746,12 @@
         "en": "Vacation Uni-White Day Gel"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
+      "reason": "improved_discount",
+      "sale_price": 99.0,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295631,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2f95ac9e6b204a6c3b8f67783f996754b3ad85bcfdfc10e4f7e287fe587a6f08",
       "name": {
@@ -1743,14 +1759,14 @@
         "en": "Vacation Uni-White Day Gel"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 1
     },
     "pending": false
   },
   "44295632": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295632,
       "image": "https://cdn.breadfast.com/wp-content/uploads/f23925e27f27cc5d48a792b227effaf44a024923fe85d1dff7152ace0bf9c4d2",
       "name": {
@@ -1758,12 +1774,12 @@
         "en": "Vacation Uni-White Night Cream 60ml"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 3
+      "reason": "improved_discount",
+      "sale_price": 99.0,
+      "stock": 6
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295632,
       "image": "https://cdn.breadfast.com/wp-content/uploads/f23925e27f27cc5d48a792b227effaf44a024923fe85d1dff7152ace0bf9c4d2",
       "name": {
@@ -1771,7 +1787,7 @@
         "en": "Vacation Uni-White Night Cream 60ml"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 6
     },
     "pending": false
@@ -1946,7 +1962,7 @@
   },
   "44295639": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295639,
       "image": "https://cdn.breadfast.com/wp-content/uploads/ce623586f3731c2d218ecff7debf82987604f2f2d2755c9846895f61cbdb0ef3",
       "name": {
@@ -1954,12 +1970,12 @@
         "en": "Vacation Original Unscented Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 2
+      "reason": "improved_discount",
+      "sale_price": 99.0,
+      "stock": 6
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295639,
       "image": "https://cdn.breadfast.com/wp-content/uploads/ce623586f3731c2d218ecff7debf82987604f2f2d2755c9846895f61cbdb0ef3",
       "name": {
@@ -1967,7 +1983,7 @@
         "en": "Vacation Original Unscented Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 6
     },
     "pending": false
@@ -2002,7 +2018,7 @@
   },
   "44295642": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295642,
       "image": "https://cdn.breadfast.com/wp-content/uploads/5e82e9f3baa6fed31be45f71c11564c2a17b75592fc0d0f2db6047cdcf834a14",
       "name": {
@@ -2010,12 +2026,12 @@
         "en": "Vacation Triple Diffusion Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 2
+      "reason": "improved_discount",
+      "sale_price": 99.0,
+      "stock": 5
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295642,
       "image": "https://cdn.breadfast.com/wp-content/uploads/5e82e9f3baa6fed31be45f71c11564c2a17b75592fc0d0f2db6047cdcf834a14",
       "name": {
@@ -2023,42 +2039,42 @@
         "en": "Vacation Triple Diffusion Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 5
     },
     "pending": false
   },
   "44295643": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295643,
       "image": "https://cdn.breadfast.com/wp-content/uploads/c1120f748cf4c531b54e07af3032b83a0a58b9988ce3b235378f1c378071f376",
       "name": {
         "ar": "فاكيشن رول أون بالعسل والحليب ٥٠ مل",
         "en": "Vacation Honey & Milk Deodorant 50 ml"
       },
-      "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 2
+      "price": 350.0,
+      "reason": "improved_discount",
+      "sale_price": 105.0,
+      "stock": 5
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 70.0,
       "id": 44295643,
       "image": "https://cdn.breadfast.com/wp-content/uploads/c1120f748cf4c531b54e07af3032b83a0a58b9988ce3b235378f1c378071f376",
       "name": {
         "ar": "فاكيشن رول أون بالعسل والحليب ٥٠ مل",
         "en": "Vacation Honey & Milk Deodorant 50 ml"
       },
-      "price": 275.0,
-      "sale_price": 137.5,
+      "price": 350.0,
+      "sale_price": 105.0,
       "stock": 5
     },
     "pending": false
   },
   "44295644": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295644,
       "image": "https://cdn.breadfast.com/wp-content/uploads/bdb74ccbe849f1739ebfd46d87f0151715f5a3e4f12f12d9164d9b3bebbc1eed",
       "name": {
@@ -2066,12 +2082,12 @@
         "en": "Vacation Piña Colada Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
+      "reason": "improved_discount",
+      "sale_price": 99.0,
       "stock": 2
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295644,
       "image": "https://cdn.breadfast.com/wp-content/uploads/bdb74ccbe849f1739ebfd46d87f0151715f5a3e4f12f12d9164d9b3bebbc1eed",
       "name": {
@@ -2079,14 +2095,14 @@
         "en": "Vacation Piña Colada Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 2
     },
     "pending": false
   },
   "44295645": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295645,
       "image": "https://cdn.breadfast.com/wp-content/uploads/ed3db779d39bdf9c8e46964fa1686ffb05eb580888828210a4f4bb0e2c1d2651",
       "name": {
@@ -2094,12 +2110,12 @@
         "en": "Vacation Pearl Rose Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 1
+      "reason": "improved_discount",
+      "sale_price": 99.0,
+      "stock": 6
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295645,
       "image": "https://cdn.breadfast.com/wp-content/uploads/ed3db779d39bdf9c8e46964fa1686ffb05eb580888828210a4f4bb0e2c1d2651",
       "name": {
@@ -2107,14 +2123,14 @@
         "en": "Vacation Pearl Rose Whitening Deodorant 50 ml"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 6
     },
     "pending": false
   },
   "44295646": {
     "notified": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295646,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2677b4b05afd1bc5472f393af438e54d89003f6b0cbcdd251dadff1fe1ff85e3",
       "name": {
@@ -2122,12 +2138,12 @@
         "en": "Vacation Arabian Oud Whitening Deodorant (50ml)"
       },
       "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 1
+      "reason": "improved_discount",
+      "sale_price": 99.0,
+      "stock": 3
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 44295646,
       "image": "https://cdn.breadfast.com/wp-content/uploads/2677b4b05afd1bc5472f393af438e54d89003f6b0cbcdd251dadff1fe1ff85e3",
       "name": {
@@ -2135,7 +2151,7 @@
         "en": "Vacation Arabian Oud Whitening Deodorant (50ml)"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 3
     },
     "pending": false
@@ -3020,7 +3036,7 @@
       },
       "price": 1325.0,
       "sale_price": 662.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -4147,7 +4163,7 @@
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 64565683,
       "image": "https://cdn.breadfast.com/wp-content/uploads/cdf9ad2779b704640b6c35f44434181351270d9d189e4b98512aa9fc88900408",
       "name": {
@@ -4155,10 +4171,10 @@
         "en": "Vacation Beach Breeze Roll-On Deodorant (50ml)"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 2
     },
-    "pending": false
+    "pending": true
   },
   "64566215": {
     "notified": {
@@ -4175,7 +4191,7 @@
       "stock": 2
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 64.0,
       "id": 64566215,
       "image": "https://cdn.breadfast.com/wp-content/uploads/c8c1b4469c4a434b74ec553aa22688a33dbf758c87eb9abed1c158483b8a2892",
       "name": {
@@ -4183,10 +4199,10 @@
         "en": "Vacation Power Freeze Roll-On Deodorant (50ml)"
       },
       "price": 275.0,
-      "sale_price": 137.5,
+      "sale_price": 99.0,
       "stock": 3
     },
-    "pending": false
+    "pending": true
   },
   "64566317": {
     "notified": {
