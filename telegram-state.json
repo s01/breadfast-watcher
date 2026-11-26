@@ -279,6 +279,146 @@
     },
     "pending": false
   },
+  "13972973": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 13972973,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f838ea85ca927e59aed1ec119e49c0c265a3393597dd59d0f0256e19153776d7",
+      "name": {
+        "ar": "ليمتلس وومان ماكس (30 قرص)",
+        "en": "Limitless Woman Max (30 Tablets)"
+      },
+      "price": 265.0,
+      "reason": "new_discount",
+      "sale_price": 106.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 13972973,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f838ea85ca927e59aed1ec119e49c0c265a3393597dd59d0f0256e19153776d7",
+      "name": {
+        "ar": "ليمتلس وومان ماكس (30 قرص)",
+        "en": "Limitless Woman Max (30 Tablets)"
+      },
+      "price": 265.0,
+      "sale_price": 106.0,
+      "stock": 11
+    },
+    "pending": false
+  },
+  "14124410": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 14124410,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/61lg2nKtAFL._AC_SL1500_.png",
+      "name": {
+        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 مهدئ ومصلح (100 مل)",
+        "en": "La Roche Posay Cicaplast Baume B5 Soothing Repair (100ml)"
+      },
+      "price": 1300.0,
+      "reason": "new_discount",
+      "sale_price": 520.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 14124410,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/61lg2nKtAFL._AC_SL1500_.png",
+      "name": {
+        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 مهدئ ومصلح (100 مل)",
+        "en": "La Roche Posay Cicaplast Baume B5 Soothing Repair (100ml)"
+      },
+      "price": 1300.0,
+      "sale_price": 520.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "14124520": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 14124520,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/39733.jpg",
+      "name": {
+        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 (40 مل)",
+        "en": "La Roche Posay Cicaplast Baume B5 (40ml)"
+      },
+      "price": 899.0,
+      "reason": "new_discount",
+      "sale_price": 359.6,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 14124520,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/39733.jpg",
+      "name": {
+        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 (40 مل)",
+        "en": "La Roche Posay Cicaplast Baume B5 (40ml)"
+      },
+      "price": 899.0,
+      "sale_price": 359.6,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "17446467": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 17446467,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/eyeliner.png",
+      "name": {
+        "ar": "مايبيلين كول كاجال آرجان أويل زامو نو 02 ايكستر.",
+        "en": "Maybelline Colossal Kajal Eyeliner"
+      },
+      "price": 230.0,
+      "reason": "new_discount",
+      "sale_price": 92.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 17446467,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/eyeliner.png",
+      "name": {
+        "ar": "مايبيلين كول كاجال آرجان أويل زامو نو 02 ايكستر.",
+        "en": "Maybelline Colossal Kajal Eyeliner"
+      },
+      "price": 230.0,
+      "sale_price": 92.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "17447068": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 17447068,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/maybelline-colossal2.png",
+      "name": {
+        "ar": "ميبيلين ماسكار فوليوم ايكسبريس كولوسال بلاك",
+        "en": "Maybelline Mascara Colossal Black"
+      },
+      "price": 335.0,
+      "reason": "new_discount",
+      "sale_price": 134.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 17447068,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/maybelline-colossal2.png",
+      "name": {
+        "ar": "ميبيلين ماسكار فوليوم ايكسبريس كولوسال بلاك",
+        "en": "Maybelline Mascara Colossal Black"
+      },
+      "price": 335.0,
+      "sale_price": 134.0,
+      "stock": 2
+    },
+    "pending": false
+  },
   "1762778": {
     "notified": {
       "discount_percent": 50.0,
@@ -415,6 +555,118 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "28612810": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 28612810,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/423f927ff325897e2bc162f6c236ccd84d5690730ebbc309f16fb7a7d64ccbfc",
+      "name": {
+        "ar": "شيسيدو فينو ماسك شعر فاخر (230 جرام)",
+        "en": "Shiseido Fino Premium Touch Hair Mask (230g)"
+      },
+      "price": 892.0,
+      "reason": "new_discount",
+      "sale_price": 356.8,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 28612810,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/423f927ff325897e2bc162f6c236ccd84d5690730ebbc309f16fb7a7d64ccbfc",
+      "name": {
+        "ar": "شيسيدو فينو ماسك شعر فاخر (230 جرام)",
+        "en": "Shiseido Fino Premium Touch Hair Mask (230g)"
+      },
+      "price": 892.0,
+      "sale_price": 356.8,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "30789365": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 30789365,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4baa467f7522e5d3a897315c5b41d16f22cc2886653b6fdd1e8ac132edb568f7",
+      "name": {
+        "ar": "ليميتلس ألفا 5000 (BCAA) 30 ملعقة بنكهة ميكس التوت (204 جرام)",
+        "en": "Limitless Alpha 5000 (BCAA) 30 Scoops Jar Mixed Berries (204g)"
+      },
+      "price": 725.0,
+      "reason": "new_discount",
+      "sale_price": 362.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 30789365,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4baa467f7522e5d3a897315c5b41d16f22cc2886653b6fdd1e8ac132edb568f7",
+      "name": {
+        "ar": "ليميتلس ألفا 5000 (BCAA) 30 ملعقة بنكهة ميكس التوت (204 جرام)",
+        "en": "Limitless Alpha 5000 (BCAA) 30 Scoops Jar Mixed Berries (204g)"
+      },
+      "price": 725.0,
+      "sale_price": 362.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "30789533": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 30789533,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e4540121b8a9c8211e99b61910385d44739db16680f1521737fde2f7c9b35c47",
+      "name": {
+        "ar": "ليميتلس ألفا 5000 (BCAA) 30 ملعقة بنكهة البطيخ (204 جرام)",
+        "en": "Limitless Alpha 5000 (BCAA) 30 Scoops Jar Watermelon (204g)"
+      },
+      "price": 725.0,
+      "reason": "new_discount",
+      "sale_price": 362.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 30789533,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e4540121b8a9c8211e99b61910385d44739db16680f1521737fde2f7c9b35c47",
+      "name": {
+        "ar": "ليميتلس ألفا 5000 (BCAA) 30 ملعقة بنكهة البطيخ (204 جرام)",
+        "en": "Limitless Alpha 5000 (BCAA) 30 Scoops Jar Watermelon (204g)"
+      },
+      "price": 725.0,
+      "sale_price": 362.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "30789968": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 30789968,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/237d76069269f8b7d22f3cb3a80870efa5a5b32254c7efa1f1b76dcde602182e",
+      "name": {
+        "ar": "ليميتلس الفا باودر ميكرونيزد أحادي هيدرات الكرياتين 90 معلقة (450 جرام)",
+        "en": "Limitless Alpha Creatine Monohydrate Micronized Powder 90 Scoops (450g)"
+      },
+      "price": 970.0,
+      "reason": "new_discount",
+      "sale_price": 485.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 30789968,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/237d76069269f8b7d22f3cb3a80870efa5a5b32254c7efa1f1b76dcde602182e",
+      "name": {
+        "ar": "ليميتلس الفا باودر ميكرونيزد أحادي هيدرات الكرياتين 90 معلقة (450 جرام)",
+        "en": "Limitless Alpha Creatine Monohydrate Micronized Powder 90 Scoops (450g)"
+      },
+      "price": 970.0,
+      "sale_price": 485.0,
       "stock": 1
     },
     "pending": false
@@ -1116,6 +1368,34 @@
       "price": 383.0,
       "sale_price": 153.2,
       "stock": 1
+    },
+    "pending": false
+  },
+  "52765988": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 52765988,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7cc95d453277a40617b0ae743c8bc332c19095be852cfb7f33f0a68bd604440e",
+      "name": {
+        "ar": "ليمتلس هيدريت فوكس (6 ساشية)",
+        "en": "Limitless Hydrate Focus Pack (6 Sachets)"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 52765988,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7cc95d453277a40617b0ae743c8bc332c19095be852cfb7f33f0a68bd604440e",
+      "name": {
+        "ar": "ليمتلس هيدريت فوكس (6 ساشية)",
+        "en": "Limitless Hydrate Focus Pack (6 Sachets)"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 4
     },
     "pending": false
   },
