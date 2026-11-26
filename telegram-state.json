@@ -27,6 +27,62 @@
     },
     "pending": false
   },
+  "19038441": {
+    "notified": {
+      "discount_percent": 50.127,
+      "id": 19038441,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
+        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
+      },
+      "price": 3950.0,
+      "reason": "new_discount",
+      "sale_price": 1970.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.127,
+      "id": 19038441,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
+        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
+      },
+      "price": 3950.0,
+      "sale_price": 1970.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "19042011": {
+    "notified": {
+      "discount_percent": 58.201,
+      "id": 19042011,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
+      "name": {
+        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
+        "en": "Jaguar Classic Black EDT For Him (100ml)"
+      },
+      "price": 2390.0,
+      "reason": "new_discount",
+      "sale_price": 999.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 58.201,
+      "id": 19042011,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
+      "name": {
+        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
+        "en": "Jaguar Classic Black EDT For Him (100ml)"
+      },
+      "price": 2390.0,
+      "sale_price": 999.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "21096505": {
     "notified": {
       "discount_percent": 50.0,
@@ -83,6 +139,34 @@
     },
     "pending": false
   },
+  "22518413": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22518413,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
+      "name": {
+        "ar": "جبنة فيتا بالزعتر (300 جرام)",
+        "en": "Feta Cheese With Zaatar (300g)"
+      },
+      "price": 65.0,
+      "reason": "new_discount",
+      "sale_price": 32.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22518413,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
+      "name": {
+        "ar": "جبنة فيتا بالزعتر (300 جرام)",
+        "en": "Feta Cheese With Zaatar (300g)"
+      },
+      "price": 65.0,
+      "sale_price": 32.5,
+      "stock": 6
+    },
+    "pending": false
+  },
   "22598244": {
     "notified": {
       "discount_percent": 50.0,
@@ -108,6 +192,62 @@
       "price": 317.5,
       "sale_price": 158.75,
       "stock": 3
+    },
+    "pending": false
+  },
+  "26190534": {
+    "notified": {
+      "discount_percent": 57.071,
+      "id": 26190534,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
+        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
+      },
+      "price": 5940.0,
+      "reason": "new_discount",
+      "sale_price": 2550.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 57.071,
+      "id": 26190534,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
+        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
+      },
+      "price": 5940.0,
+      "sale_price": 2550.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "26863557": {
+    "notified": {
+      "discount_percent": 50.239,
+      "id": 26863557,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
+      "name": {
+        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
+        "en": "Clinique Happy EDT For Him (100ml)"
+      },
+      "price": 4180.0,
+      "reason": "new_discount",
+      "sale_price": 2080.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.239,
+      "id": 26863557,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
+      "name": {
+        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
+        "en": "Clinique Happy EDT For Him (100ml)"
+      },
+      "price": 4180.0,
+      "sale_price": 2080.0,
+      "stock": 1
     },
     "pending": false
   },
@@ -304,6 +444,34 @@
       "price": 490.0,
       "sale_price": 245.0,
       "stock": 2
+    },
+    "pending": false
+  },
+  "31486556": {
+    "notified": {
+      "discount_percent": 50.108,
+      "id": 31486556,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
+      "name": {
+        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
+        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
+      },
+      "price": 4650.0,
+      "reason": "new_discount",
+      "sale_price": 2320.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.108,
+      "id": 31486556,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
+      "name": {
+        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
+        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
+      },
+      "price": 4650.0,
+      "sale_price": 2320.0,
+      "stock": 1
     },
     "pending": false
   },
@@ -1380,7 +1548,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -2196,6 +2364,50 @@
     },
     "pending": false
   },
+  "53998454": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 53998454,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
+      "name": {
+        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
+        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
+      },
+      "price": 3700.0,
+      "reason": "new_discount",
+      "sale_price": 1850.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 53998454,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
+      "name": {
+        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
+        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
+      },
+      "price": 3700.0,
+      "sale_price": 1850.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "54136901": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.032,
+      "id": 54136901,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9758113d1c8d9227d09d5f51fa65fc996eeb1fe2a6ea45dbba6090e26041285b",
+      "name": {
+        "ar": "لطافة أسد الكسير او دي بارفان للرجال (100 مل)",
+        "en": "Lattafa Asad Elixir EDP For Him (100ml)"
+      },
+      "price": 1575.0,
+      "sale_price": 787.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "54691424": {
     "notified": {
       "discount_percent": 50.0,
@@ -2896,6 +3108,34 @@
     },
     "pending": false
   },
+  "60673175": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673175,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
+      "name": {
+        "ar": "رويال إس جبنة مش (500g)",
+        "en": "Royal S Mish Cheese (500g)"
+      },
+      "price": 57.6,
+      "reason": "new_discount",
+      "sale_price": 28.8,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673175,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
+      "name": {
+        "ar": "رويال إس جبنة مش (500g)",
+        "en": "Royal S Mish Cheese (500g)"
+      },
+      "price": 57.6,
+      "sale_price": 28.8,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60673176": {
     "notified": {
       "discount_percent": 50.0,
@@ -2924,6 +3164,34 @@
     },
     "pending": false
   },
+  "60673177": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673177,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
+      "name": {
+        "ar": "رويال إس كيرى رومى (450g)",
+        "en": "Royal S Kiri Roomy (450g)"
+      },
+      "price": 130.8,
+      "reason": "new_discount",
+      "sale_price": 65.4,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673177,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
+      "name": {
+        "ar": "رويال إس كيرى رومى (450g)",
+        "en": "Royal S Kiri Roomy (450g)"
+      },
+      "price": 130.8,
+      "sale_price": 65.4,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60673178": {
     "notified": {
       "discount_percent": 50.0,
@@ -2948,6 +3216,62 @@
       },
       "price": 130.8,
       "sale_price": 65.4,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60673185": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673185,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
+      "name": {
+        "ar": "رويال إس حلوم (300g)",
+        "en": "Royal S Halloumi Cheese (300g)"
+      },
+      "price": 150.0,
+      "reason": "new_discount",
+      "sale_price": 75.0,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673185,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3fe0deadfadafe434dee1cde96f9c6c17afad49d5ae6d34c3a16e8f0266efad3",
+      "name": {
+        "ar": "رويال إس حلوم (300g)",
+        "en": "Royal S Halloumi Cheese (300g)"
+      },
+      "price": 150.0,
+      "sale_price": 75.0,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "60673186": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673186,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
+      "name": {
+        "ar": "رويال إس شلل (300g)",
+        "en": "Royal S Shallal Cheese (300g)"
+      },
+      "price": 162.0,
+      "reason": "new_discount",
+      "sale_price": 81.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673186,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/08421229f0df5346d51982d27d37a9e3b9c47ae59cde828da60cf7ed7ea00a88",
+      "name": {
+        "ar": "رويال إس شلل (300g)",
+        "en": "Royal S Shallal Cheese (300g)"
+      },
+      "price": 162.0,
+      "sale_price": 81.0,
       "stock": 1
     },
     "pending": false
@@ -3004,6 +3328,90 @@
       },
       "price": 138.0,
       "sale_price": 69.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60673191": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673191,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3d1759d63f9ea245564105b90d628ac0ccdf77ec2948fe2c3b32942d5a845089",
+      "name": {
+        "ar": "رويال إس نابلسية حبة البركة (300g)",
+        "en": "Royal S Nabulsi Cheese With Black Seed (300g)"
+      },
+      "price": 156.0,
+      "reason": "new_discount",
+      "sale_price": 78.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673191,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3d1759d63f9ea245564105b90d628ac0ccdf77ec2948fe2c3b32942d5a845089",
+      "name": {
+        "ar": "رويال إس نابلسية حبة البركة (300g)",
+        "en": "Royal S Nabulsi Cheese With Black Seed (300g)"
+      },
+      "price": 156.0,
+      "sale_price": 78.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "60673192": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673192,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
+      "name": {
+        "ar": "رويال إس عكاوى لبنانى (300g)",
+        "en": "Royal S Akkawi Lebanese Cheese (300g)"
+      },
+      "price": 138.0,
+      "reason": "new_discount",
+      "sale_price": 69.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673192,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/710ece9beb2eca066668f287663416dde55b9583fbfea1ae9da094fee7a4f585",
+      "name": {
+        "ar": "رويال إس عكاوى لبنانى (300g)",
+        "en": "Royal S Akkawi Lebanese Cheese (300g)"
+      },
+      "price": 138.0,
+      "sale_price": 69.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "60673193": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673193,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fa0e7d31f86d310e5335798f06ed23c31a753eeca5e0d51cf5296a4942e3a5af",
+      "name": {
+        "ar": "رويال إس مجدولة (300g)",
+        "en": "Royal S Magdoula Cheese (300g)"
+      },
+      "price": 162.0,
+      "reason": "new_discount",
+      "sale_price": 81.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673193,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fa0e7d31f86d310e5335798f06ed23c31a753eeca5e0d51cf5296a4942e3a5af",
+      "name": {
+        "ar": "رويال إس مجدولة (300g)",
+        "en": "Royal S Magdoula Cheese (300g)"
+      },
+      "price": 162.0,
+      "sale_price": 81.0,
       "stock": 1
     },
     "pending": false
@@ -3804,7 +4212,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
