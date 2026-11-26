@@ -3863,33 +3863,5 @@
       "stock": 2
     },
     "pending": false
-  },
-  "6826060": {
-    "notified": {
-      "discount_percent": 57.708,
-      "id": 6826060,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B3D8A8D8A7D986D8AE-D8A8D984D8AFD98A-1.png",
-      "name": {
-        "ar": "سبانخ (500 جرام)",
-        "en": "Spinach (500g)"
-      },
-      "price": 48.0,
-      "reason": "new_discount",
-      "sale_price": 20.3,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 57.708,
-      "id": 6826060,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B3D8A8D8A7D986D8AE-D8A8D984D8AFD98A-1.png",
-      "name": {
-        "ar": "سبانخ (500 جرام)",
-        "en": "Spinach (500g)"
-      },
-      "price": 48.0,
-      "sale_price": 20.3,
-      "stock": 1
-    },
-    "pending": false
   }
 }
