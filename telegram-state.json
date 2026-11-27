@@ -1439,34 +1439,6 @@
     },
     "pending": false
   },
-  "42628826": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42628826,
-      "image": "https://i.ibb.co/F49HJyzX/617i6-GRQ6-SL-AC-SX569.jpg",
-      "name": {
-        "ar": "نوتيكا فوياج نوتيكا أو دي تواليت للرجال (100 مل)",
-        "en": "Nautica Voyage Nautica EDT For Him (100ml)"
-      },
-      "price": 2299.0,
-      "reason": "new_discount",
-      "sale_price": 1149.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42628826,
-      "image": "https://i.ibb.co/F49HJyzX/617i6-GRQ6-SL-AC-SX569.jpg",
-      "name": {
-        "ar": "نوتيكا فوياج نوتيكا أو دي تواليت للرجال (100 مل)",
-        "en": "Nautica Voyage Nautica EDT For Him (100ml)"
-      },
-      "price": 2299.0,
-      "sale_price": 1149.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "42882499": {
     "notified": {
       "discount_percent": 50.0,
