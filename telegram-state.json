@@ -23,7 +23,7 @@
       },
       "price": 6.5,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -107,7 +107,7 @@
       },
       "price": 5.75,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1363,7 +1363,7 @@
       },
       "price": 14.25,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2343,7 +2343,7 @@
       },
       "price": 10.25,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
