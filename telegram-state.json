@@ -23,7 +23,7 @@
       },
       "price": 499.0,
       "sale_price": 249.5,
-      "stock": 5
+      "stock": 3
     },
     "pending": false
   },
@@ -247,7 +247,7 @@
       },
       "price": 10.0,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2015,7 +2015,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2295,7 +2295,7 @@
       },
       "price": 215.0,
       "sale_price": 103.2,
-      "stock": 10
+      "stock": 9
     },
     "pending": false
   },
@@ -2323,7 +2323,7 @@
       },
       "price": 337.0,
       "sale_price": 168.5,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -2535,7 +2535,7 @@
       },
       "price": 750.0,
       "sale_price": 375.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3935,34 +3935,6 @@
     },
     "pending": false
   },
-  "66914282": {
-    "notified": {
-      "discount_percent": 52.0,
-      "id": 66914282,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0a9e47481b855b22acca8ba5cebd7806e24ebfa3b6f6789cc23aa7950e398900",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق ايس تشيل للرجال 3 عبوات (150مل)",
-        "en": "Axe Deodorant Spray Ice Chill For Men Pack Of 3 (150ml)"
-      },
-      "price": 645.0,
-      "reason": "new_discount",
-      "sale_price": 309.6,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 52.0,
-      "id": 66914282,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0a9e47481b855b22acca8ba5cebd7806e24ebfa3b6f6789cc23aa7950e398900",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق ايس تشيل للرجال 3 عبوات (150مل)",
-        "en": "Axe Deodorant Spray Ice Chill For Men Pack Of 3 (150ml)"
-      },
-      "price": 645.0,
-      "sale_price": 309.6,
-      "stock": 2
-    },
-    "pending": false
-  },
   "67016177": {
     "notified": {
       "discount_percent": 60.0,
@@ -4015,7 +3987,7 @@
       },
       "price": 472.75,
       "sale_price": 236.37,
-      "stock": 3
+      "stock": 1
     },
     "pending": false
   },
@@ -4143,7 +4115,7 @@
       },
       "price": 160.0,
       "sale_price": 80.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -4187,7 +4159,7 @@
       },
       "price": 198.78,
       "sale_price": 42.72,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   }
