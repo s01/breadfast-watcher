@@ -79,7 +79,7 @@
       },
       "price": 1220.0,
       "sale_price": 610.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -108,22 +108,6 @@
       "price": 3950.0,
       "sale_price": 1975.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "19038784": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 19038784,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1423025b71770eb525b5bb9f8579dfebe62c8d6fca34427a1464516e844497cc",
-      "name": {
-        "ar": "كالفن كلاين اترينتي مومينت او دو بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Eternity Moment EDP For Her (100ml)"
-      },
-      "price": 2390.0,
-      "sale_price": 1195.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -180,6 +164,34 @@
       "price": 2390.0,
       "sale_price": 1195.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "19042272": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 19042272,
+      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614272050358/098bb41d2cbc7b2e.jpg",
+      "name": {
+        "ar": "ايف سان لوران واي او دو بارفان للرجال (100 مل)",
+        "en": "Yves Saint Laurent Y EDP For Him (100ml)"
+      },
+      "price": 8150.0,
+      "reason": "new_discount",
+      "sale_price": 4075.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 19042272,
+      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614272050358/098bb41d2cbc7b2e.jpg",
+      "name": {
+        "ar": "ايف سان لوران واي او دو بارفان للرجال (100 مل)",
+        "en": "Yves Saint Laurent Y EDP For Him (100ml)"
+      },
+      "price": 8150.0,
+      "sale_price": 4075.0,
+      "stock": 2
     },
     "pending": false
   },
@@ -407,34 +419,6 @@
     },
     "pending": false
   },
-  "26070808": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26070808,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/124ef290aa38306231d7e50f48996adc906b2f7cb6450b7324f868e28e325357",
-      "name": {
-        "ar": "مونت بلانك ليدي ايمبلم او دو بارفان للنساء (75 مل)",
-        "en": "Mont Blanc Lady Emblem EDP For Her (75ml)"
-      },
-      "price": 3390.0,
-      "reason": "new_discount",
-      "sale_price": 1695.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26070808,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/124ef290aa38306231d7e50f48996adc906b2f7cb6450b7324f868e28e325357",
-      "name": {
-        "ar": "مونت بلانك ليدي ايمبلم او دو بارفان للنساء (75 مل)",
-        "en": "Mont Blanc Lady Emblem EDP For Her (75ml)"
-      },
-      "price": 3390.0,
-      "sale_price": 1695.0,
-      "stock": 3
-    },
-    "pending": false
-  },
   "26190534": {
     "notified": {
       "discount_percent": 66.33,
@@ -523,22 +507,6 @@
     },
     "pending": false
   },
-  "26197533": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26197533,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/6291108737194.png",
-      "name": {
-        "ar": "لطافة خمرة او دي بارفان للجنسين (100 مل)",
-        "en": "Lattafa Khamrah EDP For Unisex (100ml)"
-      },
-      "price": 1491.0,
-      "sale_price": 745.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "26198724": {
     "notified": {
       "discount_percent": 50.0,
@@ -595,38 +563,6 @@
     },
     "pending": false
   },
-  "26767967": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26767967,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/61eZpeCHRqL._AC_SX679_.png",
-      "name": {
-        "ar": "كارولينا هيريرا جود جيرل بلش او دى بارفان للنساء (80 مل)",
-        "en": "Carolina Herrera Good Girl Blush EDP For Her (80ml)"
-      },
-      "price": 9800.0,
-      "sale_price": 4900.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "26770149": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26770149,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/8011003872077.png",
-      "name": {
-        "ar": "فيرساتشي ايروس بارفيوم للرجال (100 مل)",
-        "en": "Versace Eros Perfume For Him (100ml)"
-      },
-      "price": 5950.0,
-      "sale_price": 2975.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "26770445": {
     "notified": {
       "discount_percent": 50.0,
@@ -652,90 +588,6 @@
       "price": 6700.0,
       "sale_price": 3350.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "26842918": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26842918,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-removebg-preview-1.png",
-      "name": {
-        "ar": "مانسيرا روز فانيلا او دو برفان للنساء (120 مل)",
-        "en": "Mancera Roses Vanille EDP For Her (120ml)"
-      },
-      "price": 5399.0,
-      "reason": "new_discount",
-      "sale_price": 2699.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26842918,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-removebg-preview-1.png",
-      "name": {
-        "ar": "مانسيرا روز فانيلا او دو برفان للنساء (120 مل)",
-        "en": "Mancera Roses Vanille EDP For Her (120ml)"
-      },
-      "price": 5399.0,
-      "sale_price": 2699.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "26849861": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26849861,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/310d7e26bcca46653b6972ae1777ecf270a57b7e75a16b839af1aefe70ecb750",
-      "name": {
-        "ar": "إيلي صعب لو بارفان ان وايت او دو برفان للنساء (90 مل)",
-        "en": "Elie Saab Le Parfum in White EDP For Her (90ml)"
-      },
-      "price": 5290.0,
-      "reason": "new_discount",
-      "sale_price": 2645.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26849861,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/310d7e26bcca46653b6972ae1777ecf270a57b7e75a16b839af1aefe70ecb750",
-      "name": {
-        "ar": "إيلي صعب لو بارفان ان وايت او دو برفان للنساء (90 مل)",
-        "en": "Elie Saab Le Parfum in White EDP For Her (90ml)"
-      },
-      "price": 5290.0,
-      "sale_price": 2645.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26862222": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26862222,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/51snQRzzKLL.png",
-      "name": {
-        "ar": "بلغاري مان ان بلاك او دو بارفان للرجال (100 مل)",
-        "en": "Bvlgari Man in Black EDP For Him (100ml)"
-      },
-      "price": 6750.0,
-      "reason": "new_discount",
-      "sale_price": 3375.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26862222,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/51snQRzzKLL.png",
-      "name": {
-        "ar": "بلغاري مان ان بلاك او دو بارفان للرجال (100 مل)",
-        "en": "Bvlgari Man in Black EDP For Him (100ml)"
-      },
-      "price": 6750.0,
-      "sale_price": 3375.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -767,34 +619,6 @@
     },
     "pending": false
   },
-  "26865540": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26865540,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/7193460654741.png",
-      "name": {
-        "ar": "بريتني سبيرز فانتازي او دو بارفان للنساء (100 مل)",
-        "en": "Britney Spears Fantasy EDP For Her (100ml)"
-      },
-      "price": 2050.0,
-      "reason": "new_discount",
-      "sale_price": 1025.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26865540,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/7193460654741.png",
-      "name": {
-        "ar": "بريتني سبيرز فانتازي او دو بارفان للنساء (100 مل)",
-        "en": "Britney Spears Fantasy EDP For Her (100ml)"
-      },
-      "price": 2050.0,
-      "sale_price": 1025.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "26867058": {
     "notified": {
       "discount_percent": 50.0,
@@ -819,7 +643,7 @@
       },
       "price": 8900.0,
       "sale_price": 4450.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -875,62 +699,6 @@
       },
       "price": 2600.0,
       "sale_price": 1300.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "27894035": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27894035,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/85805390600.png",
-      "name": {
-        "ar": "اليزابيث اردن فيفث افينيو او دو بارفان للنساء (125 مل)",
-        "en": "Elizabeth Arden 5th Avenue EDP For Her (125ml)"
-      },
-      "price": 2190.0,
-      "reason": "new_discount",
-      "sale_price": 1095.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27894035,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/85805390600.png",
-      "name": {
-        "ar": "اليزابيث اردن فيفث افينيو او دو بارفان للنساء (125 مل)",
-        "en": "Elizabeth Arden 5th Avenue EDP For Her (125ml)"
-      },
-      "price": 2190.0,
-      "sale_price": 1095.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "28002780": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28002780,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/8411061083482-Photoroom-1.png",
-      "name": {
-        "ar": "كارولينا هيريرا 212 في اي بي روز اليكسير او دو بارفان للنساء (80 مل)",
-        "en": "Carolina Herrera 212 VIP Rosé Elixir EDP For Her (80ml)"
-      },
-      "price": 7750.0,
-      "reason": "new_discount",
-      "sale_price": 3875.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28002780,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/8411061083482-Photoroom-1.png",
-      "name": {
-        "ar": "كارولينا هيريرا 212 في اي بي روز اليكسير او دو بارفان للنساء (80 مل)",
-        "en": "Carolina Herrera 212 VIP Rosé Elixir EDP For Her (80ml)"
-      },
-      "price": 7750.0,
-      "sale_price": 3875.0,
       "stock": 1
     },
     "pending": false
@@ -979,34 +747,6 @@
     },
     "pending": false
   },
-  "28700204": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28700204,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/61zuaHRvlCL._AC_SL1500_.png",
-      "name": {
-        "ar": "جلف اوركيد مسك طهارة اويل طهارة فانيليا للجنسين (12 مل)",
-        "en": "Gulf Orchid Musk Tahara Oil Tahara Vanilla For Unisex (12ml)"
-      },
-      "price": 445.0,
-      "reason": "new_discount",
-      "sale_price": 222.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28700204,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/61zuaHRvlCL._AC_SL1500_.png",
-      "name": {
-        "ar": "جلف اوركيد مسك طهارة اويل طهارة فانيليا للجنسين (12 مل)",
-        "en": "Gulf Orchid Musk Tahara Oil Tahara Vanilla For Unisex (12ml)"
-      },
-      "price": 445.0,
-      "sale_price": 222.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "28704777": {
     "notified": {
       "discount_percent": 50.0,
@@ -1031,22 +771,6 @@
       },
       "price": 8280.0,
       "sale_price": 4140.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "29225283": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29225283,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/3607340213267.png",
-      "name": {
-        "ar": "كالفن كلاين بيوتي او دي بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Beauty EDP For Her (100ml)"
-      },
-      "price": 2630.0,
-      "sale_price": 1315.0,
       "stock": 0
     },
     "pending": false
@@ -1095,34 +819,6 @@
     },
     "pending": false
   },
-  "29230859": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29230859,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1d298499a11c7baf928c6d7d51dde33967e9150555dbd9ff2493982d0d001d00",
-      "name": {
-        "ar": "جيرلان مون جيرلان او دو بارفان للنساء (100 مل)",
-        "en": "Guerlain Mon Guerlain EDP For Her (100ml)"
-      },
-      "price": 7190.0,
-      "reason": "new_discount",
-      "sale_price": 3595.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29230859,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1d298499a11c7baf928c6d7d51dde33967e9150555dbd9ff2493982d0d001d00",
-      "name": {
-        "ar": "جيرلان مون جيرلان او دو بارفان للنساء (100 مل)",
-        "en": "Guerlain Mon Guerlain EDP For Her (100ml)"
-      },
-      "price": 7190.0,
-      "sale_price": 3595.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "29243507": {
     "notified": {
       "discount_percent": 50.0,
@@ -1147,7 +843,7 @@
       },
       "price": 1450.0,
       "sale_price": 725.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1251,34 +947,6 @@
     },
     "pending": false
   },
-  "31045932": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 31045932,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f658b3c6a40ef348cbe750ec880ac6d88491ee4836ec361fa8bded9ac21a068c",
-      "name": {
-        "ar": "جيرلان مون جيرلان انتنس او دو بارفان للنساء (100 مل)",
-        "en": "Guerlain Mon Guerlain Intense EDP For Her (100ml)"
-      },
-      "price": 9550.0,
-      "reason": "new_discount",
-      "sale_price": 4775.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 31045932,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f658b3c6a40ef348cbe750ec880ac6d88491ee4836ec361fa8bded9ac21a068c",
-      "name": {
-        "ar": "جيرلان مون جيرلان انتنس او دو بارفان للنساء (100 مل)",
-        "en": "Guerlain Mon Guerlain Intense EDP For Her (100ml)"
-      },
-      "price": 9550.0,
-      "sale_price": 4775.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "31486556": {
     "notified": {
       "discount_percent": 50.108,
@@ -1331,7 +999,7 @@
       },
       "price": 1090.0,
       "sale_price": 545.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1388,34 +1056,6 @@
       "price": 38.0,
       "sale_price": 16.34,
       "stock": 0
-    },
-    "pending": false
-  },
-  "34055352": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 34055352,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ae3b323899bae6171fd7946c92608f384a05fb7f960785b92f87b98a0aad00b3",
-      "name": {
-        "ar": "مونت بلانك امبلم او دو تواليت للرجال (100 مل)",
-        "en": "Mont Blanc Emblem EDT For Him (100ml)"
-      },
-      "price": 3150.0,
-      "reason": "new_discount",
-      "sale_price": 1575.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 34055352,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ae3b323899bae6171fd7946c92608f384a05fb7f960785b92f87b98a0aad00b3",
-      "name": {
-        "ar": "مونت بلانك امبلم او دو تواليت للرجال (100 مل)",
-        "en": "Mont Blanc Emblem EDT For Him (100ml)"
-      },
-      "price": 3150.0,
-      "sale_price": 1575.0,
-      "stock": 1
     },
     "pending": false
   },
@@ -1999,34 +1639,6 @@
     },
     "pending": false
   },
-  "39695316": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 39695316,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614274241006/c3771865cc085281.jpg",
-      "name": {
-        "ar": "إيف سان لوران ليبر لو نو او دو بارفان للنساء (90 مل)",
-        "en": "Yves Saint Laurent Libre L’Eau Nue EDP For Her (90ml)"
-      },
-      "price": 8370.0,
-      "reason": "new_discount",
-      "sale_price": 4185.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 39695316,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614274241006/c3771865cc085281.jpg",
-      "name": {
-        "ar": "إيف سان لوران ليبر لو نو او دو بارفان للنساء (90 مل)",
-        "en": "Yves Saint Laurent Libre L’Eau Nue EDP For Her (90ml)"
-      },
-      "price": 8370.0,
-      "sale_price": 4185.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "40105504": {
     "notified": {
       "discount_percent": 50.0,
@@ -2303,7 +1915,7 @@
       },
       "price": 4890.0,
       "sale_price": 2445.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2419,34 +2031,6 @@
     },
     "pending": false
   },
-  "42882870": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42882870,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e24e82a26952496572e3d6057fc4e064786bb474953b2cff37efb0a9fae04634",
-      "name": {
-        "ar": "هوغو بوس هوغو مان أو دو تواليت للرجال (200 مل)",
-        "en": "Hugo Boss Hugo Man EDT For Him (200ml)"
-      },
-      "price": 4550.0,
-      "reason": "new_discount",
-      "sale_price": 2275.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42882870,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e24e82a26952496572e3d6057fc4e064786bb474953b2cff37efb0a9fae04634",
-      "name": {
-        "ar": "هوغو بوس هوغو مان أو دو تواليت للرجال (200 مل)",
-        "en": "Hugo Boss Hugo Man EDT For Him (200ml)"
-      },
-      "price": 4550.0,
-      "sale_price": 2275.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "42943913": {
     "notified": {
       "discount_percent": 50.0,
@@ -2475,34 +2059,6 @@
     },
     "pending": false
   },
-  "42987373": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42987373,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cc58debb38913258157146ad1bd9867eb84594acd82654410b4aa21ac40a0b55",
-      "name": {
-        "ar": "هوغو بوس جاست ديفرينت او دي تواليت للرجال (75 مل)",
-        "en": "Hugo Boss Just Diffrent EDT For Him (75m)"
-      },
-      "price": 2519.0,
-      "reason": "new_discount",
-      "sale_price": 1259.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42987373,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cc58debb38913258157146ad1bd9867eb84594acd82654410b4aa21ac40a0b55",
-      "name": {
-        "ar": "هوغو بوس جاست ديفرينت او دي تواليت للرجال (75 مل)",
-        "en": "Hugo Boss Just Diffrent EDT For Him (75m)"
-      },
-      "price": 2519.0,
-      "sale_price": 1259.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "43658209": {
     "notified": {
       "discount_percent": 50.0,
@@ -2527,7 +2083,7 @@
       },
       "price": 399.0,
       "sale_price": 199.5,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
@@ -2555,7 +2111,7 @@
       },
       "price": 399.0,
       "sale_price": 199.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3959,7 +3515,7 @@
       },
       "price": 5900.0,
       "sale_price": 2950.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -4667,7 +4223,7 @@
       },
       "price": 2650.0,
       "sale_price": 1325.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   }
