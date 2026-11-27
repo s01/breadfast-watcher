@@ -251,36 +251,20 @@
     },
     "pending": false
   },
-  "22828462": {
-    "notified": {
-      "discount_percent": 55.0,
-      "id": 22828462,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/ewkjdmw.png",
-      "name": {
-        "ar": "وايت فليكسي لارج 3 طبقة 3 عبوات (500منديل)",
-        "en": "White Flexi 3 Ply Pack of 3 (500Tissues)"
-      },
-      "price": 110.0,
-      "reason": "new_discount",
-      "sale_price": 49.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 22828462,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/ewkjdmw.png",
-      "name": {
-        "ar": "وايت فليكسي لارج 3 طبقة 3 عبوات (500منديل)",
-        "en": "White Flexi 3 Ply Pack of 3 (500Tissues)"
-      },
-      "price": 110.0,
-      "sale_price": 49.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "26190534": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 66.33,
+      "id": 26190534,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
+        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
+      },
+      "price": 5940.0,
+      "reason": "new_discount",
+      "sale_price": 2000.0,
+      "stock": 1
+    },
     "observed": {
       "discount_percent": 66.33,
       "id": 26190534,
@@ -291,7 +275,7 @@
       },
       "price": 5940.0,
       "sale_price": 2000.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -1295,6 +1279,22 @@
     },
     "pending": false
   },
+  "42373942": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 55.0,
+      "id": 42373942,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/57e4f97d53bd3b5dcb6237ab2e0b98249d0e8a1cd5a9201b2fa9b6d3ab75943b",
+      "name": {
+        "ar": "مولفيكس حفاضات بانتس ميجا باك إكس لارج مقاس 6 (60 قطعة)",
+        "en": "Molfix Pants Diapers Mega Pack Xlarge Size 6 (60Pieces)"
+      },
+      "price": 520.0,
+      "sale_price": 234.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "42882500": {
     "notified": {
       "discount_percent": 50.63,
@@ -2216,34 +2216,6 @@
       "price": 275.0,
       "sale_price": 137.5,
       "stock": 3
-    },
-    "pending": false
-  },
-  "44720175": {
-    "notified": {
-      "discount_percent": 65.0,
-      "id": 44720175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6869fcdac256b844696a3d606ab3d098736d3678efe3cee2552fbf7beb755179",
-      "name": {
-        "ar": "3x بريدفاست لوز ني (175 جم)",
-        "en": "3x Breadfast Raw Almonds (175g)"
-      },
-      "price": 585.0,
-      "reason": "new_discount",
-      "sale_price": 204.75,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 65.0,
-      "id": 44720175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6869fcdac256b844696a3d606ab3d098736d3678efe3cee2552fbf7beb755179",
-      "name": {
-        "ar": "3x بريدفاست لوز ني (175 جم)",
-        "en": "3x Breadfast Raw Almonds (175g)"
-      },
-      "price": 585.0,
-      "sale_price": 204.75,
-      "stock": 1
     },
     "pending": false
   },
@@ -3895,58 +3867,18 @@
     },
     "pending": false
   },
-  "73922839": {
-    "notified": {
-      "discount_percent": 55.0,
-      "id": 73922839,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9929232305c155f9b7fcf24791c1171fb2db36017ed1243cc3453ad03ec8ab77",
-      "name": {
-        "ar": "(حفاضات بريميوم كير من بامبرز كلوت مقاس 5 ٢ قطع (40 حفاضة",
-        "en": "Pampers Premium Care Pants Size 5 Pack Of 2 (40 Diapers)"
-      },
-      "price": 920.0,
-      "reason": "new_discount",
-      "sale_price": 414.0,
-      "stock": 1
-    },
+  "7503161": {
+    "notified": null,
     "observed": {
       "discount_percent": 55.0,
-      "id": 73922839,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9929232305c155f9b7fcf24791c1171fb2db36017ed1243cc3453ad03ec8ab77",
+      "id": 7503161,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/My-project-1-31.png",
       "name": {
-        "ar": "(حفاضات بريميوم كير من بامبرز كلوت مقاس 5 ٢ قطع (40 حفاضة",
-        "en": "Pampers Premium Care Pants Size 5 Pack Of 2 (40 Diapers)"
+        "ar": "(بابيا بكر مناديل تواليت بملمس ناعم وحريري 10+2 (12 قطع",
+        "en": "Papia Silky Softness Toilet Rolls 10+2 For Free (12 Pcs)"
       },
-      "price": 920.0,
-      "sale_price": 414.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "73924278": {
-    "notified": {
-      "discount_percent": 65.0,
-      "id": 73924278,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/df19a5da402fd88cc9a09f55aa6d564405a38f217289c2e90e2ba40899ede7be",
-      "name": {
-        "ar": "(حفاضات بريميوم كير من بامبرز كلوت مقاس 6 ٢ قطع (36 حفاضة",
-        "en": "Pampers Premium Care Pants Size 6 Extra Large Pack Of 2 (36 Diapers)"
-      },
-      "price": 998.0,
-      "reason": "new_discount",
-      "sale_price": 349.3,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 65.0,
-      "id": 73924278,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/df19a5da402fd88cc9a09f55aa6d564405a38f217289c2e90e2ba40899ede7be",
-      "name": {
-        "ar": "(حفاضات بريميوم كير من بامبرز كلوت مقاس 6 ٢ قطع (36 حفاضة",
-        "en": "Pampers Premium Care Pants Size 6 Extra Large Pack Of 2 (36 Diapers)"
-      },
-      "price": 998.0,
-      "sale_price": 349.3,
+      "price": 160.0,
+      "sale_price": 72.0,
       "stock": 0
     },
     "pending": false
