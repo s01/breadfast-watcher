@@ -6423,62 +6423,6 @@
     },
     "pending": true
   },
-  "60673169": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673169,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9ed47b9752dbcb0b9089ace80a665cd1fa53ce90ec433ba47621bd6a6a54f15f",
-      "name": {
-        "ar": "رويال إس جبنة قريش سادة (750g)",
-        "en": "Royal S Cottage Cheese (750g)"
-      },
-      "price": 128.4,
-      "reason": "new_discount",
-      "sale_price": 64.2,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673169,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9ed47b9752dbcb0b9089ace80a665cd1fa53ce90ec433ba47621bd6a6a54f15f",
-      "name": {
-        "ar": "رويال إس جبنة قريش سادة (750g)",
-        "en": "Royal S Cottage Cheese (750g)"
-      },
-      "price": 128.4,
-      "sale_price": 64.2,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673171": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673171,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b255a409ddcbedc03aaa40c257ff256d5c48e8be342bdbe3b447d44a8975b97a",
-      "name": {
-        "ar": "رويال إس جبنة قريش زعتر (750g)",
-        "en": "Royal S Cottage Cheese With Zaater (750g)"
-      },
-      "price": 132.0,
-      "reason": "new_discount",
-      "sale_price": 66.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673171,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b255a409ddcbedc03aaa40c257ff256d5c48e8be342bdbe3b447d44a8975b97a",
-      "name": {
-        "ar": "رويال إس جبنة قريش زعتر (750g)",
-        "en": "Royal S Cottage Cheese With Zaater (750g)"
-      },
-      "price": 132.0,
-      "sale_price": 66.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673175": {
     "notified": {
       "discount_percent": 50.0,
@@ -6507,34 +6451,6 @@
     },
     "pending": false
   },
-  "60673176": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673176,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d7cf50bb2c04ba0d7083f11edb3d5072e1bf189103f8af90936903e04e219557",
-      "name": {
-        "ar": "رويال إس كيرى شيدر (500g)",
-        "en": "Royal S Kiri Cheedr (500g)"
-      },
-      "price": 130.8,
-      "reason": "new_discount",
-      "sale_price": 65.4,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673176,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d7cf50bb2c04ba0d7083f11edb3d5072e1bf189103f8af90936903e04e219557",
-      "name": {
-        "ar": "رويال إس كيرى شيدر (500g)",
-        "en": "Royal S Kiri Cheedr (500g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 2
-    },
-    "pending": false
-  },
   "60673177": {
     "notified": null,
     "observed": {
@@ -6550,34 +6466,6 @@
       "stock": 1
     },
     "pending": true
-  },
-  "60673178": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673178,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/25374d1581e2803cd521e49316e32a8354d9eb61ee5a071938acb78cd649a161",
-      "name": {
-        "ar": "رويال إس كيرى قشطة (500g)",
-        "en": "Royal S Kiri Kashta (500g)"
-      },
-      "price": 130.8,
-      "reason": "new_discount",
-      "sale_price": 65.4,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673178,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/25374d1581e2803cd521e49316e32a8354d9eb61ee5a071938acb78cd649a161",
-      "name": {
-        "ar": "رويال إس كيرى قشطة (500g)",
-        "en": "Royal S Kiri Kashta (500g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 1
-    },
-    "pending": false
   },
   "60673187": {
     "notified": {
@@ -6603,34 +6491,6 @@
       },
       "price": 156.0,
       "sale_price": 78.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673188": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673188,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5fe94db4ded0d409ec2bac60dcf3c1d3c8706adb42567ab7e5485ec8c07556ea",
-      "name": {
-        "ar": "رويال إس عكاوى تشيكى (300g)",
-        "en": "Royal S Akkawi Czech Cheese (300g)"
-      },
-      "price": 138.0,
-      "reason": "new_discount",
-      "sale_price": 69.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673188,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5fe94db4ded0d409ec2bac60dcf3c1d3c8706adb42567ab7e5485ec8c07556ea",
-      "name": {
-        "ar": "رويال إس عكاوى تشيكى (300g)",
-        "en": "Royal S Akkawi Czech Cheese (300g)"
-      },
-      "price": 138.0,
-      "sale_price": 69.0,
       "stock": 1
     },
     "pending": false
@@ -6663,34 +6523,6 @@
     },
     "pending": false
   },
-  "60673196": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673196,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6433e2b3874e530b2c681fa64844f88485c2ed8dd7c37bf1cc59b637158a0078",
-      "name": {
-        "ar": "رويال إس لبنة ماعز حبة البركة (400g)",
-        "en": "Royal S Labna Goat With Black Seed (400g)"
-      },
-      "price": 216.0,
-      "reason": "new_discount",
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673196,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6433e2b3874e530b2c681fa64844f88485c2ed8dd7c37bf1cc59b637158a0078",
-      "name": {
-        "ar": "رويال إس لبنة ماعز حبة البركة (400g)",
-        "en": "Royal S Labna Goat With Black Seed (400g)"
-      },
-      "price": 216.0,
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673197": {
     "notified": {
       "discount_percent": 50.0,
@@ -6712,34 +6544,6 @@
       "name": {
         "ar": "رويال إس لبنة ماعز بابريكا (450g)",
         "en": "Royal S Labna Goat With Paprika (450g)"
-      },
-      "price": 216.0,
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60673198": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
-      "name": {
-        "ar": "رويال إس لبنة ماعز زعتر (400g)",
-        "en": "Royal S Labna Goat With Thyme (400g)"
-      },
-      "price": 216.0,
-      "reason": "new_discount",
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
-      "name": {
-        "ar": "رويال إس لبنة ماعز زعتر (400g)",
-        "en": "Royal S Labna Goat With Thyme (400g)"
       },
       "price": 216.0,
       "sale_price": 108.0,
@@ -7226,34 +7030,6 @@
       "stock": 1
     },
     "pending": true
-  },
-  "6481396": {
-    "notified": {
-      "discount_percent": 53.251,
-      "id": 6481396,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9fea97a2fd2f6836de6cbc782f414228a6f80ceb1f4b4561f96440b36d78d2b7",
-      "name": {
-        "ar": "بريدفاست رقائق البطاطس بالكريمة الحامضة (48 جرام)",
-        "en": "Breadfast Kettle-Cooked Chips with Sour Cream & Herbs (48g)"
-      },
-      "price": 16.92,
-      "reason": "new_discount",
-      "sale_price": 7.91,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 53.251,
-      "id": 6481396,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9fea97a2fd2f6836de6cbc782f414228a6f80ceb1f4b4561f96440b36d78d2b7",
-      "name": {
-        "ar": "بريدفاست رقائق البطاطس بالكريمة الحامضة (48 جرام)",
-        "en": "Breadfast Kettle-Cooked Chips with Sour Cream & Herbs (48g)"
-      },
-      "price": 16.92,
-      "sale_price": 7.91,
-      "stock": 1
-    },
-    "pending": false
   },
   "65588693": {
     "notified": null,
