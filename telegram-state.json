@@ -83,59 +83,31 @@
     },
     "pending": false
   },
-  "2165975": {
+  "21101876": {
     "notified": {
-      "discount_percent": 95.0,
-      "id": 2165975,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2021/11/روزماري.png",
+      "discount_percent": 50.0,
+      "id": 21101876,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/03/Turkey-Lobes-6221029210018.png",
       "name": {
-        "ar": "روزماري (100 جرام)",
-        "en": "Rosemary (100g)"
+        "ar": "حلواني فصوص ديك رومي بالبابريكا (150جرام)",
+        "en": "Halwani Turkey Lobes Paprika (150g)"
       },
-      "price": 20.0,
+      "price": 195.0,
       "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
+      "sale_price": 97.5,
+      "stock": 11
     },
     "observed": {
-      "discount_percent": 95.0,
-      "id": 2165975,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2021/11/روزماري.png",
+      "discount_percent": 50.0,
+      "id": 21101876,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/03/Turkey-Lobes-6221029210018.png",
       "name": {
-        "ar": "روزماري (100 جرام)",
-        "en": "Rosemary (100g)"
+        "ar": "حلواني فصوص ديك رومي بالبابريكا (150جرام)",
+        "en": "Halwani Turkey Lobes Paprika (150g)"
       },
-      "price": 20.0,
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "2166239": {
-    "notified": {
-      "discount_percent": 94.737,
-      "id": 2166239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B1D98AD8ADD8A7D986.png",
-      "name": {
-        "ar": "ريحان (100 جرام)",
-        "en": "Basil (100g)"
-      },
-      "price": 19.0,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 94.737,
-      "id": 2166239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B1D98AD8ADD8A7D986.png",
-      "name": {
-        "ar": "ريحان (100 جرام)",
-        "en": "Basil (100g)"
-      },
-      "price": 19.0,
-      "sale_price": 1.0,
-      "stock": 1
+      "price": 195.0,
+      "sale_price": 97.5,
+      "stock": 11
     },
     "pending": false
   },
