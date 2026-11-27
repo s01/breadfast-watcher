@@ -1119,7 +1119,7 @@
       },
       "price": 14.25,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1175,7 +1175,7 @@
       },
       "price": 14.25,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3592,6 +3592,22 @@
       "name": {
         "ar": "شهد فيليه الدجاج (800 جم)",
         "en": "Shahd Breaded Chicken Fillet (800g)"
+      },
+      "price": 427.75,
+      "sale_price": 213.87,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "64619268": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.001,
+      "id": 64619268,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/782c9fc1f071a2b53549e553036b42c0a3c763f38f086da8bf8fb4840ef0e91d",
+      "name": {
+        "ar": "شهد فيليه الدجاج الحار (800 جم)",
+        "en": "Shahd Spicy Chicken Fillet (800gm)"
       },
       "price": 427.75,
       "sale_price": 213.87,
