@@ -1291,6 +1291,22 @@
     },
     "pending": false
   },
+  "41397929": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 53.357,
+      "id": 41397929,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
+      "name": {
+        "ar": "ريز كولا زيرو زجاجة (400مل)",
+        "en": "Rizz Cola Zero Bottle (400ml)"
+      },
+      "price": 14.0,
+      "sale_price": 6.53,
+      "stock": 0
+    },
+    "pending": false
+  },
   "42882500": {
     "notified": {
       "discount_percent": 50.63,
@@ -3763,6 +3779,22 @@
     },
     "pending": true
   },
+  "64619267": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.001,
+      "id": 64619267,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d95ab12a6146b3c603469005191804e46acd0c40711be1f72051fddfecc6ba76",
+      "name": {
+        "ar": "شهد فيليه الدجاج (800 جم)",
+        "en": "Shahd Breaded Chicken Fillet (800g)"
+      },
+      "price": 427.75,
+      "sale_price": 213.87,
+      "stock": 0
+    },
+    "pending": false
+  },
   "65670995": {
     "notified": {
       "discount_percent": 60.0,
@@ -4100,6 +4132,22 @@
       "price": 160.0,
       "sale_price": 80.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "70100053": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.001,
+      "id": 70100053,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/01ad88f20db304c09a1aed8ee14bbed0eb4a563f0dc5da1222d0243fd585f3ea",
+      "name": {
+        "ar": "شهد مسحب حار (750 جرام)",
+        "en": "Shahd Musahab Spicy (750g)"
+      },
+      "price": 396.75,
+      "sale_price": 198.37,
+      "stock": 0
     },
     "pending": false
   }
