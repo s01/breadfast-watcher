@@ -1,4 +1,60 @@
 {
+  "19038441": {
+    "notified": {
+      "discount_percent": 50.127,
+      "id": 19038441,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
+        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
+      },
+      "price": 3950.0,
+      "reason": "new_discount",
+      "sale_price": 1970.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.127,
+      "id": 19038441,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/03/ck-euphoria2.jpg",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دو تواليت للرجال (100 مل)",
+        "en": "Calvin Klein Euphoria EDT For Him (100ml)"
+      },
+      "price": 3950.0,
+      "sale_price": 1970.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "19042011": {
+    "notified": {
+      "discount_percent": 58.201,
+      "id": 19042011,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
+      "name": {
+        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
+        "en": "Jaguar Classic Black EDT For Him (100ml)"
+      },
+      "price": 2390.0,
+      "reason": "new_discount",
+      "sale_price": 999.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 58.201,
+      "id": 19042011,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03cc2b3aab82c7f67a807a23c7efc3a97e7aa768287cca2698acda16fda3e78d",
+      "name": {
+        "ar": "جاجوار كلاسيك بلاك او دو تواليت للرجال (100 مل)",
+        "en": "Jaguar Classic Black EDT For Him (100ml)"
+      },
+      "price": 2390.0,
+      "sale_price": 999.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "2084233": {
     "notified": {
       "discount_percent": 50.0,
@@ -251,6 +307,34 @@
     },
     "pending": false
   },
+  "26863557": {
+    "notified": {
+      "discount_percent": 50.239,
+      "id": 26863557,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
+      "name": {
+        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
+        "en": "Clinique Happy EDT For Him (100ml)"
+      },
+      "price": 4180.0,
+      "reason": "new_discount",
+      "sale_price": 2080.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.239,
+      "id": 26863557,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/632429550097-4-1.png",
+      "name": {
+        "ar": "كلينيك هابي  او دي تواليت للرجال (100 مل)",
+        "en": "Clinique Happy EDT For Him (100ml)"
+      },
+      "price": 4180.0,
+      "sale_price": 2080.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -275,6 +359,34 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "29012916": {
+    "notified": {
+      "discount_percent": 52.703,
+      "id": 29012916,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/3508441001114.png",
+      "name": {
+        "ar": "كريد افينتوس او دو بارفان للرجال (100 مل)",
+        "en": "Creed Aventus EDP For Him (100ml)"
+      },
+      "price": 29600.0,
+      "reason": "new_discount",
+      "sale_price": 14000.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 52.703,
+      "id": 29012916,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/3508441001114.png",
+      "name": {
+        "ar": "كريد افينتوس او دو بارفان للرجال (100 مل)",
+        "en": "Creed Aventus EDP For Him (100ml)"
+      },
+      "price": 29600.0,
+      "sale_price": 14000.0,
       "stock": 1
     },
     "pending": false
@@ -444,6 +556,34 @@
       "price": 900.0,
       "sale_price": 450.0,
       "stock": 5
+    },
+    "pending": false
+  },
+  "31486556": {
+    "notified": {
+      "discount_percent": 50.108,
+      "id": 31486556,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
+      "name": {
+        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
+        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
+      },
+      "price": 4650.0,
+      "reason": "new_discount",
+      "sale_price": 2320.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.108,
+      "id": 31486556,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f447b1b30553d7e196836291b6ae3e0f3d472eeaab7560b033458dba2e4786d4",
+      "name": {
+        "ar": "جيس مارسيانو او دو بارفان للنساء مجموعة (100+15 مل + بادي لوشن 200 مل)",
+        "en": "Guess Marciano EDP For Her Set (100+15ml+ BL 200ml)"
+      },
+      "price": 4650.0,
+      "sale_price": 2320.0,
+      "stock": 1
     },
     "pending": false
   },
@@ -2619,6 +2759,34 @@
       },
       "price": 383.0,
       "sale_price": 153.2,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "53998454": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 53998454,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
+      "name": {
+        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
+        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
+      },
+      "price": 3700.0,
+      "reason": "new_discount",
+      "sale_price": 1850.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 53998454,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d739f81f2d240ee9f1a4c8d11bc701b61260c7f419df1450d358a5b485ddf901",
+      "name": {
+        "ar": "لطافة بديع العود سوبلايم او دو بارفان للجنسين (100 مل + 12 مل + 50 مل هير مسيت)",
+        "en": "Lattafa Badee Al Oud Sublime EDP For Unisex Gift Set (100ml + 12ml + 50ml Hair Mist)"
+      },
+      "price": 3700.0,
+      "sale_price": 1850.0,
       "stock": 1
     },
     "pending": false
