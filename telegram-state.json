@@ -83,6 +83,62 @@
     },
     "pending": false
   },
+  "2165975": {
+    "notified": {
+      "discount_percent": 95.0,
+      "id": 2165975,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2021/11/روزماري.png",
+      "name": {
+        "ar": "روزماري (100 جرام)",
+        "en": "Rosemary (100g)"
+      },
+      "price": 20.0,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 95.0,
+      "id": 2165975,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2021/11/روزماري.png",
+      "name": {
+        "ar": "روزماري (100 جرام)",
+        "en": "Rosemary (100g)"
+      },
+      "price": 20.0,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "2166239": {
+    "notified": {
+      "discount_percent": 94.737,
+      "id": 2166239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B1D98AD8ADD8A7D986.png",
+      "name": {
+        "ar": "ريحان (100 جرام)",
+        "en": "Basil (100g)"
+      },
+      "price": 19.0,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 94.737,
+      "id": 2166239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/D8B1D98AD8ADD8A7D986.png",
+      "name": {
+        "ar": "ريحان (100 جرام)",
+        "en": "Basil (100g)"
+      },
+      "price": 19.0,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "22268660": {
     "notified": {
       "discount_percent": 82.609,
@@ -4071,6 +4127,34 @@
     },
     "pending": false
   },
+  "72694451": {
+    "notified": {
+      "discount_percent": 95.0,
+      "id": 72694451,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/140d0f1b3bdb403a3cbf3b9b1c567820c2b7bcbb19ea0407fb71a7600cd6fd87",
+      "name": {
+        "ar": "بصل اخضر (125جم)",
+        "en": "Spring Onion (125g)"
+      },
+      "price": 20.0,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 95.0,
+      "id": 72694451,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/140d0f1b3bdb403a3cbf3b9b1c567820c2b7bcbb19ea0407fb71a7600cd6fd87",
+      "name": {
+        "ar": "بصل اخضر (125جم)",
+        "en": "Spring Onion (125g)"
+      },
+      "price": 20.0,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "76748489": {
     "notified": {
       "discount_percent": 50.0,
@@ -4092,34 +4176,6 @@
       "name": {
         "ar": "10 + 10 مجاناً اندومى نودلز سريعة التحضير بالخضار (75 جم)",
         "en": "10 + 10 FREE Indomie Instant Noodles Vegetables (75g)"
-      },
-      "price": 210.0,
-      "sale_price": 105.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "76748683": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 76748683,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bda39550992a2652c8b4017568442086c6ed2e0122c6fbd109b8ed20d88c4e35",
-      "name": {
-        "ar": "10 + 10 مجاناً اندومي جامبو خضار حار (100 جرام)",
-        "en": "10 + 10 FREE Indomie Jumbo Supermi Hot Spicy (100g)"
-      },
-      "price": 210.0,
-      "reason": "new_discount",
-      "sale_price": 105.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 76748683,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bda39550992a2652c8b4017568442086c6ed2e0122c6fbd109b8ed20d88c4e35",
-      "name": {
-        "ar": "10 + 10 مجاناً اندومي جامبو خضار حار (100 جرام)",
-        "en": "10 + 10 FREE Indomie Jumbo Supermi Hot Spicy (100g)"
       },
       "price": 210.0,
       "sale_price": 105.0,
