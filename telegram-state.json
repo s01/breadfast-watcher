@@ -811,7 +811,7 @@
       },
       "price": 600.0,
       "sale_price": 300.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -1092,34 +1092,6 @@
       "price": 599.0,
       "sale_price": 249.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "41397927": {
-    "notified": {
-      "discount_percent": 92.982,
-      "id": 41397927,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/225e8275d3f64a4f1bc10438a0aab251839d8a6a622b4778bf206587aa49b5a9",
-      "name": {
-        "ar": "ريز كولا زجاجة (400مل)",
-        "en": "Rizz Cola Bottle (400ml)"
-      },
-      "price": 14.25,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 92.982,
-      "id": 41397927,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/225e8275d3f64a4f1bc10438a0aab251839d8a6a622b4778bf206587aa49b5a9",
-      "name": {
-        "ar": "ريز كولا زجاجة (400مل)",
-        "en": "Rizz Cola Bottle (400ml)"
-      },
-      "price": 14.25,
-      "sale_price": 1.0,
-      "stock": 0
     },
     "pending": false
   },
