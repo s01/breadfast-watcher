@@ -1,4 +1,32 @@
 {
+  "11366864": {
+    "notified": {
+      "discount_percent": 91.667,
+      "id": 11366864,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2986e61b2e9264d913868d13989459f3c9d193afe9a6cdab6bdc1e8934c2e926",
+      "name": {
+        "ar": "نسكافيه 3 فى 1 ريتش (21 جم)",
+        "en": "Nescafe 3in1 Rich (21g)"
+      },
+      "price": 12.0,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 91.667,
+      "id": 11366864,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2986e61b2e9264d913868d13989459f3c9d193afe9a6cdab6bdc1e8934c2e926",
+      "name": {
+        "ar": "نسكافيه 3 فى 1 ريتش (21 جم)",
+        "en": "Nescafe 3in1 Rich (21g)"
+      },
+      "price": 12.0,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "19038441": {
     "notified": {
       "discount_percent": 50.127,
@@ -51,6 +79,34 @@
       },
       "price": 2390.0,
       "sale_price": 999.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "22268660": {
+    "notified": {
+      "discount_percent": 86.957,
+      "id": 22268660,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
+      "name": {
+        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
+        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
+      },
+      "price": 5.75,
+      "reason": "new_discount",
+      "sale_price": 0.75,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 86.957,
+      "id": 22268660,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
+      "name": {
+        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
+        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
+      },
+      "price": 5.75,
+      "sale_price": 0.75,
       "stock": 1
     },
     "pending": false
@@ -248,6 +304,34 @@
       "price": 400.0,
       "sale_price": 200.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "2507155": {
+    "notified": {
+      "discount_percent": 88.889,
+      "id": 2507155,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/1625749564_711_125953_classicapplepearen.png",
+      "name": {
+        "ar": "جهينة عصير تفاح كمثرى (235 مل)",
+        "en": "Juhayna Classic Apple Pear (235ml)"
+      },
+      "price": 11.25,
+      "reason": "new_discount",
+      "sale_price": 1.25,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 88.889,
+      "id": 2507155,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/1625749564_711_125953_classicapplepearen.png",
+      "name": {
+        "ar": "جهينة عصير تفاح كمثرى (235 مل)",
+        "en": "Juhayna Classic Apple Pear (235ml)"
+      },
+      "price": 11.25,
+      "sale_price": 1.25,
+      "stock": 1
     },
     "pending": false
   },
@@ -475,7 +559,7 @@
       },
       "price": 585.0,
       "sale_price": 292.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -503,6 +587,34 @@
       },
       "price": 490.0,
       "sale_price": 245.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "303924": {
+    "notified": {
+      "discount_percent": 93.333,
+      "id": 303924,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/3IN1-Phoenix-Sachet-copy.png",
+      "name": {
+        "ar": "نسكافيه قهوة 3 في 1 (1 ساشيه)",
+        "en": "Nescafe 3-in-1 (1 Sachet)"
+      },
+      "price": 7.5,
+      "reason": "new_discount",
+      "sale_price": 0.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 93.333,
+      "id": 303924,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/3IN1-Phoenix-Sachet-copy.png",
+      "name": {
+        "ar": "نسكافيه قهوة 3 في 1 (1 ساشيه)",
+        "en": "Nescafe 3-in-1 (1 Sachet)"
+      },
+      "price": 7.5,
+      "sale_price": 0.5,
       "stock": 1
     },
     "pending": false
@@ -1239,6 +1351,34 @@
     },
     "pending": false
   },
+  "408832": {
+    "notified": {
+      "discount_percent": 88.889,
+      "id": 408832,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/coctail-235.png",
+      "name": {
+        "ar": "جهينه كلاسيك كوكتيل (235 مل)",
+        "en": "Juhayna Classic Cocktail (235ml)"
+      },
+      "price": 11.25,
+      "reason": "new_discount",
+      "sale_price": 1.25,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 88.889,
+      "id": 408832,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/coctail-235.png",
+      "name": {
+        "ar": "جهينه كلاسيك كوكتيل (235 مل)",
+        "en": "Juhayna Classic Cocktail (235ml)"
+      },
+      "price": 11.25,
+      "sale_price": 1.25,
+      "stock": 1
+    },
+    "pending": false
+  },
   "41021944": {
     "notified": {
       "discount_percent": 58.431,
@@ -1263,6 +1403,78 @@
       },
       "price": 599.0,
       "sale_price": 249.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "41397927": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 91.228,
+      "id": 41397927,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/225e8275d3f64a4f1bc10438a0aab251839d8a6a622b4778bf206587aa49b5a9",
+      "name": {
+        "ar": "ريز كولا زجاجة (400مل)",
+        "en": "Rizz Cola Bottle (400ml)"
+      },
+      "price": 14.25,
+      "sale_price": 1.25,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "41397932": {
+    "notified": {
+      "discount_percent": 91.228,
+      "id": 41397932,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03e0a7928145eaf41f08b882b3d0e650115102c647bea0116ab0d0bebbe48f5a",
+      "name": {
+        "ar": "ريز ليمون زجاجة (400مل)",
+        "en": "Rizz Lemon Bottle (400ml)"
+      },
+      "price": 14.25,
+      "reason": "new_discount",
+      "sale_price": 1.25,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 91.228,
+      "id": 41397932,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/03e0a7928145eaf41f08b882b3d0e650115102c647bea0116ab0d0bebbe48f5a",
+      "name": {
+        "ar": "ريز ليمون زجاجة (400مل)",
+        "en": "Rizz Lemon Bottle (400ml)"
+      },
+      "price": 14.25,
+      "sale_price": 1.25,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "42820237": {
+    "notified": {
+      "discount_percent": 80.0,
+      "id": 42820237,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5623bd9f0ab3ce661c88edc246275363f37f0801f058282249f0662a3c7d2c45",
+      "name": {
+        "ar": "شوتس سودانى ملون (قطعة)",
+        "en": "Shots Peanuts (Piece)"
+      },
+      "price": 5.0,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 80.0,
+      "id": 42820237,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5623bd9f0ab3ce661c88edc246275363f37f0801f058282249f0662a3c7d2c45",
+      "name": {
+        "ar": "شوتس سودانى ملون (قطعة)",
+        "en": "Shots Peanuts (Piece)"
+      },
+      "price": 5.0,
+      "sale_price": 1.0,
       "stock": 1
     },
     "pending": false
@@ -2188,6 +2400,34 @@
       "price": 275.0,
       "sale_price": 137.5,
       "stock": 3
+    },
+    "pending": false
+  },
+  "44737475": {
+    "notified": {
+      "discount_percent": 94.444,
+      "id": 44737475,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a0640bb4f3c5ca92eab46de5d008e62cb9f7d7398d9322b98372cbbed8116b9c",
+      "name": {
+        "ar": "10x بريدفاست رقائق البطاطس بملح البحر (48ج)",
+        "en": "10x Breadfast Kettle-Cooked Chips with Sea Salt (48g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 10.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 94.444,
+      "id": 44737475,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a0640bb4f3c5ca92eab46de5d008e62cb9f7d7398d9322b98372cbbed8116b9c",
+      "name": {
+        "ar": "10x بريدفاست رقائق البطاطس بملح البحر (48ج)",
+        "en": "10x Breadfast Kettle-Cooked Chips with Sea Salt (48g)"
+      },
+      "price": 180.0,
+      "sale_price": 10.0,
+      "stock": 1
     },
     "pending": false
   },
