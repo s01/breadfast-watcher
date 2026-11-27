@@ -1,592 +1,4 @@
 {
-  "1373607": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 1373607,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bank-elhaz.png",
-      "name": {
-        "ar": "نيلكو بنك الحظ",
-        "en": "Nilco Original Bank El Haz"
-      },
-      "price": 585.0,
-      "reason": "new_discount",
-      "sale_price": 292.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 1373607,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/bank-elhaz.png",
-      "name": {
-        "ar": "نيلكو بنك الحظ",
-        "en": "Nilco Original Bank El Haz"
-      },
-      "price": 585.0,
-      "sale_price": 292.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "1375878": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 1375878,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/connect-four.png",
-      "name": {
-        "ar": "نيلكو لعبة فور ان رو",
-        "en": "Nilco Four In a Row Game"
-      },
-      "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 1375878,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/connect-four.png",
-      "name": {
-        "ar": "نيلكو لعبة فور ان رو",
-        "en": "Nilco Four In a Row Game"
-      },
-      "price": 275.0,
-      "sale_price": 137.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "13972973": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 13972973,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f838ea85ca927e59aed1ec119e49c0c265a3393597dd59d0f0256e19153776d7",
-      "name": {
-        "ar": "ليمتلس وومان ماكس (30 قرص)",
-        "en": "Limitless Woman Max (30 Tablets)"
-      },
-      "price": 265.0,
-      "reason": "new_discount",
-      "sale_price": 106.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 13972973,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f838ea85ca927e59aed1ec119e49c0c265a3393597dd59d0f0256e19153776d7",
-      "name": {
-        "ar": "ليمتلس وومان ماكس (30 قرص)",
-        "en": "Limitless Woman Max (30 Tablets)"
-      },
-      "price": 265.0,
-      "sale_price": 106.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "13980418": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 13980418,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5e0468ce1ff5bc914562e20954f3c91ea861be61d6ec9c1eb7ed3842c2fd20c2",
-      "name": {
-        "ar": "لاروش بوساي أنتيليوس اكس ال تنتد دراي تاتش جل كريم معامل حماية 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios XL Tinted Dry Touch Anti-Shine Gel Cream SPF50+ (50ml)"
-      },
-      "price": 1070.0,
-      "reason": "new_discount",
-      "sale_price": 535.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 13980418,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5e0468ce1ff5bc914562e20954f3c91ea861be61d6ec9c1eb7ed3842c2fd20c2",
-      "name": {
-        "ar": "لاروش بوساي أنتيليوس اكس ال تنتد دراي تاتش جل كريم معامل حماية 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios XL Tinted Dry Touch Anti-Shine Gel Cream SPF50+ (50ml)"
-      },
-      "price": 1070.0,
-      "sale_price": 535.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "14124410": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 14124410,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/61lg2nKtAFL._AC_SL1500_.png",
-      "name": {
-        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 مهدئ ومصلح (100 مل)",
-        "en": "La Roche Posay Cicaplast Baume B5 Soothing Repair (100ml)"
-      },
-      "price": 1300.0,
-      "reason": "new_discount",
-      "sale_price": 520.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 14124410,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/61lg2nKtAFL._AC_SL1500_.png",
-      "name": {
-        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 مهدئ ومصلح (100 مل)",
-        "en": "La Roche Posay Cicaplast Baume B5 Soothing Repair (100ml)"
-      },
-      "price": 1300.0,
-      "sale_price": 520.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "14124520": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 14124520,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/39733.jpg",
-      "name": {
-        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 (40 مل)",
-        "en": "La Roche Posay Cicaplast Baume B5 (40ml)"
-      },
-      "price": 899.0,
-      "reason": "new_discount",
-      "sale_price": 359.6,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 14124520,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/39733.jpg",
-      "name": {
-        "ar": "لاروش بوزيه سيكابلاست بوم بي 5 (40 مل)",
-        "en": "La Roche Posay Cicaplast Baume B5 (40ml)"
-      },
-      "price": 899.0,
-      "sale_price": 359.6,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "14371523": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 14371523,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/121711.png",
-      "name": {
-        "ar": "( ديرماكتيف اكتي ريبير - كريم ترميم البشرة ( 50 مل",
-        "en": "Dermactive Acti-Repair Cica Cream (50ml)"
-      },
-      "price": 195.0,
-      "reason": "new_discount",
-      "sale_price": 78.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 14371523,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/10/121711.png",
-      "name": {
-        "ar": "( ديرماكتيف اكتي ريبير - كريم ترميم البشرة ( 50 مل",
-        "en": "Dermactive Acti-Repair Cica Cream (50ml)"
-      },
-      "price": 195.0,
-      "sale_price": 78.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17446467": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 17446467,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/eyeliner.png",
-      "name": {
-        "ar": "مايبيلين كول كاجال آرجان أويل زامو نو 02 ايكستر.",
-        "en": "Maybelline Colossal Kajal Eyeliner"
-      },
-      "price": 230.0,
-      "reason": "new_discount",
-      "sale_price": 92.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 17446467,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/eyeliner.png",
-      "name": {
-        "ar": "مايبيلين كول كاجال آرجان أويل زامو نو 02 ايكستر.",
-        "en": "Maybelline Colossal Kajal Eyeliner"
-      },
-      "price": 230.0,
-      "sale_price": 92.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17447068": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 17447068,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/maybelline-colossal2.png",
-      "name": {
-        "ar": "ميبيلين ماسكار فوليوم ايكسبريس كولوسال بلاك",
-        "en": "Maybelline Mascara Colossal Black"
-      },
-      "price": 335.0,
-      "reason": "new_discount",
-      "sale_price": 134.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 17447068,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/maybelline-colossal2.png",
-      "name": {
-        "ar": "ميبيلين ماسكار فوليوم ايكسبريس كولوسال بلاك",
-        "en": "Maybelline Mascara Colossal Black"
-      },
-      "price": 335.0,
-      "sale_price": 134.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "17448215": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 17448215,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/Screenshot-2024-02-06-155407.png",
-      "name": {
-        "ar": "ميبيلين فيتمى ماط فوينديشن 105",
-        "en": "Maybelline Fit Me Matte Foundation 105 Natury Ivory"
-      },
-      "price": 555.0,
-      "reason": "new_discount",
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 17448215,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/Screenshot-2024-02-06-155407.png",
-      "name": {
-        "ar": "ميبيلين فيتمى ماط فوينديشن 105",
-        "en": "Maybelline Fit Me Matte Foundation 105 Natury Ivory"
-      },
-      "price": 555.0,
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17448504": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 17448504,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/3600531369392.jpg",
-      "name": {
-        "ar": "ميبيلين فيتمى ماط فوينديشن 118",
-        "en": "Maybelline Fit Me Matte Foundation 118 Nude"
-      },
-      "price": 555.0,
-      "reason": "new_discount",
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 17448504,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/3600531369392.jpg",
-      "name": {
-        "ar": "ميبيلين فيتمى ماط فوينديشن 118",
-        "en": "Maybelline Fit Me Matte Foundation 118 Nude"
-      },
-      "price": 555.0,
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17469276": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 17469276,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/maybelline-instant-anti-age-eraser-eye-concealer-01-light-2.png",
-      "name": {
-        "ar": "ميبيلين انستانت انتى آى اريزر آى كونسيلر 01 لايت",
-        "en": "Maybelline Instant Anti Age Eraser Eye Concealer 01 Light"
-      },
-      "price": 680.0,
-      "reason": "new_discount",
-      "sale_price": 340.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 17469276,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/maybelline-instant-anti-age-eraser-eye-concealer-01-light-2.png",
-      "name": {
-        "ar": "ميبيلين انستانت انتى آى اريزر آى كونسيلر 01 لايت",
-        "en": "Maybelline Instant Anti Age Eraser Eye Concealer 01 Light"
-      },
-      "price": 680.0,
-      "sale_price": 340.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17469277": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 17469277,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/maybelline-instant-anti-age-eraser-eye-concealer-02-nude.png",
-      "name": {
-        "ar": "ميبيلين انستانت انتى آى اريزر آى كونسيلر 02 نود",
-        "en": "Maybelline Instant Anti Age Eraser Eye Concealer 02 Nude"
-      },
-      "price": 680.0,
-      "reason": "new_discount",
-      "sale_price": 340.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 17469277,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/maybelline-instant-anti-age-eraser-eye-concealer-02-nude.png",
-      "name": {
-        "ar": "ميبيلين انستانت انتى آى اريزر آى كونسيلر 02 نود",
-        "en": "Maybelline Instant Anti Age Eraser Eye Concealer 02 Nude"
-      },
-      "price": 680.0,
-      "sale_price": 340.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17475127": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 17475127,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/3607342452169_MAIN.png",
-      "name": {
-        "ar": "ريميل لندن ماسكارا سكاندل ايز ليكرا فليكس 001 اسود",
-        "en": "Rimmel Scandal Flex Mascara"
-      },
-      "price": 580.0,
-      "reason": "new_discount",
-      "sale_price": 290.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 17475127,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/3607342452169_MAIN.png",
-      "name": {
-        "ar": "ريميل لندن ماسكارا سكاندل ايز ليكرا فليكس 001 اسود",
-        "en": "Rimmel Scandal Flex Mascara"
-      },
-      "price": 580.0,
-      "sale_price": 290.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "17479971": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 17479971,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/3616303997731_1.jpg",
-      "name": {
-        "ar": "ماسكارا ثريل -001- اسود 8 مل",
-        "en": "Rimmel Wonder Volume Thrill Mascara"
-      },
-      "price": 615.0,
-      "reason": "new_discount",
-      "sale_price": 307.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 17479971,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/3616303997731_1.jpg",
-      "name": {
-        "ar": "ماسكارا ثريل -001- اسود 8 مل",
-        "en": "Rimmel Wonder Volume Thrill Mascara"
-      },
-      "price": 615.0,
-      "sale_price": 307.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "1762778": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 1762778,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/fairy-lemon.png",
-      "name": {
-        "ar": "فيري سائل غسيل الاطباق الترا برائحه الليمون خصم 2 جنيه ( 420 جرام )",
-        "en": "Fairy Ultra Concentrated Dishwashing Lemon Scent 2 L.E Off (420gm)"
-      },
-      "price": 87.0,
-      "reason": "new_discount",
-      "sale_price": 43.5,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 1762778,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/fairy-lemon.png",
-      "name": {
-        "ar": "فيري سائل غسيل الاطباق الترا برائحه الليمون خصم 2 جنيه ( 420 جرام )",
-        "en": "Fairy Ultra Concentrated Dishwashing Lemon Scent 2 L.E Off (420gm)"
-      },
-      "price": 87.0,
-      "sale_price": 43.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "1925112": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 1925112,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7c7daf906589167b89acf5464885d54b8d95faeaa53e1b492c472289eddd4701",
-      "name": {
-        "ar": "جارنيية تفتيح اسرع سيروم للوجه بفياتمين سي (30 مل)",
-        "en": "Garnier Fast Bright Vitamin-C Serum (30ml)"
-      },
-      "price": 330.0,
-      "reason": "new_discount",
-      "sale_price": 165.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 1925112,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7c7daf906589167b89acf5464885d54b8d95faeaa53e1b492c472289eddd4701",
-      "name": {
-        "ar": "جارنيية تفتيح اسرع سيروم للوجه بفياتمين سي (30 مل)",
-        "en": "Garnier Fast Bright Vitamin-C Serum (30ml)"
-      },
-      "price": 330.0,
-      "sale_price": 165.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "1990010": {
-    "notified": {
-      "discount_percent": 57.999,
-      "id": 1990010,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/Mockup-steak-burger.png",
-      "name": {
-        "ar": "حلواني ستيك برجر بقري (600 جرام)",
-        "en": "Halwani Beef Steak Burger (600g)"
-      },
-      "price": 343.9,
-      "reason": "new_discount",
-      "sale_price": 144.44,
-      "stock": 7
-    },
-    "observed": {
-      "discount_percent": 57.999,
-      "id": 1990010,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/Mockup-steak-burger.png",
-      "name": {
-        "ar": "حلواني ستيك برجر بقري (600 جرام)",
-        "en": "Halwani Beef Steak Burger (600g)"
-      },
-      "price": 343.9,
-      "sale_price": 144.44,
-      "stock": 7
-    },
-    "pending": false
-  },
-  "1990394": {
-    "notified": {
-      "discount_percent": 59.9,
-      "id": 1990394,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ff1dbb3686c1ddb013506d3af5743cf9bf4b82a858373d83735f06cb45a541f7",
-      "name": {
-        "ar": "حلواني ستربس دجاج عادي (1 كيلو)",
-        "en": "Halwani Chicken Strips Regular (1Kg)"
-      },
-      "price": 409.45,
-      "reason": "new_discount",
-      "sale_price": 164.19,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 59.9,
-      "id": 1990394,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ff1dbb3686c1ddb013506d3af5743cf9bf4b82a858373d83735f06cb45a541f7",
-      "name": {
-        "ar": "حلواني ستربس دجاج عادي (1 كيلو)",
-        "en": "Halwani Chicken Strips Regular (1Kg)"
-      },
-      "price": 409.45,
-      "sale_price": 164.19,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "21096499": {
-    "notified": {
-      "discount_percent": 62.641,
-      "id": 21096499,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Barameli-Felfel.jpg",
-      "name": {
-        "ar": "جبنة براميلي بالفلفل (300 جرام)",
-        "en": "Barameli Cheese with Peppers (300g)"
-      },
-      "price": 78.0,
-      "reason": "new_discount",
-      "sale_price": 29.14,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 62.641,
-      "id": 21096499,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Barameli-Felfel.jpg",
-      "name": {
-        "ar": "جبنة براميلي بالفلفل (300 جرام)",
-        "en": "Barameli Cheese with Peppers (300g)"
-      },
-      "price": 78.0,
-      "sale_price": 29.14,
-      "stock": 5
-    },
-    "pending": false
-  },
-  "21728413": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21728413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-09-at-12.41.45_38b629c2.jpg",
-      "name": {
-        "ar": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose",
-        "en": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose"
-      },
-      "price": 650.0,
-      "reason": "new_discount",
-      "sale_price": 325.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21728413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-09-at-12.41.45_38b629c2.jpg",
-      "name": {
-        "ar": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose",
-        "en": "Max Factor Facefinity Powder Blush 50 Sunkissed Rose"
-      },
-      "price": 650.0,
-      "sale_price": 325.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "22754650": {
     "notified": {
       "discount_percent": 50.0,
@@ -723,7 +135,7 @@
       },
       "price": 490.0,
       "sale_price": 245.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -751,7 +163,7 @@
       },
       "price": 375.0,
       "sale_price": 187.5,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
@@ -779,231 +191,7 @@
       },
       "price": 400.0,
       "sale_price": 200.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "2450624": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 2450624,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f422dbd1233029b76c36fe61de476c146405142384f080900ff705ad1dd93a27",
-      "name": {
-        "ar": "ميبلين نيويورك كريم أساس فيت مي مات + بورلس درجة 115 ايفوري (30 مل)",
-        "en": "Maybelline Fit Me Matte + Poreless Foundation 115 Ivory (30ml)"
-      },
-      "price": 555.0,
-      "reason": "new_discount",
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 2450624,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f422dbd1233029b76c36fe61de476c146405142384f080900ff705ad1dd93a27",
-      "name": {
-        "ar": "ميبلين نيويورك كريم أساس فيت مي مات + بورلس درجة 115 ايفوري (30 مل)",
-        "en": "Maybelline Fit Me Matte + Poreless Foundation 115 Ivory (30ml)"
-      },
-      "price": 555.0,
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "25791484": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 25791484,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/Brow-Sculpt-Dark-Brown.jpg",
-      "name": {
-        "ar": "Essentials Brow Sculpt - Dark Brown (5ml)",
-        "en": "Essentials Brow Sculpt - Dark Brown (5ml)"
-      },
-      "price": 250.0,
-      "reason": "new_discount",
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 25791484,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/Brow-Sculpt-Dark-Brown.jpg",
-      "name": {
-        "ar": "Essentials Brow Sculpt - Dark Brown (5ml)",
-        "en": "Essentials Brow Sculpt - Dark Brown (5ml)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26663926": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26663926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/3401578653709.png",
-      "name": {
-        "ar": "بيوديرما جل رغوي منقي لبشرة دهنية سيبيوم (200 مل)",
-        "en": "Bioderma Sebium Purifying Foaming Gel (200ml)"
-      },
-      "price": 879.0,
-      "reason": "new_discount",
-      "sale_price": 439.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26663926,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/3401578653709.png",
-      "name": {
-        "ar": "بيوديرما جل رغوي منقي لبشرة دهنية سيبيوم (200 مل)",
-        "en": "Bioderma Sebium Purifying Foaming Gel (200ml)"
-      },
-      "price": 879.0,
-      "sale_price": 439.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26793659": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26793659,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/3600531369361.png",
-      "name": {
-        "ar": "ميبلين نيويورك كريم أساس فيت مي مات + بورلس درجة 102 فير ايفوري (30 مل)",
-        "en": "Maybelline Fit Me Matte + Poreless Foundation 102 Fair Ivory (30ml)"
-      },
-      "price": 555.0,
-      "reason": "new_discount",
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26793659,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/3600531369361.png",
-      "name": {
-        "ar": "ميبلين نيويورك كريم أساس فيت مي مات + بورلس درجة 102 فير ايفوري (30 مل)",
-        "en": "Maybelline Fit Me Matte + Poreless Foundation 102 Fair Ivory (30ml)"
-      },
-      "price": 555.0,
-      "sale_price": 277.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26796579": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26796579,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/30118874.png",
-      "name": {
-        "ar": "ميبيلين محدد للعين ماستر إنك مات 10 لون أسود",
-        "en": "Maybelline Master Ink Matte Eyeliner 10 Black"
-      },
-      "price": 690.0,
-      "reason": "new_discount",
-      "sale_price": 345.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26796579,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/30118874.png",
-      "name": {
-        "ar": "ميبيلين محدد للعين ماستر إنك مات 10 لون أسود",
-        "en": "Maybelline Master Ink Matte Eyeliner 10 Black"
-      },
-      "price": 690.0,
-      "sale_price": 345.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26888261": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 26888261,
-      "image": "https://web-production-e9e3b.up.railway.app/img/3337875597197/2bd2dc378debbdfc.jpg",
-      "name": {
-        "ar": "سيرافي منظف رغوي للبشرة العادية والدهنية (236 مل)",
-        "en": "Cerave Foaming Facial Cleanser (236ml)"
-      },
-      "price": 620.0,
-      "reason": "new_discount",
-      "sale_price": 248.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 26888261,
-      "image": "https://web-production-e9e3b.up.railway.app/img/3337875597197/2bd2dc378debbdfc.jpg",
-      "name": {
-        "ar": "سيرافي منظف رغوي للبشرة العادية والدهنية (236 مل)",
-        "en": "Cerave Foaming Facial Cleanser (236ml)"
-      },
-      "price": 620.0,
-      "sale_price": 248.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27255473": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27255473,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/800307842750.png",
-      "name": {
-        "ar": "كينيتيكس طلاء أظافر توب كوت سولارجل (15 مل)",
-        "en": "Kinetics Solar Gel Top Coat (15ml)"
-      },
-      "price": 690.0,
-      "reason": "new_discount",
-      "sale_price": 345.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27255473,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/800307842750.png",
-      "name": {
-        "ar": "كينيتيكس طلاء أظافر توب كوت سولارجل (15 مل)",
-        "en": "Kinetics Solar Gel Top Coat (15ml)"
-      },
-      "price": 690.0,
-      "sale_price": 345.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27504409": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 27504409,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ba5d1976744a4fe0f8ba339c5764caf52eaa081fa06dd33790e1f72b8c37b8ec",
-      "name": {
-        "ar": "بيزلين سيروم اندر ارم للتفتيح الفوري (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum Instant Bright (150ml)"
-      },
-      "price": 599.0,
-      "reason": "new_discount",
-      "sale_price": 239.6,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 27504409,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ba5d1976744a4fe0f8ba339c5764caf52eaa081fa06dd33790e1f72b8c37b8ec",
-      "name": {
-        "ar": "بيزلين سيروم اندر ارم للتفتيح الفوري (150 مل)",
-        "en": "Beesline Radiant Bright Under Arm Serum Instant Bright (150ml)"
-      },
-      "price": 599.0,
-      "sale_price": 239.6,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1032,454 +220,6 @@
       "price": 320.0,
       "sale_price": 160.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "27709750": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27709750,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/98958f5f86b3a607a6c1079a337758d98226b96d577cd7bf16b6d670f3b66296",
-      "name": {
-        "ar": "سيبال كونسيلر وكونتور كوفر اب رقم.03 توفي (7 جرام)",
-        "en": "Cybele Cover Up Concealer No.03 Toffee (7g)"
-      },
-      "price": 257.0,
-      "reason": "new_discount",
-      "sale_price": 128.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27709750,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/98958f5f86b3a607a6c1079a337758d98226b96d577cd7bf16b6d670f3b66296",
-      "name": {
-        "ar": "سيبال كونسيلر وكونتور كوفر اب رقم.03 توفي (7 جرام)",
-        "en": "Cybele Cover Up Concealer No.03 Toffee (7g)"
-      },
-      "price": 257.0,
-      "sale_price": 128.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27711103": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27711103,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Cozy-08-Teal-6221105416778.png",
-      "name": {
-        "ar": "سيبال كوزي قلم كحل جيل رقم.08 تيل (1.20 جرام)",
-        "en": "Cybele Cozy Eyeliner Gel No.08 Teal (1.20g)"
-      },
-      "price": 240.0,
-      "reason": "new_discount",
-      "sale_price": 120.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27711103,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Cozy-08-Teal-6221105416778.png",
-      "name": {
-        "ar": "سيبال كوزي قلم كحل جيل رقم.08 تيل (1.20 جرام)",
-        "en": "Cybele Cozy Eyeliner Gel No.08 Teal (1.20g)"
-      },
-      "price": 240.0,
-      "sale_price": 120.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27721325": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27721325,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/6221105414071.png",
-      "name": {
-        "ar": "سيبال مسكرا ليفيل اب اسود (8 مل)",
-        "en": "Cybele Level Up Mascara Black (8ml)"
-      },
-      "price": 290.0,
-      "reason": "new_discount",
-      "sale_price": 145.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27721325,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/6221105414071.png",
-      "name": {
-        "ar": "سيبال مسكرا ليفيل اب اسود (8 مل)",
-        "en": "Cybele Level Up Mascara Black (8ml)"
-      },
-      "price": 290.0,
-      "sale_price": 145.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27721539": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27721539,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/6221105000748-Tint-01-Rose.png",
-      "name": {
-        "ar": "سيبال تينت للشفاه و الخدود رقم.01 روز (3.5 مل)",
-        "en": "Cybele Lip & Cheek Tint Stain No.01 Rose (3.5ml)"
-      },
-      "price": 260.0,
-      "reason": "new_discount",
-      "sale_price": 130.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27721539,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/6221105000748-Tint-01-Rose.png",
-      "name": {
-        "ar": "سيبال تينت للشفاه و الخدود رقم.01 روز (3.5 مل)",
-        "en": "Cybele Lip & Cheek Tint Stain No.01 Rose (3.5ml)"
-      },
-      "price": 260.0,
-      "sale_price": 130.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27754429": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27754429,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Matic-Eyeliner-04-Green-6221105008256.png",
-      "name": {
-        "ar": "سيبال ماتيك قلم كحل رقم.04 أخضر (1.2 جرام)",
-        "en": "Cybele Matic Eyeliner Pencil No.04 Green (1.2g)"
-      },
-      "price": 250.0,
-      "reason": "new_discount",
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27754429,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Matic-Eyeliner-04-Green-6221105008256.png",
-      "name": {
-        "ar": "سيبال ماتيك قلم كحل رقم.04 أخضر (1.2 جرام)",
-        "en": "Cybele Matic Eyeliner Pencil No.04 Green (1.2g)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27841582": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27841582,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/6221105000397_21_DUSTY_ROSE.png",
-      "name": {
-        "ar": "سيبال سموز ان وير بودر بلاشر رقم.21 دستي روز (3.7 جرام)",
-        "en": "Cybele Smooth N'Wear Powder Blush No.21 Dusty Rose (3.7g)"
-      },
-      "price": 275.0,
-      "reason": "new_discount",
-      "sale_price": 137.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27841582,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/6221105000397_21_DUSTY_ROSE.png",
-      "name": {
-        "ar": "سيبال سموز ان وير بودر بلاشر رقم.21 دستي روز (3.7 جرام)",
-        "en": "Cybele Smooth N'Wear Powder Blush No.21 Dusty Rose (3.7g)"
-      },
-      "price": 275.0,
-      "sale_price": 137.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27854118": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27854118,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Vanilla-Sugar.png",
-      "name": {
-        "ar": "ايسينشيالز كريم لليدين بنكهة الفانيليا و السكر (60 مل)",
-        "en": "Essentials Hand Cream Vanilla Sugar (60ml)"
-      },
-      "price": 165.0,
-      "reason": "new_discount",
-      "sale_price": 82.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27854118,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Vanilla-Sugar.png",
-      "name": {
-        "ar": "ايسينشيالز كريم لليدين بنكهة الفانيليا و السكر (60 مل)",
-        "en": "Essentials Hand Cream Vanilla Sugar (60ml)"
-      },
-      "price": 165.0,
-      "sale_price": 82.5,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "27854199": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27854199,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/deep-candy.png",
-      "name": {
-        "ar": "ايسينشيالز كريم لليدين بنكهة ديب كاندي (60 مل)",
-        "en": "Essentials Hand Cream Deep Candy (60ml)"
-      },
-      "price": 165.0,
-      "reason": "new_discount",
-      "sale_price": 82.5,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27854199,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/deep-candy.png",
-      "name": {
-        "ar": "ايسينشيالز كريم لليدين بنكهة ديب كاندي (60 مل)",
-        "en": "Essentials Hand Cream Deep Candy (60ml)"
-      },
-      "price": 165.0,
-      "sale_price": 82.5,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "27854340": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27854340,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Berries.png",
-      "name": {
-        "ar": "ايسينشيالز كريم لليدين بنكهة وايلد بيريز (60 مل)",
-        "en": "Essentials Hand Cream Wild Berries (60ml)"
-      },
-      "price": 165.0,
-      "reason": "new_discount",
-      "sale_price": 82.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27854340,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/Berries.png",
-      "name": {
-        "ar": "ايسينشيالز كريم لليدين بنكهة وايلد بيريز (60 مل)",
-        "en": "Essentials Hand Cream Wild Berries (60ml)"
-      },
-      "price": 165.0,
-      "sale_price": 82.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "28058269": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28058269,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/5057566479912.png",
-      "name": {
-        "ar": "ريفولوشن باور لاش فوليوم ماسكارا",
-        "en": "Revolution Power Lash Volume Mascara"
-      },
-      "price": 231.0,
-      "reason": "new_discount",
-      "sale_price": 115.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28058269,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/5057566479912.png",
-      "name": {
-        "ar": "ريفولوشن باور لاش فوليوم ماسكارا",
-        "en": "Revolution Power Lash Volume Mascara"
-      },
-      "price": 231.0,
-      "sale_price": 115.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "28296474": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28296474,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/305210045040.png",
-      "name": {
-        "ar": "فازلين زيت الجسم إيلومينيت مي شيمرينغ مصنوع من زيت الميلانين (97 مل)",
-        "en": "Vaseline Illuminate Me Shimmering Body Oil for Glowing Skin (97ml)"
-      },
-      "price": 799.0,
-      "reason": "new_discount",
-      "sale_price": 399.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28296474,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/305210045040.png",
-      "name": {
-        "ar": "فازلين زيت الجسم إيلومينيت مي شيمرينغ مصنوع من زيت الميلانين (97 مل)",
-        "en": "Vaseline Illuminate Me Shimmering Body Oil for Glowing Skin (97ml)"
-      },
-      "price": 799.0,
-      "sale_price": 399.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "28612810": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 28612810,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/423f927ff325897e2bc162f6c236ccd84d5690730ebbc309f16fb7a7d64ccbfc",
-      "name": {
-        "ar": "شيسيدو فينو ماسك شعر فاخر (230 جرام)",
-        "en": "Shiseido Fino Premium Touch Hair Mask (230g)"
-      },
-      "price": 892.0,
-      "reason": "new_discount",
-      "sale_price": 356.8,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 28612810,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/423f927ff325897e2bc162f6c236ccd84d5690730ebbc309f16fb7a7d64ccbfc",
-      "name": {
-        "ar": "شيسيدو فينو ماسك شعر فاخر (230 جرام)",
-        "en": "Shiseido Fino Premium Touch Hair Mask (230g)"
-      },
-      "price": 892.0,
-      "sale_price": 356.8,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "28997091": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28997091,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4927820de3a1c9ddb94c011eb00b0c8620daed9752b4f8df72c2d0f1aaa9409e",
-      "name": {
-        "ar": "لاروش بوزاي واقي من الشمس سائل انثيليوس  SPF50+ تنتد فلويد (50 مل)",
-        "en": "La Roche Posay Anthelios UV Mune Fluid SPF50+ Tinted Fluid (50ml)"
-      },
-      "price": 1070.0,
-      "reason": "new_discount",
-      "sale_price": 535.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28997091,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4927820de3a1c9ddb94c011eb00b0c8620daed9752b4f8df72c2d0f1aaa9409e",
-      "name": {
-        "ar": "لاروش بوزاي واقي من الشمس سائل انثيليوس  SPF50+ تنتد فلويد (50 مل)",
-        "en": "La Roche Posay Anthelios UV Mune Fluid SPF50+ Tinted Fluid (50ml)"
-      },
-      "price": 1070.0,
-      "sale_price": 535.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "29263210": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 29263210,
-      "image": "https://iili.io/Ccm237t.jpg",
-      "name": {
-        "ar": "كيراستاس جينيسيس سيروم يومي مقوي مضاد لتساقط الشعر للشعر الضعيف (90 مل)",
-        "en": "Kérastase Genesis Daily Anti Hair Fall, Fortifying Serum for Weakened Hair (90ml)"
-      },
-      "price": 2700.0,
-      "reason": "new_discount",
-      "sale_price": 1080.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 29263210,
-      "image": "https://iili.io/Ccm237t.jpg",
-      "name": {
-        "ar": "كيراستاس جينيسيس سيروم يومي مقوي مضاد لتساقط الشعر للشعر الضعيف (90 مل)",
-        "en": "Kérastase Genesis Daily Anti Hair Fall, Fortifying Serum for Weakened Hair (90ml)"
-      },
-      "price": 2700.0,
-      "sale_price": 1080.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "29500118": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29500118,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fc1a81f111fc846e2125cfcfce84073718820464a3ed399cb0c0ad839d7d5532",
-      "name": {
-        "ar": "سيفورا زيت الجوجوبا متعدد الاستخدامات (100 مل)",
-        "en": "Sephora Multi-Purpose Oil Jojoba Protecting Oil (100ml)"
-      },
-      "price": 740.0,
-      "reason": "new_discount",
-      "sale_price": 370.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29500118,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fc1a81f111fc846e2125cfcfce84073718820464a3ed399cb0c0ad839d7d5532",
-      "name": {
-        "ar": "سيفورا زيت الجوجوبا متعدد الاستخدامات (100 مل)",
-        "en": "Sephora Multi-Purpose Oil Jojoba Protecting Oil (100ml)"
-      },
-      "price": 740.0,
-      "sale_price": 370.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "29814925": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29814925,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/55f777d03ea0cedffb313b7b07a09369d3591ba380859ecf2ec8a3b4a5629e66",
-      "name": {
-        "ar": "ديرماسي محلول تقشير بحمض الفا هيدروكسي + بيتا  (30 مل",
-        "en": "Dermacy Peeling Solution AHA + BHA (30ml)"
-      },
-      "price": 640.0,
-      "reason": "new_discount",
-      "sale_price": 320.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29814925,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/55f777d03ea0cedffb313b7b07a09369d3591ba380859ecf2ec8a3b4a5629e66",
-      "name": {
-        "ar": "ديرماسي محلول تقشير بحمض الفا هيدروكسي + بيتا  (30 مل",
-        "en": "Dermacy Peeling Solution AHA + BHA (30ml)"
-      },
-      "price": 640.0,
-      "sale_price": 320.0,
-      "stock": 2
     },
     "pending": false
   },
@@ -1623,174 +363,6 @@
     },
     "pending": false
   },
-  "30414182": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30414182,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/72dcdddad5c925b4d7db7e230705da3fc3eaeee0b6f8021331222363f1ee462b",
-      "name": {
-        "ar": "سكن 101 بادي جلو جولد برونز (60 مل)",
-        "en": "SKIN101 Body Glow Gold Bronze (60ml)"
-      },
-      "price": 390.0,
-      "reason": "new_discount",
-      "sale_price": 195.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30414182,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/72dcdddad5c925b4d7db7e230705da3fc3eaeee0b6f8021331222363f1ee462b",
-      "name": {
-        "ar": "سكن 101 بادي جلو جولد برونز (60 مل)",
-        "en": "SKIN101 Body Glow Gold Bronze (60ml)"
-      },
-      "price": 390.0,
-      "sale_price": 195.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "30787900": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30787900,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/941ed9022a1f6f587b62849f205f7332ff1de9b6ae93d26d0bb161017ab2e0e6",
-      "name": {
-        "ar": "ليميتلس الفا 30 ملعقة (EAA) + إلكتروليتات بطعم البطيخ (296 جرام)",
-        "en": "Limitless Alpha (EAA) + Electrolytes Watermelon 30 Scoops Jar (296g)"
-      },
-      "price": 825.0,
-      "reason": "new_discount",
-      "sale_price": 412.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30787900,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/941ed9022a1f6f587b62849f205f7332ff1de9b6ae93d26d0bb161017ab2e0e6",
-      "name": {
-        "ar": "ليميتلس الفا 30 ملعقة (EAA) + إلكتروليتات بطعم البطيخ (296 جرام)",
-        "en": "Limitless Alpha (EAA) + Electrolytes Watermelon 30 Scoops Jar (296g)"
-      },
-      "price": 825.0,
-      "sale_price": 412.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "30789533": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30789533,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e4540121b8a9c8211e99b61910385d44739db16680f1521737fde2f7c9b35c47",
-      "name": {
-        "ar": "ليميتلس ألفا 5000 (BCAA) 30 ملعقة بنكهة البطيخ (204 جرام)",
-        "en": "Limitless Alpha 5000 (BCAA) 30 Scoops Jar Watermelon (204g)"
-      },
-      "price": 725.0,
-      "reason": "new_discount",
-      "sale_price": 362.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30789533,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e4540121b8a9c8211e99b61910385d44739db16680f1521737fde2f7c9b35c47",
-      "name": {
-        "ar": "ليميتلس ألفا 5000 (BCAA) 30 ملعقة بنكهة البطيخ (204 جرام)",
-        "en": "Limitless Alpha 5000 (BCAA) 30 Scoops Jar Watermelon (204g)"
-      },
-      "price": 725.0,
-      "sale_price": 362.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "30789968": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30789968,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/237d76069269f8b7d22f3cb3a80870efa5a5b32254c7efa1f1b76dcde602182e",
-      "name": {
-        "ar": "ليميتلس الفا باودر ميكرونيزد أحادي هيدرات الكرياتين 90 معلقة (450 جرام)",
-        "en": "Limitless Alpha Creatine Monohydrate Micronized Powder 90 Scoops (450g)"
-      },
-      "price": 970.0,
-      "reason": "new_discount",
-      "sale_price": 485.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30789968,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/237d76069269f8b7d22f3cb3a80870efa5a5b32254c7efa1f1b76dcde602182e",
-      "name": {
-        "ar": "ليميتلس الفا باودر ميكرونيزد أحادي هيدرات الكرياتين 90 معلقة (450 جرام)",
-        "en": "Limitless Alpha Creatine Monohydrate Micronized Powder 90 Scoops (450g)"
-      },
-      "price": 970.0,
-      "sale_price": 485.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "30878035": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30878035,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/67cb3285e2c640118be323d3735f21e131edbaeb087806a359e7fa2f858646cd",
-      "name": {
-        "ar": "مايبيلين نيويورك سانكيسر أحمر الخدود السائل اللامع رقم.11 اليكتريك برونز",
-        "en": "Maybelline New York Sunkisser Liquid Glow Blush 11 Electric Bronze"
-      },
-      "price": 490.0,
-      "reason": "new_discount",
-      "sale_price": 245.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30878035,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/67cb3285e2c640118be323d3735f21e131edbaeb087806a359e7fa2f858646cd",
-      "name": {
-        "ar": "مايبيلين نيويورك سانكيسر أحمر الخدود السائل اللامع رقم.11 اليكتريك برونز",
-        "en": "Maybelline New York Sunkisser Liquid Glow Blush 11 Electric Bronze"
-      },
-      "price": 490.0,
-      "sale_price": 245.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "31043997": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 31043997,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/999eea2ab9457acbea2b1198fecfd7e2b77b5044c6097321c0a16e263baa7f45",
-      "name": {
-        "ar": "سيرو بايب ليف ان بلسم شعر (200 مل)",
-        "en": "Seropipe Hair Leave In Conditioner (200ml)"
-      },
-      "price": 345.0,
-      "reason": "new_discount",
-      "sale_price": 172.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 31043997,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/999eea2ab9457acbea2b1198fecfd7e2b77b5044c6097321c0a16e263baa7f45",
-      "name": {
-        "ar": "سيرو بايب ليف ان بلسم شعر (200 مل)",
-        "en": "Seropipe Hair Leave In Conditioner (200ml)"
-      },
-      "price": 345.0,
-      "sale_price": 172.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "31790016": {
     "notified": {
       "discount_percent": 50.0,
@@ -1815,203 +387,7 @@
       },
       "price": 855.0,
       "sale_price": 427.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "32517223": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32517223,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6f7b650104057633a2f8504f516729484cb8ebbe0e43f4dc83035eb0a82cf585",
-      "name": {
-        "ar": "سيفورا فيفيد إيث آي بالرت 8 لون - كانيون جراوند",
-        "en": "Sephora Vivid Eaeth Eye Palrtte 8 Color - Canyon Ground"
-      },
-      "price": 770.0,
-      "reason": "new_discount",
-      "sale_price": 385.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32517223,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6f7b650104057633a2f8504f516729484cb8ebbe0e43f4dc83035eb0a82cf585",
-      "name": {
-        "ar": "سيفورا فيفيد إيث آي بالرت 8 لون - كانيون جراوند",
-        "en": "Sephora Vivid Eaeth Eye Palrtte 8 Color - Canyon Ground"
-      },
-      "price": 770.0,
-      "sale_price": 385.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "32517239": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32517239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/444b92ec1959ab4ff5101b6c0caaf8fe2aed531bdf224b0e095f9ff79f2464b3",
-      "name": {
-        "ar": "سيفورا بوري كوربس زبدة الجسم جوارانا (100 مل)",
-        "en": "Sephora Beurre Corps Guarana Body Butter (100ml)"
-      },
-      "price": 540.0,
-      "reason": "new_discount",
-      "sale_price": 270.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32517239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/444b92ec1959ab4ff5101b6c0caaf8fe2aed531bdf224b0e095f9ff79f2464b3",
-      "name": {
-        "ar": "سيفورا بوري كوربس زبدة الجسم جوارانا (100 مل)",
-        "en": "Sephora Beurre Corps Guarana Body Butter (100ml)"
-      },
-      "price": 540.0,
-      "sale_price": 270.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "32882266": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32882266,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/8f5995bcf370140076e0afb4da9d43b4f3b9b747e09b700cc6b74756015b8ff1",
-      "name": {
-        "ar": "كلاود ميست للشعر و الجسم برائحة الفانيليا كلاود (250 مل)",
-        "en": "Cloud Hair & Body Mist - Vanilla Cloud (250ml)"
-      },
-      "price": 355.0,
-      "reason": "new_discount",
-      "sale_price": 177.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32882266,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/8f5995bcf370140076e0afb4da9d43b4f3b9b747e09b700cc6b74756015b8ff1",
-      "name": {
-        "ar": "كلاود ميست للشعر و الجسم برائحة الفانيليا كلاود (250 مل)",
-        "en": "Cloud Hair & Body Mist - Vanilla Cloud (250ml)"
-      },
-      "price": 355.0,
-      "sale_price": 177.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "32883055": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32883055,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/778ab6da8fd6664424d68ac1aac092b0b78b3d6ab9dfb82f9d286e0384f26f23",
-      "name": {
-        "ar": "كلاود ميست للشعر و الجسم برائحة مسك كلاود (250 مل)",
-        "en": "Cloud Hair & Body Mist - Musk Cloud (250ml)"
-      },
-      "price": 355.0,
-      "reason": "new_discount",
-      "sale_price": 177.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32883055,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/778ab6da8fd6664424d68ac1aac092b0b78b3d6ab9dfb82f9d286e0384f26f23",
-      "name": {
-        "ar": "كلاود ميست للشعر و الجسم برائحة مسك كلاود (250 مل)",
-        "en": "Cloud Hair & Body Mist - Musk Cloud (250ml)"
-      },
-      "price": 355.0,
-      "sale_price": 177.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "32883198": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32883198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d93fdfbc8c67864be0159579d29ad62033fc80ce0d2f84e43886b8d1b99b6e63",
-      "name": {
-        "ar": "كلاود ميست للشعر و الجسم برائحة بيور كلاود (250 مل)",
-        "en": "Cloud Hair & Body Mist - Pure Cloud (250ml)"
-      },
-      "price": 350.0,
-      "reason": "new_discount",
-      "sale_price": 175.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32883198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d93fdfbc8c67864be0159579d29ad62033fc80ce0d2f84e43886b8d1b99b6e63",
-      "name": {
-        "ar": "كلاود ميست للشعر و الجسم برائحة بيور كلاود (250 مل)",
-        "en": "Cloud Hair & Body Mist - Pure Cloud (250ml)"
-      },
-      "price": 350.0,
-      "sale_price": 175.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "33389205": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 33389205,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e99a513d0a2824b7a5af08356e5f4620002ac7ae89c96919c52261af2dbef2a2",
-      "name": {
-        "ar": "شيسيدو زيت الشعر فينو بريميوم تاتش إيسنس (70 مل)",
-        "en": "Shiseido Fino Premium Touch Essence Hair Oil (70ml)"
-      },
-      "price": 1130.0,
-      "reason": "new_discount",
-      "sale_price": 565.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 33389205,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e99a513d0a2824b7a5af08356e5f4620002ac7ae89c96919c52261af2dbef2a2",
-      "name": {
-        "ar": "شيسيدو زيت الشعر فينو بريميوم تاتش إيسنس (70 مل)",
-        "en": "Shiseido Fino Premium Touch Essence Hair Oil (70ml)"
-      },
-      "price": 1130.0,
-      "sale_price": 565.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "33613023": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 33613023,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7cd7131431dd540785a3736fff9ad59d5db923627ad2519ff3cc5abf9c6f4022",
-      "name": {
-        "ar": "مايبيلين نيويورك محدد عيون تاتو لاينر- 823 اورورا فليب",
-        "en": "Maybelline New York Tattoo Liner Eyeliner 823 Aurora Flip"
-      },
-      "price": 400.0,
-      "reason": "new_discount",
-      "sale_price": 200.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 33613023,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7cd7131431dd540785a3736fff9ad59d5db923627ad2519ff3cc5abf9c6f4022",
-      "name": {
-        "ar": "مايبيلين نيويورك محدد عيون تاتو لاينر- 823 اورورا فليب",
-        "en": "Maybelline New York Tattoo Liner Eyeliner 823 Aurora Flip"
-      },
-      "price": 400.0,
-      "sale_price": 200.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2067,202 +443,6 @@
       },
       "price": 175.0,
       "sale_price": 87.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "34852651": {
-    "notified": {
-      "discount_percent": 63.8,
-      "id": 34852651,
-      "image": "https://i.ibb.co/ZzfcqKdb/Whats-App-Image-2025-04-07-at-11-47-09-4b257056.jpg",
-      "name": {
-        "ar": "سي كيوب سلمون فلية بورشن (200 جرام)",
-        "en": "Sea Cube Salmon Fillet Portion (200 gm)"
-      },
-      "price": 360.0,
-      "reason": "new_discount",
-      "sale_price": 130.32,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 63.8,
-      "id": 34852651,
-      "image": "https://i.ibb.co/ZzfcqKdb/Whats-App-Image-2025-04-07-at-11-47-09-4b257056.jpg",
-      "name": {
-        "ar": "سي كيوب سلمون فلية بورشن (200 جرام)",
-        "en": "Sea Cube Salmon Fillet Portion (200 gm)"
-      },
-      "price": 360.0,
-      "sale_price": 130.32,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "35818972": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 35818972,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/994a649f238b86232e9637867367073fbc18e67a3e2099a36833d0eef5bc4198",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن جولد ستاندرد واي بطعم آيس كريم فانيليا 73 سكوب (2.27 كيلو)",
-        "en": "Optimum Nutrition Gold Standard Whey Vanilla Ice Cream 73 Serv (2.27kg)"
-      },
-      "price": 7500.0,
-      "reason": "new_discount",
-      "sale_price": 3750.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 35818972,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/994a649f238b86232e9637867367073fbc18e67a3e2099a36833d0eef5bc4198",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن جولد ستاندرد واي بطعم آيس كريم فانيليا 73 سكوب (2.27 كيلو)",
-        "en": "Optimum Nutrition Gold Standard Whey Vanilla Ice Cream 73 Serv (2.27kg)"
-      },
-      "price": 7500.0,
-      "sale_price": 3750.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "35821275": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 35821275,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/48066a16a3e45c51db2345a0f4ebcc779e4da2b48da8f44233e147acdc2a6651",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن امينو انرجي بري وورك اوت بطعم بلو رازبيري 30 سكوب (270 جرام)",
-        "en": "Optimum Nutrition Amino Energy Pre Workout with Blue Raspberry 30 Serv (270g)"
-      },
-      "price": 1700.0,
-      "reason": "new_discount",
-      "sale_price": 850.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 35821275,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/48066a16a3e45c51db2345a0f4ebcc779e4da2b48da8f44233e147acdc2a6651",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن امينو انرجي بري وورك اوت بطعم بلو رازبيري 30 سكوب (270 جرام)",
-        "en": "Optimum Nutrition Amino Energy Pre Workout with Blue Raspberry 30 Serv (270g)"
-      },
-      "price": 1700.0,
-      "sale_price": 850.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "35824820": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 35824820,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/82b53d353127162420be42b231d57a017949c47647450a821f03247c74e43151",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن جولد ستاندرد واي بطعم فرنش كريم فانيلا 73 سكوب (2.27 كجم)",
-        "en": "Optimum Nutrition Gold Standard Whey French Creme Vanilla 73 Serv (2.27kg)"
-      },
-      "price": 7500.0,
-      "reason": "new_discount",
-      "sale_price": 3750.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 35824820,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/82b53d353127162420be42b231d57a017949c47647450a821f03247c74e43151",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن جولد ستاندرد واي بطعم فرنش كريم فانيلا 73 سكوب (2.27 كجم)",
-        "en": "Optimum Nutrition Gold Standard Whey French Creme Vanilla 73 Serv (2.27kg)"
-      },
-      "price": 7500.0,
-      "sale_price": 3750.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "35825117": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 35825117,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e1f08642a88d7b1b757e4a6ef8971ef97ff3ce91c3f01d81a1004758bca0ac72",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن أقراص سوبريور أمينو 2222 أحماض أمينية أساسية كاملة (160 قرصًا)",
-        "en": "Optimum Nutrition Superior Amino 2222 Tablets Complete Essential Amino Acids EAAs (160 Count)"
-      },
-      "price": 1400.0,
-      "reason": "new_discount",
-      "sale_price": 700.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 35825117,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e1f08642a88d7b1b757e4a6ef8971ef97ff3ce91c3f01d81a1004758bca0ac72",
-      "name": {
-        "ar": "أوبتيموم نيوتريشن أقراص سوبريور أمينو 2222 أحماض أمينية أساسية كاملة (160 قرصًا)",
-        "en": "Optimum Nutrition Superior Amino 2222 Tablets Complete Essential Amino Acids EAAs (160 Count)"
-      },
-      "price": 1400.0,
-      "sale_price": 700.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "36249042": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 36249042,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7c76737686e71b37ad90f90b90c88a6d1660f6285b03867f3c8907f8e80b1811",
-      "name": {
-        "ar": "شى انفيرو بلسم سموسينج (355 مل)",
-        "en": "Chi Enviro Smoothing Conditioner (355ml)"
-      },
-      "price": 1100.0,
-      "reason": "new_discount",
-      "sale_price": 550.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 36249042,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7c76737686e71b37ad90f90b90c88a6d1660f6285b03867f3c8907f8e80b1811",
-      "name": {
-        "ar": "شى انفيرو بلسم سموسينج (355 مل)",
-        "en": "Chi Enviro Smoothing Conditioner (355ml)"
-      },
-      "price": 1100.0,
-      "sale_price": 550.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "36594610": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 36594610,
-      "image": "https://i.ibb.co/QvFYgT7C/youlicious-800x800-0003-PROMO-0001-PROMO-final4.png",
-      "name": {
-        "ar": "يوليشيس برايت & جلو مزيل لرائحة العرق (2 قطعة)",
-        "en": "Youlicious Bright & Glow Deo Roll On Promo (2 Pcs)"
-      },
-      "price": 250.0,
-      "reason": "new_discount",
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 36594610,
-      "image": "https://i.ibb.co/QvFYgT7C/youlicious-800x800-0003-PROMO-0001-PROMO-final4.png",
-      "name": {
-        "ar": "يوليشيس برايت & جلو مزيل لرائحة العرق (2 قطعة)",
-        "en": "Youlicious Bright & Glow Deo Roll On Promo (2 Pcs)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
       "stock": 1
     },
     "pending": false
@@ -2411,146 +591,6 @@
     },
     "pending": false
   },
-  "3697420": {
-    "notified": {
-      "discount_percent": 55.0,
-      "id": 3697420,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-1-ice.png",
-      "name": {
-        "ar": "كابوتشا (1 قطعه)",
-        "en": "Iceberg Lettuce (1 piece)"
-      },
-      "price": 30.0,
-      "reason": "new_discount",
-      "sale_price": 13.5,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 3697420,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Untitled-1-ice.png",
-      "name": {
-        "ar": "كابوتشا (1 قطعه)",
-        "en": "Iceberg Lettuce (1 piece)"
-      },
-      "price": 30.0,
-      "sale_price": 13.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "38021923": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38021923,
-      "image": "https://i.ibb.co/BVx20t5Y/30173651.jpg",
-      "name": {
-        "ar": "لوريال باريس إنفاليبل 24 ساعة مور ذان كونسيلر مصحح بتأثير غير لامع لون 330 بيكان (11 مل)",
-        "en": "L'Oreal Paris Infaillible 24h More Than Concealer Correcting Concealer with Matt Effect Shade 330 Pecan (11ml)"
-      },
-      "price": 761.0,
-      "reason": "new_discount",
-      "sale_price": 380.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38021923,
-      "image": "https://i.ibb.co/BVx20t5Y/30173651.jpg",
-      "name": {
-        "ar": "لوريال باريس إنفاليبل 24 ساعة مور ذان كونسيلر مصحح بتأثير غير لامع لون 330 بيكان (11 مل)",
-        "en": "L'Oreal Paris Infaillible 24h More Than Concealer Correcting Concealer with Matt Effect Shade 330 Pecan (11ml)"
-      },
-      "price": 761.0,
-      "sale_price": 380.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38257806": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38257806,
-      "image": "https://i.ibb.co/LzsMxPmx/3610340662782.jpg",
-      "name": {
-        "ar": "لوريال باريس سيروم جليكوليك لتفتيح البشرة ومحاربة البقع الداكنة، توهج فوري (15 مل)",
-        "en": "L’Oréal Paris Glycolic Bright & Anti Dark Spot Face Serum, Instant Glow (15ml)"
-      },
-      "price": 500.0,
-      "reason": "new_discount",
-      "sale_price": 250.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38257806,
-      "image": "https://i.ibb.co/LzsMxPmx/3610340662782.jpg",
-      "name": {
-        "ar": "لوريال باريس سيروم جليكوليك لتفتيح البشرة ومحاربة البقع الداكنة، توهج فوري (15 مل)",
-        "en": "L’Oréal Paris Glycolic Bright & Anti Dark Spot Face Serum, Instant Glow (15ml)"
-      },
-      "price": 500.0,
-      "sale_price": 250.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38257825": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 38257825,
-      "image": "https://i.ibb.co/KpDhY2yB/Product-Image.jpg",
-      "name": {
-        "ar": "ميبيلين نيويورك سكاي هاي ماسكارا لاش سينسيشنال - باللون لأزرق",
-        "en": "Maybelline New York Lash Sensational Sky High Mascara - Blue Mist"
-      },
-      "price": 600.0,
-      "reason": "new_discount",
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 38257825,
-      "image": "https://i.ibb.co/KpDhY2yB/Product-Image.jpg",
-      "name": {
-        "ar": "ميبيلين نيويورك سكاي هاي ماسكارا لاش سينسيشنال - باللون لأزرق",
-        "en": "Maybelline New York Lash Sensational Sky High Mascara - Blue Mist"
-      },
-      "price": 600.0,
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "38396284": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 38396284,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0bb24a0aad9aaf3689965757b9bc772b1a3c8dd228b0f4f9cb024de3e9e5b488",
-      "name": {
-        "ar": "كيراستاس نوتريتيف 8 ساعات ماجيك نايت سيروم للشعر الجاف (90 مل)",
-        "en": "Kérastase Nutritive 8H Magic Night Serum for Dry Hair (90ml)"
-      },
-      "price": 2628.0,
-      "reason": "new_discount",
-      "sale_price": 1051.2,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 38396284,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0bb24a0aad9aaf3689965757b9bc772b1a3c8dd228b0f4f9cb024de3e9e5b488",
-      "name": {
-        "ar": "كيراستاس نوتريتيف 8 ساعات ماجيك نايت سيروم للشعر الجاف (90 مل)",
-        "en": "Kérastase Nutritive 8H Magic Night Serum for Dry Hair (90ml)"
-      },
-      "price": 2628.0,
-      "sale_price": 1051.2,
-      "stock": 3
-    },
-    "pending": false
-  },
   "38934097": {
     "notified": {
       "discount_percent": 50.0,
@@ -2575,7 +615,7 @@
       },
       "price": 699.0,
       "sale_price": 349.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2631,7 +671,7 @@
       },
       "price": 649.0,
       "sale_price": 324.5,
-      "stock": 3
+      "stock": 0
     },
     "pending": false
   },
@@ -2659,7 +699,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2687,7 +727,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
@@ -2715,7 +755,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2743,7 +783,7 @@
       },
       "price": 599.0,
       "sale_price": 299.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2827,7 +867,7 @@
       },
       "price": 999.0,
       "sale_price": 443.96,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2846,7 +886,7 @@
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.0,
+      "discount_percent": 55.56,
       "id": 38934109,
       "image": "https://i.ibb.co/RK0v47j/5281018715437.jpg",
       "name": {
@@ -2854,36 +894,8 @@
         "en": "Beesline Unifying Brightening Serum (30ml)"
       },
       "price": 999.0,
-      "sale_price": 499.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "39166313": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 39166313,
-      "image": "https://m.media-amazon.com/images/I/613Rp1xI4lL._AC_SL1500_.jpg",
-      "name": {
-        "ar": "فيم فريش بخاخ مزيل العرق للنساء (125 مل)",
-        "en": "Femfresh Feminine Deodorant Spray (125ml)"
-      },
-      "price": 349.0,
-      "reason": "new_discount",
-      "sale_price": 174.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 39166313,
-      "image": "https://m.media-amazon.com/images/I/613Rp1xI4lL._AC_SL1500_.jpg",
-      "name": {
-        "ar": "فيم فريش بخاخ مزيل العرق للنساء (125 مل)",
-        "en": "Femfresh Feminine Deodorant Spray (125ml)"
-      },
-      "price": 349.0,
-      "sale_price": 174.5,
-      "stock": 1
+      "sale_price": 443.96,
+      "stock": 0
     },
     "pending": false
   },
@@ -3055,106 +1067,6 @@
     },
     "pending": false
   },
-  "40600553": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 40600553,
-      "image": "https://i.ibb.co/LhX301kx/WM7-EB-SQ1-0000017974-PEACHY-QUENCH-SLf.png",
-      "name": {
-        "ar": "مايبيلين نيويورك صن كيسر أحمر خدود سائل 34 بيتشي كوينش (4.7 مل)",
-        "en": "Maybelline New York Sun Kisser Liquid Blusher 34 Peachy Quench (4.7ml)"
-      },
-      "price": 490.0,
-      "reason": "new_discount",
-      "sale_price": 245.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40600553,
-      "image": "https://i.ibb.co/LhX301kx/WM7-EB-SQ1-0000017974-PEACHY-QUENCH-SLf.png",
-      "name": {
-        "ar": "مايبيلين نيويورك صن كيسر أحمر خدود سائل 34 بيتشي كوينش (4.7 مل)",
-        "en": "Maybelline New York Sun Kisser Liquid Blusher 34 Peachy Quench (4.7ml)"
-      },
-      "price": 490.0,
-      "sale_price": 245.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "40603413": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 40603413,
-      "image": "https://i.ibb.co/bwRf1wD/78c89802-b1d3-4a71-867a-191764d074a8.jpg",
-      "name": {
-        "ar": "تيرتير ماسك فيت ريد كوشن - ساند",
-        "en": "Tir Tir Mask Fit Red Cushion - Sand"
-      },
-      "price": 1180.0,
-      "reason": "new_discount",
-      "sale_price": 590.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40603413,
-      "image": "https://i.ibb.co/bwRf1wD/78c89802-b1d3-4a71-867a-191764d074a8.jpg",
-      "name": {
-        "ar": "تيرتير ماسك فيت ريد كوشن - ساند",
-        "en": "Tir Tir Mask Fit Red Cushion - Sand"
-      },
-      "price": 1180.0,
-      "sale_price": 590.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "40847296": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 40847296,
-      "image": "https://i.ibb.co/G32DNm0P/31-YWAPl3wa-L-AC-SX569.jpg",
-      "name": {
-        "ar": "لوريال باريس قلم تحديد العيون إنفيلابل جريب تركواز مكثف",
-        "en": "L'Oréal Paris Infaillable Grip Liner Intense Turquoise"
-      },
-      "price": 600.0,
-      "reason": "new_discount",
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40847296,
-      "image": "https://i.ibb.co/G32DNm0P/31-YWAPl3wa-L-AC-SX569.jpg",
-      "name": {
-        "ar": "لوريال باريس قلم تحديد العيون إنفيلابل جريب تركواز مكثف",
-        "en": "L'Oréal Paris Infaillable Grip Liner Intense Turquoise"
-      },
-      "price": 600.0,
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "40847412": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40847412,
-      "image": "https://i.ibb.co/tpw3mSrd/81-C0e-RYx-Yh-L-AC-SX569.jpg",
-      "name": {
-        "ar": "لوريال باريس كريم أساس بودرة إنفاليبل 24 ساعة ، فريش وير - 120: فانيليا (9 جم)",
-        "en": "L'Oréal Paris Infallible 24H Powder Foundation Fresh Wear - 120 Vanilla (9g)"
-      },
-      "price": 980.0,
-      "sale_price": 490.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "41021944": {
     "notified": {
       "discount_percent": 58.431,
@@ -3183,117 +1095,33 @@
     },
     "pending": false
   },
-  "41731735": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 41731735,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/af4ce5937cf59df61da9bacbb535acbd3f6ea9a4ede950d8589d6c1a243d5961",
+  "41397929": {
+    "notified": {
+      "discount_percent": 93.0,
+      "id": 41397929,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
       "name": {
-        "ar": "اسنشيلز بودي سبلاش - ديب كاندي (100 مل)",
-        "en": "Essentials Body Splash - Deep Candy (100ml)"
+        "ar": "ريز كولا زيرو زجاجة (400مل)",
+        "en": "Rizz Cola Zero Bottle (400ml)"
       },
-      "price": 250.0,
-      "sale_price": 125.0,
+      "price": 14.0,
+      "reason": "new_discount",
+      "sale_price": 0.98,
       "stock": 1
     },
-    "pending": true
-  },
-  "41802996": {
-    "notified": null,
     "observed": {
-      "discount_percent": 50.0,
-      "id": 41802996,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2b7845859a06227aba49d1049116011e974a8e9aed10b5d8edc17b7cade88611",
+      "discount_percent": 93.0,
+      "id": 41397929,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
       "name": {
-        "ar": "اسنشيلز بودي سبلاش - ستروبري فانيليا (100 مل)",
-        "en": "Essentials Body Splash - Strawberry Vanilla (100ml)"
+        "ar": "ريز كولا زيرو زجاجة (400مل)",
+        "en": "Rizz Cola Zero Bottle (400ml)"
       },
-      "price": 250.0,
-      "sale_price": 125.0,
+      "price": 14.0,
+      "sale_price": 0.98,
       "stock": 1
     },
-    "pending": true
-  },
-  "41803172": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 41803172,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ae7be3779fcee5da38a7108da7d2953e604f0e2ff9cf93b07cd6d7ca6d82ea58",
-      "name": {
-        "ar": "اسنشيلز بودي سبلاش - فانيليا شوجر (100 مل)",
-        "en": "Essentials Body Splash - Vanilla Sugar (100ml)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "42426819": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42426819,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e8b4bbeca4ef787772296112dfa6ab5aa7c95ec94eebc8b7e55bdd1bb4cd98c1",
-      "name": {
-        "ar": "بيوديرما كريم أتوديرم ألترا (500 مل)",
-        "en": "Bioderma Atoderm Cream Ultra (500ml)"
-      },
-      "price": 1380.0,
-      "sale_price": 690.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "42426830": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42426830,
-      "image": "https://i.ibb.co/HDQGkNnv/51-TLsf-Jf3r-L-AC-SX569-1.jpg",
-      "name": {
-        "ar": "بيوديرما ماء ميسيلار سينسيبيو H2O (250 مل)",
-        "en": "Bioderma Sensibio H2O Micellar Water (250ml)"
-      },
-      "price": 699.0,
-      "sale_price": 349.5,
-      "stock": 3
-    },
-    "pending": true
-  },
-  "42426831": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42426831,
-      "image": "https://i.ibb.co/JPrmD5V/51tc-CVE5-Kr-L-AC-SX569.jpg",
-      "name": {
-        "ar": "بيوديرما ماء ميسيلار سينسيبيو H2O (100 مل)",
-        "en": "Bioderma Sensibio H2O Micellar Water (100ml)"
-      },
-      "price": 449.0,
-      "sale_price": 224.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "42426846": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42426846,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/54d7918f4125d6eccd9a4c03ab64f5bc1c51f2e0af4debe74edaf81c400f10cf",
-      "name": {
-        "ar": "بيوديرما سينسيبيو آي+ كريم للعين (15 مل)",
-        "en": "Bioderma Sensibio Eye+ Anti-Fatigue Eye Contour Care (15ml)"
-      },
-      "price": 949.0,
-      "sale_price": 474.5,
-      "stock": 1
-    },
-    "pending": true
+    "pending": false
   },
   "42882500": {
     "notified": {
@@ -3319,73 +1147,9 @@
       },
       "price": 395.0,
       "sale_price": 195.01,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
-  },
-  "44180811": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44180811,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fc509b319c8c19bc49c62bb86275ae988cef9862a71ab529aa1d5ea5bb3b1d2a",
-      "name": {
-        "ar": "ريفولوشن أحمر خدود  سكين سيلك ماربل بلون المشمش المشمس",
-        "en": "Revolution Skin Silk Marble Blush Stick Sunkissed Apricot"
-      },
-      "price": 540.0,
-      "sale_price": 270.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44181477": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44181477,
-      "image": "https://i.ibb.co/DHqV1dB2/xssss-2.jpg",
-      "name": {
-        "ar": "ايتين بلس ايتين بلس عرض رول أون ١+١ فانيليا وجوز الهند (60 مل)",
-        "en": "Eighteen Plus Roll On 1+1 Offer Vanilla Coconut Crush (120ml)"
-      },
-      "price": 225.0,
-      "sale_price": 112.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44181481": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44181481,
-      "image": "https://i.ibb.co/dHKKnYd/dry-shampoo-0001-Fruity-Sparkle.png",
-      "name": {
-        "ar": "يوليشيس دراي شامبو (شامبو جاف) ومعطر فروتي سباركل (200 ملى)",
-        "en": "Youlicious Dry Shampoo & Mist Fruity Sparkle (200ml)"
-      },
-      "price": 350.0,
-      "sale_price": 175.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44181482": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44181482,
-      "image": "https://i.ibb.co/yFK4BNnr/dry-shampoo-0000-Honey-Milk.png",
-      "name": {
-        "ar": "يوليشيس دراي شامبو (شامبو جاف) ومعطر هني ميلك (200 ملى)",
-        "en": "Youlicious Dry Shampoo & Mist Honey Milk (200ml)"
-      },
-      "price": 350.0,
-      "sale_price": 175.0,
-      "stock": 1
-    },
-    "pending": true
   },
   "44295613": {
     "notified": {
@@ -3402,7 +1166,7 @@
       "stock": 2
     },
     "observed": {
-      "discount_percent": 60.0,
+      "discount_percent": 50.0,
       "id": 44295613,
       "image": "https://cdn.breadfast.com/wp-content/uploads/c36bd05aaefbd4fb024afbca037981b6327d6e907226fe3717ab73ddc9b0e48f",
       "name": {
@@ -3410,8 +1174,8 @@
         "en": "Capixy Shampoo 250ml"
       },
       "price": 320.0,
-      "sale_price": 128.0,
-      "stock": 2
+      "sale_price": 160.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -3430,7 +1194,7 @@
       "stock": 2
     },
     "observed": {
-      "discount_percent": 60.0,
+      "discount_percent": 50.0,
       "id": 44295614,
       "image": "https://cdn.breadfast.com/wp-content/uploads/ae434d2317d4f4da73b19f1a31c42f1134708c8734d1d5098a1e7ff231e34435",
       "name": {
@@ -3438,8 +1202,8 @@
         "en": "Capixy Cream 120ml"
       },
       "price": 320.0,
-      "sale_price": 128.0,
-      "stock": 2
+      "sale_price": 160.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -3495,7 +1259,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 6
+      "stock": 5
     },
     "pending": false
   },
@@ -3542,7 +1306,7 @@
       "stock": 3
     },
     "observed": {
-      "discount_percent": 60.0,
+      "discount_percent": 50.0,
       "id": 44295619,
       "image": "https://cdn.breadfast.com/wp-content/uploads/99e1381ca71008e7f25bb780279090679e9dae2c680da9faefc673d751372f50",
       "name": {
@@ -3550,8 +1314,8 @@
         "en": "Capixy Hair Mask (250ml)"
       },
       "price": 450.0,
-      "sale_price": 180.0,
-      "stock": 3
+      "sale_price": 225.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -3719,7 +1483,7 @@
       },
       "price": 450.0,
       "sale_price": 135.0,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
@@ -3747,7 +1511,7 @@
       },
       "price": 550.0,
       "sale_price": 165.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3831,7 +1595,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3887,7 +1651,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -4055,7 +1819,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
@@ -4083,7 +1847,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
@@ -4111,7 +1875,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 3
+      "stock": 0
     },
     "pending": false
   },
@@ -4167,7 +1931,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -4223,7 +1987,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -4242,7 +2006,7 @@
       "stock": 1
     },
     "observed": {
-      "discount_percent": 60.0,
+      "discount_percent": 50.0,
       "id": 44295648,
       "image": "https://cdn.breadfast.com/wp-content/uploads/d2e1c703a6392f4d0608e47a51cc75373f7730920120bafe149b83ba97f48cfc",
       "name": {
@@ -4250,8 +2014,8 @@
         "en": "Soralone Cica Cream Gel (60ml)"
       },
       "price": 295.0,
-      "sale_price": 118.0,
-      "stock": 1
+      "sale_price": 147.5,
+      "stock": 0
     },
     "pending": false
   },
@@ -4283,234 +2047,6 @@
     },
     "pending": false
   },
-  "44315764": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44315764,
-      "image": "https://perfuma.cl/cdn/shop/files/armaf-1132149882_1024x1024.webp?v=1754927443",
-      "name": {
-        "ar": "أرماف أوديسي عود بخاخ الجسم للرجال (200 مل)",
-        "en": "Armaf Odyssey Aoud Body Spray For Him (200ml)"
-      },
-      "price": 149.0,
-      "sale_price": 74.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44678533": {
-    "notified": {
-      "discount_percent": 80.251,
-      "id": 44678533,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c16cfc13c4c9c24852082af90e758a0de31519f747db05034bbe56b435e8d4d8",
-      "name": {
-        "ar": "6x (35g) بريدفاست شيكولاتة دارك بالهني كومب",
-        "en": "6x Breadfast Honeycomb Dark Chocolate (100% Real Cocoa) (35g)"
-      },
-      "price": 306.54,
-      "reason": "new_discount",
-      "sale_price": 60.54,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 80.251,
-      "id": 44678533,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c16cfc13c4c9c24852082af90e758a0de31519f747db05034bbe56b435e8d4d8",
-      "name": {
-        "ar": "6x (35g) بريدفاست شيكولاتة دارك بالهني كومب",
-        "en": "6x Breadfast Honeycomb Dark Chocolate (100% Real Cocoa) (35g)"
-      },
-      "price": 306.54,
-      "sale_price": 60.54,
-      "stock": 5
-    },
-    "pending": false
-  },
-  "44684707": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44684707,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c23ddc2f5bebc4ad3becd6460a320a9804906b8bdf603a47fa3afbaef109f70e",
-      "name": {
-        "ar": "باث اند بادى واركس برفكت ان بينك (236 مل)",
-        "en": "Bath & Body Works Perfect in Pink (236ml)"
-      },
-      "price": 890.0,
-      "sale_price": 445.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44692107": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 44692107,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b48d0e49ff31c67e592285412eef7ddb4b445d0096ba0b10ecd16013d8dcfde7",
-      "name": {
-        "ar": "هدوى ماء ورد (220 مل)",
-        "en": "Hadwa Rose Water (220ml)"
-      },
-      "price": 130.0,
-      "reason": "new_discount",
-      "sale_price": 65.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44692107,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b48d0e49ff31c67e592285412eef7ddb4b445d0096ba0b10ecd16013d8dcfde7",
-      "name": {
-        "ar": "هدوى ماء ورد (220 مل)",
-        "en": "Hadwa Rose Water (220ml)"
-      },
-      "price": 130.0,
-      "sale_price": 65.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "44994085": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44994085,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019613963/6f7a939bc84b5fdc.jpg",
-      "name": {
-        "ar": "بوبانا \"بينك أت هارت\" معطر الجسم (250 مل)",
-        "en": "Bobana Pink At Heart Body Splash (250ml)"
-      },
-      "price": 190.0,
-      "sale_price": 95.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44994111": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44994111,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019611839/c2b32a009962a91f.jpg",
-      "name": {
-        "ar": "أفريل ليڤ-ان بزبدة الشيا و زيت الارجان لترطيب الشعر الجاف و التالف (250 مل)",
-        "en": "Avrelle Leave-In Cream With Shea Butter & Argan Oil (250ml)"
-      },
-      "price": 385.0,
-      "sale_price": 192.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44994680": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44994680,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019614052/1fb64f5c8c57e87a.jpg",
-      "name": {
-        "ar": "بوبانا ليف ان بديل الزيت بوبانا بزيت الأرجان (240 مل)",
-        "en": "Bobana Leave-In Conditioner With Argan Oil (240ml)"
-      },
-      "price": 145.0,
-      "sale_price": 72.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44994682": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 44994682,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019614069/6e77b68ba91f376d.jpg",
-      "name": {
-        "ar": "بوبانا ليف ان بديل الزيت بوبانا بزيت الثوم الأسود (240 مل)",
-        "en": "Bobana Leave-In Conditioner With Black Garlic Oil (240ml)"
-      },
-      "price": 145.0,
-      "reason": "new_discount",
-      "sale_price": 72.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44994682,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019614069/6e77b68ba91f376d.jpg",
-      "name": {
-        "ar": "بوبانا ليف ان بديل الزيت بوبانا بزيت الثوم الأسود (240 مل)",
-        "en": "Bobana Leave-In Conditioner With Black Garlic Oil (240ml)"
-      },
-      "price": 145.0,
-      "sale_price": 72.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "44994685": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44994685,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019611181/72128e8deb39329a.jpg",
-      "name": {
-        "ar": "بوبانا بلسم بزيت الأرجان (400 مل)",
-        "en": "Bobana Conditioner With Argan Oil (400ml)"
-      },
-      "price": 140.0,
-      "sale_price": 70.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44994686": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44994686,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019611150/9ca429ff74613d59.jpg",
-      "name": {
-        "ar": "بوبانا بلسم بزيت جوز الهند (400 مل)",
-        "en": "Bobana Conditioner With Coconut Oil (400ml)"
-      },
-      "price": 140.0,
-      "sale_price": 70.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44994713": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44994713,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6222019613857/569dd4789955bed0.jpg",
-      "name": {
-        "ar": "بوبانا لوشن للجسم برائحة جوز الهند (250 مل)",
-        "en": "Bobana Body Lotion With Coconut Milk (250ml)"
-      },
-      "price": 155.0,
-      "sale_price": 77.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "46066193": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 46066193,
-      "image": "https://i.ibb.co/WWvG958j/honey-and-milk-scrub.jpg",
-      "name": {
-        "ar": "هدوى اسكراب حليب وعسل (280 جرام)",
-        "en": "Hadwa Honey & Milk Scrub (280ml)"
-      },
-      "price": 180.0,
-      "sale_price": 90.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "46648877": {
     "notified": {
       "discount_percent": 50.0,
@@ -4536,78 +2072,6 @@
       "price": 190.0,
       "sale_price": 95.0,
       "stock": 3
-    },
-    "pending": false
-  },
-  "46914871": {
-    "notified": {
-      "discount_percent": 51.935,
-      "id": 46914871,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/aff6072d7f0cbaad3b8a65f8d27766be64b2aa8a96cb6f1dfce0db33c9fe6317",
-      "name": {
-        "ar": "ريلي جود سالمون برجر (300جم)",
-        "en": "ReallyGood Salmon Burger (300g)"
-      },
-      "price": 310.0,
-      "reason": "new_discount",
-      "sale_price": 149.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 51.935,
-      "id": 46914871,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/aff6072d7f0cbaad3b8a65f8d27766be64b2aa8a96cb6f1dfce0db33c9fe6317",
-      "name": {
-        "ar": "ريلي جود سالمون برجر (300جم)",
-        "en": "ReallyGood Salmon Burger (300g)"
-      },
-      "price": 310.0,
-      "sale_price": 149.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "47163752": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 47163752,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cfa2b0964a49d5aefb3a49f02d927e40cdda7837f7b3ddc9d29b8f3f2a1fc20b",
-      "name": {
-        "ar": "تريس كوزماتيكس عصا شمع الشعر – الثنائي السليك",
-        "en": "Trace Cosmetics Just On Sleek Duo"
-      },
-      "price": 836.82,
-      "sale_price": 418.41,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "49356381": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 49356381,
-      "image": "https://m.media-amazon.com/images/I/61ez87Kk4iL._AC_SX679_.jpg",
-      "name": {
-        "ar": "ريميل لندن كايند آند فري 003 بينك هيت (5 جرام)",
-        "en": "Rimmel London Kind & Free, 003 Pink Heat (5g)"
-      },
-      "price": 700.0,
-      "reason": "new_discount",
-      "sale_price": 350.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 49356381,
-      "image": "https://m.media-amazon.com/images/I/61ez87Kk4iL._AC_SX679_.jpg",
-      "name": {
-        "ar": "ريميل لندن كايند آند فري 003 بينك هيت (5 جرام)",
-        "en": "Rimmel London Kind & Free, 003 Pink Heat (5g)"
-      },
-      "price": 700.0,
-      "sale_price": 350.0,
-      "stock": 1
     },
     "pending": false
   },
@@ -4691,7 +2155,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -4763,7 +2227,7 @@
       },
       "price": 250.0,
       "sale_price": 125.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": true
   },
@@ -4851,134 +2315,6 @@
     },
     "pending": false
   },
-  "51324325": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51324325,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cb247bc9038c27557dfff107e3cb5659c46cb3233223c626a585a6cb89ad2bd6",
-      "name": {
-        "ar": "إيسنس ماسكارا  لاش ويثاوت ليميتس المقاومة للماء لتطويل وتكثيف الرموش 03",
-        "en": "Essence Lash Without Limits Waterproof Extreme Lengthening & Volume Mascara 03"
-      },
-      "price": 295.0,
-      "sale_price": 147.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "51324338": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51324338,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f0dfedc393d5ab2b50613b5ac0546e321f1b87df92afbc0048ac5e118edd9ac2",
-      "name": {
-        "ar": "إيسنس كريم أساس  ناتشورال مات موس. 15",
-        "en": "Essence Natural Matte Mousse Foundation 15"
-      },
-      "price": 400.0,
-      "sale_price": 200.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "51416373": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51416373,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5e54c049f1a436b16bc6c21bd9e6758d2827ae274b9efca0021b7dcf68cb44e7",
-      "name": {
-        "ar": "تشي كيراتين كونديشنر (355 مل)",
-        "en": "Chi Keratin Conditioner (355ml)"
-      },
-      "price": 830.0,
-      "sale_price": 415.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "51416374": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51416374,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/40ac79c360451202cd84ce3e7ae84b7da9a16271ad36ff3552c7500c5d49e66b",
-      "name": {
-        "ar": "تشى انفايرو للشعر الطبيعى والمجعد (355 مل)",
-        "en": "Chi Enviro American Smoothing Treatment Virgin/ Resistant Hair (355ml)"
-      },
-      "price": 4490.0,
-      "sale_price": 2245.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "51416375": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51416375,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9bf5fec3114fc12a02440e7e89f8291ffbc4423dba8565c93f021686e1f3c9dd",
-      "name": {
-        "ar": "تشى انفايرو للشعر المصبوغ والمعالج كيميائيا (355 مل)",
-        "en": "Chi Enviro American Smoothing Treatment Color/ Chemically Treated (355ml)"
-      },
-      "price": 4795.0,
-      "sale_price": 2397.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "51469527": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51469527,
-      "image": "https://i.ibb.co/whYRrt4N/Shaan-Urea-10-Body-Moisturizer-200-Gm-Without-background.png",
-      "name": {
-        "ar": "شان كريم مرطب للجسم يوريا 10% 200 جم",
-        "en": "Shaan Urea 10% Body Moisturizer (200g)"
-      },
-      "price": 280.0,
-      "sale_price": 140.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "51469530": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51469530,
-      "image": "https://i.ibb.co/fzQ6gFqP/002-1.png",
-      "name": {
-        "ar": "شان غسول مرطب للجسم بريحة زهرة التيوليب 480 مل",
-        "en": "Shaan Tulip Rose Hydrating Body Wash (480ml)"
-      },
-      "price": 260.0,
-      "sale_price": 130.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "51469535": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51469535,
-      "image": "https://i.ibb.co/v4dJRF1f/Hydra-Intense-Frag-free-1-1.png",
-      "name": {
-        "ar": "جلامى لاب هايدرا انتنس كريم بدون عطر 100 جم",
-        "en": "Glamy Lab Hydra Intense Cream Fragrance Free (100ml)"
-      },
-      "price": 550.0,
-      "sale_price": 275.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "51881739": {
     "notified": {
       "discount_percent": 60.0,
@@ -5003,7 +2339,7 @@
       },
       "price": 750.0,
       "sale_price": 375.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -5146,234 +2482,6 @@
       "stock": 1
     },
     "pending": false
-  },
-  "53065241": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 53065241,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1ad6ae63accb467dc2658a070b910c3d912b09977910569e4520841a95ebaeed",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس يو في إير بعامل حماية من الشمس 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios UV Air SPF50+ (50ml)"
-      },
-      "price": 980.0,
-      "reason": "new_discount",
-      "sale_price": 392.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 53065241,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1ad6ae63accb467dc2658a070b910c3d912b09977910569e4520841a95ebaeed",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس يو في إير بعامل حماية من الشمس 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios UV Air SPF50+ (50ml)"
-      },
-      "price": 980.0,
-      "sale_price": 392.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "53667368": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 53667368,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/eb92a6d7c955c8ff4b11aa84d818a72a6a1f487bb216ad9a0a571d2bf0123e5d",
-      "name": {
-        "ar": "كينيتكس سولار جل 665 (15 مل)",
-        "en": "Kinetics SolarGel 665 (15ml)"
-      },
-      "price": 295.0,
-      "sale_price": 147.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "53998345": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 53998345,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d25dd4535af055dff0a4a102430ef609fd596ea080e6eb544c3618831daaec95",
-      "name": {
-        "ar": "أفريل قناع الشعر بالكيراتين والكولاجين (300 مل)",
-        "en": "Avrelle Hair Mask With Keratin & Collagen (300ml)"
-      },
-      "price": 365.0,
-      "sale_price": 182.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "53998350": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 53998350,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c1ee745457722246b92d9b6f78e3f0ad5be3541ec2282d5a70f55e55088bbddf",
-      "name": {
-        "ar": "أفريل شامبو بزبدة الشيا وزيت الأرغان (250 مل)",
-        "en": "Avrelle Shampoo With Shea Butter & Argan Oil (250ml)"
-      },
-      "price": 275.0,
-      "sale_price": 137.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "53998353": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 53998353,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2c45f420f653d6d7cf3eaedb1b604af4c7902f15d49facc76d961cfad2138a10",
-      "name": {
-        "ar": "أفريل قناع الشعر بزبدة الشيا وزيت الأرغان (300 مل)",
-        "en": "Avrelle Hair Mask With Shea Butter & Argan Oil (300ml)"
-      },
-      "price": 365.0,
-      "sale_price": 182.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "54139672": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54139672,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/29840146cc232671944497e5151bc58b458df300ce0733be1fbb7f066d5dab27",
-      "name": {
-        "ar": "إيسنس ماسكارا لاش برينسيس لتأثير الرموش الصناعية، لون بنفسجي",
-        "en": "Essence Lash Princess False Lash Effect Mascara Purple"
-      },
-      "price": 295.0,
-      "sale_price": 147.5,
-      "stock": 2
-    },
-    "pending": true
-  },
-  "54605195": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54605195,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bb4af70074d8da58512c1c2a11e0f849fcc872caa85ff17397e1350cb0a6fc48",
-      "name": {
-        "ar": "ميبيلين نيويورك كلوتوبيا تنت للشفايف و الخدود – درجة 03 ديفاين كريمسون",
-        "en": "Maybelline New York Cloudtopia Lip & Cheek Tint 03 Divine Crimson"
-      },
-      "price": 600.0,
-      "reason": "new_discount",
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54605195,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bb4af70074d8da58512c1c2a11e0f849fcc872caa85ff17397e1350cb0a6fc48",
-      "name": {
-        "ar": "ميبيلين نيويورك كلوتوبيا تنت للشفايف و الخدود – درجة 03 ديفاين كريمسون",
-        "en": "Maybelline New York Cloudtopia Lip & Cheek Tint 03 Divine Crimson"
-      },
-      "price": 600.0,
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "54605200": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54605200,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/73c4bddaa51454c6b765e768034a27ed5053cae0139cad842046d3490a12905a",
-      "name": {
-        "ar": "ميبيلين نيويورك ليفتر كونسيلر سيروم – درجة 15",
-        "en": "Maybelline New York Lifter Serum Concealer 15 (11ml)"
-      },
-      "price": 600.0,
-      "sale_price": 300.0,
-      "stock": 2
-    },
-    "pending": true
-  },
-  "54605201": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54605201,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/978530c6cfaaa540d73dc63b7b2f1660b11ad3a3cb6609828c8082e65a1b1ae7",
-      "name": {
-        "ar": "ميبيلين نيويورك ليفتر كونسيلر سيروم – درجة 20",
-        "en": "Maybelline New York Lifter Serum Concealer 20 (11ml)"
-      },
-      "price": 600.0,
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "54605203": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54605203,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/48238062ed62bbe81504f37c4c3cf16df931df6e04c4fb879213c77bb6483ecd",
-      "name": {
-        "ar": "ميبيلين نيويورك ليفتر كونسيلر سيروم – درجة 25",
-        "en": "Maybelline New York Lifter Serum Concealer 25 (11ml)"
-      },
-      "price": 600.0,
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "54605205": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54605205,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3c492358721f51c666cbbe2c8424dd8267b6b3989ddc29ce2a26ebcc4141d941",
-      "name": {
-        "ar": "ميبيلين نيويورك ليفتر كونسيلر سيروم – درجة 45",
-        "en": "Maybelline New York Lifter Serum Concealer 45 (11ml)"
-      },
-      "price": 600.0,
-      "reason": "new_discount",
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54605205,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3c492358721f51c666cbbe2c8424dd8267b6b3989ddc29ce2a26ebcc4141d941",
-      "name": {
-        "ar": "ميبيلين نيويورك ليفتر كونسيلر سيروم – درجة 45",
-        "en": "Maybelline New York Lifter Serum Concealer 45 (11ml)"
-      },
-      "price": 600.0,
-      "sale_price": 300.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "54605313": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54605313,
-      "image": "https://i.ibb.co/VYqrN6Dm/b59a40f3-4d7d-4218-aa5a-8b588eedaf25.png",
-      "name": {
-        "ar": "فازلين بلسم للجسم بدون رائحة (40 جرام)",
-        "en": "Vaseline Body Balm Stick Unscented (40g)"
-      },
-      "price": 650.0,
-      "sale_price": 325.0,
-      "stock": 1
-    },
-    "pending": true
   },
   "54691424": {
     "notified": {
@@ -5539,7 +2647,7 @@
       },
       "price": 1369.0,
       "sale_price": 684.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -5623,7 +2731,7 @@
       },
       "price": 759.0,
       "sale_price": 379.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -5651,7 +2759,7 @@
       },
       "price": 990.0,
       "sale_price": 495.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -5735,7 +2843,7 @@
       },
       "price": 2199.0,
       "sale_price": 1099.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -5763,7 +2871,7 @@
       },
       "price": 749.0,
       "sale_price": 374.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -5879,186 +2987,6 @@
     },
     "pending": false
   },
-  "54746136": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54746136,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3c64d053f844f59d876bf6e43e677e2dc3b97d92bd36dc310b21924dfd41e8b7",
-      "name": {
-        "ar": "أوريو بسكويت بكريمة الفانيليا (5+1) قطع – 48 جم",
-        "en": "Oreo vanilla Crème Filled Biscuit -(5+1) Cookies ( 48g)"
-      },
-      "price": 10.0,
-      "reason": "new_discount",
-      "sale_price": 5.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54746136,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3c64d053f844f59d876bf6e43e677e2dc3b97d92bd36dc310b21924dfd41e8b7",
-      "name": {
-        "ar": "أوريو بسكويت بكريمة الفانيليا (5+1) قطع – 48 جم",
-        "en": "Oreo vanilla Crème Filled Biscuit -(5+1) Cookies ( 48g)"
-      },
-      "price": 10.0,
-      "sale_price": 5.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "55008830": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 55008830,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cc00e5aeca936ed06c565014a703e47d20f161c2b8a5cbea32d1788542b89b07",
-      "name": {
-        "ar": "ديبورا ماسكارا 24 أور كثافة فورية فائقة، لون أسود فاحم",
-        "en": "Deborah Mascara 24Ore Instant Maxi Volume Extra Black"
-      },
-      "price": 765.0,
-      "sale_price": 382.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "56155293": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56155293,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6eec8ca5305ba0c99424eb55eca2608d0288d6146f64b88a48f251b024f0a74f",
-      "name": {
-        "ar": "ماصل اد EAA+BCAA الأحماض الأمينية الأساسية 30 سكوب بنكهة العلكة (390 جرام)",
-        "en": "Muscle Add EAA+BCAA Essential Amino Acids 30Serv Bubble Gum (390g)"
-      },
-      "price": 1100.0,
-      "sale_price": 550.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "56155307": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56155307,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/8eb12c0c98c4ffd6a31c8204ae22d00eb563cce16e18d809175277962f74d79c",
-      "name": {
-        "ar": "ماصل اد ايزو اد بلس 60 سكوب بنكهة آيس كريم شوكولاتة (2040 جرام)",
-        "en": "Muscle Add ISO Add Plus 60Serv Chocolate Ice Cream (2040g)"
-      },
-      "price": 3900.0,
-      "sale_price": 1950.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "56155316": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56155316,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b01f4b2d3a9e993b6997feae7c70bd636b16a12a94c13636bafb4e836c5436bb",
-      "name": {
-        "ar": "ماصل اد واي بروتين اد 60 سكوب بنكهة ميلك شيك فراولة (2100 جرام)",
-        "en": "Muscle Add Whey Add 60Serv Strawberry Milkshake (2100g)"
-      },
-      "price": 4890.0,
-      "sale_price": 2445.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "56155317": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56155317,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/62055d7eed3e9a5ef95ca420302a1d7adb0117717c9e135c98bdd668d64e65ed",
-      "name": {
-        "ar": "ماصل اد واي بروتين اد 60 سكوب بنكهة ايس كريم فانيليا (2100 جرام)",
-        "en": "Muscle Add Whey Add 60Serv Vanilla Ice Cream (2100g)"
-      },
-      "price": 4890.0,
-      "sale_price": 2445.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "56655109": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56655109,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b9c12d8440fa555fe86cc23482ba17ee37d1ea506fdc6d74db921f0d19371d16",
-      "name": {
-        "ar": "بوباي لوشن واقي من الشمس بعامل حماية 50+ عرض (120 مل)",
-        "en": "Bobai Lotion SPF 50+ Bundle (120ml)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "56956466": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 56956466,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
-        "en": "Imported Cow Butter Piece (200g)"
-      },
-      "price": 129.5,
-      "reason": "new_discount",
-      "sale_price": 64.75,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56956466,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03f66c747d4a9e8db479d4aa8c4de0eba30e0d1f96e5e12a6277f434bc8b321c",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (200 جرام)",
-        "en": "Imported Cow Butter Piece (200g)"
-      },
-      "price": 129.5,
-      "sale_price": 64.75,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "56956738": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 56956738,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/062c00943ca21d34e45070b26b018451f870ccf553e48ad5dcec292dbf7e2b7d",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (500 جرام)",
-        "en": "Imported Cow Butter Piece (500g)"
-      },
-      "price": 235.5,
-      "reason": "new_discount",
-      "sale_price": 117.75,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56956738,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/062c00943ca21d34e45070b26b018451f870ccf553e48ad5dcec292dbf7e2b7d",
-      "name": {
-        "ar": "زبدة مستوردة بقري قطعه (500 جرام)",
-        "en": "Imported Cow Butter Piece (500g)"
-      },
-      "price": 235.5,
-      "sale_price": 117.75,
-      "stock": 2
-    },
-    "pending": false
-  },
   "57050906": {
     "notified": {
       "discount_percent": 50.0,
@@ -6083,7 +3011,7 @@
       },
       "price": 230.0,
       "sale_price": 115.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -6115,158 +3043,6 @@
     },
     "pending": false
   },
-  "58431120": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 58431120,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4583a85c6c85a2c65129b8142c0cf376573ed9f7b7b5643091ef476f2a85e4bd",
-      "name": {
-        "ar": "سيبال كريم لليدين والجسم كاكاو بليس (75 مل)",
-        "en": "Cybele Hand & Body Cream Cocoa Bliss (75ml)"
-      },
-      "price": 60.0,
-      "sale_price": 30.0,
-      "stock": 2
-    },
-    "pending": true
-  },
-  "58450866": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 58450866,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/f108b3d83704649f9b0ae06e74d95783c042ec3e5dda2f94f275fdc5adca10eb",
-      "name": {
-        "ar": "سيرافي واقي شمس فلويد غير مرئي بلمسة جافة SPF50+ للبشرة العادية إلى الدهنية (50 مل)",
-        "en": "Cerave Invisible Dry Touch Fluid Sunscreen SPF 50+ for Normal to Oily Skin (50ml)"
-      },
-      "price": 790.0,
-      "sale_price": 395.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "58451084": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 58451084,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d8890e2fad18b587da93b3e5a6033505e38d3119333c716390c29283aea7785a",
-      "name": {
-        "ar": "سيرافي واقي شمس فلويد مرطب غير مرئي SPF50+ للبشرة العادية إلى الجافة (50 مل)",
-        "en": "Cerave Invisible Hydrating Fluid Sunscreen SPF 50+ for Normal to Dry Skin (50ml)"
-      },
-      "price": 790.0,
-      "sale_price": 395.0,
-      "stock": 2
-    },
-    "pending": true
-  },
-  "58451342": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 58451342,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/07a81090fcdbe9f9d341dbed0f78c1553e7afe6c6d2e04cd4f5aaf7494ad10ca",
-      "name": {
-        "ar": "سيرافي واقي شمس مرطب للجسم غير مرئي SPF50+ مناسب للكبار والأطفال (75مل)",
-        "en": "Cerave Invisible Hydrating Sunscreen Body SPF 50+ for Adults & Kids (75ml)"
-      },
-      "price": 800.0,
-      "sale_price": 400.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "59524564": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 59524564,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904995/2427ab3bdfad90c3.jpg",
-      "name": {
-        "ar": "ديرما ايل جلايكو تونر حمض الجليكوليك (350مل)",
-        "en": "Dermaelle GlycoToner Glycolic Acid Toner (350ml)"
-      },
-      "price": 440.0,
-      "reason": "new_discount",
-      "sale_price": 176.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 59524564,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904995/2427ab3bdfad90c3.jpg",
-      "name": {
-        "ar": "ديرما ايل جلايكو تونر حمض الجليكوليك (350مل)",
-        "en": "Dermaelle GlycoToner Glycolic Acid Toner (350ml)"
-      },
-      "price": 440.0,
-      "sale_price": 176.0,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "59524565": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 59524565,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007905039/5c31f8d4c30038bc.jpg",
-      "name": {
-        "ar": "ديرما ايل هيالو بالانس كريم متقدم للبشرة المعرضة للحبوب (60مل)",
-        "en": "Dermaelle HyaluBalance Acne-Prone Skin Advanced Cream (60ml)"
-      },
-      "price": 329.0,
-      "sale_price": 164.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "59604403": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 59604403,
-      "image": "https://iili.io/Byvgjyv.jpg",
-      "name": {
-        "ar": "إسينشالز ميني شامبو هيلثي ستراندز (80مل)",
-        "en": "Essentials Mini Healthy Strands Shampoo (80ml)"
-      },
-      "price": 85.0,
-      "sale_price": 42.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "60673175": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
-      "name": {
-        "ar": "رويال إس جبنة مش (500g)",
-        "en": "Royal S Mish Cheese (500g)"
-      },
-      "price": 57.6,
-      "reason": "new_discount",
-      "sale_price": 28.8,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673175,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/694e02573a0e61bdfd5a3bfaaa0ad78089d7649d61993bb925dfd0dfcfd44a18",
-      "name": {
-        "ar": "رويال إس جبنة مش (500g)",
-        "en": "Royal S Mish Cheese (500g)"
-      },
-      "price": 57.6,
-      "sale_price": 28.8,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673177": {
     "notified": null,
     "observed": {
@@ -6279,7 +3055,7 @@
       },
       "price": 130.8,
       "sale_price": 65.4,
-      "stock": 1
+      "stock": 0
     },
     "pending": true
   },
@@ -6339,34 +3115,6 @@
     },
     "pending": false
   },
-  "60673196": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673196,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6433e2b3874e530b2c681fa64844f88485c2ed8dd7c37bf1cc59b637158a0078",
-      "name": {
-        "ar": "رويال إس لبنة ماعز حبة البركة (400g)",
-        "en": "Royal S Labna Goat With Black Seed (400g)"
-      },
-      "price": 216.0,
-      "reason": "new_discount",
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673196,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6433e2b3874e530b2c681fa64844f88485c2ed8dd7c37bf1cc59b637158a0078",
-      "name": {
-        "ar": "رويال إس لبنة ماعز حبة البركة (400g)",
-        "en": "Royal S Labna Goat With Black Seed (400g)"
-      },
-      "price": 216.0,
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "60673197": {
     "notified": {
       "discount_percent": 50.0,
@@ -6394,98 +3142,6 @@
       "stock": 1
     },
     "pending": false
-  },
-  "60673198": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 60673198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
-      "name": {
-        "ar": "رويال إس لبنة ماعز زعتر (400g)",
-        "en": "Royal S Labna Goat With Thyme (450g)"
-      },
-      "price": 216.0,
-      "reason": "new_discount",
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673198,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
-      "name": {
-        "ar": "رويال إس لبنة ماعز زعتر (400g)",
-        "en": "Royal S Labna Goat With Thyme (450g)"
-      },
-      "price": 216.0,
-      "sale_price": 108.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "60747975": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60747975,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2322c7c19ed9037e9ef71b02be2cc4b20d5728023f172b23fd022e69daed85f5",
-      "name": {
-        "ar": "يوليشيس بودي ميست سويت فايبز (250 مل)",
-        "en": "Youlicious Body Mist Sweet Vibes (250ml)"
-      },
-      "price": 280.0,
-      "sale_price": 140.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "60975149": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60975149,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/91d23881655be03b50a5e8004ba948bbd66e2d1cb6cf4b91e77de4fa53d450fc",
-      "name": {
-        "ar": "غارنييه هيالورون سوربيه كريم (85 مل)",
-        "en": "Garnier Hyaluron Sorbet Cream (85ml)"
-      },
-      "price": 270.0,
-      "sale_price": 135.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "60975208": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60975208,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b8dcf179a7fd08ac00724d049f2d4d413c64d7470041f5ec1241265790fb6ae4",
-      "name": {
-        "ar": "غارنييه فيتامين سي سوربيه كريم (85 مل)",
-        "en": "Garnier Vitamin C Sorbet Cream (85ml)"
-      },
-      "price": 270.0,
-      "sale_price": 135.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "60980857": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60980857,
-      "image": "https://iili.io/CfsLaUu.jpg",
-      "name": {
-        "ar": "زيا باي زد كونتور ستيك بيرنت برونز درجة C02",
-        "en": "Ziya By Z Contour Stick Burnt Bronze Shade C02"
-      },
-      "price": 380.0,
-      "sale_price": 190.0,
-      "stock": 1
-    },
-    "pending": true
   },
   "60980870": {
     "notified": {
@@ -6623,7 +3279,7 @@
       },
       "price": 395.0,
       "sale_price": 197.5,
-      "stock": 3
+      "stock": 0
     },
     "pending": false
   },
@@ -6654,22 +3310,6 @@
       "stock": 4
     },
     "pending": false
-  },
-  "61264021": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 61264021,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b0fa64cc929241a68e3900470cec658dbbb313545b76f910129463f56fdd466b",
-      "name": {
-        "ar": "د. أرجان أدفانسد كانابيس ليف إن هير بلسم (250 مل)",
-        "en": "Dr. Argan Advanced Cannabis Leave-In Hair Conditioner (250ml)"
-      },
-      "price": 950.0,
-      "sale_price": 475.0,
-      "stock": 1
-    },
-    "pending": true
   },
   "6201984": {
     "notified": {
@@ -6755,7 +3395,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": true
   },
@@ -6783,25 +3423,9 @@
       },
       "price": 400.0,
       "sale_price": 200.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
-  },
-  "64499108": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 64499108,
-      "image": "https://media.superdrug.com//medias/sys_master/prd-images/h9f/h6b/12756208746526/prd-side-846756_600x600/prd-side-846756-600x600.jpg",
-      "name": {
-        "ar": "ريميل وندر إنك قلم آيلاينر دقيق 002 سبايسد تشستنت",
-        "en": "Rimmel Wonder'Ink Precision Eyeliner Pen 002 Spiced Chestnut"
-      },
-      "price": 480.0,
-      "sale_price": 240.0,
-      "stock": 1
-    },
-    "pending": true
   },
   "64565683": {
     "notified": {
@@ -6827,7 +3451,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -6855,7 +3479,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -6899,51 +3523,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "64619267": {
-    "notified": {
-      "discount_percent": 50.001,
-      "id": 64619267,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d95ab12a6146b3c603469005191804e46acd0c40711be1f72051fddfecc6ba76",
-      "name": {
-        "ar": "شهد فيليه الدجاج (800 جم)",
-        "en": "Shahd Breaded Chicken Fillet (800g)"
-      },
-      "price": 427.75,
-      "reason": "new_discount",
-      "sale_price": 213.87,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 64619267,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d95ab12a6146b3c603469005191804e46acd0c40711be1f72051fddfecc6ba76",
-      "name": {
-        "ar": "شهد فيليه الدجاج (800 جم)",
-        "en": "Shahd Breaded Chicken Fillet (800g)"
-      },
-      "price": 427.75,
-      "sale_price": 213.87,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "65588693": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 65588693,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/8c7b0e1c58bdd2ce3ba1be80cb0fee6b7cdadf06fb1e189bd27777dad59ff73f",
-      "name": {
-        "ar": "كيو بي إس جليمبس إيمول جل لمنطقة تحت العين 4 في 1 للعناية المتكاملة (15 مل)",
-        "en": "QPS Glimpse Under Eye Emulgel 4-in-1 Complete Eye Revive (15ml)"
-      },
-      "price": 449.0,
-      "sale_price": 224.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": true
   },
@@ -6987,7 +3567,7 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": true
   },
@@ -7015,7 +3595,7 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -7047,22 +3627,6 @@
     },
     "pending": false
   },
-  "65671002": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 65671002,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fc06e92d35f0c85dc907b7a04aed66202c2ecf70e95dca41e07f4c4819e097d2",
-      "name": {
-        "ar": "Vacation Watermelon Deodorant Spray (200ml)",
-        "en": "Vacation Watermelon Deodorant Spray (200ml)"
-      },
-      "price": 275.0,
-      "sale_price": 137.5,
-      "stock": 1
-    },
-    "pending": true
-  },
   "65671003": {
     "notified": {
       "discount_percent": 50.0,
@@ -7087,25 +3651,9 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
-  },
-  "66223101": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 66223101,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2eb80cef9ac2020bbc8223dca105ea2cf4ce420ba15b669bea2a8df83d0694c3",
-      "name": {
-        "ar": "ويلنس نيوتريشن كرياتين مونوهيدرات (300 جم)",
-        "en": "Wellness Nutrition Creatine Monohydrate (300 g)"
-      },
-      "price": 800.0,
-      "sale_price": 400.0,
-      "stock": 1
-    },
-    "pending": true
   },
   "67016177": {
     "notified": {
@@ -7131,223 +3679,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "67028362": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 67028362,
-      "image": "https://i.ibb.co/fdtfKGR0/6224010248489-KS-FRONT.jpg",
-      "name": {
-        "ar": "لايت سبيد زيرو تركيبة ترطيب بالإلكتروليت مع فيتامين C بدون سكر بنكهة الكيوي والفراولة",
-        "en": "LyteSpeed Zero Electrolyte Hydration Formula with Vitamin C Zero Sugar Kiwi Strawberry"
-      },
-      "price": 590.0,
-      "sale_price": 295.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "67647041": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 67647041,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7c31c9f8a3119079efc58dc95c569cb2de5f0e5029eeaf024cad7eb1a819802d",
-      "name": {
-        "ar": "كاتريس ليكويد لاينر سينسيتيف 010",
-        "en": "Catrice Liquid Liner Sensitive 010"
-      },
-      "price": 380.0,
-      "sale_price": 190.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "67647086": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 67647086,
-      "image": "https://images.barcodelookup.com/149650/1496509305-1.jpg",
-      "name": {
-        "ar": "كاتريس هايبر لاش ماسكارا 010 إليكتريك بلاك",
-        "en": "Catrice Hyper Lash Mascara 010 Electric Black"
-      },
-      "price": 415.0,
-      "sale_price": 207.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "67647167": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 67647167,
-      "image": "https://m.media-amazon.com/images/I/51oeByl6xJL._AC_SL1500_.jpg",
-      "name": {
-        "ar": "كاتريس جو بيج. جو بولد. 24H ديب بلاك إكستريم فولوم ماسكارا",
-        "en": "Catrice Go Big. Go Bold. 24h Deep Black Extreme Volume Mascara"
-      },
-      "price": 320.0,
-      "sale_price": 160.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "68927116": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 68927116,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d33deae4302ec857af440f196e9e71aeb9f53f2e53c56db1b08129b29a478131",
-      "name": {
-        "ar": "لوريال باريس ريفيتاليفت ليزر سيروم (30 مل)",
-        "en": "L'Oréal Paris Revitalift Laser Serum (30 ml)"
-      },
-      "price": 400.0,
-      "sale_price": 200.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "70982642": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 70982642,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/cc5c78d80b4f6a1355f0cd47b6acb14fc4d0c4ab49770bd1292658eb1194ef03",
-      "name": {
-        "ar": "فلورمار تو جو بلاشر ستيك رقم 02 كورال دريم",
-        "en": "Flormar To Go Blusher Stick N.02 Coral Dream"
-      },
-      "price": 725.0,
-      "sale_price": 362.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "72113861": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 72113861,
-      "image": "https://i.ibb.co/VWMzDFXn/Morfose-Milk-Therapy-Cift-Fazli-Kondisyoner-400-ML-min.jpg",
-      "name": {
-        "ar": "مورفوس ميلك ثيرابي ثنائي المرحلة (400 مل)",
-        "en": "Morfose Milk Therapy Two Phase Conditioner - Detangling, Frizz Control & Shine (400ml)"
-      },
-      "price": 355.0,
-      "sale_price": 177.5,
-      "stock": 2
-    },
-    "pending": true
-  },
-  "73730546": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 73730546,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0f23e60179095ea0e4c286c37847ad4a4a78530708d14104de3f36fa2d4400de",
-      "name": {
-        "ar": "كيب جوينج الواي بروتين بالإنزيمات الهاضمة بنكهة قطع الفراولة 30 جرعة (1050 جرام)",
-        "en": "Keep Going Ultimate Whey Concentrate + Digestive Enzymes Delicious Strawberry 30 Serv (1050g)"
-      },
-      "price": 2990.0,
-      "sale_price": 1495.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "73730620": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 73730620,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e87166433ca5d9233e2f8afe47479773b6b3655b676b5165a8d8926aff395288",
-      "name": {
-        "ar": "كيب جوينج الواي بروتين بالإنزيمات الهاضمة بنكهة قطع الفراولة 60 جرعة (1860 جرام)",
-        "en": "Keep Going Ultimate Whey Concentrate + Digestive Enzymes Delicious Strawberry 60 Serv (1860g)"
-      },
-      "price": 5449.0,
-      "sale_price": 2724.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "74321106": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 74321106,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3a2a3b109b75c1275aa1aafb901358fc63598a3f37d966d5fd9c26e34f15c4dc",
-      "name": {
-        "ar": "نفري غسول لطيف بحمض الساليسيليك (150 مل)",
-        "en": "Nfry Gentle Salicylic Acid Cleanser (150 ml)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "74749501": {
-    "notified": {
-      "discount_percent": 62.587,
-      "id": 74749501,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/62456358864de25e43f191761037357c5647919cd48539507ce7de2a7fcd2951",
-      "name": {
-        "ar": "إيسينشالز اشتري بودي سبلاش ديب كاندي (100 مل) + كريم يدين ديب كاندي، واحصل على 1 أحمر خدود ستيك كاندي روز مجانًا",
-        "en": "Essentials Buy Deep Candy Body Splash (100 ml) + Deep Candy Hand Cream, Get 1 Candy Rose Blush Stick"
-      },
-      "price": 555.0,
-      "reason": "new_discount",
-      "sale_price": 207.64,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 62.587,
-      "id": 74749501,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/62456358864de25e43f191761037357c5647919cd48539507ce7de2a7fcd2951",
-      "name": {
-        "ar": "إيسينشالز اشتري بودي سبلاش ديب كاندي (100 مل) + كريم يدين ديب كاندي، واحصل على 1 أحمر خدود ستيك كاندي روز مجانًا",
-        "en": "Essentials Buy Deep Candy Body Splash (100 ml) + Deep Candy Hand Cream, Get 1 Candy Rose Blush Stick"
-      },
-      "price": 555.0,
-      "sale_price": 207.64,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "76270493": {
-    "notified": {
-      "discount_percent": 53.309,
-      "id": 76270493,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/86b414469e058835a2a5e2794ab7b7cc79dfed7e49a2ce858be70bf73652023c",
-      "name": {
-        "ar": "كيب جوينج ألتيميت واي مع إنزيمات هاضمة قطع الفراولة (1860 جم) + 3 ساشيهات مجانية",
-        "en": "Keep Going Ultimate Whey with Digestive Enzymes Strawberry Chunks (1860g) + 3 Free Sachets"
-      },
-      "price": 5836.0,
-      "reason": "new_discount",
-      "sale_price": 2724.89,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 53.309,
-      "id": 76270493,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/86b414469e058835a2a5e2794ab7b7cc79dfed7e49a2ce858be70bf73652023c",
-      "name": {
-        "ar": "كيب جوينج ألتيميت واي مع إنزيمات هاضمة قطع الفراولة (1860 جم) + 3 ساشيهات مجانية",
-        "en": "Keep Going Ultimate Whey with Digestive Enzymes Strawberry Chunks (1860g) + 3 Free Sachets"
-      },
-      "price": 5836.0,
-      "sale_price": 2724.89,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -7375,7 +3707,7 @@
       },
       "price": 128.0,
       "sale_price": 64.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -7394,7 +3726,7 @@
       "stock": 12
     },
     "observed": {
-      "discount_percent": 56.579,
+      "discount_percent": 50.0,
       "id": 76794454,
       "image": "https://cdn.breadfast.com/wp-content/uploads/20b4ceb91e74d842ca532d19bae08d15b09cc24dca0b2c5cedcd370180e62bbc",
       "name": {
@@ -7402,176 +3734,8 @@
         "en": "3x Fam Beef Frozen Smashed Beef Burger (360g)"
       },
       "price": 684.0,
-      "sale_price": 297.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "76801426": {
-    "notified": {
-      "discount_percent": 59.08,
-      "id": 76801426,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0e7df0bbabf599597e37ac683224b814e812fcdfecec738538365c8118eb0f9a",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالبرتقال (75 جرام)",
-        "en": "5x Breadfast Belgian Orange Dark 70% Chocolate (75g)"
-      },
-      "price": 828.2,
-      "reason": "new_discount",
-      "sale_price": 338.9,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 59.08,
-      "id": 76801426,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0e7df0bbabf599597e37ac683224b814e812fcdfecec738538365c8118eb0f9a",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالبرتقال (75 جرام)",
-        "en": "5x Breadfast Belgian Orange Dark 70% Chocolate (75g)"
-      },
-      "price": 828.2,
-      "sale_price": 338.9,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "76803391": {
-    "notified": {
-      "discount_percent": 50.294,
-      "id": 76803391,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c9818020c909903f0d2cf8240ceec52f91e639f2c0de8c6b0985acd2dc283ed7",
-      "name": {
-        "ar": "6x بريدفاست رقائق البطاطس بالجبنة الشيدر و البصل (48ج)",
-        "en": "6x Breadfast Kettle-Cooked Chips with Cheddar Cheese & Onions (48g)"
-      },
-      "price": 102.0,
-      "reason": "new_discount",
-      "sale_price": 50.7,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.294,
-      "id": 76803391,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c9818020c909903f0d2cf8240ceec52f91e639f2c0de8c6b0985acd2dc283ed7",
-      "name": {
-        "ar": "6x بريدفاست رقائق البطاطس بالجبنة الشيدر و البصل (48ج)",
-        "en": "6x Breadfast Kettle-Cooked Chips with Cheddar Cheese & Onions (48g)"
-      },
-      "price": 102.0,
-      "sale_price": 50.7,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "76804076": {
-    "notified": {
-      "discount_percent": 59.08,
-      "id": 76804076,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/dcd78583004ffea4d6e616bed05b3d78f964f60c3b31236919e5d107a88d56f6",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية بالغاندوجا (75 جرام)",
-        "en": "5x Breadfast Belgian Dark Chocolate with Gianduja (75g)"
-      },
-      "price": 828.2,
-      "reason": "new_discount",
-      "sale_price": 338.9,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 59.08,
-      "id": 76804076,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/dcd78583004ffea4d6e616bed05b3d78f964f60c3b31236919e5d107a88d56f6",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية بالغاندوجا (75 جرام)",
-        "en": "5x Breadfast Belgian Dark Chocolate with Gianduja (75g)"
-      },
-      "price": 828.2,
-      "sale_price": 338.9,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "76804138": {
-    "notified": {
-      "discount_percent": 59.08,
-      "id": 76804138,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/352c06e85e15d25d31f8aa39453f2e74c032248bf643c153b3a7b95d3eaa8a4f",
-      "name": {
-        "ar": "5x بريدفاست شيكولاتة حليب بلجيكي (75 جرام)",
-        "en": "5x Breadfast Belgian Milk Chocolate (75g)"
-      },
-      "price": 828.2,
-      "reason": "new_discount",
-      "sale_price": 338.9,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 59.08,
-      "id": 76804138,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/352c06e85e15d25d31f8aa39453f2e74c032248bf643c153b3a7b95d3eaa8a4f",
-      "name": {
-        "ar": "5x بريدفاست شيكولاتة حليب بلجيكي (75 جرام)",
-        "en": "5x Breadfast Belgian Milk Chocolate (75g)"
-      },
-      "price": 828.2,
-      "sale_price": 338.9,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "76804215": {
-    "notified": {
-      "discount_percent": 59.08,
-      "id": 76804215,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/402fc93f011b22dc9336b23e7811b29504e008786e41c1d5eac1a22df258d77f",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالملح (75 جرام)",
-        "en": "5x Breadfast Belgian Sea Salt Dark 70% Chocolate (75g)"
-      },
-      "price": 828.2,
-      "reason": "new_discount",
-      "sale_price": 338.9,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 59.08,
-      "id": 76804215,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/402fc93f011b22dc9336b23e7811b29504e008786e41c1d5eac1a22df258d77f",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالملح (75 جرام)",
-        "en": "5x Breadfast Belgian Sea Salt Dark 70% Chocolate (75g)"
-      },
-      "price": 828.2,
-      "sale_price": 338.9,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "76804337": {
-    "notified": {
-      "discount_percent": 53.753,
-      "id": 76804337,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d26f5af08662972081d10df4e2097ac73fe3ba540b5ecc8b0b34af3d24119635",
-      "name": {
-        "ar": "5x شوكولاتة بالحليب للتهادي 75جرام",
-        "en": "5x Thank You Milk Chocolate Bar (75g)"
-      },
-      "price": 724.7,
-      "reason": "new_discount",
-      "sale_price": 335.15,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 53.753,
-      "id": 76804337,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d26f5af08662972081d10df4e2097ac73fe3ba540b5ecc8b0b34af3d24119635",
-      "name": {
-        "ar": "5x شوكولاتة بالحليب للتهادي 75جرام",
-        "en": "5x Thank You Milk Chocolate Bar (75g)"
-      },
-      "price": 724.7,
-      "sale_price": 335.15,
-      "stock": 2
+      "sale_price": 342.0,
+      "stock": 0
     },
     "pending": false
   }
