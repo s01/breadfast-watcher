@@ -351,50 +351,6 @@
     },
     "pending": false
   },
-  "26197371": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26197371,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/6291108735411.jpg",
-      "name": {
-        "ar": "لطافة أسد او دي بارفان للرجال (100 مل)",
-        "en": "Lattafa Asad EDP For Him (100ml)"
-      },
-      "price": 1270.0,
-      "sale_price": 635.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "26770445": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26770445,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/8011003825745.png",
-      "name": {
-        "ar": "فيرساتشي ديلان بلو او دو تواليت للرجال (100 مل)",
-        "en": "Versace Dylan Blue Pour Homme EDT For Him (100ml)"
-      },
-      "price": 6700.0,
-      "reason": "new_discount",
-      "sale_price": 3350.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26770445,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/8011003825745.png",
-      "name": {
-        "ar": "فيرساتشي ديلان بلو او دو تواليت للرجال (100 مل)",
-        "en": "Versace Dylan Blue Pour Homme EDT For Him (100ml)"
-      },
-      "price": 6700.0,
-      "sale_price": 3350.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "26863557": {
     "notified": {
       "discount_percent": 50.239,
