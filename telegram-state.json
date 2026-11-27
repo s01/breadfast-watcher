@@ -5258,7 +5258,7 @@
       "stock": 6
     },
     "observed": {
-      "discount_percent": 60.0,
+      "discount_percent": 50.0,
       "id": 44295615,
       "image": "https://cdn.breadfast.com/wp-content/uploads/4fa363a6b431b82451d40bdda5123490dacd912d289fea5c110d73f9fe1cba37",
       "name": {
@@ -5266,8 +5266,8 @@
         "en": "Capixy Intense Tonic Spray 125ml"
       },
       "price": 700.0,
-      "sale_price": 280.0,
-      "stock": 2
+      "sale_price": 350.0,
+      "stock": 1
     },
     "pending": false
   },
@@ -5286,7 +5286,7 @@
       "stock": 6
     },
     "observed": {
-      "discount_percent": 60.0,
+      "discount_percent": 50.0,
       "id": 44295617,
       "image": "https://cdn.breadfast.com/wp-content/uploads/5aa7502ab78a7cfa6c8798e1e053ab2cd1f0bc5f87799ea6bd6691e925c0dc08",
       "name": {
@@ -5294,7 +5294,7 @@
         "en": "Capixy Lashes Treatment Serum 10ml"
       },
       "price": 550.0,
-      "sale_price": 220.0,
+      "sale_price": 275.0,
       "stock": 6
     },
     "pending": false
