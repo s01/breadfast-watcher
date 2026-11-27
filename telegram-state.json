@@ -1207,22 +1207,6 @@
     },
     "pending": false
   },
-  "41397932": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 92.982,
-      "id": 41397932,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03e0a7928145eaf41f08b882b3d0e650115102c647bea0116ab0d0bebbe48f5a",
-      "name": {
-        "ar": "ريز ليمون زجاجة (400مل)",
-        "en": "Rizz Lemon Bottle (400ml)"
-      },
-      "price": 14.25,
-      "sale_price": 1.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "42882500": {
     "notified": {
       "discount_percent": 50.63,
