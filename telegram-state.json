@@ -563,34 +563,6 @@
     },
     "pending": false
   },
-  "29859194": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29859194,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/21e3ce8ee13175183534841f0fd17c940e404db269093b2d7db4d88f4f24a97a",
-      "name": {
-        "ar": "3x بريدفاست مكسرات مشكلة مملحة و ممحمصة (200 جرام)",
-        "en": "3x Breadfast Salted Deluxe Mixed Nuts (200g)"
-      },
-      "price": 900.0,
-      "reason": "new_discount",
-      "sale_price": 450.0,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29859194,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/21e3ce8ee13175183534841f0fd17c940e404db269093b2d7db4d88f4f24a97a",
-      "name": {
-        "ar": "3x بريدفاست مكسرات مشكلة مملحة و ممحمصة (200 جرام)",
-        "en": "3x Breadfast Salted Deluxe Mixed Nuts (200g)"
-      },
-      "price": 900.0,
-      "sale_price": 450.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "31486556": {
     "notified": {
       "discount_percent": 50.108,
