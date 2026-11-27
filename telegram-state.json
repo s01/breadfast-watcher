@@ -83,34 +83,6 @@
     },
     "pending": false
   },
-  "13976562": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 13976562,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9201ee2e47b81b44ec7697b0e4603606381245888110b9b35a94c6791a67191f",
-      "name": {
-        "ar": "فيشي شامبو ديركوس دينسي سولوشنز (250 مل)",
-        "en": "Vichy Dercos Densi-Solutions Shampoo (250ml)"
-      },
-      "price": 880.0,
-      "reason": "new_discount",
-      "sale_price": 440.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 13976562,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9201ee2e47b81b44ec7697b0e4603606381245888110b9b35a94c6791a67191f",
-      "name": {
-        "ar": "فيشي شامبو ديركوس دينسي سولوشنز (250 مل)",
-        "en": "Vichy Dercos Densi-Solutions Shampoo (250ml)"
-      },
-      "price": 880.0,
-      "sale_price": 440.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "13980418": {
     "notified": {
       "discount_percent": 50.0,
@@ -611,34 +583,6 @@
       },
       "price": 650.0,
       "sale_price": 325.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "22268660": {
-    "notified": {
-      "discount_percent": 82.609,
-      "id": 22268660,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
-      "name": {
-        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
-        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
-      },
-      "price": 5.75,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 82.609,
-      "id": 22268660,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
-      "name": {
-        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
-        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
-      },
-      "price": 5.75,
-      "sale_price": 1.0,
       "stock": 1
     },
     "pending": false
@@ -2495,34 +2439,6 @@
     },
     "pending": false
   },
-  "37234285": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 37234285,
-      "image": "https://i.ibb.co/Kc36XmTH/3600531691875.jpg",
-      "name": {
-        "ar": "مايبيلين نيويورك كريم أساس سوبر ستاي لومي مات يدوم طويلًا لون 140 (35 مل)",
-        "en": "Maybelline New York Super Stay Lumi-Matte Long Lasting Foundation Shade 140 (35ml)"
-      },
-      "price": 790.0,
-      "reason": "new_discount",
-      "sale_price": 395.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 37234285,
-      "image": "https://i.ibb.co/Kc36XmTH/3600531691875.jpg",
-      "name": {
-        "ar": "مايبيلين نيويورك كريم أساس سوبر ستاي لومي مات يدوم طويلًا لون 140 (35 مل)",
-        "en": "Maybelline New York Super Stay Lumi-Matte Long Lasting Foundation Shade 140 (35ml)"
-      },
-      "price": 790.0,
-      "sale_price": 395.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "38021923": {
     "notified": {
       "discount_percent": 50.0,
@@ -2687,7 +2603,7 @@
       },
       "price": 449.0,
       "sale_price": 224.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -3943,7 +3859,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -4223,7 +4139,7 @@
       },
       "price": 350.0,
       "sale_price": 126.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -4363,7 +4279,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -4751,34 +4667,6 @@
     },
     "pending": false
   },
-  "50823483": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 50823483,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b9b23f076a2fc5226b982e56d0f3214734898ceebc013157626e418844106704",
-      "name": {
-        "ar": "بنو تمر مجدول جوسي (400 جرام)",
-        "en": "Bennu Super Juicy Medjool Dates (400g)"
-      },
-      "price": 280.0,
-      "reason": "new_discount",
-      "sale_price": 140.0,
-      "stock": 8
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50823483,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b9b23f076a2fc5226b982e56d0f3214734898ceebc013157626e418844106704",
-      "name": {
-        "ar": "بنو تمر مجدول جوسي (400 جرام)",
-        "en": "Bennu Super Juicy Medjool Dates (400g)"
-      },
-      "price": 280.0,
-      "sale_price": 140.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "50902005": {
     "notified": {
       "discount_percent": 50.0,
@@ -4962,22 +4850,6 @@
       "stock": 1
     },
     "pending": false
-  },
-  "51324300": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51324300,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3447e83ac9e6aacea295e75127df234f18d9058f6df2f0f43674502216b0cca3",
-      "name": {
-        "ar": "إيسنس ماسكارا  آي لوف إكستريم فوليوم المقاومة للماء",
-        "en": "Essence I Love Extreme Volume Mascara Waterproof"
-      },
-      "price": 225.0,
-      "sale_price": 112.5,
-      "stock": 1
-    },
-    "pending": true
   },
   "51324325": {
     "notified": null,
@@ -5807,7 +5679,7 @@
       },
       "price": 959.0,
       "sale_price": 479.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -7702,21 +7574,5 @@
       "stock": 2
     },
     "pending": false
-  },
-  "8466330": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 8466330,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/99b28edfb0977ed5cffde0dee45ece57533f1f58cf93da737ee8dbd74780950a",
-      "name": {
-        "ar": "جوفيالتي مصل الحواجب جرو ماي براو (10 مل)",
-        "en": "Joviality Grow My Brow Eyebrow Serum (10ml)"
-      },
-      "price": 310.0,
-      "sale_price": 155.0,
-      "stock": 1
-    },
-    "pending": true
   }
 }
