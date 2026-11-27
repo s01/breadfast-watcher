@@ -1,32 +1,4 @@
 {
-  "1380506": {
-    "notified": {
-      "discount_percent": 52.0,
-      "id": 1380506,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-deep-black-carbon-1.png",
-      "name": {
-        "ar": "نيفيا مزيل عرق رول اون ديب بلاك كاربون للرجال (50 مل)",
-        "en": "Nivea Men Roll On Deodorant Black Carbon (50ml)"
-      },
-      "price": 107.0,
-      "reason": "new_discount",
-      "sale_price": 51.36,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 52.0,
-      "id": 1380506,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-deep-black-carbon-1.png",
-      "name": {
-        "ar": "نيفيا مزيل عرق رول اون ديب بلاك كاربون للرجال (50 مل)",
-        "en": "Nivea Men Roll On Deodorant Black Carbon (50ml)"
-      },
-      "price": 107.0,
-      "sale_price": 51.36,
-      "stock": 2
-    },
-    "pending": false
-  },
   "2084233": {
     "notified": {
       "discount_percent": 50.0,
@@ -1232,34 +1204,6 @@
       "price": 480.0,
       "sale_price": 240.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "40635312": {
-    "notified": {
-      "discount_percent": 52.0,
-      "id": 40635312,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e65ab2eb4dd3a05dc5865a6f99cbbe77eedd25cbf5e60e3cad03534c7c4aee46",
-      "name": {
-        "ar": "لوريال ألفيف جليكوليك جلوس شامبو (400مل)",
-        "en": "L'Oréal Elvive Glycolic Gloss Shampoo (400ml)"
-      },
-      "price": 225.0,
-      "reason": "new_discount",
-      "sale_price": 108.0,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 52.0,
-      "id": 40635312,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e65ab2eb4dd3a05dc5865a6f99cbbe77eedd25cbf5e60e3cad03534c7c4aee46",
-      "name": {
-        "ar": "لوريال ألفيف جليكوليك جلوس شامبو (400مل)",
-        "en": "L'Oréal Elvive Glycolic Gloss Shampoo (400ml)"
-      },
-      "price": 225.0,
-      "sale_price": 108.0,
-      "stock": 11
     },
     "pending": false
   },
@@ -3988,34 +3932,6 @@
       "price": 315.0,
       "sale_price": 157.5,
       "stock": 2
-    },
-    "pending": false
-  },
-  "66913914": {
-    "notified": {
-      "discount_percent": 52.0,
-      "id": 66913914,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/61efa80e2ec7a552c20f5ffc42d81cf356cdc46e24949c1f023a25568e0b7fec",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال 3 عبوات (150مل)",
-        "en": "Axe Deodorant Spray Black Night For Men Pack Of 3 (150ml)"
-      },
-      "price": 645.0,
-      "reason": "new_discount",
-      "sale_price": 309.6,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 52.0,
-      "id": 66913914,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/61efa80e2ec7a552c20f5ffc42d81cf356cdc46e24949c1f023a25568e0b7fec",
-      "name": {
-        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال 3 عبوات (150مل)",
-        "en": "Axe Deodorant Spray Black Night For Men Pack Of 3 (150ml)"
-      },
-      "price": 645.0,
-      "sale_price": 309.6,
-      "stock": 6
     },
     "pending": false
   },
