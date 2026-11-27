@@ -367,34 +367,6 @@
     },
     "pending": false
   },
-  "26198724": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26198724,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/220131a40bf0c5b9b045b569ad4b20eac0fbab5ce4518d51aa5f222f1adcd125",
-      "name": {
-        "ar": "فيرساتشي كريستال نوار او دو بارفان للنساء (90 مل)",
-        "en": "Versace Crystal Noir EDP For Her (90ml)"
-      },
-      "price": 6150.0,
-      "reason": "new_discount",
-      "sale_price": 3075.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26198724,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/220131a40bf0c5b9b045b569ad4b20eac0fbab5ce4518d51aa5f222f1adcd125",
-      "name": {
-        "ar": "فيرساتشي كريستال نوار او دو بارفان للنساء (90 مل)",
-        "en": "Versace Crystal Noir EDP For Her (90ml)"
-      },
-      "price": 6150.0,
-      "sale_price": 3075.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "26770445": {
     "notified": {
       "discount_percent": 50.0,
@@ -591,7 +563,7 @@
       },
       "price": 585.0,
       "sale_price": 292.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3587,62 +3559,6 @@
       },
       "price": 450.0,
       "sale_price": 225.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "71394645": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 71394645,
-      "image": "https://iili.io/n0S99SI.png",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس يو في إير واقي شمس ملون SPF 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios UV Air Tinted Serum Sunscreen SPF 50+ (50 ml)"
-      },
-      "price": 999.0,
-      "reason": "new_discount",
-      "sale_price": 499.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 71394645,
-      "image": "https://iili.io/n0S99SI.png",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس يو في إير واقي شمس ملون SPF 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios UV Air Tinted Serum Sunscreen SPF 50+ (50 ml)"
-      },
-      "price": 999.0,
-      "sale_price": 499.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "73732316": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 73732316,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6287042286874/27f40f8a6a937196.jpg",
-      "name": {
-        "ar": "لافيرن لادور بخور فالي او دو بارفان للنساء (200 مل)",
-        "en": "Laverne Lador Bakhur Valley EDP For Her (200ml)"
-      },
-      "price": 2650.0,
-      "reason": "new_discount",
-      "sale_price": 1325.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 73732316,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6287042286874/27f40f8a6a937196.jpg",
-      "name": {
-        "ar": "لافيرن لادور بخور فالي او دو بارفان للنساء (200 مل)",
-        "en": "Laverne Lador Bakhur Valley EDP For Her (200ml)"
-      },
-      "price": 2650.0,
-      "sale_price": 1325.0,
       "stock": 0
     },
     "pending": false
