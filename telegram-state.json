@@ -1095,34 +1095,6 @@
     },
     "pending": false
   },
-  "41397929": {
-    "notified": {
-      "discount_percent": 93.0,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "reason": "new_discount",
-      "sale_price": 0.98,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 93.0,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "sale_price": 0.98,
-      "stock": 0
-    },
-    "pending": false
-  },
   "41397932": {
     "notified": {
       "discount_percent": 92.982,
@@ -2155,7 +2127,7 @@
       },
       "price": 370.0,
       "sale_price": 185.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -3755,62 +3727,6 @@
       },
       "price": 396.75,
       "sale_price": 198.37,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "76772915": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 76772915,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b9b163183734e0323a1672506604afce88062a4a20ffcee071f2e3ef5f0ebfe1",
-      "name": {
-        "ar": "8x اكوافينا مياه فوارة كان (250 مل)",
-        "en": "8x Aquafina Sparkling Can (250ml)"
-      },
-      "price": 128.0,
-      "reason": "new_discount",
-      "sale_price": 64.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 76772915,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b9b163183734e0323a1672506604afce88062a4a20ffcee071f2e3ef5f0ebfe1",
-      "name": {
-        "ar": "8x اكوافينا مياه فوارة كان (250 مل)",
-        "en": "8x Aquafina Sparkling Can (250ml)"
-      },
-      "price": 128.0,
-      "sale_price": 64.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "76794454": {
-    "notified": {
-      "discount_percent": 56.579,
-      "id": 76794454,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/20b4ceb91e74d842ca532d19bae08d15b09cc24dca0b2c5cedcd370180e62bbc",
-      "name": {
-        "ar": "3x فام بيف سماش برجر مجمد (360 جرام)",
-        "en": "3x Fam Beef Frozen Smashed Beef Burger (360g)"
-      },
-      "price": 684.0,
-      "reason": "new_discount",
-      "sale_price": 297.0,
-      "stock": 12
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 76794454,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/20b4ceb91e74d842ca532d19bae08d15b09cc24dca0b2c5cedcd370180e62bbc",
-      "name": {
-        "ar": "3x فام بيف سماش برجر مجمد (360 جرام)",
-        "en": "3x Fam Beef Frozen Smashed Beef Burger (360g)"
-      },
-      "price": 684.0,
-      "sale_price": 342.0,
       "stock": 0
     },
     "pending": false
