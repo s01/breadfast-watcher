@@ -1295,6 +1295,34 @@
     },
     "pending": false
   },
+  "408832": {
+    "notified": {
+      "discount_percent": 91.111,
+      "id": 408832,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/coctail-235.png",
+      "name": {
+        "ar": "جهينه كلاسيك كوكتيل (235 مل)",
+        "en": "Juhayna Classic Cocktail (235ml)"
+      },
+      "price": 11.25,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 91.111,
+      "id": 408832,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/coctail-235.png",
+      "name": {
+        "ar": "جهينه كلاسيك كوكتيل (235 مل)",
+        "en": "Juhayna Classic Cocktail (235ml)"
+      },
+      "price": 11.25,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "41021944": {
     "notified": {
       "discount_percent": 58.431,
@@ -1347,7 +1375,7 @@
       },
       "price": 13.5,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
