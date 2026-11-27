@@ -83,34 +83,6 @@
     },
     "pending": false
   },
-  "13457197": {
-    "notified": {
-      "discount_percent": 90.0,
-      "id": 13457197,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/6224011113328.png",
-      "name": {
-        "ar": "دون كانينو طعام جاف باللحم للكلاب الصغيرة (7 كجم)",
-        "en": "Don Canino Dry Food Beef For Junior Dogs (7kg)"
-      },
-      "price": 929.5,
-      "reason": "new_discount",
-      "sale_price": 92.95,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 90.0,
-      "id": 13457197,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/6224011113328.png",
-      "name": {
-        "ar": "دون كانينو طعام جاف باللحم للكلاب الصغيرة (7 كجم)",
-        "en": "Don Canino Dry Food Beef For Junior Dogs (7kg)"
-      },
-      "price": 929.5,
-      "sale_price": 92.95,
-      "stock": 1
-    },
-    "pending": false
-  },
   "1376118": {
     "notified": {
       "discount_percent": 60.0,
@@ -499,7 +471,7 @@
       },
       "price": 99.95,
       "sale_price": 9.99,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -527,7 +499,7 @@
       },
       "price": 99.95,
       "sale_price": 9.99,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -755,34 +727,6 @@
     },
     "pending": false
   },
-  "23958367": {
-    "notified": {
-      "discount_percent": 85.0,
-      "id": 23958367,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/6221155201591.01.png",
-      "name": {
-        "ar": "آكس بريميوم مزيل عرق أكوا برغموت (150 مل)",
-        "en": "Axe Premium Body Spray Aqua Bergamot (150ml)"
-      },
-      "price": 230.0,
-      "reason": "new_discount",
-      "sale_price": 34.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.0,
-      "id": 23958367,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/6221155201591.01.png",
-      "name": {
-        "ar": "آكس بريميوم مزيل عرق أكوا برغموت (150 مل)",
-        "en": "Axe Premium Body Spray Aqua Bergamot (150ml)"
-      },
-      "price": 230.0,
-      "sale_price": 34.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "24275924": {
     "notified": {
       "discount_percent": 85.0,
@@ -939,34 +883,6 @@
     },
     "pending": false
   },
-  "2868415": {
-    "notified": {
-      "discount_percent": 62.973,
-      "id": 2868415,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/feba-3.png",
-      "name": {
-        "ar": "(فيبا سائل منظف للأطباق برائحة الليمون (3 كجم",
-        "en": "Feba Liquid Dish Cleaner Lemon Scent (3kg)"
-      },
-      "price": 185.0,
-      "reason": "new_discount",
-      "sale_price": 68.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 62.973,
-      "id": 2868415,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/feba-3.png",
-      "name": {
-        "ar": "(فيبا سائل منظف للأطباق برائحة الليمون (3 كجم",
-        "en": "Feba Liquid Dish Cleaner Lemon Scent (3kg)"
-      },
-      "price": 185.0,
-      "sale_price": 68.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "28698023": {
     "notified": null,
     "observed": {
@@ -1011,34 +927,6 @@
     },
     "pending": false
   },
-  "29084199": {
-    "notified": {
-      "discount_percent": 70.288,
-      "id": 29084199,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/26c3ba4179a1a807ad9058d6ac68d0682363b2e42ce775e26530bbbc546690f8",
-      "name": {
-        "ar": "اريال جل اوتوماتيك بالافندار (3.6 كجم)",
-        "en": "Ariel Power Gel Automatic With Lavender (3.6Kg)"
-      },
-      "price": 399.0,
-      "reason": "new_discount",
-      "sale_price": 118.55,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 70.288,
-      "id": 29084199,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/26c3ba4179a1a807ad9058d6ac68d0682363b2e42ce775e26530bbbc546690f8",
-      "name": {
-        "ar": "اريال جل اوتوماتيك بالافندار (3.6 كجم)",
-        "en": "Ariel Power Gel Automatic With Lavender (3.6Kg)"
-      },
-      "price": 399.0,
-      "sale_price": 118.55,
-      "stock": 1
-    },
-    "pending": false
-  },
   "29540207": {
     "notified": {
       "discount_percent": 85.0,
@@ -1063,7 +951,7 @@
       },
       "price": 330.0,
       "sale_price": 49.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1175,7 +1063,7 @@
       },
       "price": 370.0,
       "sale_price": 55.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2132,34 +2020,6 @@
       "price": 605.0,
       "sale_price": 121.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "39793800": {
-    "notified": {
-      "discount_percent": 85.76,
-      "id": 39793800,
-      "image": "https://i.ibb.co/Z68HM4RM/6222021801365.png",
-      "name": {
-        "ar": "جليد اوتو هولدر + عبوة عبير العنبر والعود + عبوة مجانية (269مل)",
-        "en": "Glade Auto Holder & Refill Amber & Oud + Free Refill (269ml)"
-      },
-      "price": 520.0,
-      "reason": "new_discount",
-      "sale_price": 74.05,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.76,
-      "id": 39793800,
-      "image": "https://i.ibb.co/Z68HM4RM/6222021801365.png",
-      "name": {
-        "ar": "جليد اوتو هولدر + عبوة عبير العنبر والعود + عبوة مجانية (269مل)",
-        "en": "Glade Auto Holder & Refill Amber & Oud + Free Refill (269ml)"
-      },
-      "price": 520.0,
-      "sale_price": 74.05,
-      "stock": 0
     },
     "pending": false
   },
@@ -4563,62 +4423,6 @@
     },
     "pending": false
   },
-  "58435166": {
-    "notified": {
-      "discount_percent": 90.0,
-      "id": 58435166,
-      "image": "https://i.ibb.co/93CscKDz/6281017411193.png",
-      "name": {
-        "ar": "فريشدايز فوطة يومية طويلة مغلفه فرديآ (72 فوطة)",
-        "en": "Freshdays Daily Pads Long Folded (72Pads)"
-      },
-      "price": 219.0,
-      "reason": "new_discount",
-      "sale_price": 21.9,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 90.0,
-      "id": 58435166,
-      "image": "https://i.ibb.co/93CscKDz/6281017411193.png",
-      "name": {
-        "ar": "فريشدايز فوطة يومية طويلة مغلفه فرديآ (72 فوطة)",
-        "en": "Freshdays Daily Pads Long Folded (72Pads)"
-      },
-      "price": 219.0,
-      "sale_price": 21.9,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "58435169": {
-    "notified": {
-      "discount_percent": 90.0,
-      "id": 58435169,
-      "image": "https://i.ibb.co/Q3pdwdYs/6281017411209-png.png",
-      "name": {
-        "ar": "فريشدايز فوطة يومية طويلة معطرة مغلفه فرديآ (72 فوطة)",
-        "en": "Freshdays Daily Pads Long Scented Folded (72Pads)"
-      },
-      "price": 219.0,
-      "reason": "new_discount",
-      "sale_price": 21.9,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 90.0,
-      "id": 58435169,
-      "image": "https://i.ibb.co/Q3pdwdYs/6281017411209-png.png",
-      "name": {
-        "ar": "فريشدايز فوطة يومية طويلة معطرة مغلفه فرديآ (72 فوطة)",
-        "en": "Freshdays Daily Pads Long Scented Folded (72Pads)"
-      },
-      "price": 219.0,
-      "sale_price": 21.9,
-      "stock": 0
-    },
-    "pending": false
-  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -5323,22 +5127,6 @@
       },
       "price": 210.0,
       "sale_price": 105.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "9317035": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 76.0,
-      "id": 9317035,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bdb5b66ae6687b48a718276b504d8473d4647343bb3aa99d2e4c358640e15b9c",
-      "name": {
-        "ar": "زي-باك قفازات بلاستيكية شفافة (100قطعة)",
-        "en": "Zpac Plastic Gloves (100Pcs)"
-      },
-      "price": 25.0,
-      "sale_price": 6.0,
       "stock": 0
     },
     "pending": false
