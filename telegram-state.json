@@ -2155,6 +2155,34 @@
     },
     "pending": false
   },
+  "34981421": {
+    "notified": {
+      "discount_percent": 55.011,
+      "id": 34981421,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6b1ca5a16acbcdc0c71059f12a5ad5c5294be497d0017a692ca69f8b38c7b035",
+      "name": {
+        "ar": "5x (75g) بريدفاست شوكولاتة حليب بالكوكيز",
+        "en": "5x Breadfast Cookies'n Cream Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 613.15,
+      "reason": "new_discount",
+      "sale_price": 275.85,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 55.011,
+      "id": 34981421,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6b1ca5a16acbcdc0c71059f12a5ad5c5294be497d0017a692ca69f8b38c7b035",
+      "name": {
+        "ar": "5x (75g) بريدفاست شوكولاتة حليب بالكوكيز",
+        "en": "5x Breadfast Cookies'n Cream Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 613.15,
+      "sale_price": 275.85,
+      "stock": 3
+    },
+    "pending": false
+  },
   "35818972": {
     "notified": {
       "discount_percent": 50.0,
@@ -2491,7 +2519,7 @@
       },
       "price": 30.0,
       "sale_price": 13.5,
-      "stock": 8
+      "stock": 3
     },
     "pending": false
   },
@@ -3267,6 +3295,22 @@
     },
     "pending": false
   },
+  "41397929": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 88.214,
+      "id": 41397929,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
+      "name": {
+        "ar": "ريز كولا زيرو زجاجة (400مل)",
+        "en": "Rizz Cola Zero Bottle (400ml)"
+      },
+      "price": 14.0,
+      "sale_price": 1.65,
+      "stock": 0
+    },
+    "pending": false
+  },
   "41731735": {
     "notified": null,
     "observed": {
@@ -3803,7 +3847,7 @@
       },
       "price": 450.0,
       "sale_price": 135.0,
-      "stock": 5
+      "stock": 4
     },
     "pending": false
   },
@@ -3887,7 +3931,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 5
+      "stock": 4
     },
     "pending": false
   },
@@ -4195,7 +4239,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -4620,34 +4664,6 @@
       "price": 190.0,
       "sale_price": 95.0,
       "stock": 4
-    },
-    "pending": false
-  },
-  "46914866": {
-    "notified": {
-      "discount_percent": 53.292,
-      "id": 46914866,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1977bef692eb1d8fff8352256c4b089fee87387455bac2133d4002d1dcb1f1af",
-      "name": {
-        "ar": "بريدفاست سيجناتشر سالمون مدخن (100جم)",
-        "en": "Breadfast Signature Smoked Salmon (100g)"
-      },
-      "price": 319.0,
-      "reason": "new_discount",
-      "sale_price": 149.0,
-      "stock": 8
-    },
-    "observed": {
-      "discount_percent": 53.292,
-      "id": 46914866,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1977bef692eb1d8fff8352256c4b089fee87387455bac2133d4002d1dcb1f1af",
-      "name": {
-        "ar": "بريدفاست سيجناتشر سالمون مدخن (100جم)",
-        "en": "Breadfast Signature Smoked Salmon (100g)"
-      },
-      "price": 319.0,
-      "sale_price": 149.0,
-      "stock": 8
     },
     "pending": false
   },
@@ -6495,6 +6511,34 @@
     },
     "pending": false
   },
+  "60673198": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60673198,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
+      "name": {
+        "ar": "رويال إس لبنة ماعز زعتر (400g)",
+        "en": "Royal S Labna Goat With Thyme (450g)"
+      },
+      "price": 216.0,
+      "reason": "new_discount",
+      "sale_price": 108.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60673198,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/da6c6c673dbaec762aad85b5db3dc6e79df6a5db4300171527300d5caf2fbed2",
+      "name": {
+        "ar": "رويال إس لبنة ماعز زعتر (400g)",
+        "en": "Royal S Labna Goat With Thyme (450g)"
+      },
+      "price": 216.0,
+      "sale_price": 108.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60747975": {
     "notified": null,
     "observed": {
@@ -6784,34 +6828,6 @@
       "price": 299.0,
       "sale_price": 149.5,
       "stock": 0
-    },
-    "pending": false
-  },
-  "62811552": {
-    "notified": {
-      "discount_percent": 50.063,
-      "id": 62811552,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1aba48611835fdf27211268eece035713031e4c1e02fde15da83d3752f939709",
-      "name": {
-        "ar": "بريدفاست سيجناتشر جمبري جامبو لحم منظف مجمد (400 جرام)",
-        "en": "Breadfast Signature Jumbo Shrimps - Peeled & Deveined (400 gm)"
-      },
-      "price": 799.0,
-      "reason": "new_discount",
-      "sale_price": 399.0,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 50.063,
-      "id": 62811552,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1aba48611835fdf27211268eece035713031e4c1e02fde15da83d3752f939709",
-      "name": {
-        "ar": "بريدفاست سيجناتشر جمبري جامبو لحم منظف مجمد (400 جرام)",
-        "en": "Breadfast Signature Jumbo Shrimps - Peeled & Deveined (400 gm)"
-      },
-      "price": 799.0,
-      "sale_price": 399.0,
-      "stock": 4
     },
     "pending": false
   },
@@ -7451,6 +7467,34 @@
     },
     "pending": false
   },
+  "76772915": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 76772915,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b9b163183734e0323a1672506604afce88062a4a20ffcee071f2e3ef5f0ebfe1",
+      "name": {
+        "ar": "8x اكوافينا مياه فوارة كان (250 مل)",
+        "en": "8x Aquafina Sparkling Can (250ml)"
+      },
+      "price": 128.0,
+      "reason": "new_discount",
+      "sale_price": 64.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 76772915,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b9b163183734e0323a1672506604afce88062a4a20ffcee071f2e3ef5f0ebfe1",
+      "name": {
+        "ar": "8x اكوافينا مياه فوارة كان (250 مل)",
+        "en": "8x Aquafina Sparkling Can (250ml)"
+      },
+      "price": 128.0,
+      "sale_price": 64.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "76794454": {
     "notified": {
       "discount_percent": 56.579,
@@ -7476,6 +7520,230 @@
       "price": 684.0,
       "sale_price": 297.0,
       "stock": 3
+    },
+    "pending": false
+  },
+  "76801426": {
+    "notified": {
+      "discount_percent": 59.08,
+      "id": 76801426,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0e7df0bbabf599597e37ac683224b814e812fcdfecec738538365c8118eb0f9a",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالبرتقال (75 جرام)",
+        "en": "5x Breadfast Belgian Orange Dark 70% Chocolate (75g)"
+      },
+      "price": 828.2,
+      "reason": "new_discount",
+      "sale_price": 338.9,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 59.08,
+      "id": 76801426,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0e7df0bbabf599597e37ac683224b814e812fcdfecec738538365c8118eb0f9a",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالبرتقال (75 جرام)",
+        "en": "5x Breadfast Belgian Orange Dark 70% Chocolate (75g)"
+      },
+      "price": 828.2,
+      "sale_price": 338.9,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "76803391": {
+    "notified": {
+      "discount_percent": 50.294,
+      "id": 76803391,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c9818020c909903f0d2cf8240ceec52f91e639f2c0de8c6b0985acd2dc283ed7",
+      "name": {
+        "ar": "6x بريدفاست رقائق البطاطس بالجبنة الشيدر و البصل (48ج)",
+        "en": "6x Breadfast Kettle-Cooked Chips with Cheddar Cheese & Onions (48g)"
+      },
+      "price": 102.0,
+      "reason": "new_discount",
+      "sale_price": 50.7,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.294,
+      "id": 76803391,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c9818020c909903f0d2cf8240ceec52f91e639f2c0de8c6b0985acd2dc283ed7",
+      "name": {
+        "ar": "6x بريدفاست رقائق البطاطس بالجبنة الشيدر و البصل (48ج)",
+        "en": "6x Breadfast Kettle-Cooked Chips with Cheddar Cheese & Onions (48g)"
+      },
+      "price": 102.0,
+      "sale_price": 50.7,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "76804076": {
+    "notified": {
+      "discount_percent": 59.08,
+      "id": 76804076,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/dcd78583004ffea4d6e616bed05b3d78f964f60c3b31236919e5d107a88d56f6",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية بالغاندوجا (75 جرام)",
+        "en": "5x Breadfast Belgian Dark Chocolate with Gianduja (75g)"
+      },
+      "price": 828.2,
+      "reason": "new_discount",
+      "sale_price": 338.9,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 59.08,
+      "id": 76804076,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/dcd78583004ffea4d6e616bed05b3d78f964f60c3b31236919e5d107a88d56f6",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية بالغاندوجا (75 جرام)",
+        "en": "5x Breadfast Belgian Dark Chocolate with Gianduja (75g)"
+      },
+      "price": 828.2,
+      "sale_price": 338.9,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "76804138": {
+    "notified": {
+      "discount_percent": 59.08,
+      "id": 76804138,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/352c06e85e15d25d31f8aa39453f2e74c032248bf643c153b3a7b95d3eaa8a4f",
+      "name": {
+        "ar": "5x بريدفاست شيكولاتة حليب بلجيكي (75 جرام)",
+        "en": "5x Breadfast Belgian Milk Chocolate (75g)"
+      },
+      "price": 828.2,
+      "reason": "new_discount",
+      "sale_price": 338.9,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 59.08,
+      "id": 76804138,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/352c06e85e15d25d31f8aa39453f2e74c032248bf643c153b3a7b95d3eaa8a4f",
+      "name": {
+        "ar": "5x بريدفاست شيكولاتة حليب بلجيكي (75 جرام)",
+        "en": "5x Breadfast Belgian Milk Chocolate (75g)"
+      },
+      "price": 828.2,
+      "sale_price": 338.9,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "76804215": {
+    "notified": {
+      "discount_percent": 59.08,
+      "id": 76804215,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/402fc93f011b22dc9336b23e7811b29504e008786e41c1d5eac1a22df258d77f",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالملح (75 جرام)",
+        "en": "5x Breadfast Belgian Sea Salt Dark 70% Chocolate (75g)"
+      },
+      "price": 828.2,
+      "reason": "new_discount",
+      "sale_price": 338.9,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 59.08,
+      "id": 76804215,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/402fc93f011b22dc9336b23e7811b29504e008786e41c1d5eac1a22df258d77f",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بلجيكية 70% بالملح (75 جرام)",
+        "en": "5x Breadfast Belgian Sea Salt Dark 70% Chocolate (75g)"
+      },
+      "price": 828.2,
+      "sale_price": 338.9,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "76804337": {
+    "notified": {
+      "discount_percent": 53.753,
+      "id": 76804337,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d26f5af08662972081d10df4e2097ac73fe3ba540b5ecc8b0b34af3d24119635",
+      "name": {
+        "ar": "5x شوكولاتة بالحليب للتهادي 75جرام",
+        "en": "5x Thank You Milk Chocolate Bar (75g)"
+      },
+      "price": 724.7,
+      "reason": "new_discount",
+      "sale_price": 335.15,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 53.753,
+      "id": 76804337,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d26f5af08662972081d10df4e2097ac73fe3ba540b5ecc8b0b34af3d24119635",
+      "name": {
+        "ar": "5x شوكولاتة بالحليب للتهادي 75جرام",
+        "en": "5x Thank You Milk Chocolate Bar (75g)"
+      },
+      "price": 724.7,
+      "sale_price": 335.15,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "76804421": {
+    "notified": {
+      "discount_percent": 55.28,
+      "id": 76804421,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/71b602e5fe8a9268392b50c16650374e2938d898b35616f73c2a7ddb342fc7d6",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بالنعناع (75g)",
+        "en": "5x Breadfast Mint Dark Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 627.35,
+      "reason": "new_discount",
+      "sale_price": 280.55,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 55.28,
+      "id": 76804421,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/71b602e5fe8a9268392b50c16650374e2938d898b35616f73c2a7ddb342fc7d6",
+      "name": {
+        "ar": "5x بريدفاست شوكولاتة دارك بالنعناع (75g)",
+        "en": "5x Breadfast Mint Dark Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 627.35,
+      "sale_price": 280.55,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "815927": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 815927,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Chicken.png",
+      "name": {
+        "ar": "اندومي نودلز سريعة التحضير بالدجاج (70 جرام)",
+        "en": "Indomie Instant Noodles Chicken (70g)"
+      },
+      "price": 9.0,
+      "reason": "new_discount",
+      "sale_price": 4.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 815927,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Chicken.png",
+      "name": {
+        "ar": "اندومي نودلز سريعة التحضير بالدجاج (70 جرام)",
+        "en": "Indomie Instant Noodles Chicken (70g)"
+      },
+      "price": 9.0,
+      "sale_price": 4.5,
+      "stock": 1
     },
     "pending": false
   },
