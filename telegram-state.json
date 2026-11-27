@@ -1323,6 +1323,34 @@
     },
     "pending": false
   },
+  "40225054": {
+    "notified": {
+      "discount_percent": 54.545,
+      "id": 40225054,
+      "image": "https://i.ibb.co/B552M04k/6224003017061.jpg",
+      "name": {
+        "ar": "آدامز للرجال زيت اللحية المميز (30مل)",
+        "en": "Adams For Men Signature Beard Oil (30ml)"
+      },
+      "price": 330.0,
+      "reason": "new_discount",
+      "sale_price": 150.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 54.545,
+      "id": 40225054,
+      "image": "https://i.ibb.co/B552M04k/6224003017061.jpg",
+      "name": {
+        "ar": "آدامز للرجال زيت اللحية المميز (30مل)",
+        "en": "Adams For Men Signature Beard Oil (30ml)"
+      },
+      "price": 330.0,
+      "sale_price": 150.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "41021944": {
     "notified": {
       "discount_percent": 58.431,
@@ -2399,7 +2427,7 @@
       },
       "price": 390.0,
       "sale_price": 195.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -3388,6 +3416,34 @@
       "price": 450.0,
       "sale_price": 225.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "76987176": {
+    "notified": {
+      "discount_percent": 90.704,
+      "id": 76987176,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/04eba9e41907c41211e87fe05c13042d389c440b117bb25e80e48d5a1b93210a",
+      "name": {
+        "ar": "مجموعة أساسية للسلطة",
+        "en": "Salad Esential Bundle"
+      },
+      "price": 162.0,
+      "reason": "new_discount",
+      "sale_price": 15.06,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 90.704,
+      "id": 76987176,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/04eba9e41907c41211e87fe05c13042d389c440b117bb25e80e48d5a1b93210a",
+      "name": {
+        "ar": "مجموعة أساسية للسلطة",
+        "en": "Salad Esential Bundle"
+      },
+      "price": 162.0,
+      "sale_price": 15.06,
+      "stock": 1
     },
     "pending": false
   }
