@@ -79,7 +79,7 @@
       },
       "price": 499.0,
       "sale_price": 249.5,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -1288,22 +1288,6 @@
       "price": 599.0,
       "sale_price": 249.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "41397929": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 53.357,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "sale_price": 6.53,
-      "stock": 0
     },
     "pending": false
   },
