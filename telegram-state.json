@@ -1207,34 +1207,6 @@
     },
     "pending": false
   },
-  "4033780": {
-    "notified": {
-      "discount_percent": 54.4,
-      "id": 4033780,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/lemon-2-packs.png",
-      "name": {
-        "ar": "فينيش مساعد شطف بالليمون قطعتين خصم 30% (400 مل)",
-        "en": "Finish Rinse Aid Lemon Dishwasher Detergent 2 Packs Offer 30% (400ml)"
-      },
-      "price": 877.0,
-      "reason": "new_discount",
-      "sale_price": 399.91,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 54.4,
-      "id": 4033780,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/lemon-2-packs.png",
-      "name": {
-        "ar": "فينيش مساعد شطف بالليمون قطعتين خصم 30% (400 مل)",
-        "en": "Finish Rinse Aid Lemon Dishwasher Detergent 2 Packs Offer 30% (400ml)"
-      },
-      "price": 877.0,
-      "sale_price": 399.91,
-      "stock": 5
-    },
-    "pending": false
-  },
   "40635312": {
     "notified": {
       "discount_percent": 52.0,
