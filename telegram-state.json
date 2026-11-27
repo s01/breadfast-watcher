@@ -335,22 +335,6 @@
     },
     "pending": false
   },
-  "26193662": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26193662,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/cica-7-relief-kit-3-step-cosrx-official-1-Photoroom-5.png",
-      "name": {
-        "ar": "جيس سيدكتيف هوم او دو تواليت للرجال (150 مل)",
-        "en": "Guess Seductive Homme EDT For Him (150ml)"
-      },
-      "price": 2490.0,
-      "sale_price": 1245.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "26863557": {
     "notified": {
       "discount_percent": 50.239,
@@ -1451,34 +1435,6 @@
     },
     "pending": false
   },
-  "42943913": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42943913,
-      "image": "https://i.ibb.co/VYBZvyZN/61-Albf11h-UL-UF894-1000-QL80.jpg",
-      "name": {
-        "ar": "فيرساتشي فريش أو دو تواليت للرجال (100 مل)",
-        "en": "Versace Fraiche EDT For Him (100ml)"
-      },
-      "price": 4400.0,
-      "reason": "new_discount",
-      "sale_price": 2200.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42943913,
-      "image": "https://i.ibb.co/VYBZvyZN/61-Albf11h-UL-UF894-1000-QL80.jpg",
-      "name": {
-        "ar": "فيرساتشي فريش أو دو تواليت للرجال (100 مل)",
-        "en": "Versace Fraiche EDT For Him (100ml)"
-      },
-      "price": 4400.0,
-      "sale_price": 2200.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "43658209": {
     "notified": {
       "discount_percent": 50.0,
@@ -2176,34 +2132,6 @@
       "price": 275.0,
       "sale_price": 99.0,
       "stock": 0
-    },
-    "pending": false
-  },
-  "46648877": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 46648877,
-      "image": "https://i.ibb.co/Ng9cLPLy/calcima-Plus-Final-1.png",
-      "name": {
-        "ar": "إنفينيتي كالسيما بلس لعلاج نقص فيتامين د والكالسيوم (30 قطعة شوكولاتة)",
-        "en": "Infinity Calcima Plus For Vitamin D & Calcium Deficiency (30 Chocolate Pcs)"
-      },
-      "price": 190.0,
-      "reason": "new_discount",
-      "sale_price": 95.0,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 46648877,
-      "image": "https://i.ibb.co/Ng9cLPLy/calcima-Plus-Final-1.png",
-      "name": {
-        "ar": "إنفينيتي كالسيما بلس لعلاج نقص فيتامين د والكالسيوم (30 قطعة شوكولاتة)",
-        "en": "Infinity Calcima Plus For Vitamin D & Calcium Deficiency (30 Chocolate Pcs)"
-      },
-      "price": 190.0,
-      "sale_price": 95.0,
-      "stock": 3
     },
     "pending": false
   },
@@ -3290,34 +3218,6 @@
       "stock": 0
     },
     "pending": true
-  },
-  "63725842": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 63725842,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/19a090a207a2c26c3d53f8c8902d839f43a60345437e456a75c3c6a75c67e893",
-      "name": {
-        "ar": "إنفينيتي مايو إينو مكمل غذائي (60 قرص)",
-        "en": "Infinity Myo Ino Dietary Supplement (60 Tablets)"
-      },
-      "price": 400.0,
-      "reason": "new_discount",
-      "sale_price": 200.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 63725842,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/19a090a207a2c26c3d53f8c8902d839f43a60345437e456a75c3c6a75c67e893",
-      "name": {
-        "ar": "إنفينيتي مايو إينو مكمل غذائي (60 قرص)",
-        "en": "Infinity Myo Ino Dietary Supplement (60 Tablets)"
-      },
-      "price": 400.0,
-      "sale_price": 200.0,
-      "stock": 0
-    },
-    "pending": false
   },
   "64565683": {
     "notified": {
