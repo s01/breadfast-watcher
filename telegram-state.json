@@ -167,7 +167,7 @@
       },
       "price": 1569.0,
       "sale_price": 784.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1440,22 +1440,6 @@
       "price": 585.0,
       "sale_price": 292.5,
       "stock": 1
-    },
-    "pending": false
-  },
-  "30121920": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30121920,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1d4d2ac6570783abba1d7eca651c6468b14b0473f96ae8f89595bf2dc2ea91c3",
-      "name": {
-        "ar": "لطافة فخر او دي بارفان للرجال (100 مل)",
-        "en": "Lattafa Fakhar EDP For Him (100ml)"
-      },
-      "price": 1540.0,
-      "sale_price": 770.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -2795,22 +2779,6 @@
       },
       "price": 8820.0,
       "sale_price": 4410.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "42373942": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 42373942,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/57e4f97d53bd3b5dcb6237ab2e0b98249d0e8a1cd5a9201b2fa9b6d3ab75943b",
-      "name": {
-        "ar": "مولفيكس حفاضات بانتس ميجا باك إكس لارج مقاس 6 (60 قطعة)",
-        "en": "Molfix Pants Diapers Mega Pack Xlarge Size 6 (60Pieces)"
-      },
-      "price": 520.0,
-      "sale_price": 234.0,
       "stock": 0
     },
     "pending": false
@@ -2914,7 +2882,7 @@
       "stock": 1
     },
     "observed": {
-      "discount_percent": 50.63,
+      "discount_percent": 50.0,
       "id": 42882500,
       "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007903707/550331ea160f6abb.jpg",
       "name": {
@@ -2922,7 +2890,7 @@
         "en": "Dermaelle Hyalu-Solaire SPF50 Gel Cream (60ml)"
       },
       "price": 395.0,
-      "sale_price": 195.01,
+      "sale_price": 197.5,
       "stock": 0
     },
     "pending": false
@@ -3119,90 +3087,6 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "44295614": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 44295614,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ae434d2317d4f4da73b19f1a31c42f1134708c8734d1d5098a1e7ff231e34435",
-      "name": {
-        "ar": "كابكسي كريم ١٢٠ مل",
-        "en": "Capixy Cream 120ml"
-      },
-      "price": 320.0,
-      "reason": "new_discount",
-      "sale_price": 128.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44295614,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ae434d2317d4f4da73b19f1a31c42f1134708c8734d1d5098a1e7ff231e34435",
-      "name": {
-        "ar": "كابكسي كريم ١٢٠ مل",
-        "en": "Capixy Cream 120ml"
-      },
-      "price": 320.0,
-      "sale_price": 160.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "44295615": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 44295615,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4fa363a6b431b82451d40bdda5123490dacd912d289fea5c110d73f9fe1cba37",
-      "name": {
-        "ar": "كابكسي بخاخ تونك المكثف ١٢٥ مل",
-        "en": "Capixy Intense Tonic Spray 125ml"
-      },
-      "price": 700.0,
-      "reason": "new_discount",
-      "sale_price": 280.0,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44295615,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4fa363a6b431b82451d40bdda5123490dacd912d289fea5c110d73f9fe1cba37",
-      "name": {
-        "ar": "كابكسي بخاخ تونك المكثف ١٢٥ مل",
-        "en": "Capixy Intense Tonic Spray 125ml"
-      },
-      "price": 700.0,
-      "sale_price": 350.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "44295619": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 44295619,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/99e1381ca71008e7f25bb780279090679e9dae2c680da9faefc673d751372f50",
-      "name": {
-        "ar": "كابكسي ماسك الشعر (250 مل)",
-        "en": "Capixy Hair Mask (250ml)"
-      },
-      "price": 450.0,
-      "reason": "new_discount",
-      "sale_price": 180.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44295619,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/99e1381ca71008e7f25bb780279090679e9dae2c680da9faefc673d751372f50",
-      "name": {
-        "ar": "كابكسي ماسك الشعر (250 مل)",
-        "en": "Capixy Hair Mask (250ml)"
-      },
-      "price": 450.0,
-      "sale_price": 225.0,
       "stock": 0
     },
     "pending": false
@@ -3823,34 +3707,6 @@
     },
     "pending": false
   },
-  "44295648": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 44295648,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d2e1c703a6392f4d0608e47a51cc75373f7730920120bafe149b83ba97f48cfc",
-      "name": {
-        "ar": "سورالون سيكا كريم جل (60 مل)",
-        "en": "Soralone Cica Cream Gel (60ml)"
-      },
-      "price": 295.0,
-      "reason": "new_discount",
-      "sale_price": 118.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44295648,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d2e1c703a6392f4d0608e47a51cc75373f7730920120bafe149b83ba97f48cfc",
-      "name": {
-        "ar": "سورالون سيكا كريم جل (60 مل)",
-        "en": "Soralone Cica Cream Gel (60ml)"
-      },
-      "price": 295.0,
-      "sale_price": 147.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "46648877": {
     "notified": {
       "discount_percent": 50.0,
@@ -4299,35 +4155,7 @@
       },
       "price": 1050.0,
       "sale_price": 525.0,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "51881739": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 51881739,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/daf3c1f222df7dfa638763e926821c46161d624d55722d74e6e6349738c56895",
-      "name": {
-        "ar": "كابيكسي زيت الشعر (30 مل)",
-        "en": "Capixy Hair Oil Elixir (30ml)"
-      },
-      "price": 750.0,
-      "reason": "new_discount",
-      "sale_price": 300.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51881739,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/daf3c1f222df7dfa638763e926821c46161d624d55722d74e6e6349738c56895",
-      "name": {
-        "ar": "كابيكسي زيت الشعر (30 مل)",
-        "en": "Capixy Hair Oil Elixir (30ml)"
-      },
-      "price": 750.0,
-      "sale_price": 375.0,
-      "stock": 0
+      "stock": 2
     },
     "pending": false
   },
@@ -4639,34 +4467,6 @@
     },
     "pending": false
   },
-  "54691436": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 54691436,
-      "image": "https://i.ibb.co/KxTBk4rg/3264680004070.jpg",
-      "name": {
-        "ar": "نوكس ريف دي ميل جل تنظيف الوجه (200 مل)",
-        "en": "Nuxe Reve De Miel Facial Cleansing Gel (200ml)"
-      },
-      "price": 990.0,
-      "reason": "new_discount",
-      "sale_price": 495.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 54691436,
-      "image": "https://i.ibb.co/KxTBk4rg/3264680004070.jpg",
-      "name": {
-        "ar": "نوكس ريف دي ميل جل تنظيف الوجه (200 مل)",
-        "en": "Nuxe Reve De Miel Facial Cleansing Gel (200ml)"
-      },
-      "price": 990.0,
-      "sale_price": 495.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "54691440": {
     "notified": {
       "discount_percent": 50.0,
@@ -4943,7 +4743,7 @@
       },
       "price": 2899.0,
       "sale_price": 1449.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -5459,34 +5259,6 @@
     },
     "pending": false
   },
-  "67016177": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 67016177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e9140d05bcdbd76f74e6e806a40045617cbfb06fc48b976da4f0027da7473116",
-      "name": {
-        "ar": "سورالون شامبو مضاد للقشرة (250 مل)",
-        "en": "Soralone Anti-Dandruff Shampoo (250ml)"
-      },
-      "price": 295.0,
-      "reason": "new_discount",
-      "sale_price": 118.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 67016177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e9140d05bcdbd76f74e6e806a40045617cbfb06fc48b976da4f0027da7473116",
-      "name": {
-        "ar": "سورالون شامبو مضاد للقشرة (250 مل)",
-        "en": "Soralone Anti-Dandruff Shampoo (250ml)"
-      },
-      "price": 295.0,
-      "sale_price": 147.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "71394645": {
     "notified": {
       "discount_percent": 50.0,
@@ -5596,22 +5368,6 @@
       "price": 2650.0,
       "sale_price": 1325.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "7503161": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 55.0,
-      "id": 7503161,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/My-project-1-31.png",
-      "name": {
-        "ar": "(بابيا بكر مناديل تواليت بملمس ناعم وحريري 10+2 (12 قطع",
-        "en": "Papia Silky Softness Toilet Rolls 10+2 For Free (12 Pcs)"
-      },
-      "price": 160.0,
-      "sale_price": 72.0,
-      "stock": 0
     },
     "pending": false
   }
