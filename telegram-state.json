@@ -267,34 +267,6 @@
     },
     "pending": false
   },
-  "34938943": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 34938943,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ec72251d86981f09e1afb9fc75543409dc8cc5cb0d413279d3aed556efacea32",
-      "name": {
-        "ar": "يوسيرين إيفن بيجمنت بيرفيكتور نهاري SPF30 (50 مل)",
-        "en": "Eucerin Even Pigment Perfector Day SPF30 (50ml)"
-      },
-      "price": 1990.0,
-      "reason": "new_discount",
-      "sale_price": 995.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 34938943,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ec72251d86981f09e1afb9fc75543409dc8cc5cb0d413279d3aed556efacea32",
-      "name": {
-        "ar": "يوسيرين إيفن بيجمنت بيرفيكتور نهاري SPF30 (50 مل)",
-        "en": "Eucerin Even Pigment Perfector Day SPF30 (50ml)"
-      },
-      "price": 1990.0,
-      "sale_price": 995.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "34938965": {
     "notified": {
       "discount_percent": 50.0,
