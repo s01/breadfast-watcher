@@ -83,34 +83,6 @@
     },
     "pending": false
   },
-  "21101876": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21101876,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/03/Turkey-Lobes-6221029210018.png",
-      "name": {
-        "ar": "حلواني فصوص ديك رومي بالبابريكا (150جرام)",
-        "en": "Halwani Turkey Lobes Paprika (150g)"
-      },
-      "price": 195.0,
-      "reason": "new_discount",
-      "sale_price": 97.5,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21101876,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/03/Turkey-Lobes-6221029210018.png",
-      "name": {
-        "ar": "حلواني فصوص ديك رومي بالبابريكا (150جرام)",
-        "en": "Halwani Turkey Lobes Paprika (150g)"
-      },
-      "price": 195.0,
-      "sale_price": 97.5,
-      "stock": 10
-    },
-    "pending": false
-  },
   "22268660": {
     "notified": {
       "discount_percent": 82.609,
@@ -1351,34 +1323,6 @@
     },
     "pending": false
   },
-  "411910": {
-    "notified": {
-      "discount_percent": 92.593,
-      "id": 411910,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Green-fennel-leaf.png",
-      "name": {
-        "ar": "شبت (100 جرام)",
-        "en": "Dill (100g)"
-      },
-      "price": 13.5,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 92.593,
-      "id": 411910,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Green-fennel-leaf.png",
-      "name": {
-        "ar": "شبت (100 جرام)",
-        "en": "Dill (100g)"
-      },
-      "price": 13.5,
-      "sale_price": 1.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "411916": {
     "notified": {
       "discount_percent": 92.593,
@@ -1419,6 +1363,22 @@
       },
       "price": 14.25,
       "sale_price": 1.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "41397929": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 92.929,
+      "id": 41397929,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
+      "name": {
+        "ar": "ريز كولا زيرو زجاجة (400مل)",
+        "en": "Rizz Cola Zero Bottle (400ml)"
+      },
+      "price": 14.0,
+      "sale_price": 0.99,
       "stock": 0
     },
     "pending": false
@@ -2456,6 +2416,34 @@
       "price": 190.0,
       "sale_price": 95.0,
       "stock": 3
+    },
+    "pending": false
+  },
+  "47924379": {
+    "notified": {
+      "discount_percent": 50.302,
+      "id": 47924379,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1fc3ee4f007eb02a2c69b1897b70b619b111f17b5ebcdd769b15ece0e9394c40",
+      "name": {
+        "ar": "رقائق التورتيلا الحارة من بريد فاست (225 جرامًا)",
+        "en": "Breadfast Hot Chili Tortilla Chips (225g)"
+      },
+      "price": 169.0,
+      "reason": "new_discount",
+      "sale_price": 83.99,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.302,
+      "id": 47924379,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1fc3ee4f007eb02a2c69b1897b70b619b111f17b5ebcdd769b15ece0e9394c40",
+      "name": {
+        "ar": "رقائق التورتيلا الحارة من بريد فاست (225 جرامًا)",
+        "en": "Breadfast Hot Chili Tortilla Chips (225g)"
+      },
+      "price": 169.0,
+      "sale_price": 83.99,
+      "stock": 1
     },
     "pending": false
   },
