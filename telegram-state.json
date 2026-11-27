@@ -27,34 +27,6 @@
     },
     "pending": false
   },
-  "22268660": {
-    "notified": {
-      "discount_percent": 82.609,
-      "id": 22268660,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
-      "name": {
-        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
-        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
-      },
-      "price": 5.75,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 82.609,
-      "id": 22268660,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
-      "name": {
-        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
-        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
-      },
-      "price": 5.75,
-      "sale_price": 1.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "22754650": {
     "notified": {
       "discount_percent": 50.0,
