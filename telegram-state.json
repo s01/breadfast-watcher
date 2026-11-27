@@ -279,34 +279,6 @@
     },
     "pending": false
   },
-  "27572136": {
-    "notified": {
-      "discount_percent": 52.0,
-      "id": 27572136,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0d990e446dae69b2d8cfd5922a9d64e9053101bbd383e783f722799e04478e52",
-      "name": {
-        "ar": "(لوريال باريس الفيف شامبو هيالورون للشعر فاقد الترطيب (200مل",
-        "en": "L’Oréal Paris Elvive Hyaluron Moisture Filling Shampoo Dehydrated Hair (200ml)"
-      },
-      "price": 132.5,
-      "reason": "new_discount",
-      "sale_price": 63.6,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 52.0,
-      "id": 27572136,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0d990e446dae69b2d8cfd5922a9d64e9053101bbd383e783f722799e04478e52",
-      "name": {
-        "ar": "(لوريال باريس الفيف شامبو هيالورون للشعر فاقد الترطيب (200مل",
-        "en": "L’Oréal Paris Elvive Hyaluron Moisture Filling Shampoo Dehydrated Hair (200ml)"
-      },
-      "price": 132.5,
-      "sale_price": 63.6,
-      "stock": 11
-    },
-    "pending": false
-  },
   "29815423": {
     "notified": {
       "discount_percent": 50.0,
@@ -2295,7 +2267,7 @@
       },
       "price": 215.0,
       "sale_price": 103.2,
-      "stock": 9
+      "stock": 8
     },
     "pending": false
   },
