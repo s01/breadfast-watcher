@@ -267,7 +267,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -301,7 +301,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -335,7 +335,7 @@
       },
       "price": 270.0,
       "sale_price": 135.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -369,7 +369,7 @@
       },
       "price": 300.0,
       "sale_price": 150.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -403,7 +403,7 @@
       },
       "price": 300.0,
       "sale_price": 150.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -437,7 +437,7 @@
       },
       "price": 300.0,
       "sale_price": 150.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -471,7 +471,7 @@
       },
       "price": 300.0,
       "sale_price": 150.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -505,7 +505,7 @@
       },
       "price": 270.0,
       "sale_price": 135.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -539,7 +539,7 @@
       },
       "price": 170.0,
       "sale_price": 85.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -573,7 +573,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -607,7 +607,7 @@
       },
       "price": 250.0,
       "sale_price": 125.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -641,7 +641,7 @@
       },
       "price": 350.0,
       "sale_price": 175.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -675,7 +675,7 @@
       },
       "price": 280.0,
       "sale_price": 140.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -709,7 +709,7 @@
       },
       "price": 280.0,
       "sale_price": 140.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -743,7 +743,7 @@
       },
       "price": 250.0,
       "sale_price": 125.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -777,7 +777,7 @@
       },
       "price": 250.0,
       "sale_price": 125.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -811,7 +811,7 @@
       },
       "price": 300.0,
       "sale_price": 150.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -845,7 +845,7 @@
       },
       "price": 260.0,
       "sale_price": 130.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -879,7 +879,7 @@
       },
       "price": 280.0,
       "sale_price": 140.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -913,7 +913,7 @@
       },
       "price": 280.0,
       "sale_price": 140.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -947,7 +947,7 @@
       },
       "price": 300.0,
       "sale_price": 150.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -981,7 +981,7 @@
       },
       "price": 270.0,
       "sale_price": 135.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1015,7 +1015,7 @@
       },
       "price": 210.0,
       "sale_price": 105.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1049,7 +1049,7 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1083,7 +1083,7 @@
       },
       "price": 220.0,
       "sale_price": 110.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1117,7 +1117,7 @@
       },
       "price": 240.0,
       "sale_price": 120.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1151,7 +1151,7 @@
       },
       "price": 160.0,
       "sale_price": 80.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1185,7 +1185,7 @@
       },
       "price": 240.0,
       "sale_price": 120.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1219,7 +1219,7 @@
       },
       "price": 250.0,
       "sale_price": 125.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1253,7 +1253,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1287,7 +1287,7 @@
       },
       "price": 280.0,
       "sale_price": 140.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1321,7 +1321,7 @@
       },
       "price": 310.0,
       "sale_price": 155.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1355,7 +1355,7 @@
       },
       "price": 300.0,
       "sale_price": 150.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1389,7 +1389,7 @@
       },
       "price": 390.0,
       "sale_price": 195.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1423,7 +1423,7 @@
       },
       "price": 440.0,
       "sale_price": 220.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1457,7 +1457,7 @@
       },
       "price": 330.0,
       "sale_price": 165.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1491,7 +1491,7 @@
       },
       "price": 330.0,
       "sale_price": 165.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1525,7 +1525,7 @@
       },
       "price": 310.0,
       "sale_price": 155.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1559,7 +1559,7 @@
       },
       "price": 340.0,
       "sale_price": 170.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1593,7 +1593,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1627,7 +1627,7 @@
       },
       "price": 470.0,
       "sale_price": 235.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1661,7 +1661,7 @@
       },
       "price": 220.0,
       "sale_price": 110.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1695,7 +1695,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1729,7 +1729,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1763,7 +1763,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1797,7 +1797,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1831,7 +1831,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
@@ -1865,7 +1865,7 @@
       },
       "price": 200.0,
       "sale_price": 100.0,
-      "stock": 1000
+      "stock": 0
     },
     "pending": false
   },
