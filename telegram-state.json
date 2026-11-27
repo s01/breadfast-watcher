@@ -3183,22 +3183,6 @@
     },
     "pending": false
   },
-  "60673177": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60673177,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03ebfcbe5d07fa0b455bb2a1fe3c1486b51463f43961b9e90042fa8676049b67",
-      "name": {
-        "ar": "رويال إس كيرى رومى (450g)",
-        "en": "Royal S Kiri Roomy (450g)"
-      },
-      "price": 130.8,
-      "sale_price": 65.4,
-      "stock": 0
-    },
-    "pending": true
-  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -3676,22 +3660,6 @@
       "name": {
         "ar": "شهد فيليه الدجاج (800 جم)",
         "en": "Shahd Breaded Chicken Fillet (800g)"
-      },
-      "price": 427.75,
-      "sale_price": 213.87,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "64619268": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 64619268,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/782c9fc1f071a2b53549e553036b42c0a3c763f38f086da8bf8fb4840ef0e91d",
-      "name": {
-        "ar": "شهد فيليه الدجاج الحار (800 جم)",
-        "en": "Shahd Spicy Chicken Fillet (800gm)"
       },
       "price": 427.75,
       "sale_price": 213.87,
