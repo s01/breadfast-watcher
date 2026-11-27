@@ -83,22 +83,6 @@
     },
     "pending": false
   },
-  "17472553": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 17472553,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/02/3614271994844.jpg",
-      "name": {
-        "ar": "جورجيو آرمانى سيى باشون او دى بارفان للنساء (100 مل)",
-        "en": "Giorgio Armani SI Passione EDP For Her (100ml)"
-      },
-      "price": 8190.0,
-      "sale_price": 4095.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "19038441": {
     "notified": {
       "discount_percent": 50.127,
@@ -447,22 +431,6 @@
       },
       "price": 8950.0,
       "sale_price": 4475.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26014229": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26014229,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614273776127/61a0db0d669fcbc6.jpg",
-      "name": {
-        "ar": "ايف سان لوران ليبر لو بارفيوم للنساء (90 مل)",
-        "en": "Yves Saint Laurent Libre Le Parfum For Her (90ml)"
-      },
-      "price": 9560.0,
-      "sale_price": 4780.0,
       "stock": 0
     },
     "pending": false
@@ -995,7 +963,7 @@
       },
       "price": 1990.0,
       "sale_price": 995.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1195,34 +1163,6 @@
       },
       "price": 445.0,
       "sale_price": 222.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "28704586": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28704586,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614273776110/d306d6539223e943.jpg",
-      "name": {
-        "ar": "ايف سان لوران ليبر لو بارفيوم للنساء (50 مل)",
-        "en": "Yves Saint Laurent Libre Le Parfum For Her (50ml)"
-      },
-      "price": 7920.0,
-      "reason": "new_discount",
-      "sale_price": 3960.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28704586,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614273776110/d306d6539223e943.jpg",
-      "name": {
-        "ar": "ايف سان لوران ليبر لو بارفيوم للنساء (50 مل)",
-        "en": "Yves Saint Laurent Libre Le Parfum For Her (50ml)"
-      },
-      "price": 7920.0,
-      "sale_price": 3960.0,
       "stock": 1
     },
     "pending": false
@@ -1443,22 +1383,6 @@
     },
     "pending": false
   },
-  "30122630": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30122630,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/bc6f9967cad9dcb6e793db4a99c96a43099091af2ff96b05493193e0d05311c6",
-      "name": {
-        "ar": "لطافة أميرة العرب او دو بارفان للنساء (100 مل)",
-        "en": "Lattafa Ameerat Al Arab EDP For Her (100ml)"
-      },
-      "price": 1051.0,
-      "sale_price": 525.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "30412762": {
     "notified": {
       "discount_percent": 50.0,
@@ -1483,7 +1407,7 @@
       },
       "price": 2499.0,
       "sale_price": 1249.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -1511,7 +1435,7 @@
       },
       "price": 9550.0,
       "sale_price": 4775.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -2047,7 +1971,7 @@
       },
       "price": 1690.0,
       "sale_price": 845.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2075,7 +1999,7 @@
       },
       "price": 4350.0,
       "sale_price": 2175.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2751,34 +2675,6 @@
       },
       "price": 9450.0,
       "sale_price": 4725.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "42164951": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42164951,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9814840e942d26e78def0fcbcfd5aba0624ea6acf16264b6bb5bdeb10271fc00",
-      "name": {
-        "ar": "إيف سان لوران واي لو برفيوم للرجال (100 مل)",
-        "en": "Yves Saint Laurent Y Le Parfum For Him (100ml)"
-      },
-      "price": 8820.0,
-      "reason": "new_discount",
-      "sale_price": 4410.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42164951,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9814840e942d26e78def0fcbcfd5aba0624ea6acf16264b6bb5bdeb10271fc00",
-      "name": {
-        "ar": "إيف سان لوران واي لو برفيوم للرجال (100 مل)",
-        "en": "Yves Saint Laurent Y Le Parfum For Him (100ml)"
-      },
-      "price": 8820.0,
-      "sale_price": 4410.0,
       "stock": 0
     },
     "pending": false
@@ -4075,34 +3971,6 @@
     },
     "pending": false
   },
-  "50984286": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 50984286,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a883a64b443a99691a86bb5c4ec98258055ba4abe5d89c5b7ae3a37768bf8297",
-      "name": {
-        "ar": "باكو رابان مليون جولد أو دو بارفان للنساء (50 مل)",
-        "en": "Paco Rabanne Million Gold EDP For Her (50ml)"
-      },
-      "price": 5850.0,
-      "reason": "new_discount",
-      "sale_price": 2925.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50984286,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a883a64b443a99691a86bb5c4ec98258055ba4abe5d89c5b7ae3a37768bf8297",
-      "name": {
-        "ar": "باكو رابان مليون جولد أو دو بارفان للنساء (50 مل)",
-        "en": "Paco Rabanne Million Gold EDP For Her (50ml)"
-      },
-      "price": 5850.0,
-      "sale_price": 2925.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "51264986": {
     "notified": {
       "discount_percent": 50.0,
@@ -4155,7 +4023,7 @@
       },
       "price": 1050.0,
       "sale_price": 525.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -4267,7 +4135,7 @@
       },
       "price": 2149.0,
       "sale_price": 1074.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
