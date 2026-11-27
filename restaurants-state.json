@@ -237,6 +237,176 @@
     },
     "pending": false
   },
+  "1197:73137": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73137",
+      "image": "https://food-cdn.breadfast.com/1771422226311-zqYQ1767185890098-Untitled20design2050.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وتركي واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Turkey Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 150.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73137",
+      "image": "https://food-cdn.breadfast.com/1771422226311-zqYQ1767185890098-Untitled20design2050.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وتركي واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Turkey Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1197:73140": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73140",
+      "image": "https://food-cdn.breadfast.com/1771422577184-XR3K1767196415684-Untitled20design202020251231T175323.589.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وسجق واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Sojouk Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 150.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73140",
+      "image": "https://food-cdn.breadfast.com/1771422577184-XR3K1767196415684-Untitled20design202020251231T175323.589.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة كيري وسجق واحصل على الأخرى مجانًا",
+        "en": "Buy One Kiri & Sojouk Manoucheh Get One Free"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1197:73156": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73156",
+      "image": "https://food-cdn.breadfast.com/1771424518008-F2qX1767189178322-Untitled20design2069.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة نصف جبنة ونصف زعتر واحصل على الأخرى مجانًا",
+        "en": "Buy One Half Cheese & Half Thyme Manoucheh Get One Free"
+      },
+      "price": 210.0,
+      "reason": "new_discount",
+      "sale_price": 105.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73156",
+      "image": "https://food-cdn.breadfast.com/1771424518008-F2qX1767189178322-Untitled20design2069.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة نصف جبنة ونصف زعتر واحصل على الأخرى مجانًا",
+        "en": "Buy One Half Cheese & Half Thyme Manoucheh Get One Free"
+      },
+      "price": 210.0,
+      "sale_price": 105.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1197:73159": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73159",
+      "image": "https://food-cdn.breadfast.com/1771425097227-7pVo1767187945900-Untitled20design2065.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة محمرة وجبنة واحصل على الأخرى مجانًا",
+        "en": "Buy One Muhammara & Cheese Manoucheh Get One Free"
+      },
+      "price": 240.0,
+      "reason": "new_discount",
+      "sale_price": 120.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73159",
+      "image": "https://food-cdn.breadfast.com/1771425097227-7pVo1767187945900-Untitled20design2065.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة محمرة وجبنة واحصل على الأخرى مجانًا",
+        "en": "Buy One Muhammara & Cheese Manoucheh Get One Free"
+      },
+      "price": 240.0,
+      "sale_price": 120.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
+  "1197:73173": {
+    "notified": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73173",
+      "image": "https://food-cdn.breadfast.com/1771429279786-zmXU1767700039458-q1SJ1767257622791Untitled20design2082.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة شوكولاتة واحصل على الأخرى مجانًا",
+        "en": "Buy One Chocolate Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "reason": "new_discount",
+      "sale_price": 100.0,
+      "stock": 1000
+    },
+    "observed": {
+      "_catalogue": "restaurants",
+      "base_price_only": false,
+      "discount_percent": 50.0,
+      "id": "1197:73173",
+      "image": "https://food-cdn.breadfast.com/1771429279786-zmXU1767700039458-q1SJ1767257622791Untitled20design2082.png",
+      "merchant_name": "El Makhbaz El Lebnany El Asly",
+      "name": {
+        "ar": "اشتري واحدة منقوشة شوكولاتة واحصل على الأخرى مجانًا",
+        "en": "Buy One Chocolate Manoucheh Get One Free"
+      },
+      "price": 200.0,
+      "sale_price": 100.0,
+      "stock": 1000
+    },
+    "pending": false
+  },
   "1197:73182": {
     "notified": {
       "_catalogue": "restaurants",
