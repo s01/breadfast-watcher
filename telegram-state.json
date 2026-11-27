@@ -1,4 +1,32 @@
 {
+  "1380506": {
+    "notified": {
+      "discount_percent": 52.0,
+      "id": 1380506,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-deep-black-carbon-1.png",
+      "name": {
+        "ar": "نيفيا مزيل عرق رول اون ديب بلاك كاربون للرجال (50 مل)",
+        "en": "Nivea Men Roll On Deodorant Black Carbon (50ml)"
+      },
+      "price": 107.0,
+      "reason": "new_discount",
+      "sale_price": 51.36,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 1380506,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-deep-black-carbon-1.png",
+      "name": {
+        "ar": "نيفيا مزيل عرق رول اون ديب بلاك كاربون للرجال (50 مل)",
+        "en": "Nivea Men Roll On Deodorant Black Carbon (50ml)"
+      },
+      "price": 107.0,
+      "sale_price": 51.36,
+      "stock": 2
+    },
+    "pending": false
+  },
   "2084233": {
     "notified": {
       "discount_percent": 50.0,
@@ -276,6 +304,34 @@
       "price": 320.0,
       "sale_price": 160.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "27572136": {
+    "notified": {
+      "discount_percent": 52.0,
+      "id": 27572136,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0d990e446dae69b2d8cfd5922a9d64e9053101bbd383e783f722799e04478e52",
+      "name": {
+        "ar": "(لوريال باريس الفيف شامبو هيالورون للشعر فاقد الترطيب (200مل",
+        "en": "L’Oréal Paris Elvive Hyaluron Moisture Filling Shampoo Dehydrated Hair (200ml)"
+      },
+      "price": 132.5,
+      "reason": "new_discount",
+      "sale_price": 63.6,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 27572136,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0d990e446dae69b2d8cfd5922a9d64e9053101bbd383e783f722799e04478e52",
+      "name": {
+        "ar": "(لوريال باريس الفيف شامبو هيالورون للشعر فاقد الترطيب (200مل",
+        "en": "L’Oréal Paris Elvive Hyaluron Moisture Filling Shampoo Dehydrated Hair (200ml)"
+      },
+      "price": 132.5,
+      "sale_price": 63.6,
+      "stock": 11
     },
     "pending": false
   },
@@ -1148,6 +1204,62 @@
       "price": 480.0,
       "sale_price": 240.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "4033780": {
+    "notified": {
+      "discount_percent": 54.4,
+      "id": 4033780,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/lemon-2-packs.png",
+      "name": {
+        "ar": "فينيش مساعد شطف بالليمون قطعتين خصم 30% (400 مل)",
+        "en": "Finish Rinse Aid Lemon Dishwasher Detergent 2 Packs Offer 30% (400ml)"
+      },
+      "price": 877.0,
+      "reason": "new_discount",
+      "sale_price": 399.91,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 54.4,
+      "id": 4033780,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/lemon-2-packs.png",
+      "name": {
+        "ar": "فينيش مساعد شطف بالليمون قطعتين خصم 30% (400 مل)",
+        "en": "Finish Rinse Aid Lemon Dishwasher Detergent 2 Packs Offer 30% (400ml)"
+      },
+      "price": 877.0,
+      "sale_price": 399.91,
+      "stock": 5
+    },
+    "pending": false
+  },
+  "40635312": {
+    "notified": {
+      "discount_percent": 52.0,
+      "id": 40635312,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e65ab2eb4dd3a05dc5865a6f99cbbe77eedd25cbf5e60e3cad03534c7c4aee46",
+      "name": {
+        "ar": "لوريال ألفيف جليكوليك جلوس شامبو (400مل)",
+        "en": "L'Oréal Elvive Glycolic Gloss Shampoo (400ml)"
+      },
+      "price": 225.0,
+      "reason": "new_discount",
+      "sale_price": 108.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 40635312,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e65ab2eb4dd3a05dc5865a6f99cbbe77eedd25cbf5e60e3cad03534c7c4aee46",
+      "name": {
+        "ar": "لوريال ألفيف جليكوليك جلوس شامبو (400مل)",
+        "en": "L'Oréal Elvive Glycolic Gloss Shampoo (400ml)"
+      },
+      "price": 225.0,
+      "sale_price": 108.0,
+      "stock": 11
     },
     "pending": false
   },
@@ -2133,7 +2245,7 @@
   },
   "44737475": {
     "notified": {
-      "discount_percent": 94.389,
+      "discount_percent": 94.444,
       "id": 44737475,
       "image": "https://cdn.breadfast.com/wp-content/uploads/a0640bb4f3c5ca92eab46de5d008e62cb9f7d7398d9322b98372cbbed8116b9c",
       "name": {
@@ -2141,12 +2253,12 @@
         "en": "10x Breadfast Kettle-Cooked Chips with Sea Salt (48g)"
       },
       "price": 180.0,
-      "reason": "new_discount",
-      "sale_price": 10.1,
+      "reason": "improved_discount",
+      "sale_price": 10.0,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 94.389,
+      "discount_percent": 94.444,
       "id": 44737475,
       "image": "https://cdn.breadfast.com/wp-content/uploads/a0640bb4f3c5ca92eab46de5d008e62cb9f7d7398d9322b98372cbbed8116b9c",
       "name": {
@@ -2154,7 +2266,7 @@
         "en": "10x Breadfast Kettle-Cooked Chips with Sea Salt (48g)"
       },
       "price": 180.0,
-      "sale_price": 10.1,
+      "sale_price": 10.0,
       "stock": 1
     },
     "pending": false
@@ -2240,6 +2352,34 @@
       "price": 370.0,
       "sale_price": 185.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "5065516": {
+    "notified": {
+      "discount_percent": 52.0,
+      "id": 5065516,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/41f1b915694e6efe4b8637933c05fdde23cefd178e56a7d040a68444d6b89887",
+      "name": {
+        "ar": "(الفيف شامبو هيالورون للشعر فاقد الترطيب (400مل",
+        "en": "L'Oreal Paris Elvive Hyaluron Moisture Filling Shampoo - Dehydrated Hair (400ml)"
+      },
+      "price": 215.0,
+      "reason": "new_discount",
+      "sale_price": 103.2,
+      "stock": 10
+    },
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 5065516,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/41f1b915694e6efe4b8637933c05fdde23cefd178e56a7d040a68444d6b89887",
+      "name": {
+        "ar": "(الفيف شامبو هيالورون للشعر فاقد الترطيب (400مل",
+        "en": "L'Oreal Paris Elvive Hyaluron Moisture Filling Shampoo - Dehydrated Hair (400ml)"
+      },
+      "price": 215.0,
+      "sale_price": 103.2,
+      "stock": 10
     },
     "pending": false
   },
@@ -3879,6 +4019,62 @@
     },
     "pending": false
   },
+  "66913914": {
+    "notified": {
+      "discount_percent": 52.0,
+      "id": 66913914,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/61efa80e2ec7a552c20f5ffc42d81cf356cdc46e24949c1f023a25568e0b7fec",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال 3 عبوات (150مل)",
+        "en": "Axe Deodorant Spray Black Night For Men Pack Of 3 (150ml)"
+      },
+      "price": 645.0,
+      "reason": "new_discount",
+      "sale_price": 309.6,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 66913914,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/61efa80e2ec7a552c20f5ffc42d81cf356cdc46e24949c1f023a25568e0b7fec",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق بلاك نايت للرجال 3 عبوات (150مل)",
+        "en": "Axe Deodorant Spray Black Night For Men Pack Of 3 (150ml)"
+      },
+      "price": 645.0,
+      "sale_price": 309.6,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "66914282": {
+    "notified": {
+      "discount_percent": 52.0,
+      "id": 66914282,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0a9e47481b855b22acca8ba5cebd7806e24ebfa3b6f6789cc23aa7950e398900",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق ايس تشيل للرجال 3 عبوات (150مل)",
+        "en": "Axe Deodorant Spray Ice Chill For Men Pack Of 3 (150ml)"
+      },
+      "price": 645.0,
+      "reason": "new_discount",
+      "sale_price": 309.6,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 66914282,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0a9e47481b855b22acca8ba5cebd7806e24ebfa3b6f6789cc23aa7950e398900",
+      "name": {
+        "ar": "أكس سبراي مزيل للعرق ايس تشيل للرجال 3 عبوات (150مل)",
+        "en": "Axe Deodorant Spray Ice Chill For Men Pack Of 3 (150ml)"
+      },
+      "price": 645.0,
+      "sale_price": 309.6,
+      "stock": 1
+    },
+    "pending": false
+  },
   "67016177": {
     "notified": {
       "discount_percent": 60.0,
@@ -4132,6 +4328,34 @@
       "price": 341.0,
       "sale_price": 169.4,
       "stock": 5
+    },
+    "pending": false
+  },
+  "9547864": {
+    "notified": {
+      "discount_percent": 52.0,
+      "id": 9547864,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e033934d4dbdd8e6805d372e9b4553aed58c68b1b7e6207eb7a04c84bd64fa47",
+      "name": {
+        "ar": "3x أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
+        "en": "3x Axe Deodorant Spray Black Temptation For Men (150ml)"
+      },
+      "price": 645.0,
+      "reason": "new_discount",
+      "sale_price": 309.6,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 9547864,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e033934d4dbdd8e6805d372e9b4553aed58c68b1b7e6207eb7a04c84bd64fa47",
+      "name": {
+        "ar": "3x أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
+        "en": "3x Axe Deodorant Spray Black Temptation For Men (150ml)"
+      },
+      "price": 645.0,
+      "sale_price": 309.6,
+      "stock": 6
     },
     "pending": false
   }
