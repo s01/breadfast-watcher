@@ -3739,6 +3739,22 @@
     },
     "pending": false
   },
+  "70100053": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.001,
+      "id": 70100053,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/01ad88f20db304c09a1aed8ee14bbed0eb4a563f0dc5da1222d0243fd585f3ea",
+      "name": {
+        "ar": "شهد مسحب حار (750 جرام)",
+        "en": "Shahd Musahab Spicy (750g)"
+      },
+      "price": 396.75,
+      "sale_price": 198.37,
+      "stock": 0
+    },
+    "pending": false
+  },
   "76772915": {
     "notified": {
       "discount_percent": 50.0,
