@@ -4071,7 +4071,7 @@
       },
       "price": 645.0,
       "sale_price": 309.6,
-      "stock": 1
+      "stock": 2
     },
     "pending": false
   },
@@ -4328,34 +4328,6 @@
       "price": 341.0,
       "sale_price": 169.4,
       "stock": 5
-    },
-    "pending": false
-  },
-  "9547864": {
-    "notified": {
-      "discount_percent": 52.0,
-      "id": 9547864,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e033934d4dbdd8e6805d372e9b4553aed58c68b1b7e6207eb7a04c84bd64fa47",
-      "name": {
-        "ar": "3x أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
-        "en": "3x Axe Deodorant Spray Black Temptation For Men (150ml)"
-      },
-      "price": 645.0,
-      "reason": "new_discount",
-      "sale_price": 309.6,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 52.0,
-      "id": 9547864,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e033934d4dbdd8e6805d372e9b4553aed58c68b1b7e6207eb7a04c84bd64fa47",
-      "name": {
-        "ar": "3x أكس سبراي مزيل للعرق بلاك للرجال (150مل)",
-        "en": "3x Axe Deodorant Spray Black Temptation For Men (150ml)"
-      },
-      "price": 645.0,
-      "sale_price": 309.6,
-      "stock": 6
     },
     "pending": false
   }
