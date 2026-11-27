@@ -559,6 +559,34 @@
     },
     "pending": false
   },
+  "21096499": {
+    "notified": {
+      "discount_percent": 62.641,
+      "id": 21096499,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Barameli-Felfel.jpg",
+      "name": {
+        "ar": "جبنة براميلي بالفلفل (300 جرام)",
+        "en": "Barameli Cheese with Peppers (300g)"
+      },
+      "price": 78.0,
+      "reason": "new_discount",
+      "sale_price": 29.14,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 62.641,
+      "id": 21096499,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Barameli-Felfel.jpg",
+      "name": {
+        "ar": "جبنة براميلي بالفلفل (300 جرام)",
+        "en": "Barameli Cheese with Peppers (300g)"
+      },
+      "price": 78.0,
+      "sale_price": 29.14,
+      "stock": 5
+    },
+    "pending": false
+  },
   "21728413": {
     "notified": {
       "discount_percent": 50.0,
