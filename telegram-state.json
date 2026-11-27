@@ -1,32 +1,4 @@
 {
-  "11368529": {
-    "notified": {
-      "discount_percent": 84.615,
-      "id": 11368529,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/06/Capture-36.png",
-      "name": {
-        "ar": "نسكافيه 3 فى 1 كراميل (18 جم)",
-        "en": "Nescafe 3in1 Caramel (18g)"
-      },
-      "price": 6.5,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 84.615,
-      "id": 11368529,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/06/Capture-36.png",
-      "name": {
-        "ar": "نسكافيه 3 فى 1 كراميل (18 جم)",
-        "en": "Nescafe 3in1 Caramel (18g)"
-      },
-      "price": 6.5,
-      "sale_price": 1.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "19038441": {
     "notified": {
       "discount_percent": 50.127,
@@ -1351,22 +1323,6 @@
     },
     "pending": false
   },
-  "41397929": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 53.357,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "sale_price": 6.53,
-      "stock": 0
-    },
-    "pending": false
-  },
   "42882500": {
     "notified": {
       "discount_percent": 50.63,
@@ -2035,7 +1991,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -2288,34 +2244,6 @@
       "price": 275.0,
       "sale_price": 137.5,
       "stock": 3
-    },
-    "pending": false
-  },
-  "450208": {
-    "notified": {
-      "discount_percent": 90.244,
-      "id": 450208,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mango-classic-235.png",
-      "name": {
-        "ar": "جهينه كلاسيك مشروب مانجو (235 مل)",
-        "en": "Juhayna Classic Mango (235ml)"
-      },
-      "price": 10.25,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 90.244,
-      "id": 450208,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mango-classic-235.png",
-      "name": {
-        "ar": "جهينه كلاسيك مشروب مانجو (235 مل)",
-        "en": "Juhayna Classic Mango (235ml)"
-      },
-      "price": 10.25,
-      "sale_price": 1.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -3867,22 +3795,6 @@
     },
     "pending": true
   },
-  "64619267": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 64619267,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d95ab12a6146b3c603469005191804e46acd0c40711be1f72051fddfecc6ba76",
-      "name": {
-        "ar": "شهد فيليه الدجاج (800 جم)",
-        "en": "Shahd Breaded Chicken Fillet (800g)"
-      },
-      "price": 427.75,
-      "sale_price": 213.87,
-      "stock": 0
-    },
-    "pending": false
-  },
   "65670995": {
     "notified": {
       "discount_percent": 60.0,
@@ -4236,22 +4148,6 @@
       "price": 160.0,
       "sale_price": 80.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "70100053": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 70100053,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/01ad88f20db304c09a1aed8ee14bbed0eb4a563f0dc5da1222d0243fd585f3ea",
-      "name": {
-        "ar": "شهد مسحب حار (750 جرام)",
-        "en": "Shahd Musahab Spicy (750g)"
-      },
-      "price": 396.75,
-      "sale_price": 198.37,
-      "stock": 0
     },
     "pending": false
   }
