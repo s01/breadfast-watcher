@@ -111,34 +111,6 @@
     },
     "pending": false
   },
-  "19040643": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 19040643,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6d883757ffdd8b8ad3a8d8523708aeae611e258d6c398bbc11d95d6b9ff1435c",
-      "name": {
-        "ar": "جيس مارسيانو او دو بارفان للنساء (100 مل)",
-        "en": "Guess Marciano EDP For Her (100ml)"
-      },
-      "price": 1569.0,
-      "reason": "new_discount",
-      "sale_price": 784.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 19040643,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6d883757ffdd8b8ad3a8d8523708aeae611e258d6c398bbc11d95d6b9ff1435c",
-      "name": {
-        "ar": "جيس مارسيانو او دو بارفان للنساء (100 مل)",
-        "en": "Guess Marciano EDP For Her (100ml)"
-      },
-      "price": 1569.0,
-      "sale_price": 784.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "19042011": {
     "notified": {
       "discount_percent": 58.201,
@@ -463,34 +435,6 @@
     },
     "pending": false
   },
-  "26194151": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26194151,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1313d86afe918fdf5815918ff1275eb32388bf7b25974bf41904e5b7ee7845f1",
-      "name": {
-        "ar": "جيس سيدكتيف نوير او دو تواليت للنساء (75 مل)",
-        "en": "Guess Seductive Noir EDT For Her (75ml)"
-      },
-      "price": 2050.0,
-      "reason": "new_discount",
-      "sale_price": 1025.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26194151,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1313d86afe918fdf5815918ff1275eb32388bf7b25974bf41904e5b7ee7845f1",
-      "name": {
-        "ar": "جيس سيدكتيف نوير او دو تواليت للنساء (75 مل)",
-        "en": "Guess Seductive Noir EDT For Her (75ml)"
-      },
-      "price": 2050.0,
-      "sale_price": 1025.0,
-      "stock": 2
-    },
-    "pending": false
-  },
   "26197371": {
     "notified": null,
     "observed": {
@@ -531,35 +475,7 @@
       },
       "price": 6150.0,
       "sale_price": 3075.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26223730": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26223730,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2e400d1f5861e6588e99841e133ed0084768271a640a0e75bcb6da2e072a97e2",
-      "name": {
-        "ar": "بيربري لندن او دو تواليت شكل جديد للرجال (100 مل)",
-        "en": "Burberry London EDT New Packaging For Him (100ml)"
-      },
-      "price": 2850.0,
-      "reason": "new_discount",
-      "sale_price": 1425.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26223730,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2e400d1f5861e6588e99841e133ed0084768271a640a0e75bcb6da2e072a97e2",
-      "name": {
-        "ar": "بيربري لندن او دو تواليت شكل جديد للرجال (100 مل)",
-        "en": "Burberry London EDT New Packaging For Him (100ml)"
-      },
-      "price": 2850.0,
-      "sale_price": 1425.0,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
@@ -619,34 +535,6 @@
     },
     "pending": false
   },
-  "26867058": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26867058,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/8435415080422.png",
-      "name": {
-        "ar": "جان بول غوتييه سكيندل ابسولو او دو بارفان للنساء (80 مل)",
-        "en": "Jean Paul Gaultier Scandal Absolu EDP For Her (80ml)"
-      },
-      "price": 8900.0,
-      "reason": "new_discount",
-      "sale_price": 4450.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26867058,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/8435415080422.png",
-      "name": {
-        "ar": "جان بول غوتييه سكيندل ابسولو او دو بارفان للنساء (80 مل)",
-        "en": "Jean Paul Gaultier Scandal Absolu EDP For Her (80ml)"
-      },
-      "price": 8900.0,
-      "sale_price": 4450.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -671,62 +559,6 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "27892991": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 27892991,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/7640111497547.jpg",
-      "name": {
-        "ar": "بنتلي انتينس او دي بارفان للرجال (100 مل)",
-        "en": "Bentley Intense EDP For Him (100ml)"
-      },
-      "price": 2600.0,
-      "reason": "new_discount",
-      "sale_price": 1300.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 27892991,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/7640111497547.jpg",
-      "name": {
-        "ar": "بنتلي انتينس او دي بارفان للرجال (100 مل)",
-        "en": "Bentley Intense EDP For Him (100ml)"
-      },
-      "price": 2600.0,
-      "sale_price": 1300.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "28006510": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 28006510,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/8435415091169-Photoroom-1-1.png",
-      "name": {
-        "ar": "جان بول غوتييه ديفين لو برفيوم او دو بارفان للنساء (100 مل)",
-        "en": "Jean Paul Gaultier Divine Le Parfum EDP For Her (100ml)"
-      },
-      "price": 9900.0,
-      "reason": "new_discount",
-      "sale_price": 4950.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 28006510,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/8435415091169-Photoroom-1-1.png",
-      "name": {
-        "ar": "جان بول غوتييه ديفين لو برفيوم او دو بارفان للنساء (100 مل)",
-        "en": "Jean Paul Gaultier Divine Le Parfum EDP For Her (100ml)"
-      },
-      "price": 9900.0,
-      "sale_price": 4950.0,
       "stock": 1
     },
     "pending": false
@@ -815,34 +647,6 @@
       },
       "price": 1999.0,
       "sale_price": 999.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "29243507": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29243507,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/7640111493723.png",
-      "name": {
-        "ar": "جاجوار كلاسيك جولد او دو تواليت للرجال (100 مل)",
-        "en": "Jaguar Classic Gold EDT For Him (100ml)"
-      },
-      "price": 1450.0,
-      "reason": "new_discount",
-      "sale_price": 725.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29243507,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/7640111493723.png",
-      "name": {
-        "ar": "جاجوار كلاسيك جولد او دو تواليت للرجال (100 مل)",
-        "en": "Jaguar Classic Gold EDT For Him (100ml)"
-      },
-      "price": 1450.0,
-      "sale_price": 725.0,
       "stock": 0
     },
     "pending": false
@@ -1056,34 +860,6 @@
       "price": 38.0,
       "sale_price": 16.34,
       "stock": 0
-    },
-    "pending": false
-  },
-  "34072008": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 34072008,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6dcb6aaa2af850bb601459bc0081aca6f21764d3f7fcb82934d249cbe4f861b6",
-      "name": {
-        "ar": "جيس أومو او دو تواليت للرجال (100 مل)",
-        "en": "Guess Uomo EDT For Him (100ml)"
-      },
-      "price": 2290.0,
-      "reason": "new_discount",
-      "sale_price": 1145.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 34072008,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6dcb6aaa2af850bb601459bc0081aca6f21764d3f7fcb82934d249cbe4f861b6",
-      "name": {
-        "ar": "جيس أومو او دو تواليت للرجال (100 مل)",
-        "en": "Guess Uomo EDT For Him (100ml)"
-      },
-      "price": 2290.0,
-      "sale_price": 1145.0,
-      "stock": 1
     },
     "pending": false
   },
@@ -1311,22 +1087,6 @@
       },
       "price": 130.0,
       "sale_price": 39.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "37850895": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 37850895,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b9204244f32b97c54777379d6260c515811ba9cfc8a56f637cd200ac5bb90963",
-      "name": {
-        "ar": "فيرساتشي ايروس بور فيم او دو بارفان للنساء (100 مل)",
-        "en": "Versace Eros Pour Femme EDP For Her (100ml)"
-      },
-      "price": 4950.0,
-      "sale_price": 2475.0,
       "stock": 0
     },
     "pending": false
@@ -1807,62 +1567,6 @@
     },
     "pending": false
   },
-  "40227620": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 40227620,
-      "image": "https://i.ibb.co/C3GWgyrV/champion-by-davidoff-edt-spray-30-oz-m-3607340188602-Picsart-Ai-Image-Enhancer.png",
-      "name": {
-        "ar": "دافيدوف شامبيون أو دي تواليت للرجال (90 مل)",
-        "en": "Davidoff Champion EDT For Him (90ml)"
-      },
-      "price": 2200.0,
-      "reason": "new_discount",
-      "sale_price": 1100.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40227620,
-      "image": "https://i.ibb.co/C3GWgyrV/champion-by-davidoff-edt-spray-30-oz-m-3607340188602-Picsart-Ai-Image-Enhancer.png",
-      "name": {
-        "ar": "دافيدوف شامبيون أو دي تواليت للرجال (90 مل)",
-        "en": "Davidoff Champion EDT For Him (90ml)"
-      },
-      "price": 2200.0,
-      "sale_price": 1100.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "40227626": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 40227626,
-      "image": "https://i.ibb.co/Z1dGMdkc/61-PFkl-Es-KHL-UF1000-1000-QL80-Picsart-Ai-Image-Enhancer.png",
-      "name": {
-        "ar": "إسكادا ماجنيتيزم أو دي بارفان للنساء (75 مل)",
-        "en": "Escada Magnetism EDP For Her (75ml)"
-      },
-      "price": 2699.0,
-      "reason": "new_discount",
-      "sale_price": 1349.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40227626,
-      "image": "https://i.ibb.co/Z1dGMdkc/61-PFkl-Es-KHL-UF1000-1000-QL80-Picsart-Ai-Image-Enhancer.png",
-      "name": {
-        "ar": "إسكادا ماجنيتيزم أو دي بارفان للنساء (75 مل)",
-        "en": "Escada Magnetism EDP For Her (75ml)"
-      },
-      "price": 2699.0,
-      "sale_price": 1349.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "41021944": {
     "notified": {
       "discount_percent": 58.431,
@@ -1888,34 +1592,6 @@
       "price": 599.0,
       "sale_price": 249.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "42591106": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 42591106,
-      "image": "https://i.ibb.co/67jZwm2v/pe-Fv-E4-F6hf-Rxj6k-Da-Mzg-DNkc-Fbfu-RX04-Jesmjl-R6-600x.jpg",
-      "name": {
-        "ar": "مونت بلانك ليجند أو دي تواليت للرجال (200 مل)",
-        "en": "Mont Blanc Legend EDT For Him (200ml)"
-      },
-      "price": 4890.0,
-      "reason": "new_discount",
-      "sale_price": 2445.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42591106,
-      "image": "https://i.ibb.co/67jZwm2v/pe-Fv-E4-F6hf-Rxj6k-Da-Mzg-DNkc-Fbfu-RX04-Jesmjl-R6-600x.jpg",
-      "name": {
-        "ar": "مونت بلانك ليجند أو دي تواليت للرجال (200 مل)",
-        "en": "Mont Blanc Legend EDT For Him (200ml)"
-      },
-      "price": 4890.0,
-      "sale_price": 2445.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -2787,22 +2463,6 @@
     },
     "pending": false
   },
-  "47230318": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 47230318,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b1075a7146013eb4aac795be985162572724d714ba099bbe0ef4a877dca7e383",
-      "name": {
-        "ar": "جيس سيداكتيف هوم نوار أو دو تواليت للرجال (100 مل)",
-        "en": "Guess Seductive Noir Homme EDT For Him (100ml)"
-      },
-      "price": 1990.0,
-      "sale_price": 995.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "49558782": {
     "notified": {
       "discount_percent": 50.0,
@@ -3067,34 +2727,6 @@
       },
       "price": 390.0,
       "sale_price": 195.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "51473678": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 51473678,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6a919156b383a627a605f6b862d2f57e732fae59994bcbf9f60e70b503f541f0",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس سائل التحكم في الزيوت (50 مل)",
-        "en": "La Roche Posay Anthelios Oil Control Fluid (50ml)"
-      },
-      "price": 1050.0,
-      "reason": "new_discount",
-      "sale_price": 525.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51473678,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6a919156b383a627a605f6b862d2f57e732fae59994bcbf9f60e70b503f541f0",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس سائل التحكم في الزيوت (50 مل)",
-        "en": "La Roche Posay Anthelios Oil Control Fluid (50ml)"
-      },
-      "price": 1050.0,
-      "sale_price": 525.0,
       "stock": 0
     },
     "pending": false
@@ -3491,34 +3123,6 @@
     },
     "pending": false
   },
-  "56142333": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 56142333,
-      "image": "https://i.ibb.co/F4wBkngg/3386460153720.jpg",
-      "name": {
-        "ar": "مونت بلانك إكسبلورر إكستريم بارفوم للرجال (100 مل)",
-        "en": "Mont Blanc Explorer Extreme Parfum For Him (100ml)"
-      },
-      "price": 5900.0,
-      "reason": "new_discount",
-      "sale_price": 2950.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 56142333,
-      "image": "https://i.ibb.co/F4wBkngg/3386460153720.jpg",
-      "name": {
-        "ar": "مونت بلانك إكسبلورر إكستريم بارفوم للرجال (100 مل)",
-        "en": "Mont Blanc Explorer Extreme Parfum For Him (100ml)"
-      },
-      "price": 5900.0,
-      "sale_price": 2950.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "56593015": {
     "notified": {
       "discount_percent": 50.0,
@@ -3543,7 +3147,7 @@
       },
       "price": 1260.0,
       "sale_price": 630.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3600,34 +3204,6 @@
       "price": 340.0,
       "sale_price": 170.0,
       "stock": 3
-    },
-    "pending": false
-  },
-  "58518817": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 58518817,
-      "image": "https://iili.io/BQiGI1I.png",
-      "name": {
-        "ar": "عساف بينك أروجيت أو دو برفيوم للنساء (200 مل)",
-        "en": "Assaf Pink Arrogate EDP for Her (200ml)"
-      },
-      "price": 2899.0,
-      "reason": "new_discount",
-      "sale_price": 1449.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 58518817,
-      "image": "https://iili.io/BQiGI1I.png",
-      "name": {
-        "ar": "عساف بينك أروجيت أو دو برفيوم للنساء (200 مل)",
-        "en": "Assaf Pink Arrogate EDP for Her (200ml)"
-      },
-      "price": 2899.0,
-      "sale_price": 1449.5,
-      "stock": 0
     },
     "pending": false
   },
@@ -4168,34 +3744,6 @@
       "price": 999.0,
       "sale_price": 499.5,
       "stock": 0
-    },
-    "pending": false
-  },
-  "73724134": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 73724134,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3360372017332/41f5771bedd3a8c0.jpg",
-      "name": {
-        "ar": "ي لاروش دراكار نوار او دو تواليت للرجال (200 مل)",
-        "en": "Guy Laroche Drakkar Noir EDT For Him (200ml)"
-      },
-      "price": 2550.0,
-      "reason": "new_discount",
-      "sale_price": 1275.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 73724134,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3360372017332/41f5771bedd3a8c0.jpg",
-      "name": {
-        "ar": "ي لاروش دراكار نوار او دو تواليت للرجال (200 مل)",
-        "en": "Guy Laroche Drakkar Noir EDT For Him (200ml)"
-      },
-      "price": 2550.0,
-      "sale_price": 1275.0,
-      "stock": 1
     },
     "pending": false
   },
