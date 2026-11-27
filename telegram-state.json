@@ -1,4 +1,32 @@
 {
+  "1215364": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 1215364,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/22df1e0010b65d64184f75ebe461f545271aac3f94e21b173ecf5d583728472a",
+      "name": {
+        "ar": "سي كيوب رنجة مجمدة (250-350 جرام)",
+        "en": "Sea Cube Frozen Smoked Herring (250-350g)"
+      },
+      "price": 86.0,
+      "reason": "new_discount",
+      "sale_price": 43.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 1215364,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/22df1e0010b65d64184f75ebe461f545271aac3f94e21b173ecf5d583728472a",
+      "name": {
+        "ar": "سي كيوب رنجة مجمدة (250-350 جرام)",
+        "en": "Sea Cube Frozen Smoked Herring (250-350g)"
+      },
+      "price": 86.0,
+      "sale_price": 43.0,
+      "stock": 11
+    },
+    "pending": false
+  },
   "13507015": {
     "notified": {
       "discount_percent": 50.0,
@@ -1176,34 +1204,6 @@
       "price": 599.0,
       "sale_price": 249.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "41397932": {
-    "notified": {
-      "discount_percent": 92.982,
-      "id": 41397932,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03e0a7928145eaf41f08b882b3d0e650115102c647bea0116ab0d0bebbe48f5a",
-      "name": {
-        "ar": "ريز ليمون زجاجة (400مل)",
-        "en": "Rizz Lemon Bottle (400ml)"
-      },
-      "price": 14.25,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 92.982,
-      "id": 41397932,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/03e0a7928145eaf41f08b882b3d0e650115102c647bea0116ab0d0bebbe48f5a",
-      "name": {
-        "ar": "ريز ليمون زجاجة (400مل)",
-        "en": "Rizz Lemon Bottle (400ml)"
-      },
-      "price": 14.25,
-      "sale_price": 1.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -3179,6 +3179,34 @@
       },
       "price": 340.0,
       "sale_price": 170.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "57349645": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 57349645,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c8d77692b62ebffd895d8ea1a3b84d4450823ced664e684b60f27b742f6997d9",
+      "name": {
+        "ar": "جنوبة تمر مشكل سكري رطب (900جم)",
+        "en": "Januba Sukary Rutab Dates (900g)"
+      },
+      "price": 400.0,
+      "reason": "new_discount",
+      "sale_price": 200.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 57349645,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c8d77692b62ebffd895d8ea1a3b84d4450823ced664e684b60f27b742f6997d9",
+      "name": {
+        "ar": "جنوبة تمر مشكل سكري رطب (900جم)",
+        "en": "Januba Sukary Rutab Dates (900g)"
+      },
+      "price": 400.0,
+      "sale_price": 200.0,
       "stock": 3
     },
     "pending": false
