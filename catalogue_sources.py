@@ -18,11 +18,10 @@ def product_batches(source, identifiers):
     return jobs
 
 def food_get(path,**query):
+    from catalogue_http import read_json
     url='https://food-aggregator.breadfast.com/api/v1/'+path
     if query:url+='?'+urlencode(query)
-    r=subprocess.run(['curl','--silent','--show-error','--fail','--max-time','30',url],capture_output=True,text=True)
-    if r.returncode:raise RuntimeError('Restaurant catalogue request failed: '+path)
-    d=json.loads(r.stdout)
+    d=read_json(url)
     if d.get('status')!='success' or d.get('errors'):raise RuntimeError('Restaurant catalogue rejected: '+path)
     return d['payload']
 

@@ -10,10 +10,9 @@ ROOT=Path(__file__).resolve().parent
 STATE=Path(os.environ.get('BREADFAST_STATE_DIR',str(ROOT)))
 
 def get(path, **params):
+    from catalogue_http import read_json
     query={'serve':'now','warehouseId':WAREHOUSE,'shiftId':SHIFT,**params}
-    result=subprocess.run(['curl','--silent','--show-error','--fail','--max-time','30',BASE+path+'?'+urlencode(query)],capture_output=True,text=True)
-    if result.returncode: raise RuntimeError(result.stderr.strip()[:200])
-    data=json.loads(result.stdout)
+    data=read_json(BASE+path+'?'+urlencode(query))
     if isinstance(data,dict) and (data.get('error') or data.get('success') is False): raise RuntimeError(str(data)[:200])
     return data
 

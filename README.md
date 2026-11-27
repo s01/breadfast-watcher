@@ -1,5 +1,10 @@
 # Breadfast Telegram discount watcher
 
+For the independent native Mac monitor, see [Breadfast Local](local/README.md).
+Its price checks cover all known grocery/Mall IDs, discover home collections,
+and run independently per catalogue. Its 30-second/3-minute targets are distinct
+from the cloud bot's five-minute/hourly schedule described below.
+
 Monitors three catalogues and sends **new or improved in-stock discounts of at least 50%**, highest percentage first:
 
 - Grocery: October FP #6.
