@@ -1,4 +1,32 @@
 {
+  "11368529": {
+    "notified": {
+      "discount_percent": 84.615,
+      "id": 11368529,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/06/Capture-36.png",
+      "name": {
+        "ar": "نسكافيه 3 فى 1 كراميل (18 جم)",
+        "en": "Nescafe 3in1 Caramel (18g)"
+      },
+      "price": 6.5,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 84.615,
+      "id": 11368529,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/06/Capture-36.png",
+      "name": {
+        "ar": "نسكافيه 3 فى 1 كراميل (18 جم)",
+        "en": "Nescafe 3in1 Caramel (18g)"
+      },
+      "price": 6.5,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "19038441": {
     "notified": {
       "discount_percent": 50.127,
@@ -279,6 +307,22 @@
     },
     "pending": false
   },
+  "26190534": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 66.33,
+      "id": 26190534,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e9851a64477c01950d45e9be854c7494d611266f298e1566d26ccd6b2b68f49b",
+      "name": {
+        "ar": "كالفن كلاين يوفوريا او دي بارفان للنساء (100 مل)",
+        "en": "Calvin Klein Euphoria EDP For Her (100ml)"
+      },
+      "price": 5940.0,
+      "sale_price": 2000.0,
+      "stock": 0
+    },
+    "pending": false
+  },
   "26863557": {
     "notified": {
       "discount_percent": 50.239,
@@ -332,6 +376,22 @@
       "price": 320.0,
       "sale_price": 160.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "28698023": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 56.044,
+      "id": 28698023,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/3614273672054.png",
+      "name": {
+        "ar": "فالنتينو دونا بورن ان روم كورال فانتازي او دو بارفان للنساء (100 مل)",
+        "en": "Valentino Donna Born In Roma Coral Fantasy EDP For Her (100ml)"
+      },
+      "price": 9100.0,
+      "sale_price": 4000.0,
+      "stock": 0
     },
     "pending": false
   },
@@ -499,7 +559,7 @@
       },
       "price": 490.0,
       "sale_price": 245.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -4031,6 +4091,22 @@
       },
       "price": 472.75,
       "sale_price": 236.37,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "69381173": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 53.39,
+      "id": 69381173,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c64364ca119627a3027a5dcada7729dbf28185bb1d745a33129024fb30ab2272",
+      "name": {
+        "ar": "لطافة خمره واحة أو دو برفان للجنسين (100 مل)",
+        "en": "Lattafa Khamrah Waha EDP for Unisex (100ml)"
+      },
+      "price": 1770.0,
+      "sale_price": 825.0,
       "stock": 0
     },
     "pending": false
