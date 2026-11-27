@@ -107,7 +107,7 @@ def main():
     report['new_matches'],current=new_offers(products,old,args.threshold)
     # Never acknowledge offers before delivery or after a partial scan.
     if args.telegram and not errors:
-        from telegram_client import send,prepare_batches
+        from telegram_client import send,prepare_batches,TelegramError
         from zoneinfo import ZoneInfo
         checked=datetime.datetime.fromisoformat(report['checked_at']).astimezone(ZoneInfo('Africa/Cairo')).strftime('%d %b %Y %H:%M Cairo')
         batches=prepare_batches(report['new_matches'],checked,coverage=LABELS[source])
@@ -126,8 +126,9 @@ def main():
             save_json(state_path,current)
             report['delivered_messages']=len(batches)
             report['delivered_offers']=sum(len(batch.product_ids) for batch in batches)
-        except Exception:
-            report['errors'].append({'stage':'telegram','error':'Notification failed; unconfirmed offers remain pending'})
+        except Exception as exc:
+            detail=str(exc) if isinstance(exc,TelegramError) else 'Unexpected notification error'
+            report['errors'].append({'stage':'telegram','error':detail+'; unconfirmed offers remain pending'})
     save_json(ROOT/(prefix+'latest-scan.json'),report)
     if not errors:
         save_json(STATE/(prefix+('full-scan.json' if args.full else 'deals-scan.json')),{k:v for k,v in report.items() if k not in ('matches','new_matches')})

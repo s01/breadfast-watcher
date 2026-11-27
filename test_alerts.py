@@ -64,6 +64,15 @@ class MessageTransport(unittest.TestCase):
         with patch.dict('os.environ',{'TELEGRAM_CHAT_ID':'test'}), patch('telegram_client.api',return_value={'text':text}):
             self.assertEqual(send(markup,html_format=True)['text'],text)
 
+    def test_telegram_bidi_cleanup_is_not_truncation(self):
+        markup='<b>Offer</b>\n\u202b\u202bكيب جوينج \u202a-\u202c شيكولاتة'
+        text='Offer\nكيب جوينج - شيكولاتة'
+        with patch.dict('os.environ',{'TELEGRAM_CHAT_ID':'test'}), patch('telegram_client.api',return_value={'text':text}):
+            self.assertEqual(send(markup,html_format=True)['text'],text)
+
+    def test_one_pound_offer_is_eligible(self):
+        self.assertEqual(scan.match(product(1,price=100))['discount_percent'],99)
+
     def test_curl_config_preserves_unicode_and_json(self):
         import http.server,threading,subprocess,json
         received=[]

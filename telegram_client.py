@@ -7,6 +7,12 @@ from html.parser import HTMLParser
 
 class TelegramError(RuntimeError): pass
 
+# Telegram strips directional formatting controls from message text. Preserve
+# letters, punctuation and emoji joiners so real truncation still fails checks.
+BIDI_CONTROLS=dict.fromkeys(map(ord, '\u061c\u200e\u200f\u202a\u202b\u202c\u202d\u202e\u2066\u2067\u2068\u2069'))
+def canonical_text(text):
+    return text.translate(BIDI_CONTROLS).strip()
+
 def api(method, payload, token=None):
     token=token or os.environ.get('TELEGRAM_BOT_TOKEN','').strip()
     if not token: raise TelegramError('Telegram bot token is missing')
@@ -16,7 +22,12 @@ def api(method, payload, token=None):
     if result.returncode: raise TelegramError('Telegram connection failed; delivery is unconfirmed')
     try: response=json.loads(result.stdout)
     except ValueError: raise TelegramError('Telegram returned an unreadable response') from None
-    if not response.get('ok'): raise TelegramError('Telegram rejected '+method+' (error '+str(response.get('error_code','unknown'))+')')
+    if not response.get('ok'):
+        code=response.get('error_code')
+        code=code if isinstance(code,int) else 'unknown'
+        retry=response.get('parameters',{}).get('retry_after')
+        suffix=f'; retry after {retry}s' if isinstance(retry,int) else ''
+        raise TelegramError(f'Telegram rejected {method} (error {code}{suffix})')
     return response['result']
 
 def request_config(url,payload):
@@ -32,7 +43,7 @@ def send(text, html_format=False, reply_markup=None):
     if reply_markup is not None: payload['reply_markup']=reply_markup
     result=api('sendMessage',payload)
     expected=visible_text(text) if html_format else text
-    if result.get('text','').strip()!=expected.strip():
+    if canonical_text(result.get('text',''))!=canonical_text(expected):
         raise TelegramError('Telegram returned different message text; delivery completeness is unconfirmed')
     return result
 
@@ -53,7 +64,7 @@ def money(value):
     return format(amount,',.0f') if amount==amount.to_integral_value() else format(amount,',.2f')
 
 def clean_name(value):
-    return ' '.join(html.unescape(str(value or '')).split())[:350]
+    return ' '.join(html.unescape(str(value or '')).translate(BIDI_CONTROLS).split())[:350]
 
 def product_url(product):
     # Populated only after a real Breadfast share link has been verified.
