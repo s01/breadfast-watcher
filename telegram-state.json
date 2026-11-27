@@ -23,7 +23,7 @@
       },
       "price": 6.5,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -83,34 +83,6 @@
     },
     "pending": false
   },
-  "21028275": {
-    "notified": {
-      "discount_percent": 65.0,
-      "id": 21028275,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Screenshot-2024-05-21-163254.png",
-      "name": {
-        "ar": "سول اند مور سبلاش للجسم فيلفيت نوير (150 مل)",
-        "en": "Soul & More Velvet Noir Body Splash (150ml)"
-      },
-      "price": 460.0,
-      "reason": "new_discount",
-      "sale_price": 161.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 65.0,
-      "id": 21028275,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Screenshot-2024-05-21-163254.png",
-      "name": {
-        "ar": "سول اند مور سبلاش للجسم فيلفيت نوير (150 مل)",
-        "en": "Soul & More Velvet Noir Body Splash (150ml)"
-      },
-      "price": 460.0,
-      "sale_price": 161.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "22268660": {
     "notified": {
       "discount_percent": 82.609,
@@ -135,7 +107,7 @@
       },
       "price": 5.75,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -379,34 +351,6 @@
     },
     "pending": false
   },
-  "27436853": {
-    "notified": {
-      "discount_percent": 78.372,
-      "id": 27436853,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e8300252db394e261a03d12e6b34b21e45fd6ee3dc8fa705412acca2dd964257",
-      "name": {
-        "ar": "(جيليت بلو سيمبل 3 ماكينة حلاقة للاستخدام مرة واحدة للرجال (4 قطع",
-        "en": "Gillette Blue Simple 3 Disposable Razors (4 Razors)"
-      },
-      "price": 215.0,
-      "reason": "new_discount",
-      "sale_price": 46.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 78.372,
-      "id": 27436853,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e8300252db394e261a03d12e6b34b21e45fd6ee3dc8fa705412acca2dd964257",
-      "name": {
-        "ar": "(جيليت بلو سيمبل 3 ماكينة حلاقة للاستخدام مرة واحدة للرجال (4 قطع",
-        "en": "Gillette Blue Simple 3 Disposable Razors (4 Razors)"
-      },
-      "price": 215.0,
-      "sale_price": 46.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -476,62 +420,6 @@
       "price": 29600.0,
       "sale_price": 14000.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "29542360": {
-    "notified": {
-      "discount_percent": 85.0,
-      "id": 29542360,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4ab2c216175e027ec9d48bb84ca9fc5cee3ded450ff6605ea90db00a741e1c06",
-      "name": {
-        "ar": "ترو باي لانالو ليف ان بلسم مغذي للأطفال والرضع بجوز الهند (250 مل)",
-        "en": "True By Lanalou Baby & Kids Nourishing Leave-In Conditioner Coconut (250ml)"
-      },
-      "price": 390.0,
-      "reason": "new_discount",
-      "sale_price": 58.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.0,
-      "id": 29542360,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4ab2c216175e027ec9d48bb84ca9fc5cee3ded450ff6605ea90db00a741e1c06",
-      "name": {
-        "ar": "ترو باي لانالو ليف ان بلسم مغذي للأطفال والرضع بجوز الهند (250 مل)",
-        "en": "True By Lanalou Baby & Kids Nourishing Leave-In Conditioner Coconut (250ml)"
-      },
-      "price": 390.0,
-      "sale_price": 58.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "29542674": {
-    "notified": {
-      "discount_percent": 85.0,
-      "id": 29542674,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1008939cc10584886fc66dacddcdfd1fcfd590bb4a26cb37179c8862ccf0c46e",
-      "name": {
-        "ar": "ترو باي لانالو بخاخ لفك تشابك الشعر للاطفال (250 مل)",
-        "en": "True By Lanalou Lightweight Moisturizing Detangler (250ml)"
-      },
-      "price": 370.0,
-      "reason": "new_discount",
-      "sale_price": 55.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.0,
-      "id": 29542674,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1008939cc10584886fc66dacddcdfd1fcfd590bb4a26cb37179c8862ccf0c46e",
-      "name": {
-        "ar": "ترو باي لانالو بخاخ لفك تشابك الشعر للاطفال (250 مل)",
-        "en": "True By Lanalou Lightweight Moisturizing Detangler (250ml)"
-      },
-      "price": 370.0,
-      "sale_price": 55.5,
-      "stock": 0
     },
     "pending": false
   },
@@ -927,34 +815,6 @@
       },
       "price": 130.0,
       "sale_price": 39.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "38612476": {
-    "notified": {
-      "discount_percent": 85.0,
-      "id": 38612476,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/308f3f56603a101c787f8a29c467842d731e482c49b420e9e945ea95335e15f9",
-      "name": {
-        "ar": "ترو بيبي آند كيدز واقي شمس (120مل)",
-        "en": "True Baby & Kids Sunscreen (120ml)"
-      },
-      "price": 850.0,
-      "reason": "new_discount",
-      "sale_price": 127.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.0,
-      "id": 38612476,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/308f3f56603a101c787f8a29c467842d731e482c49b420e9e945ea95335e15f9",
-      "name": {
-        "ar": "ترو بيبي آند كيدز واقي شمس (120مل)",
-        "en": "True Baby & Kids Sunscreen (120ml)"
-      },
-      "price": 850.0,
-      "sale_price": 127.5,
       "stock": 0
     },
     "pending": false
