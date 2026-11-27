@@ -279,34 +279,6 @@
     },
     "pending": false
   },
-  "26050239": {
-    "notified": {
-      "discount_percent": 90.0,
-      "id": 26050239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a8ec15312a4641ab99bb786f4dd5878d2142a2fcaffdf1a8e1bedbabbcba3ffa",
-      "name": {
-        "ar": "شيبسي فورنو 10 جنيه جبنة فرنسية (38-42 جم)",
-        "en": "Chipsy Forno French Cheese 10LE (38-42g)"
-      },
-      "price": 10.0,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 90.0,
-      "id": 26050239,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a8ec15312a4641ab99bb786f4dd5878d2142a2fcaffdf1a8e1bedbabbcba3ffa",
-      "name": {
-        "ar": "شيبسي فورنو 10 جنيه جبنة فرنسية (38-42 جم)",
-        "en": "Chipsy Forno French Cheese 10LE (38-42g)"
-      },
-      "price": 10.0,
-      "sale_price": 1.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "26863557": {
     "notified": {
       "discount_percent": 50.239,
@@ -528,34 +500,6 @@
       "price": 490.0,
       "sale_price": 245.0,
       "stock": 2
-    },
-    "pending": false
-  },
-  "29859194": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29859194,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/21e3ce8ee13175183534841f0fd17c940e404db269093b2d7db4d88f4f24a97a",
-      "name": {
-        "ar": "3x بريدفاست مكسرات مشكلة مملحة و ممحمصة (200 جرام)",
-        "en": "3x Breadfast Salted Deluxe Mixed Nuts (200g)"
-      },
-      "price": 900.0,
-      "reason": "new_discount",
-      "sale_price": 450.0,
-      "stock": 5
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29859194,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/21e3ce8ee13175183534841f0fd17c940e404db269093b2d7db4d88f4f24a97a",
-      "name": {
-        "ar": "3x بريدفاست مكسرات مشكلة مملحة و ممحمصة (200 جرام)",
-        "en": "3x Breadfast Salted Deluxe Mixed Nuts (200g)"
-      },
-      "price": 900.0,
-      "sale_price": 450.0,
-      "stock": 5
     },
     "pending": false
   },
@@ -1344,34 +1288,6 @@
       "price": 599.0,
       "sale_price": 249.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "41397929": {
-    "notified": {
-      "discount_percent": 93.0,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "reason": "new_discount",
-      "sale_price": 0.98,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 53.357,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "sale_price": 6.53,
-      "stock": 0
     },
     "pending": false
   },
@@ -3847,22 +3763,6 @@
     },
     "pending": true
   },
-  "64619267": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 64619267,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d95ab12a6146b3c603469005191804e46acd0c40711be1f72051fddfecc6ba76",
-      "name": {
-        "ar": "شهد فيليه الدجاج (800 جم)",
-        "en": "Shahd Breaded Chicken Fillet (800g)"
-      },
-      "price": 427.75,
-      "sale_price": 213.87,
-      "stock": 0
-    },
-    "pending": false
-  },
   "65670995": {
     "notified": {
       "discount_percent": 60.0,
@@ -4200,50 +4100,6 @@
       "price": 160.0,
       "sale_price": 80.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "70100053": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 70100053,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/01ad88f20db304c09a1aed8ee14bbed0eb4a563f0dc5da1222d0243fd585f3ea",
-      "name": {
-        "ar": "شهد مسحب حار (750 جرام)",
-        "en": "Shahd Musahab Spicy (750g)"
-      },
-      "price": 396.75,
-      "sale_price": 198.37,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "76804603": {
-    "notified": {
-      "discount_percent": 78.509,
-      "id": 76804603,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e2b03705ea35394712804d963d7d57575ee3906de4478e44f7b2b85caf8d55e1",
-      "name": {
-        "ar": "6x سيمبلي شوكولاتة حليب كريسبى (35 جرام)",
-        "en": "6x Simply Crispy Milk Chocolate (35g)"
-      },
-      "price": 198.78,
-      "reason": "new_discount",
-      "sale_price": 42.72,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 78.509,
-      "id": 76804603,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e2b03705ea35394712804d963d7d57575ee3906de4478e44f7b2b85caf8d55e1",
-      "name": {
-        "ar": "6x سيمبلي شوكولاتة حليب كريسبى (35 جرام)",
-        "en": "6x Simply Crispy Milk Chocolate (35g)"
-      },
-      "price": 198.78,
-      "sale_price": 42.72,
-      "stock": 0
     },
     "pending": false
   }
