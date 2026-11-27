@@ -1759,6 +1759,34 @@
     },
     "pending": false
   },
+  "21463709": {
+    "notified": {
+      "discount_percent": 78.177,
+      "id": 21463709,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Simply-Crispy-Milk-Chocolate.png",
+      "name": {
+        "ar": "سيمبلي شوكولاتة حليب كريسبى (35 جرام)",
+        "en": "Simply Crispy Milk Chocolate (35g)"
+      },
+      "price": 33.13,
+      "reason": "new_discount",
+      "sale_price": 7.23,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 78.177,
+      "id": 21463709,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Simply-Crispy-Milk-Chocolate.png",
+      "name": {
+        "ar": "سيمبلي شوكولاتة حليب كريسبى (35 جرام)",
+        "en": "Simply Crispy Milk Chocolate (35g)"
+      },
+      "price": 33.13,
+      "sale_price": 7.23,
+      "stock": 1
+    },
+    "pending": false
+  },
   "21728413": {
     "notified": {
       "discount_percent": 50.0,
@@ -1911,6 +1939,34 @@
       },
       "price": 1950.0,
       "sale_price": 975.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "22268660": {
+    "notified": {
+      "discount_percent": 82.609,
+      "id": 22268660,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
+      "name": {
+        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
+        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
+      },
+      "price": 5.75,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 82.609,
+      "id": 22268660,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
+      "name": {
+        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
+        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
+      },
+      "price": 5.75,
+      "sale_price": 1.0,
       "stock": 1
     },
     "pending": false
@@ -7183,9 +7239,9 @@
       },
       "price": 1197.0,
       "sale_price": 598.5,
-      "stock": 0
+      "stock": 1
     },
-    "pending": false
+    "pending": true
   },
   "30121920": {
     "notified": {
@@ -10578,6 +10634,22 @@
       "stock": 1
     },
     "pending": false
+  },
+  "35479376": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 35479376,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a444c17af60cc21a3e2405a93da5cd26044845f5398a17a74793fd62289a093c",
+      "name": {
+        "ar": "يوسيرين سيروم المزدوج لتفتيح البشرة (30 مل)",
+        "en": "Eucerin Even Pigment Perfector Dual Serum (30ml)"
+      },
+      "price": 2590.0,
+      "sale_price": 1295.0,
+      "stock": 1
+    },
+    "pending": true
   },
   "35514735": {
     "notified": {
@@ -17423,6 +17495,34 @@
     },
     "pending": true
   },
+  "450208": {
+    "notified": {
+      "discount_percent": 90.244,
+      "id": 450208,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mango-classic-235.png",
+      "name": {
+        "ar": "جهينه كلاسيك مشروب مانجو (235 مل)",
+        "en": "Juhayna Classic Mango (235ml)"
+      },
+      "price": 10.25,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 90.244,
+      "id": 450208,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/mango-classic-235.png",
+      "name": {
+        "ar": "جهينه كلاسيك مشروب مانجو (235 مل)",
+        "en": "Juhayna Classic Mango (235ml)"
+      },
+      "price": 10.25,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "45630528": {
     "notified": null,
     "observed": {
@@ -17640,6 +17740,22 @@
       "price": 190.0,
       "sale_price": 95.0,
       "stock": 4
+    },
+    "pending": true
+  },
+  "46914871": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 52.0,
+      "id": 46914871,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/aff6072d7f0cbaad3b8a65f8d27766be64b2aa8a96cb6f1dfce0db33c9fe6317",
+      "name": {
+        "ar": "ريلي جود سالمون برجر (300جم)",
+        "en": "ReallyGood Salmon Burger (300g)"
+      },
+      "price": 310.0,
+      "sale_price": 148.8,
+      "stock": 1
     },
     "pending": true
   },
@@ -21555,7 +21671,7 @@
       },
       "price": 2899.0,
       "sale_price": 1159.6,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -21667,9 +21783,9 @@
       },
       "price": 6480.0,
       "sale_price": 3240.0,
-      "stock": 0
+      "stock": 1
     },
-    "pending": false
+    "pending": true
   },
   "59112573": {
     "notified": null,
@@ -24340,6 +24456,34 @@
       "name": {
         "ar": "بريدفاست رقائق البطاطس بالكريمة الحامضة (48 جرام)",
         "en": "Breadfast Kettle-Cooked Chips with Sour Cream & Herbs (48g)"
+      },
+      "price": 16.92,
+      "sale_price": 7.91,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "6481428": {
+    "notified": {
+      "discount_percent": 53.251,
+      "id": 6481428,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b494f8f2cad4a676bedb9b69953d8d17fe62cc7d76591d4a93caed49d47772c5",
+      "name": {
+        "ar": "بريدفاست رقائق البطاطس بالفلفل الحلو (48 جرام)",
+        "en": "Breadfast Kettle-Cooked Chips with Sweet Chili (48g)"
+      },
+      "price": 16.92,
+      "reason": "new_discount",
+      "sale_price": 7.91,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 53.251,
+      "id": 6481428,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b494f8f2cad4a676bedb9b69953d8d17fe62cc7d76591d4a93caed49d47772c5",
+      "name": {
+        "ar": "بريدفاست رقائق البطاطس بالفلفل الحلو (48 جرام)",
+        "en": "Breadfast Kettle-Cooked Chips with Sweet Chili (48g)"
       },
       "price": 16.92,
       "sale_price": 7.91,
