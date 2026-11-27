@@ -1,4 +1,60 @@
 {
+  "13507015": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 13507015,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-14-at-13.50.37_c6952f50.png",
+      "name": {
+        "ar": "سولى سلمون مدخن مجمد (200 جرام)",
+        "en": "Soly Frozen Smoked Salmon (200g)"
+      },
+      "price": 499.0,
+      "reason": "new_discount",
+      "sale_price": 249.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 13507015,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-14-at-13.50.37_c6952f50.png",
+      "name": {
+        "ar": "سولى سلمون مدخن مجمد (200 جرام)",
+        "en": "Soly Frozen Smoked Salmon (200g)"
+      },
+      "price": 499.0,
+      "sale_price": 249.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "2084233": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 2084233,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/400g.png",
+      "name": {
+        "ar": "المراعي زبدة بريميم غير مملحة (400 جرام)",
+        "en": "Almarai Premium Butter Unsalted (400g)"
+      },
+      "price": 499.0,
+      "reason": "new_discount",
+      "sale_price": 249.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 2084233,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/400g.png",
+      "name": {
+        "ar": "المراعي زبدة بريميم غير مملحة (400 جرام)",
+        "en": "Almarai Premium Butter Unsalted (400g)"
+      },
+      "price": 499.0,
+      "sale_price": 249.5,
+      "stock": 6
+    },
+    "pending": false
+  },
   "22754650": {
     "notified": {
       "discount_percent": 50.0,
@@ -588,6 +644,34 @@
       "price": 130.0,
       "sale_price": 39.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "38619088": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 38619088,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f0e78a6e59b6bf702e39e7820dd781475b1a511596c1d072675621feed7b97ee",
+      "name": {
+        "ar": "جنى تمر مفتل سكري (500جرام)",
+        "en": "Jana Sukkari Mefatel Dates (500g)"
+      },
+      "price": 235.0,
+      "reason": "new_discount",
+      "sale_price": 117.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 38619088,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f0e78a6e59b6bf702e39e7820dd781475b1a511596c1d072675621feed7b97ee",
+      "name": {
+        "ar": "جنى تمر مفتل سكري (500جرام)",
+        "en": "Jana Sukkari Mefatel Dates (500g)"
+      },
+      "price": 235.0,
+      "sale_price": 117.5,
+      "stock": 3
     },
     "pending": false
   },
@@ -2128,6 +2212,62 @@
       "price": 370.0,
       "sale_price": 185.0,
       "stock": 1
+    },
+    "pending": false
+  },
+  "50823486": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 50823486,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c226dcc38cabfcd457a91f9cce03a59cb343bb141cbe006815a6bcbe7fad085f",
+      "name": {
+        "ar": "(جنوبة مجدول بالوز  (320 جرام",
+        "en": "Januba Medjool Almonds Dates (320g)"
+      },
+      "price": 337.0,
+      "reason": "new_discount",
+      "sale_price": 168.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 50823486,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c226dcc38cabfcd457a91f9cce03a59cb343bb141cbe006815a6bcbe7fad085f",
+      "name": {
+        "ar": "(جنوبة مجدول بالوز  (320 جرام",
+        "en": "Januba Medjool Almonds Dates (320g)"
+      },
+      "price": 337.0,
+      "sale_price": 168.5,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "50823488": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 50823488,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2858cafcce5d60a80abf781fa34efba3539b6cb9e661866990ddc9d06ef7abce",
+      "name": {
+        "ar": "(جنوبة مجدول بالكاجو  (320 جرام",
+        "en": "Januba Medjool Cashew Dates (320g)"
+      },
+      "price": 348.0,
+      "reason": "new_discount",
+      "sale_price": 174.0,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 50823488,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2858cafcce5d60a80abf781fa34efba3539b6cb9e661866990ddc9d06ef7abce",
+      "name": {
+        "ar": "(جنوبة مجدول بالكاجو  (320 جرام",
+        "en": "Januba Medjool Cashew Dates (320g)"
+      },
+      "price": 348.0,
+      "sale_price": 174.0,
+      "stock": 4
     },
     "pending": false
   },
@@ -3687,6 +3827,34 @@
     },
     "pending": false
   },
+  "66834125": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 66834125,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/55d648252688c8931faa6f4c3f499e2239227e252ef97f6b57e7273fbbf23784",
+      "name": {
+        "ar": "سي كيوب تونة مدخنة (200جرام)",
+        "en": "Sea Cube Premium Smoked Yellowfin Tuna (200gm)"
+      },
+      "price": 315.0,
+      "reason": "new_discount",
+      "sale_price": 157.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 66834125,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/55d648252688c8931faa6f4c3f499e2239227e252ef97f6b57e7273fbbf23784",
+      "name": {
+        "ar": "سي كيوب تونة مدخنة (200جرام)",
+        "en": "Sea Cube Premium Smoked Yellowfin Tuna (200gm)"
+      },
+      "price": 315.0,
+      "sale_price": 157.5,
+      "stock": 2
+    },
+    "pending": false
+  },
   "67016177": {
     "notified": {
       "discount_percent": 60.0,
@@ -3715,19 +3883,103 @@
     },
     "pending": false
   },
-  "70100053": {
-    "notified": null,
+  "6739625": {
+    "notified": {
+      "discount_percent": 50.001,
+      "id": 6739625,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cd49ea5b38db6e293e1353f8a374064beb09f18f92b3fb7a29948fae079c7ccc",
+      "name": {
+        "ar": "(سي كيوب سلمون مدخن (200 جرام",
+        "en": "Sea Cube Smoked Salmon (200g)"
+      },
+      "price": 472.75,
+      "reason": "new_discount",
+      "sale_price": 236.37,
+      "stock": 6
+    },
     "observed": {
       "discount_percent": 50.001,
-      "id": 70100053,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/01ad88f20db304c09a1aed8ee14bbed0eb4a563f0dc5da1222d0243fd585f3ea",
+      "id": 6739625,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/cd49ea5b38db6e293e1353f8a374064beb09f18f92b3fb7a29948fae079c7ccc",
       "name": {
-        "ar": "شهد مسحب حار (750 جرام)",
-        "en": "Shahd Musahab Spicy (750g)"
+        "ar": "(سي كيوب سلمون مدخن (200 جرام",
+        "en": "Sea Cube Smoked Salmon (200g)"
       },
-      "price": 396.75,
-      "sale_price": 198.37,
+      "price": 472.75,
+      "sale_price": 236.37,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "69932559": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 69932559,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/422fcc81fb569128d8145af9950a5059dcbb7d7ef1767fb3c37544c1d757ed07",
+      "name": {
+        "ar": "ابسيس كنافة اساور بالشوكولاته والبندق (130 جرام)",
+        "en": "Ibsais Chocolate & Hazelnut Kunafa Bracelets (130g)"
+      },
+      "price": 170.0,
+      "reason": "new_discount",
+      "sale_price": 85.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 69932559,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/422fcc81fb569128d8145af9950a5059dcbb7d7ef1767fb3c37544c1d757ed07",
+      "name": {
+        "ar": "ابسيس كنافة اساور بالشوكولاته والبندق (130 جرام)",
+        "en": "Ibsais Chocolate & Hazelnut Kunafa Bracelets (130g)"
+      },
+      "price": 170.0,
+      "sale_price": 85.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "69932561": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 69932561,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/413fb9e4a93f040ff4bca48d15eef0278459192ef84544d5ca1f63ae557b5108",
+      "name": {
+        "ar": "ابسيس تمر بالمكسرات (130 جرام)",
+        "en": "Ibsais Dates Stuffed with Nuts (260g)"
+      },
+      "price": 290.0,
+      "sale_price": 145.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "69932565": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 69932565,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/971b69b555448bf8fec61e762a25854b7b8c8a4bf8e44e3142f1d21034430d85",
+      "name": {
+        "ar": "ابسيس اساور الكلاج بعين الجمل (120 جرام)",
+        "en": "Ibsais Walnut Kolaj Bracelets (120g)"
+      },
+      "price": 185.0,
+      "reason": "new_discount",
+      "sale_price": 92.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 69932565,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/971b69b555448bf8fec61e762a25854b7b8c8a4bf8e44e3142f1d21034430d85",
+      "name": {
+        "ar": "ابسيس اساور الكلاج بعين الجمل (120 جرام)",
+        "en": "Ibsais Walnut Kolaj Bracelets (120g)"
+      },
+      "price": 185.0,
+      "sale_price": 92.5,
+      "stock": 3
     },
     "pending": false
   }
