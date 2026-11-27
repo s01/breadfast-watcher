@@ -1599,7 +1599,7 @@
       },
       "price": 480.0,
       "sale_price": 144.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -2680,6 +2680,34 @@
       "price": 759.0,
       "sale_price": 379.5,
       "stock": 0
+    },
+    "pending": false
+  },
+  "54691438": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691438,
+      "image": "https://i.ibb.co/vxYhpv0T/3264680004117.jpg",
+      "name": {
+        "ar": "نوكس ستيك ترطيب الشفاه ريف دي ميل (4 جم)",
+        "en": "Nuxe Reve De Miel Lip Moist Stick (4g)"
+      },
+      "price": 589.0,
+      "reason": "new_discount",
+      "sale_price": 294.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691438,
+      "image": "https://i.ibb.co/vxYhpv0T/3264680004117.jpg",
+      "name": {
+        "ar": "نوكس ستيك ترطيب الشفاه ريف دي ميل (4 جم)",
+        "en": "Nuxe Reve De Miel Lip Moist Stick (4g)"
+      },
+      "price": 589.0,
+      "sale_price": 294.5,
+      "stock": 1
     },
     "pending": false
   },
