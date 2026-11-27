@@ -3671,7 +3671,7 @@
       },
       "price": 275.0,
       "sale_price": 137.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -3859,34 +3859,6 @@
       },
       "price": 427.75,
       "sale_price": 213.87,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "65645396": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 65645396,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a0e389bce56b7dd8fa077ca50ce0cfbe63b504a0995a44b4547f0c0a0590bbfa",
-      "name": {
-        "ar": "هرمز إماراتي جمبري لحم 40 / 60 (500g)",
-        "en": "Hormuz Emirati Peeled Shrimp 40/60 (500g)"
-      },
-      "price": 644.0,
-      "reason": "new_discount",
-      "sale_price": 322.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 65645396,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a0e389bce56b7dd8fa077ca50ce0cfbe63b504a0995a44b4547f0c0a0590bbfa",
-      "name": {
-        "ar": "هرمز إماراتي جمبري لحم 40 / 60 (500g)",
-        "en": "Hormuz Emirati Peeled Shrimp 40/60 (500g)"
-      },
-      "price": 644.0,
-      "sale_price": 322.0,
       "stock": 0
     },
     "pending": false
@@ -4099,7 +4071,7 @@
       },
       "price": 472.75,
       "sale_price": 236.37,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
