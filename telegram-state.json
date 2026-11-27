@@ -23,7 +23,7 @@
       },
       "price": 499.0,
       "sale_price": 249.5,
-      "stock": 3
+      "stock": 1
     },
     "pending": false
   },
@@ -1567,7 +1567,7 @@
       },
       "price": 480.0,
       "sale_price": 144.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -2243,34 +2243,6 @@
     },
     "pending": false
   },
-  "5065516": {
-    "notified": {
-      "discount_percent": 52.0,
-      "id": 5065516,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/41f1b915694e6efe4b8637933c05fdde23cefd178e56a7d040a68444d6b89887",
-      "name": {
-        "ar": "(الفيف شامبو هيالورون للشعر فاقد الترطيب (400مل",
-        "en": "L'Oreal Paris Elvive Hyaluron Moisture Filling Shampoo - Dehydrated Hair (400ml)"
-      },
-      "price": 215.0,
-      "reason": "new_discount",
-      "sale_price": 103.2,
-      "stock": 10
-    },
-    "observed": {
-      "discount_percent": 52.0,
-      "id": 5065516,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/41f1b915694e6efe4b8637933c05fdde23cefd178e56a7d040a68444d6b89887",
-      "name": {
-        "ar": "(الفيف شامبو هيالورون للشعر فاقد الترطيب (400مل",
-        "en": "L'Oreal Paris Elvive Hyaluron Moisture Filling Shampoo - Dehydrated Hair (400ml)"
-      },
-      "price": 215.0,
-      "sale_price": 103.2,
-      "stock": 8
-    },
-    "pending": false
-  },
   "50823486": {
     "notified": {
       "discount_percent": 50.0,
@@ -2871,7 +2843,7 @@
       },
       "price": 1799.0,
       "sale_price": 899.5,
-      "stock": 5
+      "stock": 4
     },
     "pending": false
   },
@@ -2955,7 +2927,7 @@
       },
       "price": 959.0,
       "sale_price": 479.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3095,7 +3067,7 @@
       },
       "price": 1325.0,
       "sale_price": 662.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
