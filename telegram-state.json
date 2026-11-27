@@ -1,32 +1,4 @@
 {
-  "13980418": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 13980418,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5e0468ce1ff5bc914562e20954f3c91ea861be61d6ec9c1eb7ed3842c2fd20c2",
-      "name": {
-        "ar": "لاروش بوساي أنتيليوس اكس ال تنتد دراي تاتش جل كريم معامل حماية 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios XL Tinted Dry Touch Anti-Shine Gel Cream SPF50+ (50ml)"
-      },
-      "price": 1070.0,
-      "reason": "new_discount",
-      "sale_price": 535.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 13980418,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/5e0468ce1ff5bc914562e20954f3c91ea861be61d6ec9c1eb7ed3842c2fd20c2",
-      "name": {
-        "ar": "لاروش بوساي أنتيليوس اكس ال تنتد دراي تاتش جل كريم معامل حماية 50+ (50 مل)",
-        "en": "La Roche Posay Anthelios XL Tinted Dry Touch Anti-Shine Gel Cream SPF50+ (50ml)"
-      },
-      "price": 1070.0,
-      "sale_price": 535.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "14123556": {
     "notified": {
       "discount_percent": 50.0,
@@ -135,62 +107,6 @@
       },
       "price": 2390.0,
       "sale_price": 1195.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "19042272": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 19042272,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614272050358/098bb41d2cbc7b2e.jpg",
-      "name": {
-        "ar": "ايف سان لوران واي او دو بارفان للرجال (100 مل)",
-        "en": "Yves Saint Laurent Y EDP For Him (100ml)"
-      },
-      "price": 8150.0,
-      "reason": "new_discount",
-      "sale_price": 4075.0,
-      "stock": 2
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 19042272,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/3614272050358/098bb41d2cbc7b2e.jpg",
-      "name": {
-        "ar": "ايف سان لوران واي او دو بارفان للرجال (100 مل)",
-        "en": "Yves Saint Laurent Y EDP For Him (100ml)"
-      },
-      "price": 8150.0,
-      "sale_price": 4075.0,
-      "stock": 2
-    },
-    "pending": false
-  },
-  "21728861": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21728861,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/cica-7-relief-kit-3-step-cosrx-official-1-Photoroom-5-1.png",
-      "name": {
-        "ar": "جيس سيدكتيف هوم او دو تواليت للرجال (100 مل)",
-        "en": "Guess Seductive Homme For Him EDT (100ml)"
-      },
-      "price": 2050.0,
-      "reason": "new_discount",
-      "sale_price": 1025.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21728861,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/cica-7-relief-kit-3-step-cosrx-official-1-Photoroom-5-1.png",
-      "name": {
-        "ar": "جيس سيدكتيف هوم او دو تواليت للرجال (100 مل)",
-        "en": "Guess Seductive Homme For Him EDT (100ml)"
-      },
-      "price": 2050.0,
-      "sale_price": 1025.0,
       "stock": 1
     },
     "pending": false
@@ -603,50 +519,6 @@
       },
       "price": 8280.0,
       "sale_price": 4140.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "29225659": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29225659,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/8411061602522.png",
-      "name": {
-        "ar": "كارولينا هيريرا 212 سيكسي او دو تواليت للرجال (100 مل)",
-        "en": "Carolina Herrera 212 Sexy EDT For Him (100ml)"
-      },
-      "price": 4290.0,
-      "reason": "new_discount",
-      "sale_price": 2145.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29225659,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/8411061602522.png",
-      "name": {
-        "ar": "كارولينا هيريرا 212 سيكسي او دو تواليت للرجال (100 مل)",
-        "en": "Carolina Herrera 212 Sexy EDT For Him (100ml)"
-      },
-      "price": 4290.0,
-      "sale_price": 2145.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "29230451": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29230451,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/7640177366160-Photoroom-1.png",
-      "name": {
-        "ar": "شوبارد ويش او دو بارفان للنساء (75 مل)",
-        "en": "Chopard Wish EDP For Her (75ml)"
-      },
-      "price": 1999.0,
-      "sale_price": 999.5,
       "stock": 0
     },
     "pending": false
