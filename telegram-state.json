@@ -83,6 +83,34 @@
     },
     "pending": false
   },
+  "13288849": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 13288849,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/BC931DC1-4B02-4628-B548-33176E6A4B86.png",
+      "name": {
+        "ar": "( لوكن ماسك شعر ( 250 مل",
+        "en": "Locken Hair Mask Bring Me Back To Life (250ml)"
+      },
+      "price": 330.0,
+      "reason": "new_discount",
+      "sale_price": 132.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 13288849,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/BC931DC1-4B02-4628-B548-33176E6A4B86.png",
+      "name": {
+        "ar": "( لوكن ماسك شعر ( 250 مل",
+        "en": "Locken Hair Mask Bring Me Back To Life (250ml)"
+      },
+      "price": 330.0,
+      "sale_price": 132.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "1376118": {
     "notified": {
       "discount_percent": 60.0,
@@ -191,6 +219,62 @@
       },
       "price": 295.0,
       "sale_price": 118.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1376932": {
+    "notified": {
+      "discount_percent": 80.0,
+      "id": 1376932,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-2.png",
+      "name": {
+        "ar": "نيفيا كريم للبشرة (250 مل)",
+        "en": "Nivea Skin Cream (250ml)"
+      },
+      "price": 230.25,
+      "reason": "new_discount",
+      "sale_price": 46.05,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 80.0,
+      "id": 1376932,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-2.png",
+      "name": {
+        "ar": "نيفيا كريم للبشرة (250 مل)",
+        "en": "Nivea Skin Cream (250ml)"
+      },
+      "price": 230.25,
+      "sale_price": 46.05,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1379723": {
+    "notified": {
+      "discount_percent": 76.667,
+      "id": 1379723,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-cream-for-men.png",
+      "name": {
+        "ar": "نيفيا كريم للرجال (150 مل)",
+        "en": "Nivea Men Cream (150ml)"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 70.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 76.667,
+      "id": 1379723,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/nivea-cream-for-men.png",
+      "name": {
+        "ar": "نيفيا كريم للرجال (150 مل)",
+        "en": "Nivea Men Cream (150ml)"
+      },
+      "price": 300.0,
+      "sale_price": 70.0,
       "stock": 1
     },
     "pending": false
@@ -307,6 +391,34 @@
     },
     "pending": false
   },
+  "1928507": {
+    "notified": {
+      "discount_percent": 66.75,
+      "id": 1928507,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/NIVEA-MEN-DEEP-Smooth-Shave-Shaving-Foam-Antibacterial-Black-Carbon-200ml.png",
+      "name": {
+        "ar": "نيفيا رغوه حلاقه للرجال حلاقه ناعمه (200 مل)",
+        "en": "Nivea MEN DEEP Smooth Shave Shaving Foam, Black Carbon (200ml)"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 99.75,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 66.75,
+      "id": 1928507,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/NIVEA-MEN-DEEP-Smooth-Shave-Shaving-Foam-Antibacterial-Black-Carbon-200ml.png",
+      "name": {
+        "ar": "نيفيا رغوه حلاقه للرجال حلاقه ناعمه (200 مل)",
+        "en": "Nivea MEN DEEP Smooth Shave Shaving Foam, Black Carbon (200ml)"
+      },
+      "price": 300.0,
+      "sale_price": 99.75,
+      "stock": 1
+    },
+    "pending": false
+  },
   "21027997": {
     "notified": {
       "discount_percent": 65.0,
@@ -359,7 +471,7 @@
       },
       "price": 460.0,
       "sale_price": 161.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -444,62 +556,6 @@
       "price": 460.0,
       "sale_price": 161.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "22205945": {
-    "notified": {
-      "discount_percent": 90.005,
-      "id": 22205945,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/normal24.png",
-      "name": {
-        "ar": "( فريشدايز فوطة يومية ملائمة مثالية ( 24 فوطة",
-        "en": "Freshdays Perfect Fit Daily Sanitary Pads Normal (24Pads)"
-      },
-      "price": 99.95,
-      "reason": "new_discount",
-      "sale_price": 9.99,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 90.005,
-      "id": 22205945,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/normal24.png",
-      "name": {
-        "ar": "( فريشدايز فوطة يومية ملائمة مثالية ( 24 فوطة",
-        "en": "Freshdays Perfect Fit Daily Sanitary Pads Normal (24Pads)"
-      },
-      "price": 99.95,
-      "sale_price": 9.99,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "22206236": {
-    "notified": {
-      "discount_percent": 90.005,
-      "id": 22206236,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/normal-scentad24-1.png",
-      "name": {
-        "ar": "( فريشدايز فوط يومية مثاليه معطرة ( 24 فوطة",
-        "en": "Freshdays Perfect Fit Daily Sanitary Pads Normal Scented (24Pads)"
-      },
-      "price": 99.95,
-      "reason": "new_discount",
-      "sale_price": 9.99,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 90.005,
-      "id": 22206236,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/normal-scentad24-1.png",
-      "name": {
-        "ar": "( فريشدايز فوط يومية مثاليه معطرة ( 24 فوطة",
-        "en": "Freshdays Perfect Fit Daily Sanitary Pads Normal Scented (24Pads)"
-      },
-      "price": 99.95,
-      "sale_price": 9.99,
-      "stock": 0
     },
     "pending": false
   },
@@ -823,7 +879,7 @@
       },
       "price": 215.0,
       "sale_price": 46.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -927,90 +983,6 @@
     },
     "pending": false
   },
-  "29540207": {
-    "notified": {
-      "discount_percent": 85.0,
-      "id": 29540207,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/51be689c7a0c93e760b7a273c2cebce4f8a2048ec86477b704cdcbcbc7274519",
-      "name": {
-        "ar": "ترو باي لانالو شامبو وغسول لطيف للأطفال (250 مل)",
-        "en": "True By Lanalou Baby And Kids Gentle Shampoo & Wash (250ml)"
-      },
-      "price": 330.0,
-      "reason": "new_discount",
-      "sale_price": 49.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.0,
-      "id": 29540207,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/51be689c7a0c93e760b7a273c2cebce4f8a2048ec86477b704cdcbcbc7274519",
-      "name": {
-        "ar": "ترو باي لانالو شامبو وغسول لطيف للأطفال (250 مل)",
-        "en": "True By Lanalou Baby And Kids Gentle Shampoo & Wash (250ml)"
-      },
-      "price": 330.0,
-      "sale_price": 49.5,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "29540529": {
-    "notified": {
-      "discount_percent": 85.0,
-      "id": 29540529,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1a06f025d60d505739e6e9aaadcca30f2d96ec30ba02f931a0597ac01804ba80",
-      "name": {
-        "ar": "ترو باي لانالو بلسم مغذي للأطفال (250 مل)",
-        "en": "True By Lanalou Baby And Kids Nourishing Conditioner (250ml)"
-      },
-      "price": 350.0,
-      "reason": "new_discount",
-      "sale_price": 52.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.0,
-      "id": 29540529,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1a06f025d60d505739e6e9aaadcca30f2d96ec30ba02f931a0597ac01804ba80",
-      "name": {
-        "ar": "ترو باي لانالو بلسم مغذي للأطفال (250 مل)",
-        "en": "True By Lanalou Baby And Kids Nourishing Conditioner (250ml)"
-      },
-      "price": 350.0,
-      "sale_price": 52.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "29541131": {
-    "notified": {
-      "discount_percent": 85.0,
-      "id": 29541131,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a020e71ff9f6bc70e745b8ddbef5e53e82971b6d5b91da2a6d3ec5ddae33fdaf",
-      "name": {
-        "ar": "ترو باي لانالو ترو غسول للجسم و رغوة استحمام للأطفال (250 مل)",
-        "en": "True by Lanalou Baby And Kids Bubble Bath & Wash (250ml)"
-      },
-      "price": 300.0,
-      "reason": "new_discount",
-      "sale_price": 45.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 85.0,
-      "id": 29541131,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a020e71ff9f6bc70e745b8ddbef5e53e82971b6d5b91da2a6d3ec5ddae33fdaf",
-      "name": {
-        "ar": "ترو باي لانالو ترو غسول للجسم و رغوة استحمام للأطفال (250 مل)",
-        "en": "True by Lanalou Baby And Kids Bubble Bath & Wash (250ml)"
-      },
-      "price": 300.0,
-      "sale_price": 45.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "29542360": {
     "notified": {
       "discount_percent": 85.0,
@@ -1035,7 +1007,7 @@
       },
       "price": 390.0,
       "sale_price": 58.5,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1319,6 +1291,118 @@
     },
     "pending": false
   },
+  "35581965": {
+    "notified": {
+      "discount_percent": 65.0,
+      "id": 35581965,
+      "image": "https://i.ibb.co/7NWM4cFT/4.jpg",
+      "name": {
+        "ar": "كوين باي لورد كريم واقي شمس للوجه والجسم (SPF 50)",
+        "en": "Queen by Lord Face & Body Sunscreen Cream (SPF 50)"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 105.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 65.0,
+      "id": 35581965,
+      "image": "https://i.ibb.co/7NWM4cFT/4.jpg",
+      "name": {
+        "ar": "كوين باي لورد كريم واقي شمس للوجه والجسم (SPF 50)",
+        "en": "Queen by Lord Face & Body Sunscreen Cream (SPF 50)"
+      },
+      "price": 300.0,
+      "sale_price": 105.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36152401": {
+    "notified": {
+      "discount_percent": 65.0,
+      "id": 36152401,
+      "image": "https://i.ibb.co/bRgK0m9H/6223009681603.jpg",
+      "name": {
+        "ar": "سول آند مور سبلاش كوكو (150 مل)",
+        "en": "Soul & More Coco Splash (150ml)"
+      },
+      "price": 460.0,
+      "reason": "new_discount",
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 65.0,
+      "id": 36152401,
+      "image": "https://i.ibb.co/bRgK0m9H/6223009681603.jpg",
+      "name": {
+        "ar": "سول آند مور سبلاش كوكو (150 مل)",
+        "en": "Soul & More Coco Splash (150ml)"
+      },
+      "price": 460.0,
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36152403": {
+    "notified": {
+      "discount_percent": 65.0,
+      "id": 36152403,
+      "image": "https://i.ibb.co/qMDM601Q/6223009681849.jpg",
+      "name": {
+        "ar": "سول آند مور سبلاش إدن (150 مل)",
+        "en": "Soul & More Eden Splash (150ml)"
+      },
+      "price": 460.0,
+      "reason": "new_discount",
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 65.0,
+      "id": 36152403,
+      "image": "https://i.ibb.co/qMDM601Q/6223009681849.jpg",
+      "name": {
+        "ar": "سول آند مور سبلاش إدن (150 مل)",
+        "en": "Soul & More Eden Splash (150ml)"
+      },
+      "price": 460.0,
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36152406": {
+    "notified": {
+      "discount_percent": 62.857,
+      "id": 36152406,
+      "image": "https://i.ibb.co/VpM1LMqS/6223009681108.webp",
+      "name": {
+        "ar": "سول آند مور سبلاش وايت مسك (120 مل)",
+        "en": "Soul & More White Musk Splash (120ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 130.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 62.857,
+      "id": 36152406,
+      "image": "https://i.ibb.co/VpM1LMqS/6223009681108.webp",
+      "name": {
+        "ar": "سول آند مور سبلاش وايت مسك (120 مل)",
+        "en": "Soul & More White Musk Splash (120ml)"
+      },
+      "price": 350.0,
+      "sale_price": 130.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "36152407": {
     "notified": {
       "discount_percent": 62.857,
@@ -1571,6 +1655,34 @@
       },
       "price": 850.0,
       "sale_price": 127.5,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "38929525": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 38929525,
+      "image": "https://i.ibb.co/PvHryN3K/1.png",
+      "name": {
+        "ar": "نيلكو دوتس اند لينز",
+        "en": "Nilco Dots & Lines"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 140.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 38929525,
+      "image": "https://i.ibb.co/PvHryN3K/1.png",
+      "name": {
+        "ar": "نيلكو دوتس اند لينز",
+        "en": "Nilco Dots & Lines"
+      },
+      "price": 350.0,
+      "sale_price": 140.0,
       "stock": 1
     },
     "pending": false
@@ -1599,6 +1711,34 @@
       },
       "price": 195.0,
       "sale_price": 78.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38929556": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 38929556,
+      "image": "https://i.ibb.co/h14VpzzN/31.png",
+      "name": {
+        "ar": "نيلكو بسبس بومبا",
+        "en": "Nilco Exploding Kittens"
+      },
+      "price": 425.0,
+      "reason": "new_discount",
+      "sale_price": 170.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 38929556,
+      "image": "https://i.ibb.co/h14VpzzN/31.png",
+      "name": {
+        "ar": "نيلكو بسبس بومبا",
+        "en": "Nilco Exploding Kittens"
+      },
+      "price": 425.0,
+      "sale_price": 170.0,
       "stock": 1
     },
     "pending": false
@@ -2191,6 +2331,34 @@
     },
     "pending": false
   },
+  "40225057": {
+    "notified": {
+      "discount_percent": 51.724,
+      "id": 40225057,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e5bacc2062735df3f187f9cfb5fb9fc1f1a63d2640e06e5008d5626e00c6922a",
+      "name": {
+        "ar": "آدامز للرجال شامبو تقوية الشعر (225مل)",
+        "en": "Adams For Men Hair Strengthening Shampoo (225ml)"
+      },
+      "price": 290.0,
+      "reason": "new_discount",
+      "sale_price": 140.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 51.724,
+      "id": 40225057,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e5bacc2062735df3f187f9cfb5fb9fc1f1a63d2640e06e5008d5626e00c6922a",
+      "name": {
+        "ar": "آدامز للرجال شامبو تقوية الشعر (225مل)",
+        "en": "Adams For Men Hair Strengthening Shampoo (225ml)"
+      },
+      "price": 290.0,
+      "sale_price": 140.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "408832": {
     "notified": {
       "discount_percent": 91.111,
@@ -2359,6 +2527,90 @@
       },
       "price": 426.25,
       "sale_price": 85.25,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "43462632": {
+    "notified": {
+      "discount_percent": 58.767,
+      "id": 43462632,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/bb9b32e17342ceb7de20ccbb1b6a6b204082527d7b3c59639842a2af49ce27ae",
+      "name": {
+        "ar": "سول آند مور مجموعة نوماد للرجال",
+        "en": "Soul & More Nomad Set"
+      },
+      "price": 730.0,
+      "reason": "new_discount",
+      "sale_price": 301.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 58.767,
+      "id": 43462632,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/bb9b32e17342ceb7de20ccbb1b6a6b204082527d7b3c59639842a2af49ce27ae",
+      "name": {
+        "ar": "سول آند مور مجموعة نوماد للرجال",
+        "en": "Soul & More Nomad Set"
+      },
+      "price": 730.0,
+      "sale_price": 301.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "43462635": {
+    "notified": {
+      "discount_percent": 60.822,
+      "id": 43462635,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1538ee366af9b0d3486ef6af19abed958c5db86e774aa5a3b98a43496b0e3bad",
+      "name": {
+        "ar": "سول آند مور مجموعة ديستني",
+        "en": "Soul & More Destiny Set"
+      },
+      "price": 730.0,
+      "reason": "new_discount",
+      "sale_price": 286.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.822,
+      "id": 43462635,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1538ee366af9b0d3486ef6af19abed958c5db86e774aa5a3b98a43496b0e3bad",
+      "name": {
+        "ar": "سول آند مور مجموعة ديستني",
+        "en": "Soul & More Destiny Set"
+      },
+      "price": 730.0,
+      "sale_price": 286.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "43462636": {
+    "notified": {
+      "discount_percent": 60.822,
+      "id": 43462636,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/36d02b4495f6590f954603d329605605ea323d93cde5235869301c30be622e23",
+      "name": {
+        "ar": "سول آند مور مجموعة إيدن",
+        "en": "Soul & More Eden Set"
+      },
+      "price": 730.0,
+      "reason": "new_discount",
+      "sale_price": 286.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.822,
+      "id": 43462636,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/36d02b4495f6590f954603d329605605ea323d93cde5235869301c30be622e23",
+      "name": {
+        "ar": "سول آند مور مجموعة إيدن",
+        "en": "Soul & More Eden Set"
+      },
+      "price": 730.0,
+      "sale_price": 286.0,
       "stock": 1
     },
     "pending": false
@@ -3315,58 +3567,58 @@
     },
     "pending": false
   },
-  "45975272": {
+  "46407026": {
     "notified": {
-      "discount_percent": 85.0,
-      "id": 45975272,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2c2a618fb6ee78ace2668304ac9f52c197dca33c29199690fbb089f3c95808f5",
+      "discount_percent": 60.0,
+      "id": 46407026,
+      "image": "https://i.ibb.co/0pXY7L34/Picture1.jpg",
       "name": {
-        "ar": "ترو باي لانالوه شامبو وغسول منظف (290 مل)",
-        "en": "True by Lanalou Purifying Shampoo & Wash (290ml)"
+        "ar": "نيلكو مارفيل سيكونيس",
+        "en": "Nilco Marvel Sequence"
       },
-      "price": 360.0,
+      "price": 895.0,
       "reason": "new_discount",
-      "sale_price": 54.0,
+      "sale_price": 358.0,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 85.0,
-      "id": 45975272,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2c2a618fb6ee78ace2668304ac9f52c197dca33c29199690fbb089f3c95808f5",
+      "discount_percent": 60.0,
+      "id": 46407026,
+      "image": "https://i.ibb.co/0pXY7L34/Picture1.jpg",
       "name": {
-        "ar": "ترو باي لانالوه شامبو وغسول منظف (290 مل)",
-        "en": "True by Lanalou Purifying Shampoo & Wash (290ml)"
+        "ar": "نيلكو مارفيل سيكونيس",
+        "en": "Nilco Marvel Sequence"
       },
-      "price": 360.0,
-      "sale_price": 54.0,
+      "price": 895.0,
+      "sale_price": 358.0,
       "stock": 1
     },
     "pending": false
   },
-  "45975273": {
+  "46407035": {
     "notified": {
-      "discount_percent": 85.0,
-      "id": 45975273,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/29dbef520593811575ebdc34642ad7cc224423fa73bb8726ff51e15cdfbf0ae1",
+      "discount_percent": 60.0,
+      "id": 46407035,
+      "image": "https://i.ibb.co/xKdnGmzf/Picture10.png",
       "name": {
-        "ar": "ترو باي لانالوه بلسم مغذي (290 مل)",
-        "en": "True by Lanalou Restorative Conditioner (290ml)"
+        "ar": "نيلكو شطرنج كارتون شو بوكس",
+        "en": "Nilco chess show box carton"
       },
-      "price": 350.0,
+      "price": 545.0,
       "reason": "new_discount",
-      "sale_price": 52.5,
+      "sale_price": 218.0,
       "stock": 1
     },
     "observed": {
-      "discount_percent": 85.0,
-      "id": 45975273,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/29dbef520593811575ebdc34642ad7cc224423fa73bb8726ff51e15cdfbf0ae1",
+      "discount_percent": 60.0,
+      "id": 46407035,
+      "image": "https://i.ibb.co/xKdnGmzf/Picture10.png",
       "name": {
-        "ar": "ترو باي لانالوه بلسم مغذي (290 مل)",
-        "en": "True by Lanalou Restorative Conditioner (290ml)"
+        "ar": "نيلكو شطرنج كارتون شو بوكس",
+        "en": "Nilco chess show box carton"
       },
-      "price": 350.0,
-      "sale_price": 52.5,
+      "price": 545.0,
+      "sale_price": 218.0,
       "stock": 1
     },
     "pending": false
@@ -4423,6 +4675,62 @@
     },
     "pending": false
   },
+  "57830591": {
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 57830591,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/657b49e8b74d0b8ab02902ada39b96450d952f74270b583b75bbaa6311c49274",
+      "name": {
+        "ar": "سول آند مور مينت أتاك ملمع شفاه مكبر (6 مل)",
+        "en": "Soul & More Mint Attack Plumping Lip Oil (6ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 105.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 57830591,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/657b49e8b74d0b8ab02902ada39b96450d952f74270b583b75bbaa6311c49274",
+      "name": {
+        "ar": "سول آند مور مينت أتاك ملمع شفاه مكبر (6 مل)",
+        "en": "Soul & More Mint Attack Plumping Lip Oil (6ml)"
+      },
+      "price": 350.0,
+      "sale_price": 105.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "57830593": {
+    "notified": {
+      "discount_percent": 55.714,
+      "id": 57830593,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fdb35a260a5e6571bafb81f78c255c4e2479d730a97884f817311edc33755e96",
+      "name": {
+        "ar": "سول آند مور جوسي ميلون زيت شفاه (6 مل)",
+        "en": "Soul & More Juicy Melon Lip Oil (6ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 155.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 55.714,
+      "id": 57830593,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/fdb35a260a5e6571bafb81f78c255c4e2479d730a97884f817311edc33755e96",
+      "name": {
+        "ar": "سول آند مور جوسي ميلون زيت شفاه (6 مل)",
+        "en": "Soul & More Juicy Melon Lip Oil (6ml)"
+      },
+      "price": 350.0,
+      "sale_price": 155.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -5075,34 +5383,6 @@
     },
     "pending": false
   },
-  "68679391": {
-    "notified": {
-      "discount_percent": 80.0,
-      "id": 68679391,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/67d30581a1d8d3551cfdbf7e8dd53e4de20c0bcdaa28732a90eebcd3bd82a805",
-      "name": {
-        "ar": "أولويز – فوط صحية ناعمة وسميكة XXL (12 فوطة)",
-        "en": "Always XXL Soft & Thick Sanitary Pads (12 Pads)"
-      },
-      "price": 69.0,
-      "reason": "new_discount",
-      "sale_price": 13.8,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 80.0,
-      "id": 68679391,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/67d30581a1d8d3551cfdbf7e8dd53e4de20c0bcdaa28732a90eebcd3bd82a805",
-      "name": {
-        "ar": "أولويز – فوط صحية ناعمة وسميكة XXL (12 فوطة)",
-        "en": "Always XXL Soft & Thick Sanitary Pads (12 Pads)"
-      },
-      "price": 69.0,
-      "sale_price": 13.8,
-      "stock": 1
-    },
-    "pending": false
-  },
   "76748489": {
     "notified": {
       "discount_percent": 50.0,
@@ -5128,6 +5408,62 @@
       "price": 210.0,
       "sale_price": 105.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "8467630": {
+    "notified": {
+      "discount_percent": 66.25,
+      "id": 8467630,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Capture-29.png",
+      "name": {
+        "ar": "جوفيالتي مقشر الشفاة - الفراولة (30 جرام)",
+        "en": "Joviality Strawberry Smoothie - Natural Lip Scrub (30g)"
+      },
+      "price": 160.0,
+      "reason": "new_discount",
+      "sale_price": 54.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 66.25,
+      "id": 8467630,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Capture-29.png",
+      "name": {
+        "ar": "جوفيالتي مقشر الشفاة - الفراولة (30 جرام)",
+        "en": "Joviality Strawberry Smoothie - Natural Lip Scrub (30g)"
+      },
+      "price": 160.0,
+      "sale_price": 54.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "975409": {
+    "notified": {
+      "discount_percent": 58.939,
+      "id": 975409,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/67ac3022acfec5e94c9c967be0e377aab348492aa946f44eb5fcf6fd340a4fe6",
+      "name": {
+        "ar": "صانسيلك كو كريشن بلسم تعزيز قوة الشعر (350 مل)",
+        "en": "Sunsilk Co-Creations Thick & Long Conditioner (350ml)"
+      },
+      "price": 165.0,
+      "reason": "new_discount",
+      "sale_price": 67.75,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 58.939,
+      "id": 975409,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/67ac3022acfec5e94c9c967be0e377aab348492aa946f44eb5fcf6fd340a4fe6",
+      "name": {
+        "ar": "صانسيلك كو كريشن بلسم تعزيز قوة الشعر (350 مل)",
+        "en": "Sunsilk Co-Creations Thick & Long Conditioner (350ml)"
+      },
+      "price": 165.0,
+      "sale_price": 67.75,
+      "stock": 1
     },
     "pending": false
   }
