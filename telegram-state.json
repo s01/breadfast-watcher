@@ -2343,7 +2343,7 @@
       },
       "price": 10.25,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
