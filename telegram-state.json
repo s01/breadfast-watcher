@@ -1,4 +1,32 @@
 {
+  "1193133": {
+    "notified": {
+      "discount_percent": 50.002,
+      "id": 1193133,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3b864bd224e1394b36e57fe34d124c4e2a3a1142c33035fe101098b8b6e61339",
+      "name": {
+        "ar": "(سي كيوب سلمون مدخن (100 جرام",
+        "en": "Sea Cube Smoked Salmon (100g)"
+      },
+      "price": 263.25,
+      "reason": "new_discount",
+      "sale_price": 131.62,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.002,
+      "id": 1193133,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3b864bd224e1394b36e57fe34d124c4e2a3a1142c33035fe101098b8b6e61339",
+      "name": {
+        "ar": "(سي كيوب سلمون مدخن (100 جرام",
+        "en": "Sea Cube Smoked Salmon (100g)"
+      },
+      "price": 263.25,
+      "sale_price": 131.62,
+      "stock": 4
+    },
+    "pending": false
+  },
   "1215364": {
     "notified": {
       "discount_percent": 50.0,
@@ -3635,6 +3663,34 @@
     },
     "pending": false
   },
+  "63921176": {
+    "notified": {
+      "discount_percent": 50.001,
+      "id": 63921176,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/24957f52b142bae3b60443920f1d3bf3a354c0ed6ea3c268a851e32597481167",
+      "name": {
+        "ar": "سمك فيليه أبيض (1كيلو)",
+        "en": "Hormuz Emirati White Fish Fillet (1kg)"
+      },
+      "price": 431.25,
+      "reason": "new_discount",
+      "sale_price": 215.62,
+      "stock": 10
+    },
+    "observed": {
+      "discount_percent": 50.001,
+      "id": 63921176,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/24957f52b142bae3b60443920f1d3bf3a354c0ed6ea3c268a851e32597481167",
+      "name": {
+        "ar": "سمك فيليه أبيض (1كيلو)",
+        "en": "Hormuz Emirati White Fish Fillet (1kg)"
+      },
+      "price": 431.25,
+      "sale_price": 215.62,
+      "stock": 10
+    },
+    "pending": false
+  },
   "64565683": {
     "notified": {
       "discount_percent": 64.0,
@@ -3734,22 +3790,6 @@
       "stock": 0
     },
     "pending": true
-  },
-  "64619267": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 64619267,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d95ab12a6146b3c603469005191804e46acd0c40711be1f72051fddfecc6ba76",
-      "name": {
-        "ar": "شهد فيليه الدجاج (800 جم)",
-        "en": "Shahd Breaded Chicken Fillet (800g)"
-      },
-      "price": 427.75,
-      "sale_price": 213.87,
-      "stock": 0
-    },
-    "pending": false
   },
   "65670995": {
     "notified": {
