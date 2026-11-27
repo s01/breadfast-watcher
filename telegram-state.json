@@ -1,4 +1,60 @@
 {
+  "11073623": {
+    "notified": {
+      "discount_percent": 75.05,
+      "id": 11073623,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/1-51.jpg",
+      "name": {
+        "ar": "(نيڤيا مضاد للتعرق انفيزيبل أوريجنال للملابس السوداء والبيضاء ستيك (50 مل",
+        "en": "Nivea Black & White Invisible Original Antiperspirant Stick (50ml)"
+      },
+      "price": 399.0,
+      "reason": "new_discount",
+      "sale_price": 99.55,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 75.05,
+      "id": 11073623,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/1-51.jpg",
+      "name": {
+        "ar": "(نيڤيا مضاد للتعرق انفيزيبل أوريجنال للملابس السوداء والبيضاء ستيك (50 مل",
+        "en": "Nivea Black & White Invisible Original Antiperspirant Stick (50ml)"
+      },
+      "price": 399.0,
+      "sale_price": 99.55,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "11087783": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 11087783,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/wedasyhjkl.png",
+      "name": {
+        "ar": "نيلكو توتتاري تاور",
+        "en": "Nilco Tottery Tower"
+      },
+      "price": 285.0,
+      "reason": "new_discount",
+      "sale_price": 114.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 11087783,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/05/wedasyhjkl.png",
+      "name": {
+        "ar": "نيلكو توتتاري تاور",
+        "en": "Nilco Tottery Tower"
+      },
+      "price": 285.0,
+      "sale_price": 114.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "11368529": {
     "notified": {
       "discount_percent": 84.615,
@@ -24,6 +80,62 @@
       "price": 6.5,
       "sale_price": 1.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "13457197": {
+    "notified": {
+      "discount_percent": 90.0,
+      "id": 13457197,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/6224011113328.png",
+      "name": {
+        "ar": "دون كانينو طعام جاف باللحم للكلاب الصغيرة (7 كجم)",
+        "en": "Don Canino Dry Food Beef For Junior Dogs (7kg)"
+      },
+      "price": 929.5,
+      "reason": "new_discount",
+      "sale_price": 92.95,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 90.0,
+      "id": 13457197,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/09/6224011113328.png",
+      "name": {
+        "ar": "دون كانينو طعام جاف باللحم للكلاب الصغيرة (7 كجم)",
+        "en": "Don Canino Dry Food Beef For Junior Dogs (7kg)"
+      },
+      "price": 929.5,
+      "sale_price": 92.95,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "1376118": {
+    "notified": {
+      "discount_percent": 60.0,
+      "id": 1376118,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3418cd313abe98ee32025e12a01b7cd17be2f9b5f9aafeaea1b383d56bc2c1e4",
+      "name": {
+        "ar": "نيلكو لعبة المراحل العشرة ( علبة بلاستيك)",
+        "en": "Nilco Phase 10 Game (Plastic Box)"
+      },
+      "price": 250.0,
+      "reason": "new_discount",
+      "sale_price": 100.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 60.0,
+      "id": 1376118,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3418cd313abe98ee32025e12a01b7cd17be2f9b5f9aafeaea1b383d56bc2c1e4",
+      "name": {
+        "ar": "نيلكو لعبة المراحل العشرة ( علبة بلاستيك)",
+        "en": "Nilco Phase 10 Game (Plastic Box)"
+      },
+      "price": 250.0,
+      "sale_price": 100.0,
+      "stock": 1
     },
     "pending": false
   },
@@ -79,6 +191,90 @@
       },
       "price": 2390.0,
       "sale_price": 999.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "21028275": {
+    "notified": {
+      "discount_percent": 65.0,
+      "id": 21028275,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Screenshot-2024-05-21-163254.png",
+      "name": {
+        "ar": "سول اند مور سبلاش للجسم فيلفيت نوير (150 مل)",
+        "en": "Soul & More Velvet Noir Body Splash (150ml)"
+      },
+      "price": 460.0,
+      "reason": "new_discount",
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 65.0,
+      "id": 21028275,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Screenshot-2024-05-21-163254.png",
+      "name": {
+        "ar": "سول اند مور سبلاش للجسم فيلفيت نوير (150 مل)",
+        "en": "Soul & More Velvet Noir Body Splash (150ml)"
+      },
+      "price": 460.0,
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "21031419": {
+    "notified": {
+      "discount_percent": 65.0,
+      "id": 21031419,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Screenshot-2024-05-21-171248.png",
+      "name": {
+        "ar": "سول اند مور بادى سبلاش عود  (200 مل)",
+        "en": "Soul & More Oud Body Splash (200ml)"
+      },
+      "price": 460.0,
+      "reason": "new_discount",
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 65.0,
+      "id": 21031419,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Screenshot-2024-05-21-171248.png",
+      "name": {
+        "ar": "سول اند مور بادى سبلاش عود  (200 مل)",
+        "en": "Soul & More Oud Body Splash (200ml)"
+      },
+      "price": 460.0,
+      "sale_price": 161.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "22205945": {
+    "notified": {
+      "discount_percent": 90.005,
+      "id": 22205945,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/normal24.png",
+      "name": {
+        "ar": "( فريشدايز فوطة يومية ملائمة مثالية ( 24 فوطة",
+        "en": "Freshdays Perfect Fit Daily Sanitary Pads Normal (24Pads)"
+      },
+      "price": 99.95,
+      "reason": "new_discount",
+      "sale_price": 9.99,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 90.005,
+      "id": 22205945,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/normal24.png",
+      "name": {
+        "ar": "( فريشدايز فوطة يومية ملائمة مثالية ( 24 فوطة",
+        "en": "Freshdays Perfect Fit Daily Sanitary Pads Normal (24Pads)"
+      },
+      "price": 99.95,
+      "sale_price": 9.99,
       "stock": 1
     },
     "pending": false
@@ -307,6 +503,34 @@
     },
     "pending": false
   },
+  "24275924": {
+    "notified": {
+      "discount_percent": 85.0,
+      "id": 24275924,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/laaaaaaaaaaaaaaaaaaaaaa.png",
+      "name": {
+        "ar": "واجز طعام جاف للكلاب الكبيرة  بالدجاج والبط العملاق (4 كجم)",
+        "en": "Wags Dog Dry Food Adult Giant Breed Chicken And Duck (4kg)"
+      },
+      "price": 579.0,
+      "reason": "new_discount",
+      "sale_price": 86.85,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 85.0,
+      "id": 24275924,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/08/laaaaaaaaaaaaaaaaaaaaaa.png",
+      "name": {
+        "ar": "واجز طعام جاف للكلاب الكبيرة  بالدجاج والبط العملاق (4 كجم)",
+        "en": "Wags Dog Dry Food Adult Giant Breed Chicken And Duck (4kg)"
+      },
+      "price": 579.0,
+      "sale_price": 86.85,
+      "stock": 1
+    },
+    "pending": false
+  },
   "26190534": {
     "notified": null,
     "observed": {
@@ -351,6 +575,34 @@
     },
     "pending": false
   },
+  "27436853": {
+    "notified": {
+      "discount_percent": 78.372,
+      "id": 27436853,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e8300252db394e261a03d12e6b34b21e45fd6ee3dc8fa705412acca2dd964257",
+      "name": {
+        "ar": "(جيليت بلو سيمبل 3 ماكينة حلاقة للاستخدام مرة واحدة للرجال (4 قطع",
+        "en": "Gillette Blue Simple 3 Disposable Razors (4 Razors)"
+      },
+      "price": 215.0,
+      "reason": "new_discount",
+      "sale_price": 46.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 78.372,
+      "id": 27436853,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e8300252db394e261a03d12e6b34b21e45fd6ee3dc8fa705412acca2dd964257",
+      "name": {
+        "ar": "(جيليت بلو سيمبل 3 ماكينة حلاقة للاستخدام مرة واحدة للرجال (4 قطع",
+        "en": "Gillette Blue Simple 3 Disposable Razors (4 Razors)"
+      },
+      "price": 215.0,
+      "sale_price": 46.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -375,6 +627,34 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "2868415": {
+    "notified": {
+      "discount_percent": 62.973,
+      "id": 2868415,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/feba-3.png",
+      "name": {
+        "ar": "(فيبا سائل منظف للأطباق برائحة الليمون (3 كجم",
+        "en": "Feba Liquid Dish Cleaner Lemon Scent (3kg)"
+      },
+      "price": 185.0,
+      "reason": "new_discount",
+      "sale_price": 68.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 62.973,
+      "id": 2868415,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/feba-3.png",
+      "name": {
+        "ar": "(فيبا سائل منظف للأطباق برائحة الليمون (3 كجم",
+        "en": "Feba Liquid Dish Cleaner Lemon Scent (3kg)"
+      },
+      "price": 185.0,
+      "sale_price": 68.5,
       "stock": 1
     },
     "pending": false
@@ -419,6 +699,62 @@
       },
       "price": 29600.0,
       "sale_price": 14000.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "29540207": {
+    "notified": {
+      "discount_percent": 85.0,
+      "id": 29540207,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/51be689c7a0c93e760b7a273c2cebce4f8a2048ec86477b704cdcbcbc7274519",
+      "name": {
+        "ar": "ترو باي لانالو شامبو وغسول لطيف للأطفال (250 مل)",
+        "en": "True By Lanalou Baby And Kids Gentle Shampoo & Wash (250ml)"
+      },
+      "price": 330.0,
+      "reason": "new_discount",
+      "sale_price": 49.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 85.0,
+      "id": 29540207,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/51be689c7a0c93e760b7a273c2cebce4f8a2048ec86477b704cdcbcbc7274519",
+      "name": {
+        "ar": "ترو باي لانالو شامبو وغسول لطيف للأطفال (250 مل)",
+        "en": "True By Lanalou Baby And Kids Gentle Shampoo & Wash (250ml)"
+      },
+      "price": 330.0,
+      "sale_price": 49.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "29541131": {
+    "notified": {
+      "discount_percent": 85.0,
+      "id": 29541131,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a020e71ff9f6bc70e745b8ddbef5e53e82971b6d5b91da2a6d3ec5ddae33fdaf",
+      "name": {
+        "ar": "ترو باي لانالو ترو غسول للجسم و رغوة استحمام للأطفال (250 مل)",
+        "en": "True by Lanalou Baby And Kids Bubble Bath & Wash (250ml)"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 45.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 85.0,
+      "id": 29541131,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a020e71ff9f6bc70e745b8ddbef5e53e82971b6d5b91da2a6d3ec5ddae33fdaf",
+      "name": {
+        "ar": "ترو باي لانالو ترو غسول للجسم و رغوة استحمام للأطفال (250 مل)",
+        "en": "True by Lanalou Baby And Kids Bubble Bath & Wash (250ml)"
+      },
+      "price": 300.0,
+      "sale_price": 45.0,
       "stock": 1
     },
     "pending": false
@@ -675,6 +1011,62 @@
     },
     "pending": false
   },
+  "36152407": {
+    "notified": {
+      "discount_percent": 62.857,
+      "id": 36152407,
+      "image": "https://i.ibb.co/8ZXbShN/6223009680897.webp",
+      "name": {
+        "ar": "سول آند مور سبلاش فانيلا ليس (120 مل)",
+        "en": "Soul & More Vanilla Lace Splash (120ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 130.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 62.857,
+      "id": 36152407,
+      "image": "https://i.ibb.co/8ZXbShN/6223009680897.webp",
+      "name": {
+        "ar": "سول آند مور سبلاش فانيلا ليس (120 مل)",
+        "en": "Soul & More Vanilla Lace Splash (120ml)"
+      },
+      "price": 350.0,
+      "sale_price": 130.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "36152408": {
+    "notified": {
+      "discount_percent": 62.857,
+      "id": 36152408,
+      "image": "https://i.ibb.co/vgRTV87/6223009680927.webp",
+      "name": {
+        "ar": "سول آند مور سبلاش بيرلا (120 مل)",
+        "en": "Soul & More Pearla Splash (120ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 130.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 62.857,
+      "id": 36152408,
+      "image": "https://i.ibb.co/vgRTV87/6223009680927.webp",
+      "name": {
+        "ar": "سول آند مور سبلاش بيرلا (120 مل)",
+        "en": "Soul & More Pearla Splash (120ml)"
+      },
+      "price": 350.0,
+      "sale_price": 130.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "36641234": {
     "notified": null,
     "observed": {
@@ -816,6 +1208,62 @@
       "price": 130.0,
       "sale_price": 39.0,
       "stock": 0
+    },
+    "pending": false
+  },
+  "38612475": {
+    "notified": {
+      "discount_percent": 85.0,
+      "id": 38612475,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e5297d1d2a7388b944dafbea0c6935e8b318cbfc90c4bffdb675a8fa24a45e27",
+      "name": {
+        "ar": "ترو بيبي آند كيدز واقي شمس رول أون (50مل)",
+        "en": "True Baby & Kids Roll-On Sunscreen (50ml)"
+      },
+      "price": 600.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 85.0,
+      "id": 38612475,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e5297d1d2a7388b944dafbea0c6935e8b318cbfc90c4bffdb675a8fa24a45e27",
+      "name": {
+        "ar": "ترو بيبي آند كيدز واقي شمس رول أون (50مل)",
+        "en": "True Baby & Kids Roll-On Sunscreen (50ml)"
+      },
+      "price": 600.0,
+      "sale_price": 90.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "38612476": {
+    "notified": {
+      "discount_percent": 85.0,
+      "id": 38612476,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/308f3f56603a101c787f8a29c467842d731e482c49b420e9e945ea95335e15f9",
+      "name": {
+        "ar": "ترو بيبي آند كيدز واقي شمس (120مل)",
+        "en": "True Baby & Kids Sunscreen (120ml)"
+      },
+      "price": 850.0,
+      "reason": "new_discount",
+      "sale_price": 127.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 85.0,
+      "id": 38612476,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/308f3f56603a101c787f8a29c467842d731e482c49b420e9e945ea95335e15f9",
+      "name": {
+        "ar": "ترو بيبي آند كيدز واقي شمس (120مل)",
+        "en": "True Baby & Kids Sunscreen (120ml)"
+      },
+      "price": 850.0,
+      "sale_price": 127.5,
+      "stock": 1
     },
     "pending": false
   },
@@ -1127,6 +1575,118 @@
     },
     "pending": false
   },
+  "39686430": {
+    "notified": {
+      "discount_percent": 80.0,
+      "id": 39686430,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b18cc331f05c1d9ee09744897deb1b7469ebe105662f2a3b266b221cadf35f2b",
+      "name": {
+        "ar": "جيليت ماتش3 تربو شفرات حلاقة بثلاث شفرات للرجال (4قطع)",
+        "en": "Gillette Mach3 Turbo Men's Razor 3 Blade Refills (4Pieces)"
+      },
+      "price": 530.0,
+      "reason": "new_discount",
+      "sale_price": 106.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 80.0,
+      "id": 39686430,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b18cc331f05c1d9ee09744897deb1b7469ebe105662f2a3b266b221cadf35f2b",
+      "name": {
+        "ar": "جيليت ماتش3 تربو شفرات حلاقة بثلاث شفرات للرجال (4قطع)",
+        "en": "Gillette Mach3 Turbo Men's Razor 3 Blade Refills (4Pieces)"
+      },
+      "price": 530.0,
+      "sale_price": 106.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "39686436": {
+    "notified": {
+      "discount_percent": 69.82,
+      "id": 39686436,
+      "image": "https://i.ibb.co/YBtCn09V/7702018401178.jpg",
+      "name": {
+        "ar": "جيليت فينوس شفرات سويـرل (4قطع)",
+        "en": "Gillette Venus Swirl Cartridge (4Pieces)"
+      },
+      "price": 835.0,
+      "reason": "new_discount",
+      "sale_price": 252.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 69.82,
+      "id": 39686436,
+      "image": "https://i.ibb.co/YBtCn09V/7702018401178.jpg",
+      "name": {
+        "ar": "جيليت فينوس شفرات سويـرل (4قطع)",
+        "en": "Gillette Venus Swirl Cartridge (4Pieces)"
+      },
+      "price": 835.0,
+      "sale_price": 252.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "39686442": {
+    "notified": {
+      "discount_percent": 80.0,
+      "id": 39686442,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/11b42fc26628b7e77617f71913aead0520a6af488b6537ad8f24e26aede038f0",
+      "name": {
+        "ar": "جيليت فينوس مقبض ديلوكس سموث للبشرة الحساسة + 2شفرة",
+        "en": "Gillette Venus Deluxe Smooth Sensitive Handle + 2Blades"
+      },
+      "price": 605.0,
+      "reason": "new_discount",
+      "sale_price": 121.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 80.0,
+      "id": 39686442,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/11b42fc26628b7e77617f71913aead0520a6af488b6537ad8f24e26aede038f0",
+      "name": {
+        "ar": "جيليت فينوس مقبض ديلوكس سموث للبشرة الحساسة + 2شفرة",
+        "en": "Gillette Venus Deluxe Smooth Sensitive Handle + 2Blades"
+      },
+      "price": 605.0,
+      "sale_price": 121.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "39793800": {
+    "notified": {
+      "discount_percent": 85.76,
+      "id": 39793800,
+      "image": "https://i.ibb.co/Z68HM4RM/6222021801365.png",
+      "name": {
+        "ar": "جليد اوتو هولدر + عبوة عبير العنبر والعود + عبوة مجانية (269مل)",
+        "en": "Glade Auto Holder & Refill Amber & Oud + Free Refill (269ml)"
+      },
+      "price": 520.0,
+      "reason": "new_discount",
+      "sale_price": 74.05,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 85.76,
+      "id": 39793800,
+      "image": "https://i.ibb.co/Z68HM4RM/6222021801365.png",
+      "name": {
+        "ar": "جليد اوتو هولدر + عبوة عبير العنبر والعود + عبوة مجانية (269مل)",
+        "en": "Glade Auto Holder & Refill Amber & Oud + Free Refill (269ml)"
+      },
+      "price": 520.0,
+      "sale_price": 74.05,
+      "stock": 1
+    },
+    "pending": false
+  },
   "40105504": {
     "notified": {
       "discount_percent": 50.0,
@@ -1351,34 +1911,6 @@
     },
     "pending": false
   },
-  "411916": {
-    "notified": {
-      "discount_percent": 92.593,
-      "id": 411916,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Parsley.png",
-      "name": {
-        "ar": "بقدونس (100 جرام)",
-        "en": "Parsley (100g)"
-      },
-      "price": 13.5,
-      "reason": "new_discount",
-      "sale_price": 1.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 92.593,
-      "id": 411916,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Parsley.png",
-      "name": {
-        "ar": "بقدونس (100 جرام)",
-        "en": "Parsley (100g)"
-      },
-      "price": 13.5,
-      "sale_price": 1.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "41397927": {
     "notified": null,
     "observed": {
@@ -1464,6 +1996,34 @@
       "price": 395.0,
       "sale_price": 195.01,
       "stock": 0
+    },
+    "pending": false
+  },
+  "43408491": {
+    "notified": {
+      "discount_percent": 80.0,
+      "id": 43408491,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d4c3f8aa26b6afa830a508cbb816ea01a3f3d48cfe4bb49464850be02569732e",
+      "name": {
+        "ar": "(جيليت ماك 3 + شفرات (3 قطع",
+        "en": "Gillette Mach3+ Razor Blade Refills (3Pcs)"
+      },
+      "price": 426.25,
+      "reason": "new_discount",
+      "sale_price": 85.25,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 80.0,
+      "id": 43408491,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d4c3f8aa26b6afa830a508cbb816ea01a3f3d48cfe4bb49464850be02569732e",
+      "name": {
+        "ar": "(جيليت ماك 3 + شفرات (3 قطع",
+        "en": "Gillette Mach3+ Razor Blade Refills (3Pcs)"
+      },
+      "price": 426.25,
+      "sale_price": 85.25,
+      "stock": 1
     },
     "pending": false
   },
@@ -3471,6 +4031,62 @@
     },
     "pending": false
   },
+  "58435166": {
+    "notified": {
+      "discount_percent": 90.0,
+      "id": 58435166,
+      "image": "https://i.ibb.co/93CscKDz/6281017411193.png",
+      "name": {
+        "ar": "فريشدايز فوطة يومية طويلة مغلفه فرديآ (72 فوطة)",
+        "en": "Freshdays Daily Pads Long Folded (72Pads)"
+      },
+      "price": 219.0,
+      "reason": "new_discount",
+      "sale_price": 21.9,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 90.0,
+      "id": 58435166,
+      "image": "https://i.ibb.co/93CscKDz/6281017411193.png",
+      "name": {
+        "ar": "فريشدايز فوطة يومية طويلة مغلفه فرديآ (72 فوطة)",
+        "en": "Freshdays Daily Pads Long Folded (72Pads)"
+      },
+      "price": 219.0,
+      "sale_price": 21.9,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "58435169": {
+    "notified": {
+      "discount_percent": 90.0,
+      "id": 58435169,
+      "image": "https://i.ibb.co/Q3pdwdYs/6281017411209-png.png",
+      "name": {
+        "ar": "فريشدايز فوطة يومية طويلة معطرة مغلفه فرديآ (72 فوطة)",
+        "en": "Freshdays Daily Pads Long Scented Folded (72Pads)"
+      },
+      "price": 219.0,
+      "reason": "new_discount",
+      "sale_price": 21.9,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 90.0,
+      "id": 58435169,
+      "image": "https://i.ibb.co/Q3pdwdYs/6281017411209-png.png",
+      "name": {
+        "ar": "فريشدايز فوطة يومية طويلة معطرة مغلفه فرديآ (72 فوطة)",
+        "en": "Freshdays Daily Pads Long Scented Folded (72Pads)"
+      },
+      "price": 219.0,
+      "sale_price": 21.9,
+      "stock": 1
+    },
+    "pending": false
+  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -3720,6 +4336,34 @@
       "price": 375.0,
       "sale_price": 187.5,
       "stock": 4
+    },
+    "pending": false
+  },
+  "61123788": {
+    "notified": {
+      "discount_percent": 50.867,
+      "id": 61123788,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f31fed8b381dfdd13dfe0ab5353324b8868221bb08461349d73756ac4a3e8185",
+      "name": {
+        "ar": "هاجيز بانتس مقاس 4 (36 ق)",
+        "en": "Huggies Pants Size 4 (36 Pieces)"
+      },
+      "price": 750.0,
+      "reason": "new_discount",
+      "sale_price": 368.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.867,
+      "id": 61123788,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f31fed8b381dfdd13dfe0ab5353324b8868221bb08461349d73756ac4a3e8185",
+      "name": {
+        "ar": "هاجيز بانتس مقاس 4 (36 ق)",
+        "en": "Huggies Pants Size 4 (36 Pieces)"
+      },
+      "price": 750.0,
+      "sale_price": 368.5,
+      "stock": 1
     },
     "pending": false
   },
@@ -4092,6 +4736,34 @@
       "price": 295.0,
       "sale_price": 147.5,
       "stock": 0
+    },
+    "pending": false
+  },
+  "68679391": {
+    "notified": {
+      "discount_percent": 80.0,
+      "id": 68679391,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/67d30581a1d8d3551cfdbf7e8dd53e4de20c0bcdaa28732a90eebcd3bd82a805",
+      "name": {
+        "ar": "أولويز – فوط صحية ناعمة وسميكة XXL (12 فوطة)",
+        "en": "Always XXL Soft & Thick Sanitary Pads (12 Pads)"
+      },
+      "price": 69.0,
+      "reason": "new_discount",
+      "sale_price": 13.8,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 80.0,
+      "id": 68679391,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/67d30581a1d8d3551cfdbf7e8dd53e4de20c0bcdaa28732a90eebcd3bd82a805",
+      "name": {
+        "ar": "أولويز – فوط صحية ناعمة وسميكة XXL (12 فوطة)",
+        "en": "Always XXL Soft & Thick Sanitary Pads (12 Pads)"
+      },
+      "price": 69.0,
+      "sale_price": 13.8,
+      "stock": 1
     },
     "pending": false
   },
