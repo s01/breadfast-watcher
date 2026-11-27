@@ -223,6 +223,34 @@
     },
     "pending": false
   },
+  "26050239": {
+    "notified": {
+      "discount_percent": 90.0,
+      "id": 26050239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a8ec15312a4641ab99bb786f4dd5878d2142a2fcaffdf1a8e1bedbabbcba3ffa",
+      "name": {
+        "ar": "شيبسي فورنو 10 جنيه جبنة فرنسية (38-42 جم)",
+        "en": "Chipsy Forno French Cheese 10LE (38-42g)"
+      },
+      "price": 10.0,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 90.0,
+      "id": 26050239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a8ec15312a4641ab99bb786f4dd5878d2142a2fcaffdf1a8e1bedbabbcba3ffa",
+      "name": {
+        "ar": "شيبسي فورنو 10 جنيه جبنة فرنسية (38-42 جم)",
+        "en": "Chipsy Forno French Cheese 10LE (38-42g)"
+      },
+      "price": 10.0,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -2100,6 +2128,34 @@
       "price": 275.0,
       "sale_price": 137.5,
       "stock": 2
+    },
+    "pending": false
+  },
+  "44737475": {
+    "notified": {
+      "discount_percent": 94.389,
+      "id": 44737475,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a0640bb4f3c5ca92eab46de5d008e62cb9f7d7398d9322b98372cbbed8116b9c",
+      "name": {
+        "ar": "10x بريدفاست رقائق البطاطس بملح البحر (48ج)",
+        "en": "10x Breadfast Kettle-Cooked Chips with Sea Salt (48g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 10.1,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 94.389,
+      "id": 44737475,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a0640bb4f3c5ca92eab46de5d008e62cb9f7d7398d9322b98372cbbed8116b9c",
+      "name": {
+        "ar": "10x بريدفاست رقائق البطاطس بملح البحر (48ج)",
+        "en": "10x Breadfast Kettle-Cooked Chips with Sea Salt (48g)"
+      },
+      "price": 180.0,
+      "sale_price": 10.1,
+      "stock": 1
     },
     "pending": false
   },
@@ -4020,6 +4076,34 @@
       "price": 396.75,
       "sale_price": 198.37,
       "stock": 0
+    },
+    "pending": false
+  },
+  "76804603": {
+    "notified": {
+      "discount_percent": 78.509,
+      "id": 76804603,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e2b03705ea35394712804d963d7d57575ee3906de4478e44f7b2b85caf8d55e1",
+      "name": {
+        "ar": "6x سيمبلي شوكولاتة حليب كريسبى (35 جرام)",
+        "en": "6x Simply Crispy Milk Chocolate (35g)"
+      },
+      "price": 198.78,
+      "reason": "new_discount",
+      "sale_price": 42.72,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 78.509,
+      "id": 76804603,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e2b03705ea35394712804d963d7d57575ee3906de4478e44f7b2b85caf8d55e1",
+      "name": {
+        "ar": "6x سيمبلي شوكولاتة حليب كريسبى (35 جرام)",
+        "en": "6x Simply Crispy Milk Chocolate (35g)"
+      },
+      "price": 198.78,
+      "sale_price": 42.72,
+      "stock": 1
     },
     "pending": false
   }
