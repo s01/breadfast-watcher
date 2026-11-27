@@ -107,7 +107,7 @@
       },
       "price": 195.0,
       "sale_price": 97.5,
-      "stock": 11
+      "stock": 10
     },
     "pending": false
   },
@@ -1375,7 +1375,7 @@
       },
       "price": 13.5,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1423,22 +1423,6 @@
     },
     "pending": false
   },
-  "41397929": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 92.929,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "sale_price": 0.99,
-      "stock": 0
-    },
-    "pending": false
-  },
   "41397932": {
     "notified": {
       "discount_percent": 92.982,
@@ -1463,22 +1447,6 @@
       },
       "price": 14.25,
       "sale_price": 1.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "41397933": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 41397933,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/892ef29d96db112a2aebaefe57928004b82222a0c42584afa2b00839f275ae9d",
-      "name": {
-        "ar": "ريز ليمون زجاجة (1L)",
-        "en": "Rizz Lemon Bottle (1L)"
-      },
-      "price": 28.0,
-      "sale_price": 14.0,
       "stock": 0
     },
     "pending": false
@@ -2488,34 +2456,6 @@
       "price": 190.0,
       "sale_price": 95.0,
       "stock": 3
-    },
-    "pending": false
-  },
-  "47924379": {
-    "notified": {
-      "discount_percent": 50.302,
-      "id": 47924379,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1fc3ee4f007eb02a2c69b1897b70b619b111f17b5ebcdd769b15ece0e9394c40",
-      "name": {
-        "ar": "رقائق التورتيلا الحارة من بريد فاست (225 جرامًا)",
-        "en": "Breadfast Hot Chili Tortilla Chips (225g)"
-      },
-      "price": 169.0,
-      "reason": "new_discount",
-      "sale_price": 83.99,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.302,
-      "id": 47924379,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1fc3ee4f007eb02a2c69b1897b70b619b111f17b5ebcdd769b15ece0e9394c40",
-      "name": {
-        "ar": "رقائق التورتيلا الحارة من بريد فاست (225 جرامًا)",
-        "en": "Breadfast Hot Chili Tortilla Chips (225g)"
-      },
-      "price": 169.0,
-      "sale_price": 83.99,
-      "stock": 1
     },
     "pending": false
   },
