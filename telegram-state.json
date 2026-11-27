@@ -1,32 +1,4 @@
 {
-  "13507015": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 13507015,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-14-at-13.50.37_c6952f50.png",
-      "name": {
-        "ar": "سولى سلمون مدخن مجمد (200 جرام)",
-        "en": "Soly Frozen Smoked Salmon (200g)"
-      },
-      "price": 499.0,
-      "reason": "new_discount",
-      "sale_price": 249.5,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 13507015,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-14-at-13.50.37_c6952f50.png",
-      "name": {
-        "ar": "سولى سلمون مدخن مجمد (200 جرام)",
-        "en": "Soly Frozen Smoked Salmon (200g)"
-      },
-      "price": 499.0,
-      "sale_price": 249.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "2084233": {
     "notified": {
       "discount_percent": 50.0,
@@ -1375,7 +1347,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -1487,7 +1459,7 @@
       },
       "price": 420.0,
       "sale_price": 210.0,
-      "stock": 6
+      "stock": 3
     },
     "pending": false
   },
@@ -1571,7 +1543,7 @@
       },
       "price": 480.0,
       "sale_price": 144.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -1739,7 +1711,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -2272,34 +2244,6 @@
       "price": 337.0,
       "sale_price": 168.5,
       "stock": 4
-    },
-    "pending": false
-  },
-  "50823488": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 50823488,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2858cafcce5d60a80abf781fa34efba3539b6cb9e661866990ddc9d06ef7abce",
-      "name": {
-        "ar": "(جنوبة مجدول بالكاجو  (320 جرام",
-        "en": "Januba Medjool Cashew Dates (320g)"
-      },
-      "price": 348.0,
-      "reason": "new_discount",
-      "sale_price": 174.0,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50823488,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2858cafcce5d60a80abf781fa34efba3539b6cb9e661866990ddc9d06ef7abce",
-      "name": {
-        "ar": "(جنوبة مجدول بالكاجو  (320 جرام",
-        "en": "Januba Medjool Cashew Dates (320g)"
-      },
-      "price": 348.0,
-      "sale_price": 174.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -3963,7 +3907,7 @@
       },
       "price": 472.75,
       "sale_price": 236.37,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -3991,7 +3935,7 @@
       },
       "price": 170.0,
       "sale_price": 85.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
