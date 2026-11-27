@@ -67,8 +67,10 @@ def save_json(path, data):
 
 def main():
     parser=argparse.ArgumentParser(); parser.add_argument('--full',action='store_true'); parser.add_argument('--auto',action='store_true'); parser.add_argument('--telegram',action='store_true'); parser.add_argument('--threshold',type=float,default=50); parser.add_argument('--catalogue',choices=('grocery','mall','restaurants'),default='grocery'); args=parser.parse_args()
-    from catalogue_sources import plan,food_get,normalize,LABELS,PREFIX,MALL_WAREHOUSE
+    from catalogue_sources import plan,food_get,normalize,LABELS,PREFIX,MALL_WAREHOUSE,product_batches
     source=args.catalogue; prefix=PREFIX[source]
+    state_path=STATE/('telegram-state.json' if source=='grocery' else prefix+'state.json')
+    old=json.loads(state_path.read_text()) if state_path.exists() else {}
     if args.auto:
         previous=STATE/(prefix+'full-scan.json')
         try:
@@ -76,6 +78,7 @@ def main():
             args.full=(datetime.datetime.now(datetime.timezone.utc)-last).total_seconds()>=3600
         except (OSError,KeyError,ValueError): args.full=True
     category_count,planned=plan(source,args.full,get)
+    if not args.full:planned.extend(product_batches(source,old.keys()))
     jobs=list({(p,json.dumps(q,sort_keys=True)) for p,q in planned})
     products={}; errors=[]; completed=0
     def fetch(job):
@@ -102,8 +105,6 @@ def main():
     if source=='restaurants':
         report.pop('warehouse',None);report['scope']='all discovered nearby restaurant menus'
     report['minimum_discount_percent']=args.threshold
-    state_path=STATE/('telegram-state.json' if source=='grocery' else prefix+'state.json')
-    old=json.loads(state_path.read_text()) if state_path.exists() else {}
     report['new_matches'],current=new_offers(products,old,args.threshold)
     # Never acknowledge offers before delivery or after a partial scan.
     if args.telegram and not errors:

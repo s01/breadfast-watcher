@@ -6,6 +6,18 @@ from run_once import summarize
 from telegram_client import prepare_batches,product_card
 
 class CatalogueSources(unittest.TestCase):
+    def test_known_offer_batch_refresh_uses_captured_indexed_ids(self):
+        jobs=sources.product_batches('grocery',[11368529,11368529,44295646])
+        self.assertEqual(jobs,[('products',{'ids[0]':'11368529','ids[1]':'44295646'})])
+        self.assertEqual(sources.product_batches('restaurants',['restaurant:item']),[])
+        self.assertEqual(sources.product_batches('mall',[1])[0][1]['warehouseId'],sources.MALL_WAREHOUSE)
+    def test_live_virtual_campaigns_are_scanned_without_hardcoded_names(self):
+        navigation={'data':{'categories':[{'id':1,'subcategories':[{'id':10}]}],
+                            'virtualCategories':[{'type':'new_flash_campaign_123','categories':[{'id':1}]}]}}
+        for full in (False,True):
+            _,jobs=sources.plan('grocery',full,lambda *a,**k:navigation)
+            self.assertIn(('categories/1',{'type':'new_flash_campaign_123'}),jobs)
+
     def test_mall_full_discovers_subcategories(self):
         def get(path,**params):
             self.assertEqual(params.get('warehouseId'),sources.MALL_WAREHOUSE)

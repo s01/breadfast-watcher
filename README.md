@@ -12,6 +12,17 @@ A free cron-job.org job dispatches `.github/workflows/watch.yml` every five minu
 
 Each regular check reads the Grocery and Mall deals feeds and all discovered nearby restaurant menus. A complete scan of the advertised Grocery and Mall subcategories is due once an hour. Grocery and Mall catalogue discovery is refreshed on each scan, and restaurant discovery follows the service's pagination on each scan.
 
+Quick and full checks also discover every advertised `virtualCategories` campaign
+and query its category/type pairs. This covers dynamically named tabs such as
+Black Friday, flash deals and new arrivals without hardcoding campaign names.
+Product counts are de-duplicated across feeds; these are scan counts, not counts
+of qualifying discounts. The app's captured EGP 1 Nescafe product confirmed that
+campaign tabs use different query types from the ordinary `deals` feed.
+Quick checks additionally refresh previously known qualifying product IDs using
+the app's observed indexed-ID batch endpoint. This checks a known offer even
+when it is not listed in a current campaign tab. Entirely new products absent
+from every advertised campaign still depend on full catalogue discovery.
+
 The owner's private Telegram chat has **Offers scan** and **Full scan** buttons. `/offers`, `/full`, `/menu` and `/start` are also supported. Requests are polled on the next five-minute execution, receive a start reply and completion summary, and retain discount de-duplication. Offers scan covers both deals feeds plus restaurant menus; Full scan covers all three catalogues. Repeated pending taps are combined, prioritizing a full scan. Unchanged offers are not resent.
 
 ## Prices and availability
