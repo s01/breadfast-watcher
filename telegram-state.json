@@ -55,6 +55,34 @@
     },
     "pending": false
   },
+  "22268660": {
+    "notified": {
+      "discount_percent": 82.609,
+      "id": 22268660,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
+      "name": {
+        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
+        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
+      },
+      "price": 5.75,
+      "reason": "new_discount",
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 82.609,
+      "id": 22268660,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/06/Capture-155.png",
+      "name": {
+        "ar": "بسكو مصر فانيليا ويفر (6قطع)",
+        "en": "Bisco Masr Wafers With Vanilla Cream (6Pcs)"
+      },
+      "price": 5.75,
+      "sale_price": 1.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "22754650": {
     "notified": {
       "discount_percent": 50.0,
@@ -3727,22 +3755,6 @@
     },
     "pending": false
   },
-  "64619268": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.001,
-      "id": 64619268,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/782c9fc1f071a2b53549e553036b42c0a3c763f38f086da8bf8fb4840ef0e91d",
-      "name": {
-        "ar": "شهد فيليه الدجاج الحار (800 جم)",
-        "en": "Shahd Spicy Chicken Fillet (800gm)"
-      },
-      "price": 427.75,
-      "sale_price": 213.87,
-      "stock": 0
-    },
-    "pending": false
-  },
   "65645396": {
     "notified": {
       "discount_percent": 50.0,
@@ -4052,6 +4064,62 @@
       "price": 185.0,
       "sale_price": 92.5,
       "stock": 3
+    },
+    "pending": false
+  },
+  "69932566": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 69932566,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d9ddf96eda267541a15665d0667991164650f796cc492a5477f6e78d48f02fb7",
+      "name": {
+        "ar": "ابسيس اصابع كنافة مع صوص حلاوة سبريد (190 جرام)",
+        "en": "Ibsais Kunafa Fingers with Halawa Spread Sauce (190g)"
+      },
+      "price": 160.0,
+      "reason": "new_discount",
+      "sale_price": 80.0,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 69932566,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/d9ddf96eda267541a15665d0667991164650f796cc492a5477f6e78d48f02fb7",
+      "name": {
+        "ar": "ابسيس اصابع كنافة مع صوص حلاوة سبريد (190 جرام)",
+        "en": "Ibsais Kunafa Fingers with Halawa Spread Sauce (190g)"
+      },
+      "price": 160.0,
+      "sale_price": 80.0,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "69932567": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 69932567,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/523d2900aa0fe4d33015d2f475913c14765d468a492c69ca8df88be7814cda38",
+      "name": {
+        "ar": "ابسيس اصابع كنافة مع صوص الشوكولاته والبندق (190 جرام)",
+        "en": "Ibsais Kunafa Fingers with Chocolate & Hazelnut Sauce (190g)"
+      },
+      "price": 160.0,
+      "reason": "new_discount",
+      "sale_price": 80.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 69932567,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/523d2900aa0fe4d33015d2f475913c14765d468a492c69ca8df88be7814cda38",
+      "name": {
+        "ar": "ابسيس اصابع كنافة مع صوص الشوكولاته والبندق (190 جرام)",
+        "en": "Ibsais Kunafa Fingers with Chocolate & Hazelnut Sauce (190g)"
+      },
+      "price": 160.0,
+      "sale_price": 80.0,
+      "stock": 2
     },
     "pending": false
   },
