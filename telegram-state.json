@@ -55,6 +55,34 @@
     },
     "pending": false
   },
+  "12729036": {
+    "notified": {
+      "discount_percent": 53.791,
+      "id": 12729036,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a2cc18dd049a2a7787b69fb50048dc0cfe00f43571ec0a83620b7eba5ddbc12c",
+      "name": {
+        "ar": "بريدفاست رقائق البطاطس بالجبنة الشيدر و البصل (48ج)",
+        "en": "Breadfast Kettle-Cooked Chips with Cheddar Cheese & Onions (48g)"
+      },
+      "price": 16.75,
+      "reason": "new_discount",
+      "sale_price": 7.74,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 53.791,
+      "id": 12729036,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/a2cc18dd049a2a7787b69fb50048dc0cfe00f43571ec0a83620b7eba5ddbc12c",
+      "name": {
+        "ar": "بريدفاست رقائق البطاطس بالجبنة الشيدر و البصل (48ج)",
+        "en": "Breadfast Kettle-Cooked Chips with Cheddar Cheese & Onions (48g)"
+      },
+      "price": 16.75,
+      "sale_price": 7.74,
+      "stock": 1
+    },
+    "pending": false
+  },
   "12729039": {
     "notified": {
       "discount_percent": 53.251,
@@ -419,34 +447,6 @@
     },
     "pending": false
   },
-  "14123556": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 14123556,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/la-roche-posay-productpage-sun-anthelios-dermo-pediatrics-spf50-50ml-3337872419904-front-Photoroom.png",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس لوشن للاطفال SPF50+ (50 مل)",
-        "en": "La Roche Posay Anthelios Dermo-Pediatrics Baby Lotion SPF50+ (50ml)"
-      },
-      "price": 1200.0,
-      "reason": "new_discount",
-      "sale_price": 600.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 14123556,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/11/la-roche-posay-productpage-sun-anthelios-dermo-pediatrics-spf50-50ml-3337872419904-front-Photoroom.png",
-      "name": {
-        "ar": "لاروش بوزيه أنثيليوس لوشن للاطفال SPF50+ (50 مل)",
-        "en": "La Roche Posay Anthelios Dermo-Pediatrics Baby Lotion SPF50+ (50ml)"
-      },
-      "price": 1200.0,
-      "sale_price": 600.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "14124410": {
     "notified": {
       "discount_percent": 60.0,
@@ -531,6 +531,34 @@
     },
     "pending": false
   },
+  "14605448": {
+    "notified": {
+      "discount_percent": 58.341,
+      "id": 14605448,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Mint-Dark-RESIZED-2.jpg",
+      "name": {
+        "ar": "بريدفاست شوكولاتة دارك بالنعناع (75g)",
+        "en": "Breadfast Mint Dark Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 125.47,
+      "reason": "new_discount",
+      "sale_price": 52.27,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 58.341,
+      "id": 14605448,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Mint-Dark-RESIZED-2.jpg",
+      "name": {
+        "ar": "بريدفاست شوكولاتة دارك بالنعناع (75g)",
+        "en": "Breadfast Mint Dark Chocolate (100% Real Cocoa) (75g)"
+      },
+      "price": 125.47,
+      "sale_price": 52.27,
+      "stock": 1
+    },
+    "pending": false
+  },
   "14856051": {
     "notified": {
       "discount_percent": 68.462,
@@ -552,6 +580,34 @@
       "name": {
         "ar": "بريدفاست شوكولاتة دارك بلجيكية بالغاندوجا (75 جرام)",
         "en": "Breadfast Belgian Dark Chocolate with Gianduja (75g)"
+      },
+      "price": 165.64,
+      "sale_price": 52.24,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "14856097": {
+    "notified": {
+      "discount_percent": 68.462,
+      "id": 14856097,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Breadfast-Signature-Orange.jpg",
+      "name": {
+        "ar": "بريدفاست شوكولاتة دارك بلجيكية 70% بالبرتقال (75 جرام)",
+        "en": "Breadfast Belgian Orange Dark 70% Chocolate (75g)"
+      },
+      "price": 165.64,
+      "reason": "new_discount",
+      "sale_price": 52.24,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 68.462,
+      "id": 14856097,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/11/Breadfast-Signature-Orange.jpg",
+      "name": {
+        "ar": "بريدفاست شوكولاتة دارك بلجيكية 70% بالبرتقال (75 جرام)",
+        "en": "Breadfast Belgian Orange Dark 70% Chocolate (75g)"
       },
       "price": 165.64,
       "sale_price": 52.24,
@@ -1007,22 +1063,6 @@
     },
     "pending": false
   },
-  "19356953": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 19356953,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/04/Screenshot-2024-04-02-142740.png",
-      "name": {
-        "ar": "مونت بلانك إكسبلورر او دو بارفان للرجال (100مل)",
-        "en": "Mont Blanc Explorer EDP For Him (100ml)"
-      },
-      "price": 3530.0,
-      "sale_price": 1765.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "1990010": {
     "notified": {
       "discount_percent": 57.999,
@@ -1132,34 +1172,6 @@
       "price": 65.0,
       "sale_price": 32.5,
       "stock": 1
-    },
-    "pending": false
-  },
-  "21318328": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21318328,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Stardust.png",
-      "name": {
-        "ar": "(7مل) اسنشيالز ملمع شفاه تيمبتيشن - ستار داست",
-        "en": "Essentials Lip Gloss Temptation - Star Dust (7ml)"
-      },
-      "price": 250.0,
-      "reason": "new_discount",
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21318328,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Stardust.png",
-      "name": {
-        "ar": "(7مل) اسنشيالز ملمع شفاه تيمبتيشن - ستار داست",
-        "en": "Essentials Lip Gloss Temptation - Star Dust (7ml)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
-      "stock": 0
     },
     "pending": false
   },
@@ -1387,34 +1399,6 @@
     },
     "pending": false
   },
-  "22754650": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22754650,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/retinol.png",
-      "name": {
-        "ar": "(30 مل) B3 ريتينول سيرم",
-        "en": "Infinity Retinol B3 Serum (30ml)"
-      },
-      "price": 540.0,
-      "reason": "new_discount",
-      "sale_price": 270.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22754650,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/retinol.png",
-      "name": {
-        "ar": "(30 مل) B3 ريتينول سيرم",
-        "en": "Infinity Retinol B3 Serum (30ml)"
-      },
-      "price": 540.0,
-      "sale_price": 270.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "22755695": {
     "notified": {
       "discount_percent": 50.0,
@@ -1607,34 +1591,6 @@
       },
       "price": 555.0,
       "sale_price": 277.5,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "25790949": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 25790949,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-19-at-16.10.07_fc657e0f.jpg",
-      "name": {
-        "ar": "Essentials Lip Gloss Temptation - Rusty Brown (7ml)",
-        "en": "Essentials Lip Gloss Temptation - Rusty Brown (7ml)"
-      },
-      "price": 250.0,
-      "reason": "new_discount",
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 25790949,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-19-at-16.10.07_fc657e0f.jpg",
-      "name": {
-        "ar": "Essentials Lip Gloss Temptation - Rusty Brown (7ml)",
-        "en": "Essentials Lip Gloss Temptation - Rusty Brown (7ml)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
       "stock": 1
     },
     "pending": false
@@ -1987,22 +1943,6 @@
     },
     "pending": false
   },
-  "26848464": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26848464,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/615148085-1.png",
-      "name": {
-        "ar": "دولتشي آند غابانا ذا ون أو دو بارفان للرجال (100 مل)",
-        "en": "Dolce & Gabbana The One EDP For Him (100ml)"
-      },
-      "price": 6560.0,
-      "sale_price": 3280.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "26849861": {
     "notified": {
       "discount_percent": 50.0,
@@ -2027,34 +1967,6 @@
       },
       "price": 5290.0,
       "sale_price": 2645.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "26860452": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 26860452,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/Screenshot-2024-10-28-184726-1.png",
-      "name": {
-        "ar": "بيفرلي هيلز توفا او دو بارفان للنساء (100 مل)",
-        "en": "Beverly Hills Tova EDP For Her (100ml)"
-      },
-      "price": 1990.0,
-      "reason": "new_discount",
-      "sale_price": 995.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 26860452,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/10/Screenshot-2024-10-28-184726-1.png",
-      "name": {
-        "ar": "بيفرلي هيلز توفا او دو بارفان للنساء (100 مل)",
-        "en": "Beverly Hills Tova EDP For Her (100ml)"
-      },
-      "price": 1990.0,
-      "sale_price": 995.0,
       "stock": 1
     },
     "pending": false
@@ -3387,62 +3299,6 @@
     },
     "pending": false
   },
-  "29225283": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29225283,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/3607340213267.png",
-      "name": {
-        "ar": "كالفن كلاين بيوتي او دي بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Beauty EDP For Her (100ml)"
-      },
-      "price": 2630.0,
-      "reason": "new_discount",
-      "sale_price": 1315.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29225283,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/3607340213267.png",
-      "name": {
-        "ar": "كالفن كلاين بيوتي او دي بارفان للنساء (100 مل)",
-        "en": "Calvin Klein Beauty EDP For Her (100ml)"
-      },
-      "price": 2630.0,
-      "sale_price": 1315.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "29225659": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29225659,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/8411061602522.png",
-      "name": {
-        "ar": "كارولينا هيريرا 212 سيكسي او دو تواليت للرجال (100 مل)",
-        "en": "Carolina Herrera 212 Sexy EDT For Him (100ml)"
-      },
-      "price": 4290.0,
-      "reason": "new_discount",
-      "sale_price": 2145.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29225659,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/12/8411061602522.png",
-      "name": {
-        "ar": "كارولينا هيريرا 212 سيكسي او دو تواليت للرجال (100 مل)",
-        "en": "Carolina Herrera 212 Sexy EDT For Him (100ml)"
-      },
-      "price": 4290.0,
-      "sale_price": 2145.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "29263210": {
     "notified": {
       "discount_percent": 60.0,
@@ -3583,34 +3439,6 @@
     },
     "pending": false
   },
-  "29817902": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 29817902,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d8a9c75726a4efbcd9117e6d4895f6b424de2c5edc33eaa89223038d08b6930e",
-      "name": {
-        "ar": "(ديرماسي كريم شد و ترطيب محيط العين (15 مل",
-        "en": "Dermacy Eye Cream Firming & Hydrating (15ml)"
-      },
-      "price": 420.0,
-      "reason": "new_discount",
-      "sale_price": 210.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 29817902,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d8a9c75726a4efbcd9117e6d4895f6b424de2c5edc33eaa89223038d08b6930e",
-      "name": {
-        "ar": "(ديرماسي كريم شد و ترطيب محيط العين (15 مل",
-        "en": "Dermacy Eye Cream Firming & Hydrating (15ml)"
-      },
-      "price": 420.0,
-      "sale_price": 210.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "29818759": {
     "notified": {
       "discount_percent": 50.0,
@@ -3679,34 +3507,6 @@
       },
       "price": 1051.0,
       "sale_price": 420.4,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "30412974": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30412974,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4c47492120def581c24cc4a24d896d8c995bc917bc2092300a3e2da4c1a5e1e6",
-      "name": {
-        "ar": "جيس جيرل او دو تواليت للنساء (100 مل)",
-        "en": "Guess Girl EDT For Her (100ml)"
-      },
-      "price": 2050.0,
-      "reason": "new_discount",
-      "sale_price": 1025.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30412974,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4c47492120def581c24cc4a24d896d8c995bc917bc2092300a3e2da4c1a5e1e6",
-      "name": {
-        "ar": "جيس جيرل او دو تواليت للنساء (100 مل)",
-        "en": "Guess Girl EDT For Her (100ml)"
-      },
-      "price": 2050.0,
-      "sale_price": 1025.0,
       "stock": 0
     },
     "pending": false
@@ -3923,34 +3723,6 @@
     },
     "pending": false
   },
-  "30790786": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 30790786,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a8cd7e1674631fcf4c9432bd49d20d33c85aac8e0e60cbdf835486de0d562874",
-      "name": {
-        "ar": "ليميتلس هيدرات محلول إلكتروليت جلو بنكهة مكس التوت (عبوة من 6 قطع)",
-        "en": "Limitless Hydrate Electrolyte Solution Glow Mixed Berries (6 Stick Pack)"
-      },
-      "price": 165.0,
-      "reason": "new_discount",
-      "sale_price": 82.5,
-      "stock": 11
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 30790786,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a8cd7e1674631fcf4c9432bd49d20d33c85aac8e0e60cbdf835486de0d562874",
-      "name": {
-        "ar": "ليميتلس هيدرات محلول إلكتروليت جلو بنكهة مكس التوت (عبوة من 6 قطع)",
-        "en": "Limitless Hydrate Electrolyte Solution Glow Mixed Berries (6 Stick Pack)"
-      },
-      "price": 165.0,
-      "sale_price": 82.5,
-      "stock": 9
-    },
-    "pending": false
-  },
   "30816853": {
     "notified": {
       "discount_percent": 50.0,
@@ -4135,22 +3907,6 @@
     },
     "pending": false
   },
-  "31311663": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 31311663,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/8e030531cfab59040bbd14e19cb0a4c96a2e59628edc8062a92e4faada6749cb",
-      "name": {
-        "ar": "ازارو ذا موست ونتيد بارفوم للرجال (100 مل)",
-        "en": "Azzaro The Most Wanted Parfum For Him (100ml)"
-      },
-      "price": 5850.0,
-      "sale_price": 2925.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "31356384": {
     "notified": null,
     "observed": {
@@ -4307,34 +4063,6 @@
     },
     "pending": false
   },
-  "31994284": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 31994284,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/43976594bf42cf2969640cc61d88635be62004c0ab284bf7c8409a6789f7fe60",
-      "name": {
-        "ar": "ارماف اوديسي اوم وايت اديشن او دو بارفان للرجال (100 مل)",
-        "en": "Armaf Odyssey Homme White Edition EDP For Him (100ml)"
-      },
-      "price": 1999.0,
-      "reason": "new_discount",
-      "sale_price": 999.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 31994284,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/43976594bf42cf2969640cc61d88635be62004c0ab284bf7c8409a6789f7fe60",
-      "name": {
-        "ar": "ارماف اوديسي اوم وايت اديشن او دو بارفان للرجال (100 مل)",
-        "en": "Armaf Odyssey Homme White Edition EDP For Him (100ml)"
-      },
-      "price": 1999.0,
-      "sale_price": 999.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "32041148": {
     "notified": {
       "discount_percent": 50.0,
@@ -4359,34 +4087,6 @@
       },
       "price": 460.0,
       "sale_price": 230.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "32205229": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32205229,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/69fe3c65ec2b8c72b336a70eb1cea4e25684f3c3a38e017160874e8da4dc5db1",
-      "name": {
-        "ar": "جوتشي راش او دو تواليت للنساء (75 مل)",
-        "en": "Gucci Rush EDT For Her (75ml)"
-      },
-      "price": 5310.0,
-      "reason": "new_discount",
-      "sale_price": 2655.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32205229,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/69fe3c65ec2b8c72b336a70eb1cea4e25684f3c3a38e017160874e8da4dc5db1",
-      "name": {
-        "ar": "جوتشي راش او دو تواليت للنساء (75 مل)",
-        "en": "Gucci Rush EDT For Her (75ml)"
-      },
-      "price": 5310.0,
-      "sale_price": 2655.0,
       "stock": 1
     },
     "pending": false
@@ -4743,34 +4443,6 @@
     },
     "pending": false
   },
-  "32994437": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 32994437,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2509006a4b1ef9a820dfe9a62fc5ddf94cf3fefaa5333d144ec61d5aba09f913",
-      "name": {
-        "ar": "كارولينا هيريرا جود جيرل عطر للشعر للنساء (30 مل)",
-        "en": "Carolina Herrera Good Girl Hair Mist For Her (30ml)"
-      },
-      "price": 3200.0,
-      "reason": "new_discount",
-      "sale_price": 1600.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 32994437,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2509006a4b1ef9a820dfe9a62fc5ddf94cf3fefaa5333d144ec61d5aba09f913",
-      "name": {
-        "ar": "كارولينا هيريرا جود جيرل عطر للشعر للنساء (30 مل)",
-        "en": "Carolina Herrera Good Girl Hair Mist For Her (30ml)"
-      },
-      "price": 3200.0,
-      "sale_price": 1600.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "33389197": {
     "notified": null,
     "observed": {
@@ -4923,34 +4595,6 @@
       },
       "price": 8640.0,
       "sale_price": 4320.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "33717910": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 33717910,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0d5954bde719a03c2ac67d4d9813d2702c9bd5389a100dd97e0bcbaf976eb937",
-      "name": {
-        "ar": "جورجيو آرمانى سيى با انتنس 2024 او دى بارفان للنساء (100 مل)",
-        "en": "Giorgio Armani SI Passione Intense 2024 EDP For Her (100ml)"
-      },
-      "price": 9600.0,
-      "reason": "new_discount",
-      "sale_price": 4800.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 33717910,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/0d5954bde719a03c2ac67d4d9813d2702c9bd5389a100dd97e0bcbaf976eb937",
-      "name": {
-        "ar": "جورجيو آرمانى سيى با انتنس 2024 او دى بارفان للنساء (100 مل)",
-        "en": "Giorgio Armani SI Passione Intense 2024 EDP For Her (100ml)"
-      },
-      "price": 9600.0,
-      "sale_price": 4800.0,
       "stock": 1
     },
     "pending": false
@@ -5179,34 +4823,6 @@
     },
     "pending": false
   },
-  "35479367": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 35479367,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/453932dcbed65ed8d15b0fd9ecbdeb2cf714b381a70f5dda5e3513bacb17fad5",
-      "name": {
-        "ar": "يوسيرين جل مرطب للوجه مضاد للشيخوخة هيالورون فيلر، معزز للترطيب، مناسب لجميع أنواع البشرة (30 مل)",
-        "en": "Eucerin Hyaluron Filler Anti-Aging Moisture Booster Face Gel Moisturizer for All Skin Types (30ml)"
-      },
-      "price": 1599.0,
-      "reason": "new_discount",
-      "sale_price": 799.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 35479367,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/453932dcbed65ed8d15b0fd9ecbdeb2cf714b381a70f5dda5e3513bacb17fad5",
-      "name": {
-        "ar": "يوسيرين جل مرطب للوجه مضاد للشيخوخة هيالورون فيلر، معزز للترطيب، مناسب لجميع أنواع البشرة (30 مل)",
-        "en": "Eucerin Hyaluron Filler Anti-Aging Moisture Booster Face Gel Moisturizer for All Skin Types (30ml)"
-      },
-      "price": 1599.0,
-      "sale_price": 799.5,
-      "stock": 1
-    },
-    "pending": false
-  },
   "35538947": {
     "notified": {
       "discount_percent": 50.0,
@@ -5231,22 +4847,6 @@
       },
       "price": 3600.0,
       "sale_price": 1800.0,
-      "stock": 0
-    },
-    "pending": false
-  },
-  "35577021": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 35577021,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6cf3e800ef198a4daebb5850e9ecf89200eb87f28ef21b814592774e8f3b80b4",
-      "name": {
-        "ar": "لطافة رمز جولد او دي بارفان للجنسين (100 مل)",
-        "en": "Lattafa Ramz Gold EDP For Unisex (100ml)"
-      },
-      "price": 1082.0,
-      "sale_price": 541.0,
       "stock": 0
     },
     "pending": false
@@ -5795,34 +5395,6 @@
       },
       "price": 790.0,
       "sale_price": 395.0,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "37291587": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 37291587,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9ea7dd671513b0525630a900b264dc0a15f267000162b4152521276694ce5743",
-      "name": {
-        "ar": "لانكوم ايدول او دو بارفان للنساء (25 مل)",
-        "en": "Lancome Idole EDP For Her (25ml)"
-      },
-      "price": 4350.0,
-      "reason": "new_discount",
-      "sale_price": 2175.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 37291587,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9ea7dd671513b0525630a900b264dc0a15f267000162b4152521276694ce5743",
-      "name": {
-        "ar": "لانكوم ايدول او دو بارفان للنساء (25 مل)",
-        "en": "Lancome Idole EDP For Her (25ml)"
-      },
-      "price": 4350.0,
-      "sale_price": 2175.0,
       "stock": 1
     },
     "pending": false
@@ -7035,34 +6607,6 @@
     },
     "pending": false
   },
-  "40227620": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 40227620,
-      "image": "https://i.ibb.co/C3GWgyrV/champion-by-davidoff-edt-spray-30-oz-m-3607340188602-Picsart-Ai-Image-Enhancer.png",
-      "name": {
-        "ar": "دافيدوف شامبيون أو دي تواليت للرجال (90 مل)",
-        "en": "Davidoff Champion EDT For Him (90ml)"
-      },
-      "price": 2200.0,
-      "reason": "new_discount",
-      "sale_price": 1100.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40227620,
-      "image": "https://i.ibb.co/C3GWgyrV/champion-by-davidoff-edt-spray-30-oz-m-3607340188602-Picsart-Ai-Image-Enhancer.png",
-      "name": {
-        "ar": "دافيدوف شامبيون أو دي تواليت للرجال (90 مل)",
-        "en": "Davidoff Champion EDT For Him (90ml)"
-      },
-      "price": 2200.0,
-      "sale_price": 1100.0,
-      "stock": 1
-    },
-    "pending": false
-  },
   "40488329": {
     "notified": {
       "discount_percent": 50.0,
@@ -7228,34 +6772,6 @@
       "price": 600.0,
       "sale_price": 300.0,
       "stock": 0
-    },
-    "pending": false
-  },
-  "40600544": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 40600544,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/796239906e1941cd3b7705e99a60f141ccc82e9566978841a080b179dac7c3c1",
-      "name": {
-        "ar": "ميبيلين نيو يورك ليفتَر بلامب ملمع شفاه 001 بلاش بليز (5.4 مل)",
-        "en": "Maybelline New York Lifter Plump Lip Gloss 001 Blush Blaze"
-      },
-      "price": 640.0,
-      "reason": "new_discount",
-      "sale_price": 320.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 40600544,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/796239906e1941cd3b7705e99a60f141ccc82e9566978841a080b179dac7c3c1",
-      "name": {
-        "ar": "ميبيلين نيو يورك ليفتَر بلامب ملمع شفاه 001 بلاش بليز (5.4 مل)",
-        "en": "Maybelline New York Lifter Plump Lip Gloss 001 Blush Blaze"
-      },
-      "price": 640.0,
-      "sale_price": 320.0,
-      "stock": 1
     },
     "pending": false
   },
@@ -7991,22 +7507,6 @@
     },
     "pending": true
   },
-  "42590983": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42590983,
-      "image": "https://i.ibb.co/hxJC9NZD/kvk-Picsart-Ai-Image-Enhancer.png",
-      "name": {
-        "ar": "إبراهيم القرشي إميرالد سول دايموند او دي برفان للجنسين (150 مل)",
-        "en": "Ibrahim Al Qurashi Emerald Soul Diamond EDP For Unisex (150ml)"
-      },
-      "price": 2850.0,
-      "sale_price": 1425.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "42590996": {
     "notified": null,
     "observed": {
@@ -8052,22 +7552,6 @@
       "price": 1390.0,
       "sale_price": 695.0,
       "stock": 3
-    },
-    "pending": true
-  },
-  "42882498": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 42882498,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6223007904933/ca23de80da52ca28.jpg",
-      "name": {
-        "ar": "ديرما ايل ميلك سولير حماية +45 بخاخ حليب للجسم (200مل)",
-        "en": "Dermaelle Milk-Solaire SPF45 Body Milk Spray (200ml)"
-      },
-      "price": 520.0,
-      "sale_price": 260.0,
-      "stock": 1
     },
     "pending": true
   },
@@ -8195,22 +7679,6 @@
     },
     "pending": false
   },
-  "43658211": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 43658211,
-      "image": "https://i.ibb.co/CXHbxrt/2.png",
-      "name": {
-        "ar": "ألتيـس سوا سنيسيم – واقي شمس يومي مرطِّب +SPF50 بتركيبة جِل مائي مرطب (50 مل)",
-        "en": "Altesse Hydrating Daily Sunscreen SPF50+ (50ml)"
-      },
-      "price": 399.0,
-      "sale_price": 199.5,
-      "stock": 1
-    },
-    "pending": true
-  },
   "43658216": {
     "notified": null,
     "observed": {
@@ -8287,22 +7755,6 @@
       },
       "price": 299.0,
       "sale_price": 149.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "44114323": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44114323,
-      "image": "https://i.ibb.co/7t3b37NN/8435415102483.jpg",
-      "name": {
-        "ar": "جان بول غوتييه لا بيل فلاور إديشن او دو برفيوم للنساء (100 مل)",
-        "en": "Jean Paul Gaultier La Belle Flower Edition EDP For Her (100ml)"
-      },
-      "price": 7920.0,
-      "sale_price": 3960.0,
       "stock": 1
     },
     "pending": true
@@ -8668,34 +8120,6 @@
       "price": 450.0,
       "sale_price": 225.0,
       "stock": 1
-    },
-    "pending": false
-  },
-  "44295625": {
-    "notified": {
-      "discount_percent": 70.0,
-      "id": 44295625,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9b5ef456b9f319add7b256327de93563df6aaa6cfab3b851f1d18f0d99acea5c",
-      "name": {
-        "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
-        "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
-      },
-      "price": 480.0,
-      "reason": "new_discount",
-      "sale_price": 144.0,
-      "stock": 4
-    },
-    "observed": {
-      "discount_percent": 70.0,
-      "id": 44295625,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/9b5ef456b9f319add7b256327de93563df6aaa6cfab3b851f1d18f0d99acea5c",
-      "name": {
-        "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
-        "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
-      },
-      "price": 480.0,
-      "sale_price": 144.0,
-      "stock": 4
     },
     "pending": false
   },
@@ -9099,22 +8523,6 @@
     },
     "pending": true
   },
-  "44674670": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44674670,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/30104a6ba3a6fbcc260e2f7fa94c3495b7996c8fb3100dcb34e7c8a0d8f8c93a",
-      "name": {
-        "ar": "أرايز زيرو بودر اليكتروليتي نكهة كوكتيل الفواكه 5 عبوات (8جرام)",
-        "en": "Arise Zero Electrolyte Powder Fruit Punch Flavor Pack Of 5 (8g)"
-      },
-      "price": 150.0,
-      "sale_price": 75.0,
-      "stock": 2
-    },
-    "pending": true
-  },
   "44678533": {
     "notified": {
       "discount_percent": 80.251,
@@ -9343,22 +8751,6 @@
     },
     "pending": true
   },
-  "44815996": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 44815996,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b63db1c7549edca69d2ad47f415569e3a8f62ca4863738d7458fbc569d7e0510",
-      "name": {
-        "ar": "ويليدا كريم سكين فود مرطب مغذي لليل (40 مل)",
-        "en": "Weleda Skin Food Night Cream (40ml)"
-      },
-      "price": 1350.0,
-      "sale_price": 675.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "44994085": {
     "notified": null,
     "observed": {
@@ -9563,6 +8955,22 @@
     },
     "pending": false
   },
+  "45063582": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.388,
+      "id": 45063582,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/99fb8146bdd61b4945ebdcf3f8a4204249832c006f43c1366aee3ba21fc8a543",
+      "name": {
+        "ar": "بريدفاست كرينكلز بالفلفل الحار والليمون (67 جرام)",
+        "en": "Breadfast Crinkled Chips Chilli Lemon (67g)"
+      },
+      "price": 25.8,
+      "sale_price": 12.8,
+      "stock": 1
+    },
+    "pending": true
+  },
   "46066193": {
     "notified": null,
     "observed": {
@@ -9655,6 +9063,34 @@
     },
     "pending": true
   },
+  "46914866": {
+    "notified": {
+      "discount_percent": 53.0,
+      "id": 46914866,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1977bef692eb1d8fff8352256c4b089fee87387455bac2133d4002d1dcb1f1af",
+      "name": {
+        "ar": "بريدفاست سيجناتشر سالمون مدخن (100جم)",
+        "en": "Breadfast Signature Smoked Salmon (100g)"
+      },
+      "price": 319.0,
+      "reason": "new_discount",
+      "sale_price": 149.93,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 53.0,
+      "id": 46914866,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1977bef692eb1d8fff8352256c4b089fee87387455bac2133d4002d1dcb1f1af",
+      "name": {
+        "ar": "بريدفاست سيجناتشر سالمون مدخن (100جم)",
+        "en": "Breadfast Signature Smoked Salmon (100g)"
+      },
+      "price": 319.0,
+      "sale_price": 149.93,
+      "stock": 1
+    },
+    "pending": false
+  },
   "46914871": {
     "notified": {
       "discount_percent": 52.0,
@@ -9710,6 +9146,22 @@
       "stock": 1
     },
     "pending": false
+  },
+  "46914874": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 46914874,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/8ff38d9ad4d3ca9ce7984c0f45330cc5d8f61844ce8f21b86c8e68618d7ba8d9",
+      "name": {
+        "ar": "بريدفاست سيجناتشر سالمون فيليه هاف سايد (500جم)",
+        "en": "Breadfast Signature Salmon Half Side Fillet (500g)"
+      },
+      "price": 799.0,
+      "sale_price": 399.5,
+      "stock": 1
+    },
+    "pending": true
   },
   "47043469": {
     "notified": null,
@@ -9835,54 +9287,6 @@
     },
     "pending": false
   },
-  "48659379": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 48659379,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/e2184dc6858a57220df9470251952ecdd2cb7b408479ff850ff875fed77276a7",
-      "name": {
-        "ar": "دكتور باوباو زبدة كاكاو بينك (10 مل)",
-        "en": "Dr.Paw Paw Peach Pink Balm (10ml)"
-      },
-      "price": 155.0,
-      "sale_price": 77.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "48659383": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 48659383,
-      "image": "https://co.nice-cdn.com/upload/image/product/large/default/111247_5f2a25eb.1024x1024.png",
-      "name": {
-        "ar": "دكتور باوباو زبدة كاكاو موكا (10 مل)",
-        "en": "Dr.Paw Paw Rich Mocha Balm (10ml)"
-      },
-      "price": 155.0,
-      "sale_price": 77.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "48659387": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 48659387,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b62adad93dbc922dea1da975864e45df67192e68cc84d0d1c7a78a782629c2fd",
-      "name": {
-        "ar": "دكتور باوباو ماسك ليلى للشفاه (10 مل)",
-        "en": "Dr.Paw Paw Overnight Lip Mask (10ml)"
-      },
-      "price": 195.0,
-      "sale_price": 97.5,
-      "stock": 1
-    },
-    "pending": true
-  },
   "48991258": {
     "notified": null,
     "observed": {
@@ -9962,34 +9366,6 @@
       "stock": 1
     },
     "pending": true
-  },
-  "49015903": {
-    "notified": {
-      "discount_percent": 60.0,
-      "id": 49015903,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1cb5c632fb78fbf10e042299b96161498a35c3ef4d3dbe0c8cda96e4bf78c543",
-      "name": {
-        "ar": "أديداس آيس دايف او دو تويليت للرجال (100 مل)",
-        "en": "Adidas Ice Dive EDT For Him (100ml)"
-      },
-      "price": 590.0,
-      "reason": "new_discount",
-      "sale_price": 236.0,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 60.0,
-      "id": 49015903,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/1cb5c632fb78fbf10e042299b96161498a35c3ef4d3dbe0c8cda96e4bf78c543",
-      "name": {
-        "ar": "أديداس آيس دايف او دو تويليت للرجال (100 مل)",
-        "en": "Adidas Ice Dive EDT For Him (100ml)"
-      },
-      "price": 590.0,
-      "sale_price": 236.0,
-      "stock": 0
-    },
-    "pending": false
   },
   "49356381": {
     "notified": null,
@@ -10127,22 +9503,6 @@
     },
     "pending": true
   },
-  "50213795": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50213795,
-      "image": "https://ecommercio-flormar.s3.amazonaws.com/PRODUCTS_EN/8690604505401_1.jpg",
-      "name": {
-        "ar": "فلورمار سيلك مات LLS-13 بينك دريم",
-        "en": "Flormar Silk Matte Lls-13 Pink Dream"
-      },
-      "price": 510.0,
-      "sale_price": 255.0,
-      "stock": 0
-    },
-    "pending": true
-  },
   "50215216": {
     "notified": null,
     "observed": {
@@ -10156,22 +9516,6 @@
       "price": 480.0,
       "sale_price": 240.0,
       "stock": 0
-    },
-    "pending": true
-  },
-  "50373112": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50373112,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fba8afa24f4a8efafdd3d2795691e24587c9c5fea0d89a356d27216b046b3cbf",
-      "name": {
-        "ar": "مايبيلين ليفتير جليز 009 لاتيه كراش",
-        "en": "Maybelline Lifter Glaze 009 Latte Crush"
-      },
-      "price": 470.0,
-      "sale_price": 235.0,
-      "stock": 1
     },
     "pending": true
   },
@@ -10299,22 +9643,6 @@
     },
     "pending": true
   },
-  "50838811": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50838811,
-      "image": "https://media.zid.store/3e9082b9-9c0a-4689-a54c-8fca9c408e0a/ddc611a2-b66c-4f18-babf-1a0c0b66cfc0.jpg",
-      "name": {
-        "ar": "فازلين سيروم كريم جلو جلوتا فيتامين بعامل حماية من الشمس 20 (180 مل)",
-        "en": "Vaseline Cream Glow Gluta Vitamin Spf20 Serum (180ml)"
-      },
-      "price": 550.0,
-      "sale_price": 275.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "50902018": {
     "notified": null,
     "observed": {
@@ -10376,22 +9704,6 @@
       "price": 7990.0,
       "sale_price": 3995.0,
       "stock": 1
-    },
-    "pending": true
-  },
-  "50902838": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 50902838,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/3e598a947fc9e9e6d35183807a93effd919cb2af828a969047415e93b36e1b81",
-      "name": {
-        "ar": "برادا بارادايم أو دو بارفان للرجال (100 مل)",
-        "en": "Prada Paradigme EDP For Him (100ml)"
-      },
-      "price": 8290.0,
-      "sale_price": 4145.0,
-      "stock": 2
     },
     "pending": true
   },
@@ -10571,22 +9883,6 @@
     },
     "pending": true
   },
-  "51469534": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51469534,
-      "image": "https://i.ibb.co/k6mRSDrf/Hydra-Intense-1.png",
-      "name": {
-        "ar": "جلامى لاب هايدرا انتنس كريم 100 جم",
-        "en": "Glamy Lab Hydra Intense Cream (100g)"
-      },
-      "price": 550.0,
-      "sale_price": 275.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "51469535": {
     "notified": null,
     "observed": {
@@ -10658,22 +9954,6 @@
       "stock": 4
     },
     "pending": false
-  },
-  "51881798": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 51881798,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7c84bd1ef31a58515b53bebc386454bc3f6f8e7226370f992c4f028eaa731607",
-      "name": {
-        "ar": "فاكيشن سيروم الكافيين 5% (30 مل)",
-        "en": "Vacation Caffeine Serum 5% (30ml)"
-      },
-      "price": 475.0,
-      "sale_price": 237.5,
-      "stock": 2
-    },
-    "pending": true
   },
   "52154365": {
     "notified": null,
@@ -11627,22 +10907,6 @@
     },
     "pending": true
   },
-  "55631321": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 55631321,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/42a000011a229c5576f1146170a06094d790ea9ed371f251a6fc5feed2b79135",
-      "name": {
-        "ar": "جوفياليتي مجموعة للعناية بالبشرة - سموثي الفراولة - بلسم للقدمين",
-        "en": "Joviality Skin Love Kit - Strawberry Smoothie - Foot Balm"
-      },
-      "price": 1320.0,
-      "sale_price": 660.0,
-      "stock": 2
-    },
-    "pending": true
-  },
   "55631544": {
     "notified": null,
     "observed": {
@@ -12059,22 +11323,6 @@
     },
     "pending": true
   },
-  "57050907": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 57050907,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/b8a0ab8680b8c6cea8b18460286b3bbfd818b73c92bf6a845ce6ae0fac61f4a9",
-      "name": {
-        "ar": "فاكيشن تونر سيبيو-كونترول للبشرة (200 مل)",
-        "en": "Vacation Sebio Control Skin Essence Toner (200ml)"
-      },
-      "price": 340.0,
-      "sale_price": 170.0,
-      "stock": 4
-    },
-    "pending": true
-  },
   "57899997": {
     "notified": null,
     "observed": {
@@ -12403,38 +11651,6 @@
       },
       "price": 85.0,
       "sale_price": 42.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "60590631": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60590631,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/ec4b3396ca32ca87aaaccc25158003a7e99bdf8c477ba5a389699fa09a63458f",
-      "name": {
-        "ar": "رصاصي هواس كوبرا أو دو بارفان سبراي للرجال (100 مل)",
-        "en": "Rasasi Hawas Kobra EDP Spray for Him (100 ml)"
-      },
-      "price": 2390.0,
-      "sale_price": 1195.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "60590634": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 60590634,
-      "image": "https://m.media-amazon.com/images/I/61xlYErg7LL._AC_SL1500_.jpg",
-      "name": {
-        "ar": "رصاصي هواس ماليبو أو دو بارفان سبراي للجنسين (100 مل)",
-        "en": "Rasasi Hawas Malibu EDP Spray for Unisex (100 ml)"
-      },
-      "price": 2250.0,
-      "sale_price": 1125.0,
       "stock": 1
     },
     "pending": true
@@ -13243,22 +12459,6 @@
     },
     "pending": true
   },
-  "61797656": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 61797656,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/a72cc294698017e5de06e8a41b4d7be6671c2865caee4b8621212c7d705baef9",
-      "name": {
-        "ar": "مايبيلين نيويورك ليفتر جل أويل 006 شيك ستروبيري",
-        "en": "Maybelline New York Lifter Gel Lip Oil-in-Gel 006 Shake Strawberry"
-      },
-      "price": 520.0,
-      "sale_price": 260.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "61798091": {
     "notified": null,
     "observed": {
@@ -13419,22 +12619,6 @@
     },
     "pending": true
   },
-  "62682617": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 62682617,
-      "image": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/06/0566431/1.jpg",
-      "name": {
-        "ar": "نورش أدفانسد سيروم الريتينول الليلي المجدد ريتينول + زيت ثمر الورد",
-        "en": "Nourish Advanced Retinol Restorative Night Serum Retinol + Rosehip"
-      },
-      "price": 370.0,
-      "sale_price": 185.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "62682621": {
     "notified": null,
     "observed": {
@@ -13463,22 +12647,6 @@
       },
       "price": 370.0,
       "sale_price": 185.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "62682626": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 62682626,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/7c926732170d4203c771aa154819a107f045ef9980567b0a6a5ef6c959aaf2e0",
-      "name": {
-        "ar": "نورش بريتيش أدفانسد غسول ميسيلار حليبي بماء الأرز + سيراميد + حمض الهيالورونيك",
-        "en": "Nourish British Advanced Micellar Milky Cleanser Rice Water + Ceramide + Hyaluronic Acid"
-      },
-      "price": 221.0,
-      "sale_price": 110.5,
       "stock": 1
     },
     "pending": true
@@ -13591,22 +12759,6 @@
     },
     "pending": true
   },
-  "63540464": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 63540464,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/dee72617c56458cd708c0dddc7fe8fc5abc7c3efd2ec07f0afe27678d8c6da70",
-      "name": {
-        "ar": "كينزو هوم أو دو برفان للرجال (110 مل)",
-        "en": "Kenzo Homme EDP for Him (110ml)"
-      },
-      "price": 5000.0,
-      "sale_price": 2500.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "63725842": {
     "notified": null,
     "observed": {
@@ -13619,38 +12771,6 @@
       },
       "price": 400.0,
       "sale_price": 200.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "63770907": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 63770907,
-      "image": "https://m.media-amazon.com/images/I/61Bhs57Gh7L._AC_SL1000_.jpg",
-      "name": {
-        "ar": "سيفورا كوليكشن ماسك مطاطي للوجه بجوجي بيري (10 جم)",
-        "en": "Sephora Goji Rubber Face Mask (10 g)"
-      },
-      "price": 250.0,
-      "sale_price": 125.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "63770913": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 63770913,
-      "image": "https://m.media-amazon.com/images/I/51pJDk38U0L._AC_SL1500_.jpg",
-      "name": {
-        "ar": "سيفورا كوليكشن طلاء أظافر ميني كولور هيت L147 بيتش بلوسوم (5 مل)",
-        "en": "Sephora Collection Color Hit Mini Nail Polish L147 Peach Blossom (5 ml)"
-      },
-      "price": 150.0,
-      "sale_price": 75.0,
       "stock": 1
     },
     "pending": true
@@ -13719,22 +12839,6 @@
     },
     "pending": false
   },
-  "64071648": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 64071648,
-      "image": "https://images.barcodelookup.com/162769/1627691762-1.jpg",
-      "name": {
-        "ar": "إيسنس جوسي بومب بلامبينج ليب جلوس 08 بيور راسبيري",
-        "en": "Essence Juicy Bomb Plumping Lipgloss 08 Pure Raspberry"
-      },
-      "price": 229.0,
-      "sale_price": 114.5,
-      "stock": 0
-    },
-    "pending": false
-  },
   "64073000": {
     "notified": null,
     "observed": {
@@ -13747,22 +12851,6 @@
       },
       "price": 320.0,
       "sale_price": 160.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "64496287": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 64496287,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4fde6326a5f3cde2d00a9023e6c53139951fdb4ed0940431c56f8462ef64ed6a",
-      "name": {
-        "ar": "سيبيل غسول مقشر للوجه (150 مل)",
-        "en": "Cybele Facial Wash Scrub (150ml)"
-      },
-      "price": 210.0,
-      "sale_price": 105.0,
       "stock": 1
     },
     "pending": true
@@ -14019,22 +13107,6 @@
     },
     "pending": true
   },
-  "65671007": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 65671007,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/99474c06e18617b9a157e68696bbcd9412c062b797c520a0afb4a4bb957f5070",
-      "name": {
-        "ar": "عساف أروجيت بينك روز أو دو برفيوم للنساء (150 مل)",
-        "en": "Assaf Arrogate Pink Rose EDP for Her (150ml)"
-      },
-      "price": 2950.0,
-      "sale_price": 1475.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "65671013": {
     "notified": null,
     "observed": {
@@ -14127,22 +13199,6 @@
       },
       "price": 400.0,
       "sale_price": 200.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "66256650": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 66256650,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/8c0c85f9c85232dbf03e1dc8e61afd7dadc4aa96408cdbe674cf0d897242f03f",
-      "name": {
-        "ar": "(عساف فرانكل بلاك اليكسير أو دو برفان للرجال (200 مل",
-        "en": "Assaf Frankel Black Elixire EDP for Men (200ml)"
-      },
-      "price": 3200.0,
-      "sale_price": 1600.0,
       "stock": 1
     },
     "pending": true
@@ -14298,22 +13354,6 @@
       "stock": 2
     },
     "pending": false
-  },
-  "67028349": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 67028349,
-      "image": "https://i.ibb.co/4wsrcJQ6/30.jpg",
-      "name": {
-        "ar": "لايت سبيد مشروب رياضي بالبرتقال في أكياس (34 جم)",
-        "en": "LyteSpeed Sport Drink Orange Sachets (34g)"
-      },
-      "price": 30.0,
-      "sale_price": 15.0,
-      "stock": 1
-    },
-    "pending": true
   },
   "67028362": {
     "notified": null,
@@ -15019,38 +14059,6 @@
     },
     "pending": true
   },
-  "68079348": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 68079348,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4f476fcdd72d24e27c54755eb1d29933929139072022f05b2cabd52f1e097252",
-      "name": {
-        "ar": "سش سوبر كلينز غسول للبشرة المختلطة إلى الدهنية (150 مل)",
-        "en": "Sesh Super Cleanse Combination to Oily Skin Cleanser (150ml)"
-      },
-      "price": 420.0,
-      "sale_price": 210.0,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "68079350": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 68079350,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/4762d05b0abab590fd85151b1c99f4f2b5e2e82e6874fd11e8d93173efc62dc1",
-      "name": {
-        "ar": "سش إفكتيف ماجيك كريم مضاد للتجاعيد (50 جرام)",
-        "en": "Sesh Effective Magic Anti-Wrinkles Cream (50g)"
-      },
-      "price": 800.0,
-      "sale_price": 400.0,
-      "stock": 1
-    },
-    "pending": true
-  },
   "68079352": {
     "notified": null,
     "observed": {
@@ -15239,22 +14247,6 @@
       },
       "price": 165.0,
       "sale_price": 82.5,
-      "stock": 1
-    },
-    "pending": true
-  },
-  "68660479": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 68660479,
-      "image": "https://bestbrandsperfume.com/wp-content/uploads/2025/12/Bottled-Beyond-Hugo-Boss.jpg",
-      "name": {
-        "ar": "هوجو بوس بوتلد بيوند أو دو برفان للرجال (100 مل)",
-        "en": "Hugo Boss Bottled Beyond EDP for Him (100ml)"
-      },
-      "price": 6999.0,
-      "sale_price": 3499.5,
       "stock": 1
     },
     "pending": true
@@ -15463,22 +14455,6 @@
     },
     "pending": true
   },
-  "73567095": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 73567095,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/d4e89a2e23ed1ff419a6039e389a427d9cb96eb9b2922b6baf9d93c2dae3d786",
-      "name": {
-        "ar": "عساف أروجيت بينك ديفا أو دو برفان للنساء (200 مل)",
-        "en": "Assaf Arrogate Pink Diva EDP for Her (200ml)"
-      },
-      "price": 2950.0,
-      "sale_price": 1475.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "73567123": {
     "notified": null,
     "observed": {
@@ -15526,22 +14502,6 @@
       "stock": 1
     },
     "pending": true
-  },
-  "73732320": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 73732320,
-      "image": "https://storage.googleapis.com/bf-shopsos-images/images/6287042287185/c1ca31cf90c5d0e2.jpg",
-      "name": {
-        "ar": "لافيرن لويارد او دو بارفان للنساء (125 مل)",
-        "en": "Laverne Loyard EDP For Her (125ml)"
-      },
-      "price": 2650.0,
-      "sale_price": 1325.0,
-      "stock": 0
-    },
-    "pending": false
   },
   "74321106": {
     "notified": null,
@@ -15723,34 +14683,6 @@
       },
       "price": 5836.0,
       "sale_price": 2724.89,
-      "stock": 1
-    },
-    "pending": false
-  },
-  "8187927": {
-    "notified": {
-      "discount_percent": 53.796,
-      "id": 8187927,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/snapshotimagehandler_1338435267.png",
-      "name": {
-        "ar": "فلفل الوان اصفر (3 قطع)",
-        "en": "Yellow Bell Peppers (3 Pieces)"
-      },
-      "price": 54.0,
-      "reason": "new_discount",
-      "sale_price": 24.95,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 53.796,
-      "id": 8187927,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/snapshotimagehandler_1338435267.png",
-      "name": {
-        "ar": "فلفل الوان اصفر (3 قطع)",
-        "en": "Yellow Bell Peppers (3 Pieces)"
-      },
-      "price": 54.0,
-      "sale_price": 24.95,
       "stock": 1
     },
     "pending": false
