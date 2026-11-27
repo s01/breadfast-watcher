@@ -79,7 +79,7 @@
       },
       "price": 5.75,
       "sale_price": 1.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -2427,7 +2427,7 @@
       },
       "price": 250.0,
       "sale_price": 125.0,
-      "stock": 1
+      "stock": 0
     },
     "pending": false
   },
@@ -3215,34 +3215,6 @@
     },
     "pending": false
   },
-  "57349645": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 57349645,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c8d77692b62ebffd895d8ea1a3b84d4450823ced664e684b60f27b742f6997d9",
-      "name": {
-        "ar": "جنوبة تمر مشكل سكري رطب (900جم)",
-        "en": "Januba Sukary Rutab Dates (900g)"
-      },
-      "price": 400.0,
-      "reason": "new_discount",
-      "sale_price": 200.0,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 57349645,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/c8d77692b62ebffd895d8ea1a3b84d4450823ced664e684b60f27b742f6997d9",
-      "name": {
-        "ar": "جنوبة تمر مشكل سكري رطب (900جم)",
-        "en": "Januba Sukary Rutab Dates (900g)"
-      },
-      "price": 400.0,
-      "sale_price": 200.0,
-      "stock": 0
-    },
-    "pending": false
-  },
   "60673187": {
     "notified": {
       "discount_percent": 50.0,
@@ -3779,7 +3751,7 @@
       },
       "price": 644.0,
       "sale_price": 322.0,
-      "stock": 2
+      "stock": 0
     },
     "pending": false
   },
