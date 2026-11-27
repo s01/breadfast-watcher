@@ -2155,34 +2155,6 @@
     },
     "pending": false
   },
-  "34981421": {
-    "notified": {
-      "discount_percent": 55.011,
-      "id": 34981421,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6b1ca5a16acbcdc0c71059f12a5ad5c5294be497d0017a692ca69f8b38c7b035",
-      "name": {
-        "ar": "5x (75g) بريدفاست شوكولاتة حليب بالكوكيز",
-        "en": "5x Breadfast Cookies'n Cream Chocolate (100% Real Cocoa) (75g)"
-      },
-      "price": 613.15,
-      "reason": "new_discount",
-      "sale_price": 275.85,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 55.011,
-      "id": 34981421,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/6b1ca5a16acbcdc0c71059f12a5ad5c5294be497d0017a692ca69f8b38c7b035",
-      "name": {
-        "ar": "5x (75g) بريدفاست شوكولاتة حليب بالكوكيز",
-        "en": "5x Breadfast Cookies'n Cream Chocolate (100% Real Cocoa) (75g)"
-      },
-      "price": 613.15,
-      "sale_price": 275.85,
-      "stock": 3
-    },
-    "pending": false
-  },
   "35818972": {
     "notified": {
       "discount_percent": 50.0,
@@ -3295,22 +3267,6 @@
     },
     "pending": false
   },
-  "41397929": {
-    "notified": null,
-    "observed": {
-      "discount_percent": 88.214,
-      "id": 41397929,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/fe2cce8057e2281d8f5a097b991c72f9e1b98ddff3ef6610b020644996e16772",
-      "name": {
-        "ar": "ريز كولا زيرو زجاجة (400مل)",
-        "en": "Rizz Cola Zero Bottle (400ml)"
-      },
-      "price": 14.0,
-      "sale_price": 1.65,
-      "stock": 0
-    },
-    "pending": false
-  },
   "41731735": {
     "notified": null,
     "observed": {
@@ -3819,7 +3775,7 @@
       },
       "price": 480.0,
       "sale_price": 144.0,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -3847,7 +3803,7 @@
       },
       "price": 450.0,
       "sale_price": 135.0,
-      "stock": 4
+      "stock": 2
     },
     "pending": false
   },
@@ -3903,7 +3859,7 @@
       },
       "price": 550.0,
       "sale_price": 165.0,
-      "stock": 4
+      "stock": 2
     },
     "pending": false
   },
@@ -3931,7 +3887,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -3987,7 +3943,7 @@
       },
       "price": 275.0,
       "sale_price": 99.0,
-      "stock": 6
+      "stock": 4
     },
     "pending": false
   },
@@ -4099,7 +4055,7 @@
       },
       "price": 550.0,
       "sale_price": 275.0,
-      "stock": 3
+      "stock": 2
     },
     "pending": false
   },
@@ -4267,7 +4223,7 @@
       },
       "price": 350.0,
       "sale_price": 126.0,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -4663,7 +4619,7 @@
       },
       "price": 190.0,
       "sale_price": 95.0,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -5547,6 +5503,34 @@
     },
     "pending": true
   },
+  "54691424": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54691424,
+      "image": "https://i.ibb.co/gM5FRCkB/3264680043413.png",
+      "name": {
+        "ar": "نوكس جل التنظيف المهدئ فيري روز (150 مل)",
+        "en": "Nuxe Very Rose Sooth Cleans Gel (150ml)"
+      },
+      "price": 979.0,
+      "reason": "new_discount",
+      "sale_price": 489.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54691424,
+      "image": "https://i.ibb.co/gM5FRCkB/3264680043413.png",
+      "name": {
+        "ar": "نوكس جل التنظيف المهدئ فيري روز (150 مل)",
+        "en": "Nuxe Very Rose Sooth Cleans Gel (150ml)"
+      },
+      "price": 979.0,
+      "sale_price": 489.5,
+      "stock": 1
+    },
+    "pending": false
+  },
   "54691425": {
     "notified": {
       "discount_percent": 50.0,
@@ -5571,7 +5555,7 @@
       },
       "price": 959.0,
       "sale_price": 479.5,
-      "stock": 2
+      "stock": 3
     },
     "pending": false
   },
@@ -6023,6 +6007,34 @@
     },
     "pending": false
   },
+  "54746136": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 54746136,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c64d053f844f59d876bf6e43e677e2dc3b97d92bd36dc310b21924dfd41e8b7",
+      "name": {
+        "ar": "أوريو بسكويت بكريمة الفانيليا (5+1) قطع – 48 جم",
+        "en": "Oreo vanilla Crème Filled Biscuit -(5+1) Cookies ( 48g)"
+      },
+      "price": 10.0,
+      "reason": "new_discount",
+      "sale_price": 5.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 54746136,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c64d053f844f59d876bf6e43e677e2dc3b97d92bd36dc310b21924dfd41e8b7",
+      "name": {
+        "ar": "أوريو بسكويت بكريمة الفانيليا (5+1) قطع – 48 جم",
+        "en": "Oreo vanilla Crème Filled Biscuit -(5+1) Cookies ( 48g)"
+      },
+      "price": 10.0,
+      "sale_price": 5.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "55008830": {
     "notified": null,
     "observed": {
@@ -6227,7 +6239,7 @@
       },
       "price": 340.0,
       "sale_price": 170.0,
-      "stock": 4
+      "stock": 3
     },
     "pending": false
   },
@@ -6683,7 +6695,7 @@
       },
       "price": 180.0,
       "sale_price": 90.0,
-      "stock": 5
+      "stock": 4
     },
     "pending": false
   },
@@ -7247,7 +7259,7 @@
       },
       "price": 295.0,
       "sale_price": 147.5,
-      "stock": 2
+      "stock": 1
     },
     "pending": false
   },
@@ -7688,62 +7700,6 @@
       "price": 724.7,
       "sale_price": 335.15,
       "stock": 2
-    },
-    "pending": false
-  },
-  "76804421": {
-    "notified": {
-      "discount_percent": 55.28,
-      "id": 76804421,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/71b602e5fe8a9268392b50c16650374e2938d898b35616f73c2a7ddb342fc7d6",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بالنعناع (75g)",
-        "en": "5x Breadfast Mint Dark Chocolate (100% Real Cocoa) (75g)"
-      },
-      "price": 627.35,
-      "reason": "new_discount",
-      "sale_price": 280.55,
-      "stock": 3
-    },
-    "observed": {
-      "discount_percent": 55.28,
-      "id": 76804421,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/71b602e5fe8a9268392b50c16650374e2938d898b35616f73c2a7ddb342fc7d6",
-      "name": {
-        "ar": "5x بريدفاست شوكولاتة دارك بالنعناع (75g)",
-        "en": "5x Breadfast Mint Dark Chocolate (100% Real Cocoa) (75g)"
-      },
-      "price": 627.35,
-      "sale_price": 280.55,
-      "stock": 3
-    },
-    "pending": false
-  },
-  "815927": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 815927,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Chicken.png",
-      "name": {
-        "ar": "اندومي نودلز سريعة التحضير بالدجاج (70 جرام)",
-        "en": "Indomie Instant Noodles Chicken (70g)"
-      },
-      "price": 9.0,
-      "reason": "new_discount",
-      "sale_price": 4.5,
-      "stock": 1
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 815927,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2023/01/Chicken.png",
-      "name": {
-        "ar": "اندومي نودلز سريعة التحضير بالدجاج (70 جرام)",
-        "en": "Indomie Instant Noodles Chicken (70g)"
-      },
-      "price": 9.0,
-      "sale_price": 4.5,
-      "stock": 1
     },
     "pending": false
   },
