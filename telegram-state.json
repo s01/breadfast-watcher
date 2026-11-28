@@ -1,88 +1,4 @@
 {
-  "21096505": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 21096505,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Fetta-Felfel.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالفلفل (300 جرام)",
-        "en": "Feta Cheese With Pepper (300g)"
-      },
-      "price": 65.0,
-      "reason": "new_discount",
-      "sale_price": 32.5,
-      "stock": 9
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 21096505,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/05/Fetta-Felfel.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالفلفل (300 جرام)",
-        "en": "Feta Cheese With Pepper (300g)"
-      },
-      "price": 65.0,
-      "sale_price": 32.5,
-      "stock": 9
-    },
-    "pending": false
-  },
-  "22518408": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22518408,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Seeds.jpg",
-      "name": {
-        "ar": "جبنة فيتا بحبة البركة (300 جرام)",
-        "en": "Feta Cheese With Black Seeds (300g)"
-      },
-      "price": 65.0,
-      "reason": "new_discount",
-      "sale_price": 32.5,
-      "stock": 6
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22518408,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Seeds.jpg",
-      "name": {
-        "ar": "جبنة فيتا بحبة البركة (300 جرام)",
-        "en": "Feta Cheese With Black Seeds (300g)"
-      },
-      "price": 65.0,
-      "sale_price": 32.5,
-      "stock": 6
-    },
-    "pending": false
-  },
-  "22518413": {
-    "notified": {
-      "discount_percent": 50.0,
-      "id": 22518413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالزعتر (300 جرام)",
-        "en": "Feta Cheese With Zaatar (300g)"
-      },
-      "price": 65.0,
-      "reason": "new_discount",
-      "sale_price": 32.5,
-      "stock": 9
-    },
-    "observed": {
-      "discount_percent": 50.0,
-      "id": 22518413,
-      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/Feta-Thyme.jpg",
-      "name": {
-        "ar": "جبنة فيتا بالزعتر (300 جرام)",
-        "en": "Feta Cheese With Zaatar (300g)"
-      },
-      "price": 65.0,
-      "sale_price": 32.5,
-      "stock": 9
-    },
-    "pending": false
-  },
   "22754650": {
     "notified": {
       "discount_percent": 50.0,
@@ -940,6 +856,34 @@
       "price": 275.0,
       "sale_price": 137.5,
       "stock": 5
+    },
+    "pending": false
+  },
+  "44295646": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295646,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2677b4b05afd1bc5472f393af438e54d89003f6b0cbcdd251dadff1fe1ff85e3",
+      "name": {
+        "ar": "(فاكيشن رول أون برائحة العود العربي( ٥٠ مل",
+        "en": "Vacation Arabian Oud Whitening Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295646,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2677b4b05afd1bc5472f393af438e54d89003f6b0cbcdd251dadff1fe1ff85e3",
+      "name": {
+        "ar": "(فاكيشن رول أون برائحة العود العربي( ٥٠ مل",
+        "en": "Vacation Arabian Oud Whitening Deodorant (50ml)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
     },
     "pending": false
   },
