@@ -276,7 +276,19 @@
     "pending": false
   },
   "36641239": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ef6f1ab3569bc33be5a7cd2d88d75eb63a4636c58939d742328418d78e8545da",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 04 شيك ليب",
+        "en": "Queen Lifter Lip Gloss 04 Chic Lip"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 1
+    },
     "observed": {
       "discount_percent": 70.0,
       "id": 36641239,
@@ -287,7 +299,7 @@
       },
       "price": 300.0,
       "sale_price": 90.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
@@ -324,7 +336,19 @@
     "pending": false
   },
   "36641242": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641242,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c51d91f9faa2e93280f67dba23efd261abe17953cd56cfa8a5f355a882a5bde1",
+      "name": {
+        "ar": "كوين ماسك الشفاه الليلي بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Lip Sleeping Mask Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "reason": "new_discount",
+      "sale_price": 39.0,
+      "stock": 1
+    },
     "observed": {
       "discount_percent": 70.0,
       "id": 36641242,
@@ -335,12 +359,24 @@
       },
       "price": 130.0,
       "sale_price": 39.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
   "36641243": {
-    "notified": null,
+    "notified": {
+      "discount_percent": 70.0,
+      "id": 36641243,
+      "image": "https://i.ibb.co/cXZnhpzN/1000.png",
+      "name": {
+        "ar": "كوين مقشر الشفاه المقشر بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Exfoliating Lip Scrub Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "reason": "new_discount",
+      "sale_price": 39.0,
+      "stock": 1
+    },
     "observed": {
       "discount_percent": 70.0,
       "id": 36641243,
@@ -351,7 +387,7 @@
       },
       "price": 130.0,
       "sale_price": 39.0,
-      "stock": 0
+      "stock": 1
     },
     "pending": false
   },
