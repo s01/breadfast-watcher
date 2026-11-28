@@ -167,6 +167,22 @@
     },
     "pending": false
   },
+  "31790016": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 31790016,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/966297d068fd4f8d6ce77c1fa09a20d1e1248aef56888cca2fb208306618889a",
+      "name": {
+        "ar": "نوي بورن إن ڤيجاس للرجال (50 مل)",
+        "en": "Nuit Born in Vegas For Him (50ml)"
+      },
+      "price": 855.0,
+      "sale_price": 427.5,
+      "stock": 0
+    },
+    "pending": false
+  },
   "3367277": {
     "notified": {
       "discount_percent": 57.0,
