@@ -1498,5 +1498,33 @@
       "stock": 1
     },
     "pending": false
+  },
+  "68853893": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 68853893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/afd71c7e985b168332a480b740429f47520206565d80989bcb89739f36b65a5c",
+      "name": {
+        "ar": "إنفينيتي ايرون كومبلكس جاميز (60 جاميز)",
+        "en": "Infinity Iron Complex Gummies (60 Gummies)"
+      },
+      "price": 300.0,
+      "reason": "new_discount",
+      "sale_price": 150.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 68853893,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/afd71c7e985b168332a480b740429f47520206565d80989bcb89739f36b65a5c",
+      "name": {
+        "ar": "إنفينيتي ايرون كومبلكس جاميز (60 جاميز)",
+        "en": "Infinity Iron Complex Gummies (60 Gummies)"
+      },
+      "price": 300.0,
+      "sale_price": 150.0,
+      "stock": 1
+    },
+    "pending": false
   }
 }
