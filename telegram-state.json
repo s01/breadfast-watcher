@@ -1,4 +1,116 @@
 {
+  "22754650": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22754650,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/retinol.png",
+      "name": {
+        "ar": "(30 مل) B3 ريتينول سيرم",
+        "en": "Infinity Retinol B3 Serum (30ml)"
+      },
+      "price": 540.0,
+      "reason": "new_discount",
+      "sale_price": 270.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22754650,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/retinol.png",
+      "name": {
+        "ar": "(30 مل) B3 ريتينول سيرم",
+        "en": "Infinity Retinol B3 Serum (30ml)"
+      },
+      "price": 540.0,
+      "sale_price": 270.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "22755035": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22755035,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/cream.png",
+      "name": {
+        "ar": "(50 جم) B3 كريم إنفينيتي ريتينول",
+        "en": "Infinity Retinol B3 Cream (50gm)"
+      },
+      "price": 400.0,
+      "reason": "new_discount",
+      "sale_price": 200.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22755035,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/cream.png",
+      "name": {
+        "ar": "(50 جم) B3 كريم إنفينيتي ريتينول",
+        "en": "Infinity Retinol B3 Cream (50gm)"
+      },
+      "price": 400.0,
+      "sale_price": 200.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "22755309": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22755309,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/30gm.png",
+      "name": {
+        "ar": "إنفينيتي ريتينول كريم العين (30 جم)",
+        "en": "Infinity Retinol Eye Cream (30gm)"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22755309,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/30gm.png",
+      "name": {
+        "ar": "إنفينيتي ريتينول كريم العين (30 جم)",
+        "en": "Infinity Retinol Eye Cream (30gm)"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "22755695": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 22755695,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/ss.png",
+      "name": {
+        "ar": "إنفينيتي رغوة تنظيف البشرة بالكولاجين (200 مل)",
+        "en": "Infinity Hyalu Collagen Cleansing Foam (200ml)"
+      },
+      "price": 280.0,
+      "reason": "new_discount",
+      "sale_price": 140.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 22755695,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/2024/07/ss.png",
+      "name": {
+        "ar": "إنفينيتي رغوة تنظيف البشرة بالكولاجين (200 مل)",
+        "en": "Infinity Hyalu Collagen Cleansing Foam (200ml)"
+      },
+      "price": 280.0,
+      "sale_price": 140.0,
+      "stock": 1
+    },
+    "pending": false
+  },
   "27571536": {
     "notified": {
       "discount_percent": 50.0,
@@ -83,6 +195,290 @@
     },
     "pending": false
   },
+  "36641234": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641234,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/61db40184e8c7903bf6692ed1e1de768ddc96269954af14f187248322616d104",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 00 جلاموروس",
+        "en": "Queen Lifter Lip Gloss 00 Glamorous"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641236": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641236,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0425205dab9e7ce7e6d03a9f7d9b7e25944ed2a7c16196723e4e06a6d9baeada",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 01 غلوسّي دريم",
+        "en": "Queen Lifter Lip Gloss 01 Glossy Dream"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641237": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641237,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/546205a93f5ca889d43182d0a8f64470903eef78c5b19fb71b7e5f3b76ada025",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 02 لوشيس",
+        "en": "Queen Lifter Lip Gloss 02 Luscious"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641238": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641238,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/212fcff007876ee79a15318132c3e330054481702f29ad0156e6bfe89bf05f8a",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 03 جلو أب",
+        "en": "Queen Lifter Lip Gloss 03 Glow Up"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641239": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641239,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ef6f1ab3569bc33be5a7cd2d88d75eb63a4636c58939d742328418d78e8545da",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 04 شيك ليب",
+        "en": "Queen Lifter Lip Gloss 04 Chic Lip"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641240": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641240,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/33710944bbd992f1511e7ca6bd754198ae1267eb664ec602f5e4b5243ccbee4c",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 05 كوريوس",
+        "en": "Queen Lifter Lip Gloss 05 Curious"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641241": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641241,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7694a1b4dc3bb3ad29f8bc9b78c54cabcf3c5f2ced31f883eeb40ce76130b30d",
+      "name": {
+        "ar": "كوين ملمع شفاه باي لورد ليفتَر 06  ليب دريب",
+        "en": "Queen Lifter Lip Gloss 06 Lip Drip"
+      },
+      "price": 300.0,
+      "sale_price": 90.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641242": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641242,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c51d91f9faa2e93280f67dba23efd261abe17953cd56cfa8a5f355a882a5bde1",
+      "name": {
+        "ar": "كوين ماسك الشفاه الليلي بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Lip Sleeping Mask Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "sale_price": 39.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "36641243": {
+    "notified": null,
+    "observed": {
+      "discount_percent": 70.0,
+      "id": 36641243,
+      "image": "https://i.ibb.co/cXZnhpzN/1000.png",
+      "name": {
+        "ar": "كوين مقشر الشفاه المقشر بالتوفي باي لورد (20 جرام)",
+        "en": "Queen Exfoliating Lip Scrub Toffee Flavored (20g)"
+      },
+      "price": 130.0,
+      "sale_price": 39.0,
+      "stock": 0
+    },
+    "pending": false
+  },
+  "41619160": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 41619160,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f4cf7056028de65b59aa60f290ed4f775042d5205373483a7bc29f03734849de",
+      "name": {
+        "ar": "فشار مملح بالجبنة من بريدفاست (١١٠ غرامًا)",
+        "en": "Breadfast Salted & Cheese Mix Popcorn Bucket (110g)"
+      },
+      "price": 186.0,
+      "reason": "new_discount",
+      "sale_price": 93.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 41619160,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f4cf7056028de65b59aa60f290ed4f775042d5205373483a7bc29f03734849de",
+      "name": {
+        "ar": "فشار مملح بالجبنة من بريدفاست (١١٠ غرامًا)",
+        "en": "Breadfast Salted & Cheese Mix Popcorn Bucket (110g)"
+      },
+      "price": 186.0,
+      "sale_price": 93.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295617": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295617,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5aa7502ab78a7cfa6c8798e1e053ab2cd1f0bc5f87799ea6bd6691e925c0dc08",
+      "name": {
+        "ar": "كابكسي سيروم علاج الرموش ١٠ مل",
+        "en": "Capixy Lashes Treatment Serum 10ml"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295617,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5aa7502ab78a7cfa6c8798e1e053ab2cd1f0bc5f87799ea6bd6691e925c0dc08",
+      "name": {
+        "ar": "كابكسي سيروم علاج الرموش ١٠ مل",
+        "en": "Capixy Lashes Treatment Serum 10ml"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295618": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295618,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3f4c9441f55653c56e6a65f51a7bbe1d14de2702532649b3a3b9d3c93f4a39ad",
+      "name": {
+        "ar": "كابكسي بلسم ترطيب الشعر (250 مل)",
+        "en": "Capixy Hair Hydrating Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295618,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3f4c9441f55653c56e6a65f51a7bbe1d14de2702532649b3a3b9d3c93f4a39ad",
+      "name": {
+        "ar": "كابكسي بلسم ترطيب الشعر (250 مل)",
+        "en": "Capixy Hair Hydrating Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295620": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295620,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/29128f7aa5d6158475e22c804b4a1828a8e40587dfc3f63e95a6c70daee240a4",
+      "name": {
+        "ar": "كابكسي سيروم الشعر ١٢٠ مل",
+        "en": "Capixy Hair Serum 120ml"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295620,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/29128f7aa5d6158475e22c804b4a1828a8e40587dfc3f63e95a6c70daee240a4",
+      "name": {
+        "ar": "كابكسي سيروم الشعر ١٢٠ مل",
+        "en": "Capixy Hair Serum 120ml"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "44295621": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295621,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ebbfb689a941b44e22c78e295f8281addeb5a25172d8694b9ae62cb08c85f0a4",
+      "name": {
+        "ar": "كابكسي بخاخ تونك",
+        "en": "Capixy Tonic Spray 250ml"
+      },
+      "price": 420.0,
+      "reason": "new_discount",
+      "sale_price": 210.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295621,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ebbfb689a941b44e22c78e295f8281addeb5a25172d8694b9ae62cb08c85f0a4",
+      "name": {
+        "ar": "كابكسي بخاخ تونك",
+        "en": "Capixy Tonic Spray 250ml"
+      },
+      "price": 420.0,
+      "sale_price": 210.0,
+      "stock": 2
+    },
+    "pending": false
+  },
   "44295622": {
     "notified": {
       "discount_percent": 50.0,
@@ -111,6 +507,538 @@
     },
     "pending": false
   },
+  "44295623": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295623,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e6b6936a42b3b7bea6d9a6111aafeb1ce9e5efd975a42cf48ebbe480e489e789",
+      "name": {
+        "ar": "فاكيشن صن سكرين شفاف ٣٠ مل",
+        "en": "Vacation Unseen Sunscreen Gel 30ml"
+      },
+      "price": 450.0,
+      "reason": "new_discount",
+      "sale_price": 225.0,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295623,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/e6b6936a42b3b7bea6d9a6111aafeb1ce9e5efd975a42cf48ebbe480e489e789",
+      "name": {
+        "ar": "فاكيشن صن سكرين شفاف ٣٠ مل",
+        "en": "Vacation Unseen Sunscreen Gel 30ml"
+      },
+      "price": 450.0,
+      "sale_price": 225.0,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "44295625": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295625,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9b5ef456b9f319add7b256327de93563df6aaa6cfab3b851f1d18f0d99acea5c",
+      "name": {
+        "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
+        "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
+      },
+      "price": 480.0,
+      "reason": "new_discount",
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295625,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/9b5ef456b9f319add7b256327de93563df6aaa6cfab3b851f1d18f0d99acea5c",
+      "name": {
+        "ar": "فاكيشن صن سكرين كريم ٦٠ مل",
+        "en": "Vacation Sunscreen Cream Vitamin E 60 ml"
+      },
+      "price": 480.0,
+      "sale_price": 240.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295630": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295630,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0c42ddf76a1c18e906e445a8200b88d815f1c863240e4b7aa9e23a9a25dc6d40",
+      "name": {
+        "ar": "فاكيشن سيبيو كنترول لعلاج حب الشباب (60 مل)",
+        "en": "Vacation Sebio Control Acne Cream (60ml)"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295630,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/0c42ddf76a1c18e906e445a8200b88d815f1c863240e4b7aa9e23a9a25dc6d40",
+      "name": {
+        "ar": "فاكيشن سيبيو كنترول لعلاج حب الشباب (60 مل)",
+        "en": "Vacation Sebio Control Acne Cream (60ml)"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "44295632": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295632,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f23925e27f27cc5d48a792b227effaf44a024923fe85d1dff7152ace0bf9c4d2",
+      "name": {
+        "ar": "فاكيشن كريم الليل لتفتيح البشرة ٦٠ مل",
+        "en": "Vacation Uni-White Night Cream 60ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295632,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/f23925e27f27cc5d48a792b227effaf44a024923fe85d1dff7152ace0bf9c4d2",
+      "name": {
+        "ar": "فاكيشن كريم الليل لتفتيح البشرة ٦٠ مل",
+        "en": "Vacation Uni-White Night Cream 60ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295634": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295634,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/aa43725ffdc77bf53b38ce1b720e67459a1f0c39ad8b66c641a32799f9b64fc4",
+      "name": {
+        "ar": "فاكيشن غسول الفوم لتفتيح الوجه ٢٠٠ مل",
+        "en": "Vacation Whitening Facial Cleansing Foam 200ml"
+      },
+      "price": 345.0,
+      "reason": "new_discount",
+      "sale_price": 172.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295634,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/aa43725ffdc77bf53b38ce1b720e67459a1f0c39ad8b66c641a32799f9b64fc4",
+      "name": {
+        "ar": "فاكيشن غسول الفوم لتفتيح الوجه ٢٠٠ مل",
+        "en": "Vacation Whitening Facial Cleansing Foam 200ml"
+      },
+      "price": 345.0,
+      "sale_price": 172.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295635": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295635,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/76b9f27f72523f241856f1631691d90df96544e5aba392e1eb786c2f843ff10a",
+      "name": {
+        "ar": "فاكيشن سيروم نياسيناميد (10٪ + زنك PCA) ٣٠ مل",
+        "en": "Vacation Niacinamide Serum 30 ml"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295635,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/76b9f27f72523f241856f1631691d90df96544e5aba392e1eb786c2f843ff10a",
+      "name": {
+        "ar": "فاكيشن سيروم نياسيناميد (10٪ + زنك PCA) ٣٠ مل",
+        "en": "Vacation Niacinamide Serum 30 ml"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "44295636": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295636,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1c64c830f69e15d4a2054421ab11caa2fd0be2300c18a80408e7161acca1b798",
+      "name": {
+        "ar": "فاكيشن سيروم الريتينول 1٪ ٣٠ مل",
+        "en": "Vacation Retinol Serum 1% 30 ml"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295636,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/1c64c830f69e15d4a2054421ab11caa2fd0be2300c18a80408e7161acca1b798",
+      "name": {
+        "ar": "فاكيشن سيروم الريتينول 1٪ ٣٠ مل",
+        "en": "Vacation Retinol Serum 1% 30 ml"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295637": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295637,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4a661aeb563de623d96b20976ad70225dfdd721786f32b15b32dfd2a8c8ef4ee",
+      "name": {
+        "ar": "فاكيشن سيروم فيتامين سي 10٪ ٣٠ مل",
+        "en": "Vacation Vitamin C 10% 30 ml"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 6
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295637,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4a661aeb563de623d96b20976ad70225dfdd721786f32b15b32dfd2a8c8ef4ee",
+      "name": {
+        "ar": "فاكيشن سيروم فيتامين سي 10٪ ٣٠ مل",
+        "en": "Vacation Vitamin C 10% 30 ml"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 6
+    },
+    "pending": false
+  },
+  "44295638": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295638,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/098a7708f4f03535a5a2e11b1726eb14a0c16755a69def4b9784db12d64432e6",
+      "name": {
+        "ar": "فاكيشن سيروم الهيالورونيك 3٪ ٣٠ مل",
+        "en": "Vacation Hyaluronic Acid Serum 3% 30 ml"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295638,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/098a7708f4f03535a5a2e11b1726eb14a0c16755a69def4b9784db12d64432e6",
+      "name": {
+        "ar": "فاكيشن سيروم الهيالورونيك 3٪ ٣٠ مل",
+        "en": "Vacation Hyaluronic Acid Serum 3% 30 ml"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "44295642": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295642,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5e82e9f3baa6fed31be45f71c11564c2a17b75592fc0d0f2db6047cdcf834a14",
+      "name": {
+        "ar": "فاكيشن رول أون للتبييض ثلاثي الانتشار ٥٠ مل",
+        "en": "Vacation Triple Diffusion Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295642,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/5e82e9f3baa6fed31be45f71c11564c2a17b75592fc0d0f2db6047cdcf834a14",
+      "name": {
+        "ar": "فاكيشن رول أون للتبييض ثلاثي الانتشار ٥٠ مل",
+        "en": "Vacation Triple Diffusion Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295643": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295643,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c1120f748cf4c531b54e07af3032b83a0a58b9988ce3b235378f1c378071f376",
+      "name": {
+        "ar": "فاكيشن رول أون بالعسل والحليب ٥٠ مل",
+        "en": "Vacation Honey & Milk Deodorant 50 ml"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 175.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295643,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/c1120f748cf4c531b54e07af3032b83a0a58b9988ce3b235378f1c378071f376",
+      "name": {
+        "ar": "فاكيشن رول أون بالعسل والحليب ٥٠ مل",
+        "en": "Vacation Honey & Milk Deodorant 50 ml"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 1
+    },
+    "pending": false
+  },
+  "44295645": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295645,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ed3db779d39bdf9c8e46964fa1686ffb05eb580888828210a4f4bb0e2c1d2651",
+      "name": {
+        "ar": "فاكيشن رول أون برائحة الورد ٥٠ مل",
+        "en": "Vacation Pearl Rose Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 5
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295645,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/ed3db779d39bdf9c8e46964fa1686ffb05eb580888828210a4f4bb0e2c1d2651",
+      "name": {
+        "ar": "فاكيشن رول أون برائحة الورد ٥٠ مل",
+        "en": "Vacation Pearl Rose Whitening Deodorant 50 ml"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 5
+    },
+    "pending": false
+  },
+  "44295650": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 44295650,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c11bb51625ada7b04549b5bb8932e184903e1c131cf6726b17a5d8553af4746",
+      "name": {
+        "ar": "(سورالون هيدرا كريم جل ( ١٠٠ مل",
+        "en": "Soralone Hydra Cream Gel (100ml)"
+      },
+      "price": 275.0,
+      "reason": "new_discount",
+      "sale_price": 137.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 44295650,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/3c11bb51625ada7b04549b5bb8932e184903e1c131cf6726b17a5d8553af4746",
+      "name": {
+        "ar": "(سورالون هيدرا كريم جل ( ١٠٠ مل",
+        "en": "Soralone Hydra Cream Gel (100ml)"
+      },
+      "price": 275.0,
+      "sale_price": 137.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "46648877": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 46648877,
+      "image": "https://i.ibb.co/Ng9cLPLy/calcima-Plus-Final-1.png",
+      "name": {
+        "ar": "إنفينيتي كالسيما بلس لعلاج نقص فيتامين د والكالسيوم (30 قطعة شوكولاتة)",
+        "en": "Infinity Calcima Plus For Vitamin D & Calcium Deficiency (30 Chocolate Pcs)"
+      },
+      "price": 190.0,
+      "reason": "new_discount",
+      "sale_price": 95.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 46648877,
+      "image": "https://i.ibb.co/Ng9cLPLy/calcima-Plus-Final-1.png",
+      "name": {
+        "ar": "إنفينيتي كالسيما بلس لعلاج نقص فيتامين د والكالسيوم (30 قطعة شوكولاتة)",
+        "en": "Infinity Calcima Plus For Vitamin D & Calcium Deficiency (30 Chocolate Pcs)"
+      },
+      "price": 190.0,
+      "sale_price": 95.0,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "50902006": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 50902006,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/86c2ac2813b035771d48ebe848c6f55255bb1866ccf8f784585e28859500978e",
+      "name": {
+        "ar": "إنفينيتي بخاخ واقي الشمس الجاف كير بعامل حماية الشمس 50+",
+        "en": "Infinity Care Sunscreen Dry Spray SPF50+"
+      },
+      "price": 368.0,
+      "reason": "new_discount",
+      "sale_price": 184.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 50902006,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/86c2ac2813b035771d48ebe848c6f55255bb1866ccf8f784585e28859500978e",
+      "name": {
+        "ar": "إنفينيتي بخاخ واقي الشمس الجاف كير بعامل حماية الشمس 50+",
+        "en": "Infinity Care Sunscreen Dry Spray SPF50+"
+      },
+      "price": 368.0,
+      "sale_price": 184.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "51881740": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881740,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/46a78f25622030d3e2d8ec7717127727655006935a8b1e7204a0168aefd2eabf",
+      "name": {
+        "ar": "سورالون بخاخ سيكا (100 مل)",
+        "en": "Soralone Cica Spray (100ml)"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881740,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/46a78f25622030d3e2d8ec7717127727655006935a8b1e7204a0168aefd2eabf",
+      "name": {
+        "ar": "سورالون بخاخ سيكا (100 مل)",
+        "en": "Soralone Cica Spray (100ml)"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 3
+    },
+    "pending": false
+  },
+  "51881796": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881796,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6de0e7f3bcd3157483dc73fa08535ac8453c180b4fa7ceec388f8d1a9123c5fd",
+      "name": {
+        "ar": "فاكيشن غسول حليبي لإصلاح البشرة (200 مل)",
+        "en": "Vacation Aqua-Repair Milky Cleanser (200ml)"
+      },
+      "price": 295.0,
+      "reason": "new_discount",
+      "sale_price": 147.5,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881796,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/6de0e7f3bcd3157483dc73fa08535ac8453c180b4fa7ceec388f8d1a9123c5fd",
+      "name": {
+        "ar": "فاكيشن غسول حليبي لإصلاح البشرة (200 مل)",
+        "en": "Vacation Aqua-Repair Milky Cleanser (200ml)"
+      },
+      "price": 295.0,
+      "sale_price": 147.5,
+      "stock": 11
+    },
+    "pending": false
+  },
+  "51881797": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881797,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4889221df687abec768ace7d858a24a5aa63bfb3e43076d6ab4842eca9883094",
+      "name": {
+        "ar": "فاكيشن سيروم أرجيريلين 10% (30 مل)",
+        "en": "Vacation Argireline Serum 10% (30ml)"
+      },
+      "price": 550.0,
+      "reason": "new_discount",
+      "sale_price": 275.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881797,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/4889221df687abec768ace7d858a24a5aa63bfb3e43076d6ab4842eca9883094",
+      "name": {
+        "ar": "فاكيشن سيروم أرجيريلين 10% (30 مل)",
+        "en": "Vacation Argireline Serum 10% (30ml)"
+      },
+      "price": 550.0,
+      "sale_price": 275.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "51881798": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 51881798,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7c84bd1ef31a58515b53bebc386454bc3f6f8e7226370f992c4f028eaa731607",
+      "name": {
+        "ar": "فاكيشن سيروم الكافيين 5% (30 مل)",
+        "en": "Vacation Caffeine Serum 5% (30ml)"
+      },
+      "price": 475.0,
+      "reason": "new_discount",
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 51881798,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/7c84bd1ef31a58515b53bebc386454bc3f6f8e7226370f992c4f028eaa731607",
+      "name": {
+        "ar": "فاكيشن سيروم الكافيين 5% (30 مل)",
+        "en": "Vacation Caffeine Serum 5% (30ml)"
+      },
+      "price": 475.0,
+      "sale_price": 237.5,
+      "stock": 2
+    },
+    "pending": false
+  },
   "52555728": {
     "notified": {
       "discount_percent": 60.0,
@@ -136,6 +1064,34 @@
       "price": 383.0,
       "sale_price": 153.2,
       "stock": 1
+    },
+    "pending": false
+  },
+  "57050907": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 57050907,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b8a0ab8680b8c6cea8b18460286b3bbfd818b73c92bf6a845ce6ae0fac61f4a9",
+      "name": {
+        "ar": "فاكيشن تونر سيبيو-كونترول للبشرة (200 مل)",
+        "en": "Vacation Sebio Control Skin Essence Toner (200ml)"
+      },
+      "price": 340.0,
+      "reason": "new_discount",
+      "sale_price": 170.0,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 57050907,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/b8a0ab8680b8c6cea8b18460286b3bbfd818b73c92bf6a845ce6ae0fac61f4a9",
+      "name": {
+        "ar": "فاكيشن تونر سيبيو-كونترول للبشرة (200 مل)",
+        "en": "Vacation Sebio Control Skin Essence Toner (200ml)"
+      },
+      "price": 340.0,
+      "sale_price": 170.0,
+      "stock": 3
     },
     "pending": false
   },
@@ -195,6 +1151,146 @@
     },
     "pending": false
   },
+  "60980870": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980870,
+      "image": "https://i.ibb.co/BH9LcWcn/Lip-balm-dragon-fruit.png",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بالفراولة حماية 30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Strawberry SPF 30 (15g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980870,
+      "image": "https://i.ibb.co/BH9LcWcn/Lip-balm-dragon-fruit.png",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بالفراولة حماية 30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Strawberry SPF 30 (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 11
+    },
+    "pending": false
+  },
+  "60980872": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980872,
+      "image": "https://i.ibb.co/G40RDK8S/Lip-balm-coco.jpg",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم دراجون فروت حماية 30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Dragon Fruit SPF 30 (15g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980872,
+      "image": "https://i.ibb.co/G40RDK8S/Lip-balm-coco.jpg",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم دراجون فروت حماية 30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Dragon Fruit SPF 30 (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 11
+    },
+    "pending": false
+  },
+  "60980874": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980874,
+      "image": "https://i.ibb.co/G40RDK8S/Lip-balm-coco.jpg",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بالعسل وزبدة الكاكاو حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Honey & Cocoa Butter SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980874,
+      "image": "https://i.ibb.co/G40RDK8S/Lip-balm-coco.jpg",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بالعسل وزبدة الكاكاو حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Honey & Cocoa Butter SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "60980875": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980875,
+      "image": "https://i.ibb.co/mCTDnXgP/Lip-balm-pina-colada.jpg",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بينا كولادا حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Pina Colada SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "reason": "new_discount",
+      "sale_price": 90.0,
+      "stock": 11
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980875,
+      "image": "https://i.ibb.co/mCTDnXgP/Lip-balm-pina-colada.jpg",
+      "name": {
+        "ar": "فاكاشن أكوا ريبير ليب بالم بينا كولادا حماية +30 (15 جرام)",
+        "en": "Vacation Aqua Repair Lip Balm Pina Colada SPF 30+ (15g)"
+      },
+      "price": 180.0,
+      "sale_price": 90.0,
+      "stock": 11
+    },
+    "pending": false
+  },
+  "60980877": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 60980877,
+      "image": "https://i.ibb.co/fdTsSqTP/Untitled-design-18.png",
+      "name": {
+        "ar": "فاكاشن جلايكوليك أسيد سيروم +NAD (30 مل)",
+        "en": "Vacation Glycolic Acid Serum NAD+ (30ml)"
+      },
+      "price": 375.0,
+      "reason": "new_discount",
+      "sale_price": 187.5,
+      "stock": 3
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 60980877,
+      "image": "https://i.ibb.co/fdTsSqTP/Untitled-design-18.png",
+      "name": {
+        "ar": "فاكاشن جلايكوليك أسيد سيروم +NAD (30 مل)",
+        "en": "Vacation Glycolic Acid Serum NAD+ (30ml)"
+      },
+      "price": 375.0,
+      "sale_price": 187.5,
+      "stock": 3
+    },
+    "pending": false
+  },
   "6201984": {
     "notified": {
       "discount_percent": 50.0,
@@ -236,6 +1332,90 @@
       "price": 299.0,
       "sale_price": 149.5,
       "stock": 0
+    },
+    "pending": false
+  },
+  "64566317": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 64566317,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/970d8365ac34316e96bab1829a022f1e7c6815c8df44496e8a27e99b885c908b",
+      "name": {
+        "ar": "كابيكسي بخاخ سيروم مضاد للقشرة (120 مل)",
+        "en": "Capixy Anti-Dandruff Serum Spray (120ml)"
+      },
+      "price": 375.0,
+      "reason": "new_discount",
+      "sale_price": 187.5,
+      "stock": 4
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 64566317,
+      "image": "https://cdn.breadfast.com/wp-content/uploads/970d8365ac34316e96bab1829a022f1e7c6815c8df44496e8a27e99b885c908b",
+      "name": {
+        "ar": "كابيكسي بخاخ سيروم مضاد للقشرة (120 مل)",
+        "en": "Capixy Anti-Dandruff Serum Spray (120ml)"
+      },
+      "price": 375.0,
+      "sale_price": 187.5,
+      "stock": 4
+    },
+    "pending": false
+  },
+  "65670995": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 65670995,
+      "image": "https://i.ibb.co/p6cpTT8P/Advanced-cond.png",
+      "name": {
+        "ar": "كابيكسي بلسم أدفانس ريبير (250 مل)",
+        "en": "Capixy Advance Repair Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 65670995,
+      "image": "https://i.ibb.co/p6cpTT8P/Advanced-cond.png",
+      "name": {
+        "ar": "كابيكسي بلسم أدفانس ريبير (250 مل)",
+        "en": "Capixy Advance Repair Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 2
+    },
+    "pending": false
+  },
+  "65670999": {
+    "notified": {
+      "discount_percent": 50.0,
+      "id": 65670999,
+      "image": "https://i.ibb.co/DgK9JgrW/Anti-dandruff-hair-cond.png",
+      "name": {
+        "ar": "كابيكسي بلسم مضاد للقشرة (250 مل)",
+        "en": "Capixy Anti-Dandruff Hair Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "reason": "new_discount",
+      "sale_price": 175.0,
+      "stock": 1
+    },
+    "observed": {
+      "discount_percent": 50.0,
+      "id": 65670999,
+      "image": "https://i.ibb.co/DgK9JgrW/Anti-dandruff-hair-cond.png",
+      "name": {
+        "ar": "كابيكسي بلسم مضاد للقشرة (250 مل)",
+        "en": "Capixy Anti-Dandruff Hair Conditioner (250ml)"
+      },
+      "price": 350.0,
+      "sale_price": 175.0,
+      "stock": 1
     },
     "pending": false
   }
